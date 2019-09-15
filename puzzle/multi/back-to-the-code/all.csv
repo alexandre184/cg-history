@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4566|time=2019-09-14T00:30:14
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4566|time=2019-09-15T00:30:14
 0,46.95,C,,1484525,1433161,Mingu,KR,27653324382564,
 0,45.48,C++,,455215,494104,Recar,GB,4953953776940,
 0,45.1,Java,,357838,629202,Larry,FR,2473893146751,
@@ -620,6 +620,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,32.49,Python3,,357776,940262,f,FR,,
 0,32.49,C++,,346732,1060942,raphaelss,BR,,
 0,32.48,Java,,347996,230015,Kolo9,US,92531443665208,
+0,32.46,Perl,,491913,1411423,Wyllyam,FR,11464394269084,
 0,32.46,Python,,357568,406152,TiarinBlate,US,,
 0,32.45,Python,,508951,831681,Brindesable,IT,13626847411486,
 0,32.45,C#,,353693,863425,Antlershy,DE,1823584330201,
@@ -629,11 +630,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,32.41,C++,,348172,826372,skyyker,RE,54542165670172,
 0,32.41,Python,,368735,704737,Azelo,FR,,
 0,32.4,C++,,340843,751369,tibithegreat,RO,54024865783541,
-0,32.39,Perl,,491913,1411423,Wyllyam,FR,11464394269084,
 0,32.38,C++,,354407,153661,Lionel,FR,7253112116408,
 0,32.37,Python3,,365559,973948,Amnesix,FR,2053378634664,
 0,32.37,C++,,341257,890575,Mr.Raoul,FR,,
-0,32.36,C++,,357850,544969,Nabilion,EG,,
 0,32.36,C,,353410,890295,Krayz,FR,30547100253851,
 0,32.34,C++,,357298,968305,Mickael.a,FR,,
 0,32.33,C++,,351968,1078563,MiniMe,FR,,
@@ -641,6 +640,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,32.32,Python3,,342430,604196,sunny0,IN,2258860047679,
 0,32.31,Java,,485036,1427078,ToshiTuringMachine,NL,4895133817813,
 0,32.3,Ruby,,350653,373704,LumpyMango,FR,4364045852492,
+0,32.3,C++,,357850,544969,Nabilion,EG,,
 0,32.3,Java,,369757,1229321,yasht,JP,,
 0,32.3,PHP,,352430,900460,Payalord,US,1826463707214,
 0,32.3,C++,,350476,877003,PauloCezar,BR,2195942630025,

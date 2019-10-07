@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4570|time=2019-10-06T00:30:30
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4570|time=2019-10-07T00:30:12
 0,46.95,C,,1484525,1433161,Mingu,KR,27653324382564,
 0,45.48,C++,,455215,494104,Recar,GB,4953953776940,
 0,45.1,Java,,357838,629202,Larry,FR,2473893146751,
@@ -112,7 +112,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,38.65,C,,356569,806823,Zer0,RO,1811060895440,
 0,38.62,C++,,429260,1354295,V3T3RAN-GAM3R,,,
 0,38.61,C++,,1574293,1857772,darkange69,FR,12244411619280,
-0,38.61,OCaml,,2414321,2489026,MPSI-LIV_TO,FR,55594484981229,
+0,38.61,OCaml,,2414321,2489026,N7_TO,FR,55594484981229,
 0,38.6,Java,,411514,840697,st00p1d,SK,2233351090420,
 0,38.58,C++,,1754493,2114863,QWERTy,RU,13881182782356,
 0,38.56,OCaml,,2356200,2639926,PROF-LIV,FR,28512627154203,
@@ -129,7 +129,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,38.36,Python3,,350148,610994,Stan...,FR,1778430645286,
 0,38.36,C++,,2425495,2242201,Maryan,UA,33999460575859,
 0,38.33,OCaml,,1917411,2662838,bowser,FR,19221753283057,
-0,38.21,C#,,413588,1368852,RayHidayat,NZ,9226359886456,
+0,38.21,C#,,413588,1368852,raysplaceinspace,NZ,9226359886456,
 0,38.2,Java,,352597,848394,schwarzahl,JP,2189519712898,
 0,38.14,Python3,,357655,920987,redna70,DE,,
 0,38.02,OCaml,,353465,984109,LeCaRiBoU,FR,,
@@ -733,7 +733,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,31.18,C#,,791752,1555765,DewJunkie,US,8729317793732,
 0,31.18,C,,355307,1040245,Matze,DE,2113243279897,
 0,31.18,Python,,347486,270926,NigelSheldon,FR,,
-0,31.17,Python3,,350097,319332,bjacob,,,
+0,31.17,Python3,,350097,319332,,,,
 0,31.16,C++,,1622962,292846,Ninja,KR,9225887154755,
 0,31.16,F#,,374894,1239787,Name,US,9908265081489,
 0,31.14,C++,,354060,1068749,MarcioReis,BR,2251024812898,

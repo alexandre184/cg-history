@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1417|time=2019-10-06T01:17:55
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1418|time=2019-10-07T00:30:24
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -76,6 +76,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Python3,1567946818000,1884432,Zhormos,FR,83723708684540,
 100,161,Python3,1567946818000,1207632,[uppi]uppi,RU,3090376418072,
 100,161,Python3,1567946818000,1093968,milosMATRIXrepic,RS,78180568348596,
+100,161,Python3,1570408224000,1535449,Kisioj,PL,5855157999885,
 100,162,Python3,1567946818000,1708981,Melir,FR,,
 100,162,Python3,1567946818000,2163375,Yomgui,CA,,
 100,162,Python3,1567946818000,1518983,bertm,NL,7625279377731,
@@ -106,7 +107,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,167,Python3,1567946818000,1701561,sskw,PL,,
 100,168,Python3,1567946818000,2158904,ChouBaGuai,CN,,
 100,168,Python3,1567946818000,1178276,Jerome_95,FR,19999067509724,
-100,168,Python3,1567946818000,1535449,Kisioj,PL,5855157999885,
 100,168,Python3,1567946818000,1186317,Twit,FR,,
 100,168,Python3,1567946818000,1833680,jeanpaul,FR,10877987072863,
 100,168,Python3,1567946818000,225875,leff,US,46674243497438,
@@ -798,6 +798,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,309,Python3,1567946818000,1541252,antaland,HU,,
 100,309,Python3,1567946818000,1581483,dragonblade,NL,6723321463553,
 100,309,Python3,1567946818000,1028977,h4stoor,,,
+100,309,Python3,1570408224000,3475788,Chandler_Bing,IN,86539828296858,
 100,310,Python3,1567946818000,2339129,ChristianSloper,NO,15811372447608,
 100,310,Python3,1567946818000,944372,Mulugruntz,BE,2019121442124,
 100,310,Python3,1567946818000,279691,hearteater,BR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,379,Python3,1567946818000,3317583,Mjo,FR,,
 100,380,Python3,1567946818000,1264612,Liikt,DE,3459461742142,
 100,380,Python3,1567946818000,1036130,chrisgward,AU,2325701571967,
-100,381,Python3,1567946818000,831171,Recoding,FR,2203947183303,

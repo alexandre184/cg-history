@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2325|time=2019-10-14T00:30:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2325|time=2019-10-15T00:30:08
 5,28.66,C++,,1659835,1407621,Taohbi,FR,21763386165958,
 5,28.44,ObjectiveC,,1732181,886483,R4N4R4M4,FR,7943435133357,
 5,27.34,C++,,694780,1327028,FredericBautista,FR,9974192266436,
@@ -43,7 +43,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,22.05,C++,,2456003,928567,Konstanta,LT,40817500234931,
 5,22.01,Python3,,614815,1437820,Deadbool,FR,6640902453847,
 5,21.91,Java,,614818,1450989,CowZow,US,4971758317968,
-5,21.42,C++,,614808,1034635,[1A_design]SlyB,SE,2110171576995,
+5,21.42,C++,,614808,1034635,SlyB,SE,2110171576995,
 5,21.31,C++,,2503309,2906497,daaskare,FR,22173137881499,
 5,21.27,Python3,,2142860,3012971,[HUASUM]Shegux,FR,,
 5,21.14,Python3,,614809,1258533,MathJason,US,11184592715091,
@@ -132,7 +132,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,24.04,Python3,,604778,1378399,DN38416,CA,4640326239925,
 4,23.69,C++,,604841,638784,Yqnn,FR,2711674975713,
 4,23.6,Javascript,,754123,1390607,GoperJohn,UA,67601821029462,
-4,23.46,Java,,2504549,1715811,yT,CH,50610109396057,
+4,23.46,Java,,2504549,1715811,PositiveQuark,CH,50610109396057,
 4,23.42,Java,,614549,1173502,wolfpack,IN,4690483878618,
 4,23.35,Go,,604796,572695,ewgraf,,,
 4,23.25,Javascript,,1187010,327986,Koutaku,FR,,
@@ -268,7 +268,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,19.16,Javascript,,612714,1180953,Dammmien,FR,69413085141595,
 4,19.15,Java,,604845,835471,Tqup3,FR,4987955041221,
 4,19.15,Python3,,610057,1164798,ndriscoll,US,4828266338970,
-4,19.14,C++,,2359856,1335230,[1A_design]jft63,FR,24907820247515,
+4,19.14,C++,,2359856,1335230,jft63,FR,24907820247515,
 4,19.13,Python,,809691,1634607,Taraxicum,US,7506783108472,
 4,19.13,C++,,604922,364118,MajdMG,CZ,4874346588112,
 4,19.13,Javascript,,655935,1087021,Gluck,FR,5866836937567,

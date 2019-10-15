@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=227|time=2019-10-14T00:30:10
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=227|time=2019-10-15T00:30:09
 4,48.2,Java,,2423099,1194069,Redstrike,DE,57293561455683,
 4,42.93,C++,,2322969,1489865,EricSMSO,FR,10005277870281,
 4,41.85,C++,,2421382,820000,ValGrowth,JP,95440985747208,
@@ -36,7 +36,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,24.94,C#,,2304861,2069141,tomeko,PL,13370027887052,
 4,24.61,Java,,2319443,1344487,UnnamedCodinGamer,CH,106180221086495,
 4,24.29,Python3,,2309541,1713174,BigUP,FR,9962854189979,
-4,23.91,C++,,2264074,3217628,struct,,,
+4,23.91,C++,,2264074,3217628,,,,
 4,23.75,C++,,2286220,888898,helgui,RU,22560718540069,
 4,23.52,Python3,,2263671,2416641,Zenoscave,US,16732569385856,
 4,23.3,Java,,2307310,2043908,AntiSquid,,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=919|time=2019-10-14T00:30:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=919|time=2019-10-15T00:30:28
 100,172,Java,1567946820000,154372,Plopx,FR,7959085736890,
 100,173,Java,1567946820000,336377,n_r,FR,,
 100,177,Java,1567946820000,574371,Dillysfriend,US,1890070725954,
@@ -161,8 +161,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,451,Java,1567946820000,1969969,Orleger,DE,24283024184793,
 100,452,Java,1567946820000,408044,AlexZam,RU,,
 100,452,Java,1567946820000,1048140,Tsuhre,US,2134862121115,
-100,452,Java,1567946820000,937221,[1A_design]vrampal,FR,13579018698424,
 100,452,Java,1567946820000,1269827,bcourtine,FR,44303221848398,
+100,452,Java,1567946820000,937221,vrampal,FR,13579018698424,
 100,453,Java,1567946820000,1076872,Background,FR,13580626176001,
 100,453,Java,1567946820000,1183122,ath,DK,,
 100,454,Java,1567946820000,890123,Nasire,FR,,
@@ -538,7 +538,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1068,Java,1567946820000,1206363,DimitarMinchev,BG,3149810003981,
 100,1074,Java,1567946820000,1211073,thialfi,GB,,
 100,1082,Java,1567946820000,1639997,Randalf98,CH,,
-100,1095,Java,1567946820000,1335230,[1A_design]jft63,FR,24907820247515,
+100,1095,Java,1567946820000,1335230,jft63,FR,24907820247515,
 100,1103,Java,1567946820000,1354151,Vencetrus,ES,,
 100,1120,Java,1567946820000,1071447,Aegis,FR,,
 100,1121,Java,1567946820000,901875,,,,
@@ -908,6 +908,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,3299,Java,1567946820000,3308481,Bruno_Gabriel,BR,26881400988715,
 100,3299,Java,1567946820000,2130169,CyberLemonade,IN,57032502077757,
 100,3299,Java,1567946820000,3133333,keithredden,US,,
+100,3299,Java,1571099428000,3527477,kgalabe,ZA,,
 100,3300,Java,1567946820000,3135846,Carson.A,US,24731620778297,
 100,3307,Java,1567946820000,867800,,,,
 100,3312,Java,1567946820000,3176953,BoostRyan,AU,25252695343483,
@@ -917,4 +918,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,3396,Java,1567946820000,741386,avedei,RO,,
 100,3426,Java,1567946820000,247143,Mocker,UA,,
 100,3427,Java,1567946820000,1710047,Siyeon,FR,,
-100,3430,Java,1567946820000,1037197,EyeOfTheBeholder,US,2099730579845,

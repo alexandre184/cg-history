@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=357|time=2019-10-15T00:30:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=359|time=2019-10-17T00:59:42
 100,43,Perl,1567946823000,154372,Plopx,FR,7959085736890,
 100,48,Perl,1567946823000,1193408,DoubleZeroSteph,FR,3015400557516,
 100,51,Perl,1567946823000,705188,Olivier,FR,,
@@ -37,6 +37,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Perl,1567946823000,1155581,jdyerjdyer,US,4908075206531,
 100,64,Perl,1567946823000,431723,sfod,RU,,
 100,64,Perl,1567946823000,1870937,westicles,,,
+100,64,Perl,1571273982000,1077559,PhOeNyX,FR,2248934338554,
+100,64,Perl,1571273982000,154806,piw4i,FR,1956863959967,
 100,65,Perl,1567946823000,1086302,MaxKa,RU,,
 100,65,Perl,1567946823000,973040,papyjo,FR,15696776172839,
 100,66,Perl,1567946823000,861191,,,,
@@ -97,6 +99,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,86,Perl,1567946823000,155008,Majavar,FR,12183872595206,
 100,86,Perl,1567946823000,629655,Wolden-Dans,FR,3653109390599,
 100,86,Perl,1567946823000,1069640,etto,,,
+100,86,Perl,1571273982000,953094,Witman,PL,1798239809031,
 100,87,Perl,1567946823000,1991984,MicheL,FR,18593518277662,
 100,88,Perl,1567946823000,931812,AlekseyDurachenko,RU,,
 100,88,Perl,1567946823000,927873,Charlot67,FR,,
@@ -174,7 +177,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Perl,1567946823000,482543,seshoumara,DE,2706057761436,
 100,127,Perl,1567946823000,2559690,code_poet,CO,29889305122339,
 100,127,Perl,1567946823000,1386456,wvsever,BE,4482263162511,
-100,129,Perl,1567946823000,953094,Witman,PL,1798239809031,
 100,129,Perl,1567946823000,938149,dalai,CA,9435223508987,
 100,130,Perl,1567946823000,572993,silentZaika,UA,8775599310618,
 100,130,Perl,1567946823000,1484839,sparky,GB,41934483411733,

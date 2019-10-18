@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=389|time=2019-10-17T00:59:55
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=390|time=2019-10-18T00:59:14
 100,86,Python3,1570408248000,1525831,ntsd,TH,86763903852312,
 100,92,Python3,1567946837000,2288263,dbdr,UA,43448306132121,
 100,95,Python3,1567946837000,1654818,tarapitha,EE,79401682508715,
@@ -84,6 +84,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,Python3,1570408248000,1842440,07734willy,US,10984521090532,
 100,128,Python3,1567946837000,3018110,MechLizard,US,39968464527481,
 100,128,Python3,1567946837000,351062,Neumann,FR,17173563008577,
+100,128,Python3,1571360354000,224676,Jin66,FR,10914664960606,
 100,129,Python3,1567946837000,2638940,Pergunta2,PT,25943128463369,
 100,129,Python3,1567946837000,3393198,Turpa,RU,30488682090804,
 100,129,Python3,1567946837000,1496550,fmatray,FR,5571620428196,
@@ -101,7 +102,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,134,Python3,1567946837000,3410351,Deltaspace,RU,31254101171655,
 100,134,Python3,1567946837000,481988,DevKirill,RU,26384102822076,
 100,134,Python3,1567946837000,2328351,DominicCrutchley,GB,,
-100,134,Python3,1571273995000,224676,Jin66,FR,10914664960606,
 100,135,Python3,1567946837000,992329,BeeGee,NL,5817423526804,
 100,136,Python3,1567946837000,2405694,JeanVonVarr,FR,,
 100,136,Python3,1567946837000,1803865,olinox14,FR,10567248069605,
@@ -381,6 +381,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,851,Python3,1567946837000,1430796,_PereKastor_,FR,,
 100,879,Python3,1567946837000,2792232,Monoterpene,GB,21086924772194,
 100,997,Python3,1567946837000,2493079,Xera4iu,FR,,
+100,1032,Python3,1571360354000,3425129,benjvids,MX,,
 100,1153,Python3,1567946837000,3352900,FernandoBello,,,
 100,1168,Python3,1567946837000,3405832,terrible,FR,,
 100,1222,Python3,1567946837000,3470899,Kostolomac,CH,33649389746191,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=19155|time=2019-10-20T01:06:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18460|time=2019-10-21T01:10:03
 100,43,Perl,1567946823000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,1654818,tarapitha,EE,79401682508715,
@@ -212,6 +212,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,67,Python3,1567946825000,1301137,lewisbm,FR,3567282671633,
 100,67,Ruby,1567946826000,1143726,,,,
 100,67,C,1567946827000,199767,sam,FR,,
+100,67,TypeScript,1571620207000,1483723,d-s-x,RU,4980051025170,
 100,68,Bash,1567946822000,999637,dinobogan,FR,61192341763607,
 100,68,PHP,1567946822000,154984,_Royale,FR,17869369984436,
 100,68,Perl,1567946823000,1277327,Asher,IL,4012484871915,
@@ -374,7 +375,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,74,Javascript,1567946825000,154858,PoF,FR,1814642965435,
 100,74,Javascript,1567946825000,2970388,TheSerpe,FR,25779353244048,
 100,74,Javascript,1567946825000,1372843,djjeck,US,5407978094654,
-100,74,Javascript,1567946825000,153641,op,RE,20008696909703,
+100,74,Javascript,1567946825000,153641,op974,RE,20008696909703,
 100,74,Python3,1567946825000,1114496,BlasphemousCrossbreed,UA,2486265138222,
 100,74,Python3,1567946825000,1826849,Geplik,GB,10949241986937,
 100,74,Python3,1567946825000,2769889,R0bk,AU,,
@@ -486,6 +487,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,77,C,1567946827000,952670,baudo,FR,,
 100,77,C,1567946827000,199747,zerkman,FR,2088066604029,
 100,77,Javascript,1569803431000,1677918,CA,FR,8341569165435,
+100,77,Python3,1571620208000,3315399,apilegaard,DK,,
 100,78,Bash,1567946822000,162669,Gangrene,FR,1728092637133,
 100,78,Bash,1567946822000,1333871,ayarunas,US,,
 100,78,Perl,1567946823000,1388664,KarolNowacki,GB,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,87,Python3,1567946825000,889741,artifactz,DE,13052721216741,
 100,87,Python3,1567946825000,1502908,selujum,FR,,
 100,87,Python3,1567946825000,867995,sethorizer,DE,12304128378208,
-100,87,Groovy,1567946826000,934115,Genu,FR,1748634529242,
-100,87,Ruby,1567946826000,1032037,,RU,,

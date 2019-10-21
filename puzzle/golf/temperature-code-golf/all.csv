@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10480|time=2019-10-20T01:06:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9593|time=2019-10-21T01:10:14
 100,26,Perl,1567946831000,154372,Plopx,FR,7959085736890,
 100,26,Perl,1567946831000,154984,_Royale,FR,17869369984436,
 100,26,Perl,1567946831000,334009,abouvier,FR,4681436111242,
@@ -696,6 +696,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Ruby,1567946833000,1411735,lordaniel,CO,21095312804350,
 100,60,Ruby,1567946833000,1188192,mandrak3,DE,2953906491344,
 100,60,Javascript,1568521208000,1923902,gkalpak,GR,33993501409918,
+100,60,Javascript,1571620210000,1566335,BeardedWhale,SE,36571449875674,
 100,61,Javascript,1567946828000,1906719,ArpadDravecz,HU,11710900308045,
 100,61,Javascript,1567946828000,155887,BanBan,FR,8230051407070,
 100,61,Javascript,1567946828000,482445,BogdanSavchenko,UA,9319024256259,
@@ -875,8 +876,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,C++,1568423181000,2288263,dbdr,UA,43448306132121,
 100,63,Javascript,1569025944000,1060181,Dabou,FR,3798025078627,
 100,63,Javascript,1570235460000,3497440,Zwei,US,73658245202468,
-100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,861191,,,,
+100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,2067176,0bug,FR,13297732398460,
 100,64,Javascript,1567946828000,2641149,3nvy_,GB,19075638303175,
 100,64,Javascript,1567946828000,1115198,Alextopher,US,10724493182879,
@@ -987,6 +988,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Ruby,1567946833000,675132,salda004,US,,
 100,65,Ruby,1567946833000,1490676,w0st,PL,7618953617399,
 100,65,Javascript,1571533603000,3444208,Anatoli,DE,32592586143834,
+100,65,Javascript,1571620210000,2976964,BenjaminUrquhart,US,26083283518959,
 100,66,Javascript,1567946828000,1695697,,,,
 100,66,Javascript,1567946828000,735910,Agade,CH,1997542876524,
 100,66,Javascript,1567946828000,1193408,DoubleZeroSteph,FR,3015400557516,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,66,Javascript,1567946828000,937362,josh_,FR,1755973612089,
 100,66,Javascript,1567946828000,1212198,kernel78,IT,3343880905136,
 100,66,Javascript,1567946828000,1596086,vk2,RU,6723082780652,
-100,66,Javascript,1567946828000,2096064,xiao.sha,CN,13778309629915,
-100,66,Bash,1567946829000,1546047,,,,

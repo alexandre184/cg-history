@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2286|time=2019-10-27T00:30:06
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2286|time=2019-10-28T00:30:04
 5,31.71,C++,,2102329,1327028,FredericBautista,FR,9974192266436,
 5,30.58,Go,,511966,1413236,Medici,CN,4357806712110,
 5,30.29,C++,,2061718,1500515,eulerscheZahl,DE,43135502422075,
@@ -789,7 +789,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.25,Python3,,551811,1481265,erdnaxe42,,,
 1,23.24,Rust,,629719,1379639,Bluesk13s,NO,,
 1,23.23,C#,,562536,1472964,fnudd,SE,,
-1,23.23,Javascript,,487289,1409204,Ricco7La,BE,4336117454857,
 1,23.23,C,,2454349,1397268,RTLB,FR,,
 1,23.23,Python3,,593115,1195394,Larnak,US,47238684938933,
 1,23.23,Python3,,482080,855824,VoxMortem,FR,5525991865489,
@@ -833,6 +832,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.06,C++,,906113,754792,Ramdeath,LT,13430148307311,
 1,23.06,C#,,2318409,1509251,OmikoGaming,DE,,
 1,23.05,C,,570996,1405775,Yiminjune,KR,,
+1,23.05,Javascript,,487289,1409204,Ricco7La,BE,4336117454857,
 1,23.04,Javascript,,501141,1393911,neal_s,US,13162519781744,
 1,23.03,Javascript,,507333,1472464,und3fined,PL,,
 1,23.03,C++,,1848811,1442814,RedXam,FR,19548250120571,
@@ -960,7 +960,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.65,C++,,499132,1154159,MaximePm,FR,3033756806154,
 1,22.65,C++,,603380,1501413,Aergon,FR,5283094641951,
 1,22.65,C++,,760825,1656386,miszczu,PL,,
-1,22.65,Javascript,,668846,1175533,Hari87,US,5627999683783,
 1,22.65,Javascript,,495925,1445241,Trial-by-fire,NO,4930051519376,
 1,22.65,C#,,482332,1331444,leglore,RU,3740167085022,
 1,22.65,C#,,512253,1472234,Filip.Lada,PL,,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.59,C++,,500367,733395,marinaoctober,RU,7706314662940,
 1,22.59,Lua,,483962,1427326,FrozenFlaming,US,,
 1,22.59,Javascript,,493272,509617,yamahamm,LT,4014750588281,
+1,22.59,Java,,736974,1324097,niak75,FR,,

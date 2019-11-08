@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=995|time=2019-11-07T00:30:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3145|time=2019-11-08T00:45:29
 100,56,Javascript,1567946825000,2449749,H.,ES,16987075738587,
 100,56,Javascript,1567946825000,1483723,d-s-x,RU,4980051025170,
 100,58,Javascript,1567946825000,599674,NinetyOne,US,1890119238339,
@@ -569,9 +569,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1567946825000,953935,sauerman,DE,,
 100,108,Javascript,1567946825000,1316751,volodimir,UA,,
 100,108,Javascript,1568161834000,2662861,GwenaelK,FR,24501576282344,
+100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,1289001,,,,
 100,109,Javascript,1567946825000,1054451,,,,
-100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -985,6 +985,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,Javascript,1567946825000,1016398,Jar,PT,,
 100,129,Javascript,1567946825000,996611,Markus,DE,,
 100,129,Javascript,1567946825000,1435608,Onys,FR,4455603205385,
+100,129,Javascript,1567946825000,839791,Player,BY,,
 100,129,Javascript,1567946825000,1256917,Qbe_Root,FR,15037143433536,
 100,129,Javascript,1567946825000,1343111,Thal,FR,4602256436099,
 100,129,Javascript,1567946825000,1426271,Vallor,FR,4404508609383,
@@ -994,3 +995,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,Javascript,1567946825000,465363,inTim,RU,15218854871426,
 100,129,Javascript,1567946825000,2959320,mbbentley,US,22834509284737,
 100,129,Javascript,1567946825000,1228394,zator,HU,58101465319358,
+100,129,Javascript,1568890131000,3430435,DocteurWong,FR,34776645119766,
+100,129,Javascript,1570149652000,3509366,YAGO,ES,34931929165658,
+100,130,Javascript,1567946825000,473915,Alkor,UA,50903049651153,
+100,130,Javascript,1567946825000,878318,Eizch,CA,,

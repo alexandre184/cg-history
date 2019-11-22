@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6982|time=2019-11-21T00:30:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6452|time=2019-11-22T00:38:55
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,59,C,1567946816000,2288263,dbdr,UA,43448306132121,
 100,59,Bash,1567946818000,2288263,dbdr,UA,43448306132121,
@@ -647,7 +647,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Javascript,1567946817000,2323725,GMartigny,FR,24456305576601,
 100,158,Javascript,1567946817000,409221,JohnGresham,FR,1806212906373,
 100,158,Javascript,1567946817000,937214,KissCool,FR,4941900968557,
-100,158,Javascript,1567946817000,1540478,Tobou,PT,61418101984360,
+100,158,Javascript,1567946817000,1540478,struct,PT,61418101984360,
 100,158,OCaml,1567946818000,925695,Boulet,FR,29121141951376,
 100,158,Perl,1567946818000,1193408,DoubleZeroSteph,FR,3015400557516,
 100,158,Python3,1567946818000,1327273,softice,RU,7675955145947,
@@ -869,6 +869,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,173,Java,1567946820000,336377,n_r,FR,,
 100,173,Ruby,1567946820000,935802,Jerhyn,FR,109463964266798,
 100,173,Rust,1567946820000,709490,Sinlepuissant,FR,2102604527472,
+100,173,Javascript,1574383129000,1981179,4ndr3s,ES,12476591605432,
 100,174,C,1567946816000,1019233,imightbewrong,SE,,
 100,174,F#,1567946816000,553938,MagAlex,RU,3292063463360,
 100,174,Pascal,1567946816000,371603,martin,CA,1761380964089,
@@ -982,7 +983,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,180,C,1567946816000,1613345,Unelec,ES,,
 100,180,C,1567946816000,884874,Zauberer,JP,,
 100,180,Javascript,1567946817000,1070463,,LB,,
-100,180,Javascript,1567946817000,1981179,4ndr3s,ES,12476591605432,
 100,180,Javascript,1567946817000,1416686,Avatar256,CY,9078440854926,
 100,180,Javascript,1567946817000,1185580,Lauz,FR,,
 100,180,Javascript,1567946817000,1357612,Maisnborg,DE,,

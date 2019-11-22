@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=254|time=2019-11-21T00:30:13
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=254|time=2019-11-22T00:38:37
 1,37.28,C++,,2264157,832306,pb4,FR,10135289026547,
 1,37.26,C++,,2248525,1400179,reCurse,CA,58850847098890,
 1,37.03,C++,,2273347,1169499,naab,FR,21217854473439,
@@ -56,7 +56,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,28.81,Go,,2249345,2007852,Zorg1,FR,16542412157988,
 1,28.79,Kotlin,,2255009,1530429,Michiel,NL,7014012141515,
 1,28.78,C++,,2311267,1288527,Snef,FR,20716524973752,
-1,28.71,C++,,2248504,1540478,Tobou,PT,61418101984360,
+1,28.71,C++,,2248504,1540478,struct,PT,61418101984360,
 1,28.66,C++,,2475387,3432180,TestFon,BY,,
 1,28.64,C++,,2469937,3447092,iStealFox,TW,48669306805315,
 1,28.32,Java,,2433420,3101644,Tocus,DE,39056126752805,
@@ -228,7 +228,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,2.81,C++,,2316671,3291799,SamuelAllanssonLindberg,FO,,
 0,2.8,Python3,,2345588,2241559,eskeln,UA,16149555164631,
 0,2.79,Python3,,2250490,155929,[CG]jupoulton,GB,9399538004630,
-0,2.76,Java,,2250888,2626948,eulerTestaccount2,,,
+0,2.76,Java,,2250888,2626948,operationStilgartLegend,,,
 0,2.75,Kotlin,,2453871,3159942,Sandy322,KE,,
 0,2.72,Python3,,2249315,1206537,MadKnight,RU,29443769474274,
 0,2.71,Python3,,2464012,2727295,BuTAMuN,RU,,

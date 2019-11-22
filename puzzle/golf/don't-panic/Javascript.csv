@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=958|time=2019-11-21T00:30:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=955|time=2019-11-22T00:38:49
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -217,7 +217,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Javascript,1567946817000,2323725,GMartigny,FR,24456305576601,
 100,158,Javascript,1567946817000,409221,JohnGresham,FR,1806212906373,
 100,158,Javascript,1567946817000,937214,KissCool,FR,4941900968557,
-100,158,Javascript,1567946817000,1540478,Tobou,PT,61418101984360,
+100,158,Javascript,1567946817000,1540478,struct,PT,61418101984360,
 100,159,Javascript,1567946817000,314027,CrazyTuna,NZ,2474116480252,
 100,159,Javascript,1567946817000,1809405,Ginkyu,BR,,
 100,159,Javascript,1567946817000,1202933,NullOps,AU,13683198089751,
@@ -274,6 +274,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,172,Javascript,1567946817000,1372843,djjeck,US,5407978094654,
 100,173,Javascript,1567946817000,1272144,RodMerrina,FR,3505911399447,
 100,173,Javascript,1567946817000,917553,b4r0k,US,,
+100,173,Javascript,1574383129000,1981179,4ndr3s,ES,12476591605432,
 100,174,Javascript,1567946817000,927873,Charlot67,FR,,
 100,174,Javascript,1567946817000,1118531,Darmo,FR,68614044187891,
 100,174,Javascript,1567946817000,1485462,LamSonFei,FR,4992683759913,
@@ -303,7 +304,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,179,Javascript,1567946817000,811064,Vincenzo,,,
 100,179,Javascript,1567946817000,1639807,kubked,PL,9601040293335,
 100,180,Javascript,1567946817000,1070463,,LB,,
-100,180,Javascript,1567946817000,1981179,4ndr3s,ES,12476591605432,
 100,180,Javascript,1567946817000,1416686,Avatar256,CY,9078440854926,
 100,180,Javascript,1567946817000,1185580,Lauz,FR,,
 100,180,Javascript,1567946817000,1357612,Maisnborg,DE,,
@@ -954,6 +954,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2819,Javascript,1567946817000,1323814,SatineChatounette,FR,70979840035465,
 100,2911,Javascript,1567946817000,2397077,RatthawitPhokinrueankit,TH,16358670775550,
 100,2935,Javascript,1567946817000,2714945,TheCodeDuck,VN,40755629349242,
-100,2959,Javascript,1567946817000,1215084,goforit,MA,,
-100,3516,Javascript,1567946817000,2572852,DuffyG,FR,,
-100,5477,Javascript,1567946817000,961090,Beno,HU,,

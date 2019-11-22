@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2019-11-21T00:30:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2019-11-22T00:39:06
 100,60,Haskell,1567946829000,154372,Plopx,FR,7959085736890,
 100,61,Haskell,1567946829000,334009,abouvier,FR,4681436111242,
 100,67,Haskell,1567946829000,512125,Totoro83,IT,,
@@ -34,7 +34,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Haskell,1567946829000,1895212,Maxlaxs,DK,11670343402125,
 100,92,Haskell,1567946829000,2046022,Pez,US,20792528514895,
 100,92,Haskell,1567946829000,1399382,Regulus136,FR,4335723819637,
-100,92,Haskell,1567946829000,1540478,Tobou,PT,61418101984360,
 100,92,Haskell,1567946829000,1782814,Trilusion,CH,11177901676243,
 100,92,Haskell,1567946829000,1714338,cobase2010,US,9291684426121,
 100,92,Haskell,1567946829000,1827683,massard-t,FR,60851161201529,
@@ -45,6 +44,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Haskell,1567946829000,288996,ronlobo,US,20787636163898,
 100,92,Haskell,1567946829000,2106827,shangshandaye,CN,,
 100,92,Haskell,1567946829000,1541455,stadanapisem,RS,,
+100,92,Haskell,1567946829000,1540478,struct,PT,61418101984360,
 100,93,Haskell,1567946829000,916512,immae,FR,2700245940948,
 100,94,Haskell,1567946829000,1479264,ArbustRe,FR,4956547000583,
 100,94,Haskell,1567946829000,1664044,BUG,LT,8001540148135,

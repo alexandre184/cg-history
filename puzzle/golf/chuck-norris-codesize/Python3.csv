@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=431|time=2019-11-26T00:30:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=432|time=2019-11-27T00:43:45
 100,86,Python3,1570408248000,1525831,ntsd,TH,86763903852312,
 100,91,Python3,1571447814000,2288263,dbdr,UA,43448306132121,
 100,95,Python3,1567946837000,1654818,tarapitha,EE,79401682508715,
@@ -95,6 +95,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,128,Python3,1567946837000,351062,Neumann,FR,17173563008577,
 100,128,Python3,1571360354000,224676,Jin66,FR,10914664960606,
 100,128,Python3,1572656636000,490588,Uljahn,RU,23956705948685,
+100,128,Python3,1574815425000,783612,MShanks,FR,,
 100,129,Python3,1567946837000,2638940,Pergunta2,PT,25943128463369,
 100,129,Python3,1567946837000,3393198,Turpa,RU,30488682090804,
 100,129,Python3,1567946837000,1496550,fmatray,FR,5571620428196,
@@ -156,7 +157,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Python3,1567946837000,2252914,Malleek,FR,18829198596160,
 100,146,Python3,1567946837000,1488793,kerloic,FR,,
 100,146,Python3,1569025950000,3125495,Ezzou,FR,,
-100,147,Python3,1568423184000,783612,MShanks,FR,,
 100,149,Python3,1567946837000,1920644,Skygge,FR,13712438606067,
 100,149,Python3,1573086651000,1984345,CedricHerzog,FR,35678327855863,
 100,150,Python3,1567946837000,2202771,Kaplone,FR,23792369424472,
@@ -398,6 +398,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,372,Python3,1571013058000,1274064,,,,
 100,382,Python3,1571013058000,1657074,cicatrix,RU,,
 100,397,Python3,1567946837000,1631057,Pask,DE,,
+100,402,Python3,1574815425000,1195121,N3x,FR,30315603152303,
 100,404,Python3,1570235467000,3511965,Yunn,FR,,
 100,423,Python3,1567946837000,2813198,repchatuy,RU,,
 100,446,Python3,1567946837000,2398452,nilssonFilip,SE,27382108993236,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6920|time=2019-11-28T00:40:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6457|time=2019-12-03T00:32:26
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,59,C,1567946816000,2288263,dbdr,UA,43448306132121,
 100,59,Bash,1567946818000,2288263,dbdr,UA,43448306132121,
@@ -546,6 +546,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Swift,1567946820000,1188212,superredlark,CN,2920737364455,
 100,149,D,1570494638000,1629259,Marchete,ES,61997162908277,
 100,149,C,1574296228000,1968855,ThePurificator,FR,12329456921169,
+100,149,Javascript,1575333150000,1250593,Ellama,FR,3675088014038,
 100,150,Javascript,1567946817000,999484,Paturages,FR,1991319539637,
 100,150,Javascript,1567946817000,2176877,pasymows,PL,14333167453890,
 100,150,Javascript,1567946817000,1652988,wardialer,IT,7801345180157,
@@ -804,6 +805,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,170,C++,1567946819000,1156554,Tuna,PT,,
 100,170,C++,1567946819000,1188212,superredlark,CN,2920737364455,
 100,170,Ruby,1567946820000,1515891,ndc,RU,57247748477088,
+100,170,Javascript,1575333150000,1250571,ChrisJeamme,FR,44090843307907,
 100,171,Javascript,1567946817000,510561,,,,
 100,171,Javascript,1567946817000,1171965,.,FR,,
 100,171,Javascript,1567946817000,1847117,Jabi,PL,12666107256228,
@@ -825,7 +827,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,171,Groovy,1567946820000,1178276,Jerome_95,FR,19999067509724,
 100,172,C,1567946816000,1854246,Counterbalance,NL,26367790351026,
 100,172,C,1567946816000,841085,Risen,JP,1840452387524,
-100,172,Javascript,1567946817000,1250571,ChrisJeamme,FR,44090843307907,
 100,172,Javascript,1567946817000,1243582,Daugone,BE,19854187179229,
 100,172,Javascript,1567946817000,939136,Froggy,FR,,
 100,172,Javascript,1567946817000,1372843,djjeck,US,5407978094654,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,180,Python3,1567946818000,1114496,BlasphemousCrossbreed,UA,2486265138222,
 100,180,Python3,1567946818000,1749242,Daratho,BE,11579615752208,
 100,180,Python3,1567946818000,1514394,LevitatingLion,DE,,
-100,180,Python3,1567946818000,971044,PJ_127,FR,,

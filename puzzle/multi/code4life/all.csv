@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1784|time=2019-12-16T00:32:35
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1784|time=2019-12-17T01:08:22
 5,27.35,C++,,1935827,735910,Agade,CH,1997542876524,
 5,25.45,C#,,2113625,1500515,eulerscheZahl,DE,43135502422075,
 5,25.1,Java,,1665363,1341520,egaetan,FR,21055353954161,
@@ -505,7 +505,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,19.65,C#,,1651758,2328161,Joethebus,FI,97212344206872,
 3,19.64,Java,,1665253,1611699,EpiFlop,FR,15684668176220,
 3,19.63,Python3,,2063365,517890,Altaire,RU,60751364963571,
-3,19.61,C#,,2611181,1870937,westicles,,,
+3,19.61,C#,,2611181,1870937,,,,
 3,19.61,C#,,1658932,1675720,AxFab,FR,15422957143535,
 3,19.6,Java,,2104917,2890165,Senthil--HCL,US,,
 3,19.6,C#,,2206483,2875292,Not-A-Zombie,CH,21776749980775,
@@ -892,7 +892,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,25.67,Python3,,2322595,2555066,dyc3,US,25499900954838,
 2,25.64,Java,,2439702,2655682,CoderFromOuterSpace,FR,19146708311183,
 2,25.6,C++,,2258570,2522090,MSmits,NL,17784428403916,
-2,25.53,Java,,1971257,1161312,snowkk,PT,,
+2,25.54,Java,,1971257,1161312,snowkk,PT,,
 2,25.5,Java,,1939685,2685257,pcasa,FR,19512502126823,
 2,25.5,Javascript,,1663172,2154529,ImSquanchingHere,US,14161441691410,
 2,25.46,Java,,2107682,2901714,XiaKeXing,CN,22535583734922,
@@ -956,8 +956,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,21.05,C#,,2059524,2800866,doug8679,US,21247022475594,
 2,20.89,Python3,,1652329,2397599,dukemarty,DE,52876589871369,
 2,20.76,C++,,1857218,2533118,obr,NO,19649406568488,
-2,20.68,C#,,1651971,2321945,Amis,FI,15669518583330,
 2,20.59,C#,,2194609,1688887,Kryptum,GB,,
+2,20.52,C#,,1651971,2321945,Amis,FI,15669518583330,
 2,20.48,Java,,2225367,2200765,davgast,FR,14659623071773,
 2,20.43,C++,,2308215,3119894,joleNeuNeu,FR,24606115438542,
 2,20.42,Javascript,,2083339,2873290,Phaedromus,US,,

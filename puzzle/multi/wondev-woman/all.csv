@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1423|time=2019-12-16T00:32:30
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1424|time=2019-12-17T00:59:24
 6,41.1,C++,,1501706,1400179,reCurse,CA,58850847098890,
 6,38.71,C++,,2139699,351062,Neumann,FR,17173563008577,
 6,38.13,C++,,1618734,524638,miklla,RU,8534620461135,
@@ -58,7 +58,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,32.99,C#,,1873134,2474205,zugzwang,RU,44038842770849,
 5,32.88,C#,,2226275,2473610,Martyanovst,RU,17268931289248,
 5,31.74,C#,,1866696,1417361,Griboedoff,RU,17374244895756,
-5,31.33,Java,,2616359,1870937,westicles,,,
+5,31.33,Java,,2616359,1870937,,,,
 5,31.3,C++,,1512750,1206537,MadKnight,RU,29443769474274,
 5,31.19,C#,,1866727,2473980,corteso,RU,44179603169844,
 5,31.02,C++,,1450546,226528,Manwe,FR,4426392032279,
@@ -934,7 +934,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,-8.5,Rust,,1395970,1128769,Dwakus,US,15192965381212,
 2,-8.6,Python3,,1395065,930118,Regule,PL,104975282812423,
 2,-10.4,Python3,,1394452,878168,Czaporka,PL,10675277194417,
-1,22.5,Python3,,2600748,1478706,The-Dude,FR,36076349653299,
+1,22.68,Python3,,2600748,1478706,The-Dude,FR,36076349653299,
 1,21.46,Python3,,2456947,1390789,Matthieu.L,FR,36482342568862,
 1,21.29,Python3,,2390391,1743393,Yudzhin,UA,99479282219056,
 1,21.17,Python3,,2067427,2087165,gbataille1,CH,17429593180802,
@@ -959,8 +959,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,18.46,Python3,,2081744,2838943,zapakh,US,52204642345044,
 1,18.33,Python3,,1470781,2201987,Guolarte,CA,14575221775841,
 1,18.32,Java,,2506594,2976964,BenjaminUrquhart,US,26083283518959,
+1,18.23,Python3,,1669937,1474334,ikuz,GB,,
 1,18.15,Python,,1444012,2045179,tt293,DE,35186787061982,
-1,18.15,Python3,,1669937,1474334,ikuz,GB,,
 1,18.09,Scala,,1676969,1799342,fbuether,DE,11189226908173,
 1,18.06,Python3,,1445042,2155583,flinks,BR,14144733516028,
 1,17.88,Java,,1504128,1234577,pythondz,FR,,

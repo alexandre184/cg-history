@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=645|time=2019-12-20T00:40:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=646|time=2019-12-21T00:30:35
 100,27,Ruby,1567946833000,154372,Plopx,FR,7959085736890,
 100,30,Ruby,1567946833000,1139488,MiniTapir,FR,2708123066374,
 100,30,Ruby,1567946833000,1140808,Tapir,FR,2708307271398,
@@ -288,8 +288,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,55,Ruby,1567946833000,513549,y0p,FR,,
 100,55,Ruby,1573864712000,1626913,AdrienTurmo,FR,7339608490797,
 100,55,Ruby,1573864712000,224676,Jin66,FR,10914664960606,
-100,56,Ruby,1567946833000,3086704,,SE,,
 100,56,Ruby,1567946833000,953901,,FR,,
+100,56,Ruby,1567946833000,3086704,,SE,,
 100,56,Ruby,1567946833000,1555765,DewJunkie,US,8729317793732,
 100,56,Ruby,1567946833000,1678976,Gorbit99,HU,10176759624461,
 100,56,Ruby,1567946833000,1467559,Guillaumelale,FR,10814233323574,
@@ -352,6 +352,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Ruby,1567946833000,831778,jedau,PH,11453338485505,
 100,60,Ruby,1567946833000,1411735,lordaniel,CO,21095312804350,
 100,60,Ruby,1567946833000,1188192,mandrak3,DE,2953906491344,
+100,60,Ruby,1576888235000,3611465,FooBat,FI,,
 100,61,Ruby,1567946833000,2628790,AlexAmoureux,FR,,
 100,61,Ruby,1567946833000,939112,Doomer3D,RU,2040570094359,
 100,61,Ruby,1567946833000,282701,MarcelBrouette,FR,17869842723211,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=954|time=2019-12-22T01:29:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=954|time=2019-12-23T01:25:15
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -419,6 +419,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,205,Javascript,1567946817000,898773,dngo,FR,,
 100,205,Javascript,1567946817000,999990,gus222,FR,,
 100,205,Javascript,1567946817000,1688894,pihomeserver,LU,8656983651526,
+100,205,Javascript,1577064315000,2923506,darkhorse64,FR,23496414257567,
 100,206,Javascript,1567946817000,3019146,real-wap,PL,23511808963850,
 100,206,Javascript,1567946817000,1228394,zator,HU,58101465319358,
 100,207,Javascript,1567946817000,2547109,JefferyNelson,US,18000689372125,
@@ -856,6 +857,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,916,Javascript,1567946817000,981340,ShamanisTe,FR,1890915238938,
 100,922,Javascript,1567946817000,1185349,Barni,HU,2912286328976,
 100,925,Javascript,1567946817000,862549,amate2,RO,,
+100,948,Javascript,1577064315000,3612859,Gryzli,PL,41310923057410,
 100,950,Javascript,1567946817000,2390037,viski57,FI,,
 100,951,Javascript,1571273977000,2411443,AlexandreLeclerc,,,
 100,963,Javascript,1567946817000,1349769,EltonCosmonote,FR,,
@@ -951,5 +953,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2409,Javascript,1567946817000,1389974,cuzzea,RO,7169975427865,
 100,2422,Javascript,1567946817000,3162578,Miguel.Arribas,ES,,
 100,2426,Javascript,1567946817000,2510517,Turtlefight,DE,17686753344865,
-100,2427,Javascript,1567946817000,980980,vptrung,VN,15480219090976,
-100,2473,Javascript,1567946817000,399492,skew,RU,,

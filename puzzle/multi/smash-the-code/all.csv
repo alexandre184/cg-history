@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2303|time=2020-01-02T00:30:06
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2303|time=2020-01-03T00:30:04
 5,31.86,C++,,2102329,1327028,FredericBautista,FR,9974192266436,
 5,31.24,Go,,511966,1413236,Medici,CN,4357806712110,
 5,30.56,C++,,2061718,1500515,eulerscheZahl,DE,43135502422075,
@@ -784,6 +784,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.31,C,,595604,1482103,BlasterBaz,FR,4967237240823,
 1,23.3,Java,,653121,805896,methodMain,FR,11870779747213,
 1,23.3,C#,,631709,1503612,Dreagor,DK,5582369908328,
+1,23.3,Javascript,,484767,1455512,Khar,PE,,
 1,23.29,Javascript,,484869,1446679,Janus,DE,6889910437018,
 1,23.29,C#,,896454,1251131,ma81xx,IT,9638700030976,
 1,23.29,Java,,483910,1062481,MauroSemproni,IT,,
@@ -797,7 +798,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.26,Python3,,551811,1481265,erdnaxe42,,,
 1,23.25,C++,,1390550,2085746,JacobNoga,US,,
 1,23.25,Java,,484493,1155328,Disruption,ES,2712506232940,
-1,23.25,Javascript,,484767,1455512,Khar,PE,,
 1,23.24,C++,,768550,1662602,brenrik,FR,,
 1,23.24,C++,,1218206,1836084,TaoLu,NO,11029116747275,
 1,23.24,Python3,,482080,855824,VoxMortem,FR,5525991865489,
@@ -898,6 +898,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.87,C,,774369,1384803,ZvukZTyshyny,UA,,
 1,22.86,Javascript,,773140,1667353,jacobs472,US,,
 1,22.86,VB.NET,,2194001,3028864,lorcQc,CA,,
+1,22.86,Java,,589398,1494734,Leogelas,FR,,
 1,22.86,Java,,1295886,1304340,AntoineLatour,FR,,
 1,22.86,Python3,,495760,386279,Amikum,US,14209805263751,
 1,22.85,C#,,897004,1690967,protone911,IT,,
@@ -911,7 +912,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.83,Python3,,1765239,1841051,Alpacah,GB,17119043174583,
 1,22.83,Python,,979417,1350971,Bodzio,PL,5390793557284,
 1,22.83,C++,,781283,1526032,AdamBadura,PL,5659489683423,
-1,22.83,Java,,589398,1494734,Leogelas,FR,,
 1,22.82,C#,,489769,1130570,TMarmol,ES,,
 1,22.82,C++,,1110328,1866525,charMlessMan,BE,,
 1,22.82,C#,,547484,1231500,Kinga,HU,,

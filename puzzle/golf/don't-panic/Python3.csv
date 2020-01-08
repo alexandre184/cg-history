@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=992|time=2020-01-07T00:40:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=992|time=2020-01-08T00:37:56
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -159,6 +159,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Python3,1567946818000,854169,Silmaen,FR,26099485782783,
 100,177,Python3,1567946818000,1501735,bernardlavilliers,FR,5631174858583,
 100,177,Python3,1573173920000,953094,Witman,PL,1798239809031,
+100,177,Python3,1578443876000,2923506,darkhorse64,FR,23496414257567,
 100,178,Python3,1567946818000,2043908,AntiSquid,,,
 100,178,Python3,1567946818000,992078,TheNumberOne,US,3406989128943,
 100,178,Python3,1567946818000,1741881,aadimator,PK,52966762170516,
@@ -605,6 +606,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,247,Python3,1567946818000,971715,mbarkizied,TN,13482862030426,
 100,248,Python3,1567946818000,2994874,MasterMechanic,SI,23430048477132,
 100,248,Python3,1567946818000,1852668,gao,FR,11875580489130,
+100,248,Python3,1578443876000,3439872,xdcomrade,DE,34769864720767,
 100,249,Python3,1567946818000,1281818,Armavica,FR,,
 100,249,Python3,1567946818000,859146,roberto2aj,BR,1995097876707,
 100,249,Python3,1570324675000,3424013,Felici3n,FR,,
@@ -627,7 +629,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,252,Python3,1567946818000,1253664,Arinelle,FR,,
 100,252,Python3,1567946818000,1544065,MSchou,DK,,
 100,252,Python3,1567946818000,2031184,Shadowbert,AU,12973039808739,
-100,252,Python3,1573442916000,3439872,xdcomrade,DE,34769864720767,
 100,253,Python3,1567946818000,1287344,Alshock,FR,46434521998763,
 100,253,Python3,1567946818000,1081335,DemonHunter,NO,2266573551604,
 100,253,Python3,1567946818000,1635357,GiB,FR,7734029926719,
@@ -990,4 +991,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,366,Python3,1567946818000,1395140,FabienPL,GB,4451145109718,
 100,368,Python3,1567946818000,1209514,Freydis,FR,3849017043763,
 100,368,Python3,1567946818000,663539,asdlol,ES,,
-100,368,Python3,1567946818000,826671,kayou,FR,52835383345680,

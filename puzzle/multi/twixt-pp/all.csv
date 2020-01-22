@@ -1,6 +1,8 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=5|time=2020-01-21T00:30:03
-0,36.52,C++,,2654119,1489865,EricSMSO,FR,10005277870281,
-0,35.56,C,,2654056,2924895,trictrac,FR,23056996012330,
-0,23.27,C++,,2653873,1479930,LeRenard,FR,40384564000700,
-0,9.39,Python3,,2656274,1713174,BigUP,FR,9962854189979,
-0,8.39,D,,2654117,2043908,AntiSquid,,,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7|time=2020-01-22T00:30:03
+0,36.47,C++,,2654119,1489865,EricSMSO,FR,10005277870281,
+0,35.52,C,,2654056,2924895,trictrac,FR,23056996012330,
+0,24.94,C++,,2653873,1479930,LeRenard,FR,40384564000700,
+0,18.05,PHP,,2657139,1412263,PatrickMcGinnisII,US,75707267075165,
+0,9.99,Python3,,2656274,1713174,BigUP,FR,9962854189979,
+0,7.89,D,,2654117,2043908,AntiSquid,,,
+0,5.27,C#,,2657159,1830993,jpcheck,CA,10852396611864,

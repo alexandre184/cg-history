@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11129|time=2020-01-27T00:30:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11136|time=2020-01-28T00:30:37
 100,26,Perl,1567946831000,154372,Plopx,FR,7959085736890,
 100,26,Perl,1567946831000,154984,_Royale,FR,17869369984436,
 100,26,Perl,1567946831000,334009,abouvier,FR,4681436111242,
@@ -866,6 +866,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Ruby,1567946833000,425477,selslack,RU,,
 100,62,Javascript,1573692627000,3555948,NegativeHoro,FR,95752981213366,
 100,62,Javascript,1574042135000,2317470,Euphedias,FR,15653801003841,
+100,62,Javascript,1580171435000,3540338,CAV,FR,,
 100,63,Javascript,1567946828000,2780512,--------------,JP,,
 100,63,Javascript,1567946828000,2258280,00h50,FR,,
 100,63,Javascript,1567946828000,3352676,3t0n,RU,29140567952302,
@@ -916,8 +917,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1572395740000,2115491,Haashi,FR,13769252859943,
 100,63,Javascript,1574728246000,2931967,KPlanas,FR,37296962333541,
 100,63,Javascript,1580000676000,3162821,Discourage,RU,38928080534385,
-100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,861191,,,,
+100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,2067176,0bug,FR,13297732398460,
 100,64,Javascript,1567946828000,2641149,3nvy_,GB,19075638303175,
 100,64,Javascript,1567946828000,1115198,Alextopher,US,10724493182879,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Javascript,1567946828000,1937628,Elom,FR,12220589050170,
 100,65,Javascript,1567946828000,1535449,Kisioj,PL,5855157999885,
 100,65,Javascript,1567946828000,660643,Marrrk,DE,4967890171886,
-100,65,Javascript,1567946828000,2075168,PapaEmeritus,VA,13550646412128,

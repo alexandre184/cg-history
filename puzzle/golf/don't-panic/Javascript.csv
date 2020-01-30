@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=974|time=2020-01-29T00:34:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=974|time=2020-01-30T00:43:31
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -67,6 +67,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Javascript,1567946817000,1383636,atsikov,LV,8154551476699,
 100,122,Javascript,1567946817000,1530199,DarkDefender,LV,5782383455241,
 100,122,Javascript,1567946817000,1290799,froyer,FR,3533893014839,
+100,122,Javascript,1580345011000,3162821,Discourage,RU,38928080534385,
 100,123,Javascript,1567946817000,1245243,Clement134,FR,4593373580939,
 100,123,Javascript,1567946817000,1861852,Cramer,DE,13289802969874,
 100,123,Javascript,1567946817000,1388660,Maeevick,FR,72284526964436,
@@ -167,7 +168,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,144,Javascript,1567946817000,930869,Meidor,NL,,
 100,144,Javascript,1567946817000,233627,SlipOne,HU,4994821803578,
 100,144,Javascript,1580085027000,3540338,CAV,FR,,
-100,144,Javascript,1580085027000,3162821,Discourage,RU,38928080534385,
 100,145,Javascript,1567946817000,2416641,Zenoscave,US,16732569385856,
 100,145,Javascript,1567946817000,1333871,ayarunas,US,,
 100,145,Javascript,1567946817000,534997,lethern,PL,2151730760092,
@@ -232,7 +232,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1567946817000,664646,asteriskman,US,7574747425019,
 100,162,Javascript,1567946817000,1012619,HenJi,FR,,
 100,162,Javascript,1567946817000,1158405,KolbasniyVeter,RU,12152414905102,
-100,163,Javascript,1567946817000,814685,AthosPyte,NO,5617445240242,
+100,163,Javascript,1567946817000,814685,AthosPyte.,NO,5617445240242,
 100,163,Javascript,1567946817000,1305374,Frankich,FR,4884866560369,
 100,163,Javascript,1567946817000,1068125,Irvineflon,ES,2466895670942,
 100,163,Javascript,1567946817000,705079,Perazzo,BR,,

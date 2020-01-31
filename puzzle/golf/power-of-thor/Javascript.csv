@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3214|time=2020-01-30T00:43:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3215|time=2020-01-31T00:30:30
 100,56,Javascript,1567946825000,2449749,H.,ES,16987075738587,
 100,56,Javascript,1567946825000,1483723,d-s-x,RU,4980051025170,
 100,58,Javascript,1567946825000,599674,NinetyOne,US,1890119238339,
@@ -114,6 +114,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Javascript,1567946825000,1480068,dunnock,UA,4983433873387,
 100,78,Javascript,1567946825000,1588262,kogash,ES,,
 100,78,Javascript,1573442922000,3545836,T-R,NZ,,
+100,78,Javascript,1580430630000,3162821,Discourage,RU,38928080534385,
 100,79,Javascript,1567946825000,510561,,,,
 100,79,Javascript,1567946825000,1026791,Alfalfamale,NL,7144185210937,
 100,79,Javascript,1567946825000,372563,Alkatell,FR,8023339934317,
@@ -815,7 +816,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,117,Javascript,1567946825000,1167980,qoobus,DE,2852849084542,
 100,117,Javascript,1567946825000,1072328,soba,UA,,
 100,117,Javascript,1573950629000,1626913,AdrienTurmo,FR,7339608490797,
-100,117,Javascript,1580085033000,3162821,Discourage,RU,38928080534385,
+100,117,Javascript,1580430630000,3407364,personAlex,BY,33008880931371,
 100,118,Javascript,1567946825000,2210541,HumbleHominid,US,14704763303445,
 100,118,Javascript,1567946825000,1577127,Nash171,LK,14283595721301,
 100,118,Javascript,1567946825000,1600940,ProPuke,GB,6813033823843,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,128,Javascript,1567946825000,2560383,saidmarar,MA,20620043668887,
 100,128,Javascript,1567946825000,1008826,umfigu,TR,,
 100,128,Javascript,1567946825000,1931766,vicXiett,MY,19447106780551,
-100,129,Javascript,1567946825000,465363,inTim,RU,15218854871426,

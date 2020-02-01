@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=25061|time=2020-01-31T00:30:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=25076|time=2020-02-01T00:30:35
 100,43,Perl,1567946823000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,1654818,tarapitha,EE,79401682508715,
@@ -505,6 +505,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,77,Javascript,1572066665000,2783529,Morphyish,FR,,
 100,77,OCaml,1575333156000,1968855,ThePurificator,FR,12329456921169,
 100,77,C,1579653588000,1436776,BrainSolver,FR,10099178983053,
+100,77,Javascript,1580517035000,3162821,Discourage,RU,38928080534385,
 100,78,Bash,1567946822000,162669,Gangrene,FR,1728092637133,
 100,78,Bash,1567946822000,1333871,ayarunas,US,,
 100,78,Perl,1567946823000,1388664,KarolNowacki,GB,,
@@ -540,7 +541,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Javascript,1573442922000,3545836,T-R,NZ,,
 100,78,PHP,1575333155000,1968855,ThePurificator,FR,12329456921169,
 100,78,Python3,1575510313000,3354859,oneagain,FR,,
-100,78,Javascript,1580430630000,3162821,Discourage,RU,38928080534385,
 100,79,Bash,1567946822000,1160519,Anvil,FR,2737109023602,
 100,79,Bash,1567946822000,1390607,GoperJohn,UA,67601821029462,
 100,79,Bash,1567946822000,218189,[CG]Maxime,FR,2925297592678,
@@ -746,8 +746,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Perl,1567946823000,588426,Jeff06,FR,10102464552605,
 100,82,Perl,1567946823000,268845,Origraena,FR,,
 100,82,Perl,1567946823000,893416,gschroed42,FR,,
-100,82,Javascript,1567946825000,1546047,,,,
 100,82,Javascript,1567946825000,1870937,,,,
+100,82,Javascript,1567946825000,1546047,,,,
 100,82,Javascript,1567946825000,1469819,Allsecond,RU,4833247070096,
 100,82,Javascript,1567946825000,2043908,AntiSquid,,,
 100,82,Javascript,1567946825000,1231532,Arnaud_63,FR,3236083680840,

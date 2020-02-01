@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=242|time=2020-01-31T00:30:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=242|time=2020-02-01T00:30:47
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -140,6 +140,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,186,Javascript,1571533607000,3526028,severrabaen,JP,35440701241251,
 100,188,Javascript,1567946837000,416762,Khao,CA,2035557596161,
 100,189,Javascript,1567946837000,3310913,Poot,US,26989344685981,
+100,189,Javascript,1580517047000,3327267,Exoden,FR,39337364208048,
 100,190,Javascript,1571704870000,1493086,Booligoosh,AU,35590187557733,
 100,191,Javascript,1567946837000,1695141,sbsbessa,PT,24874664192666,
 100,192,Javascript,1567946837000,2049979,130N35,FR,13111365905174,
@@ -164,7 +165,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,209,Javascript,1576027228000,3005622,tuomatz,FI,29245506856691,
 100,211,Javascript,1573607681000,3530476,kitofers,LV,35503406232989,
 100,212,Javascript,1567946837000,1546222,julidon,FR,13175654807909,
-100,213,Javascript,1579912924000,3327267,Exoden,FR,39337364208048,
 100,215,Javascript,1567946837000,1706476,Maboul95,FR,9338051370545,
 100,215,Javascript,1579221123000,3476778,Inari_,FR,,
 100,220,Javascript,1567946837000,2250452,Isac,PT,15287816336604,
@@ -212,7 +212,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,372,Javascript,1567946837000,2373953,Dridriun,FR,64609504937617,
 100,378,Javascript,1575333166000,2591473,ListsOfArrays,US,19150776457506,
 100,394,Javascript,1571013056000,2048433,Naferla,RE,22925688348029,
-100,394,Javascript,1580171442000,3363565,KanupriyaVerma,IN,39882160214224,
+100,394,Javascript,1580171442000,3363565,BloodRayne,IN,39882160214224,
 100,396,Javascript,1571273996000,2411443,AlexandreLeclerc,,,
 100,399,Javascript,1567946837000,3403001,Mouhssine.Soumairi,MA,,
 100,399,Javascript,1579827737000,3298022,IKEJIME,PH,69091121675111,

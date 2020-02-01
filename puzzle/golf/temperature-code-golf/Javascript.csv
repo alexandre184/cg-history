@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1610|time=2020-01-31T00:30:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1611|time=2020-02-01T00:30:41
 100,57,Javascript,1567946828000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,60,Javascript,1567946828000,1838305,,,,
@@ -581,6 +581,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,91,Javascript,1567946828000,1017388,lavavrik,UA,3751242082505,
 100,91,Javascript,1567946828000,1518780,mZpX,GB,5577998908482,
 100,91,Javascript,1567946828000,2548707,notliam,GB,18098162130332,
+100,91,Javascript,1580517041000,3327267,Exoden,FR,39337364208048,
 100,92,Javascript,1567946828000,3035837,,US,,
 100,92,Javascript,1567946828000,2029767,Dyomba,RU,,
 100,92,Javascript,1567946828000,1904154,HinaKaze,CN,11661433033891,
@@ -654,7 +655,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Javascript,1567946828000,490905,lechium06_,PL,1716926865465,
 100,98,Javascript,1567946828000,1551203,mfsamuel,US,7008990030871,
 100,98,Javascript,1571013050000,2851992,musatag,FR,34415881686866,
-100,98,Javascript,1579827733000,3327267,Exoden,FR,39337364208048,
 100,99,Javascript,1567946828000,2599667,DashBrownies,FR,,
 100,99,Javascript,1567946828000,2141506,Jamesscn,MX,18889088943331,
 100,99,Javascript,1567946828000,1633972,MicheleAmante,IT,,
@@ -856,6 +856,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Javascript,1567946828000,1730797,tirnak,RU,,
 100,121,Javascript,1568423179000,3481167,MusicalChick,PH,33955024209646,
 100,121,Javascript,1569458162000,2536538,Pduhard-,FR,24093275149635,
+100,121,Javascript,1580517041000,911762,Tellenn,FR,16780763792213,
 100,122,Javascript,1567946828000,2422378,C2H5OH,UA,19226708700974,
 100,122,Javascript,1567946828000,1873370,Doppelganger9,FR,11352491980896,
 100,122,Javascript,1567946828000,516788,QuentinFerry,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1567946828000,1015754,Sinek,HR,5622450218966,
 100,143,Javascript,1567946828000,1985168,greg823,US,65365281571948,
 100,143,Javascript,1567946828000,1483661,papper,HU,,
-100,144,Javascript,1567946828000,1157501,OMantere,FI,5763017362957,

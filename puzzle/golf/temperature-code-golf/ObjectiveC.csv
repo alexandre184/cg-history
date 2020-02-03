@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=59|time=2020-02-02T00:31:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=60|time=2020-02-03T00:30:44
 100,35,ObjectiveC,1567946831000,334009,abouvier,FR,4681436111242,
 100,49,ObjectiveC,1567946831000,2416641,Zenoscave,US,16732569385856,
 100,51,ObjectiveC,1567946831000,1483723,d-s-x,RU,4980051025170,
@@ -14,7 +14,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,73,ObjectiveC,1567946831000,1759335,metahom,AE,40546489176319,
 100,76,ObjectiveC,1567946831000,1201796,P.Greze,FR,3522907180370,
 100,76,ObjectiveC,1567946831000,1211531,ciaojian,IT,3126381962847,
+100,76,ObjectiveC,1580689844000,1436776,BrainSolver,FR,10099178983053,
 100,77,ObjectiveC,1567946831000,512097,Stilgart,FR,69893904259383,
+100,77,ObjectiveC,1580689844000,1140677,Crog,FR,41060062482552,
 100,79,ObjectiveC,1567946831000,600941,mrv,PL,,
 100,80,ObjectiveC,1576802431000,1845617,Shingyx,AU,26010702723839,
 100,81,ObjectiveC,1567946831000,482543,seshoumara,DE,2706057761436,
@@ -34,7 +36,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,95,ObjectiveC,1567946831000,1759839,matleg,FR,27938585309756,
 100,95,ObjectiveC,1567946831000,2096064,xiao.sha,CN,13778309629915,
 100,96,ObjectiveC,1567946831000,706692,alexhap,UA,12742258885909,
-100,97,ObjectiveC,1567946831000,1436776,BrainSolver,FR,10099178983053,
 100,100,ObjectiveC,1576802431000,3611465,FooBat,FI,,
 100,103,ObjectiveC,1567946831000,2713608,LostSymphony,FR,19945860182726,
 100,103,ObjectiveC,1567946831000,1506280,TwoLate,NO,15807210568002,

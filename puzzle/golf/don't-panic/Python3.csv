@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1501|time=2020-02-03T00:30:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1502|time=2020-02-04T00:42:16
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -152,7 +152,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,175,Python3,1567946818000,1520032,Hydrophob,DE,,
 100,175,Python3,1567946818000,1423658,LeartS,IT,4387037627346,
 100,175,Python3,1567946818000,923398,The_Ghost,DE,,
-100,175,Python3,1579153326000,3018110,Mech_Lizard,US,39968464527481,
+100,175,Python3,1579153326000,3018110,MechLizardThing,US,39968464527481,
 100,176,Python3,1567946818000,1113415,Lhassa,FR,,
 100,176,Python3,1567946818000,1112073,Pouf,FR,11747341035468,
 100,176,Python3,1567946818000,1923457,Wonshtrum,FR,12619168103960,
@@ -342,6 +342,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,205,Python3,1567946818000,221648,svankoot,US,,
 100,205,Python3,1567946818000,625098,vmontagn,FR,5910662612806,
 100,205,Python3,1567946818000,888439,ysharc,IN,98330464228370,
+100,205,Python3,1580776936000,3657691,D3structor,ES,,
 100,206,Python3,1567946818000,1180763,ExCellRaD,BE,,
 100,206,Python3,1567946818000,3361340,JakeRobinson,AU,34311126035460,
 100,206,Python3,1567946818000,1074071,NendoTaka,US,2241004902722,
@@ -492,7 +493,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,230,Python3,1567946818000,1400864,Markoz,FR,10120695961981,
 100,230,Python3,1567946818000,961017,SabauAndrei,RO,7431693682786,
 100,230,Python3,1572395723000,1478706,The-Dude,FR,36076349653299,
-100,230,Python3,1580603451000,3657691,D3structor,ES,,
 100,231,Python3,1567946818000,1145203,Lemps,EE,5035294810209,
 100,231,Python3,1567946818000,818780,bbodin01,FR,110088260228852,
 100,231,Python3,1567946818000,918233,screg,RU,1820235303533,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3018|time=2020-02-07T00:30:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3018|time=2020-02-08T00:30:09
 6,37.29,C++,,1578179,1400179,reCurse,CA,58850847098890,
 6,36.13,C++,,2547516,1629259,Marchete,ES,61997162908277,
 6,34.61,C++,,1324204,735910,Agade,CH,1997542876524,
@@ -926,9 +926,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,17.59,Javascript,,1427698,1897920,Danieleinad,AR,,
 3,17.59,Python3,,2404823,1355857,sveri,DE,,
 3,17.56,Javascript,,1424564,2111510,sorlinV,FR,,
-3,17.55,C++,,2090005,2616350,Schnibble,FR,18679417682497,
 3,17.54,Python3,,2607287,3561816,noname1477,DE,37217963145424,
 3,17.54,Python3,,2641876,3617024,maciejFrel,PL,,
+3,17.42,C++,,2090005,2616350,Schnibble,FR,18679417682497,
 3,17.41,Java,,1500810,1229845,Jipe,FR,17144841257590,
 3,17.34,Python3,,2659417,3584872,MichalKasprzak,PL,,
 3,17.26,C#,,1584067,1247365,Axedra,NL,3332846294317,
@@ -966,8 +966,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,16.26,Python3,,2664299,3537540,sniochu,PL,,
 3,16.2,Python,,2422646,2562633,Nodascott,FR,,
 3,16.19,C,,1575069,1010476,Migrou,DE,51811564269089,
+3,16.12,C#,,2626655,2356415,Mike_Hawk,IL,,
 3,16.06,C++,,1453990,942208,Dex08,FR,4687041288318,
-3,16.03,C#,,2626655,2356415,Mike_Hawk,IL,,
 3,16,C#,,1440339,1311521,dbzadnen,TN,11039441202616,
 3,15.92,Java,,1387911,1539018,Skadi48,FR,,
 3,15.9,C++,,1503324,1705420,DickMountenjoy,DE,9044448087548,
@@ -998,4 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,15.34,Java,,1766382,2525779,tamerlein,AR,,
 3,15.33,Rust,,1302969,1564223,RhubarbStefan,DE,10629866524302,
 3,15.32,Rust,,1310476,604167,chango,CH,12610458268103,
-3,15.32,C,,1827122,2156856,Architektor,RU,15617254254551,
+3,15.32,PHP,,2621831,3476734,NKaznadzei,UA,37689902480722,

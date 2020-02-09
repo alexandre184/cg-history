@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1196|time=2020-02-08T01:06:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1197|time=2020-02-09T01:50:52
 100,55,C++,1567946829000,154372,Plopx,FR,7959085736890,
 100,55,C++,1567946829000,334009,abouvier,FR,4681436111242,
 100,60,C++,1567946829000,271034,6pi,FR,3403647713500,
@@ -323,6 +323,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,C++,1567946829000,1512611,Essigautomat,DE,18914605847408,
 100,149,C++,1567946829000,1641962,RoliBoy,,,
 100,149,C++,1567946829000,2682819,ius,DE,,
+100,149,C++,1581213052000,2774686,dshsh,RU,20587825634731,
 100,150,C++,1567946829000,1870937,,,,
 100,150,C++,1567946829000,1864219,Balq,BR,90503201307535,
 100,150,C++,1567946829000,1446587,Cooch,DE,4700517429198,
@@ -586,6 +587,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,228,C++,1567946829000,1408764,Gwen5484,FR,,
 100,228,C++,1567946829000,1643573,McKuzmich,RU,,
 100,228,C++,1567946829000,1676547,amir1376irani,IR,,
+100,228,C++,1581213052000,3671016,YaroslavChernetskyi,UA,,
 100,229,C++,1567946829000,2172874,Med1ane,FR,54126726936477,
 100,230,C++,1567946829000,1931507,Telephia,US,11964357593919,
 100,230,C++,1567946829000,1160614,moon21,UA,5399256784437,
@@ -927,7 +929,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,803,C++,1567946829000,3465238,,FR,,
 100,806,C++,1573864710000,3568185,AyushSapkota,FR,,
 100,810,C++,1567946829000,1183595,Molloss,FR,2951479057460,
-100,813,C++,1581124018000,3671016,YaroslavChernetskyi,UA,,
 100,820,C++,1567946829000,736075,Xyze,DE,11976730950861,
 100,821,C++,1567946829000,1285156,HardTilt,US,9014996665604,
 100,822,C++,1567946829000,1921555,Basicula,UA,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1015,C++,1567946829000,1862123,Endrju,PL,,
 100,1033,C++,1567946829000,1726759,HoTShoT,IN,9422782691289,
 100,1040,C++,1567946829000,3378020,PudingPl,,,
-100,1049,C++,1567946829000,155257,Apsû,FR,,

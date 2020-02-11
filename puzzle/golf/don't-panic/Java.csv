@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1090|time=2020-02-10T00:30:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1091|time=2020-02-11T00:30:29
 100,172,Java,1567946820000,154372,Plopx,FR,7959085736890,
 100,173,Java,1567946820000,336377,n_r,FR,,
 100,177,Java,1567946820000,574371,Dillysfriend,US,1890070725954,
@@ -423,6 +423,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,702,Java,1567946820000,897547,Layfown,FR,12554826471482,
 100,702,Java,1567946820000,915520,Mido,US,,
 100,704,Java,1567946820000,833608,Bas1c,DE,7492734008835,
+100,704,Java,1581381029000,2202771,Kaplone,FR,23792369424472,
 100,707,Java,1567946820000,888457,Draedixe,FR,,
 100,708,Java,1567946820000,3369606,Cuda_1973,US,,
 100,708,Java,1567946820000,1350043,Ehcnalb,FR,,
@@ -463,7 +464,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,788,Java,1567946820000,2768448,waxman8,GB,20683300452906,
 100,791,Java,1567946820000,1218749,NMouad21,MA,19379286277703,
 100,791,Java,1567946820000,1250289,Wingelin,FR,3417812033526,
-100,791,Java,1576978162000,2202771,Kaplone,FR,23792369424472,
 100,795,Java,1567946820000,1403803,Zakemp,PL,,
 100,797,Java,1567946820000,1752518,Akirender[CodingStones],FR,9852164613646,
 100,802,Java,1567946820000,1058835,supercat765,US,,
@@ -661,6 +661,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1687,Java,1567946820000,923155,Floverdoz,FR,3821016719284,
 100,1688,Java,1567946820000,2058697,Yakoub,FR,13282560733825,
 100,1689,Java,1567946820000,153084,Nilct,FR,,
+100,1691,Java,1581381029000,3368724,CryptoFox,PL,38697583310888,
 100,1697,Java,1567946820000,261236,hbh,FR,,
 100,1698,Java,1567946820000,918510,Nonolost,FR,2729587647415,
 100,1708,Java,1567946820000,944952,Rocka,PT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5752,Java,1571273974000,3517187,meviaca,ES,,
 100,6035,Java,1567946820000,1242823,BestBenzo,FR,11911786259389,
 100,6036,Java,1567946820000,2170481,Creekey,DE,,
-100,6102,Java,1567946820000,992894,Devang,IN,6449776262700,

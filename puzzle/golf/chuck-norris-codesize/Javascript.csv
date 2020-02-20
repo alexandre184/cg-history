@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=254|time=2020-02-19T01:03:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=256|time=2020-02-20T00:48:58
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -130,6 +130,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,174,Javascript,1567946837000,1509627,puma17,IL,5549923172040,
 100,174,Javascript,1575419446000,3584673,dyatss,MA,37455220150575,
 100,175,Javascript,1567946837000,1416686,Avatar256,CY,9078440854926,
+100,175,Javascript,1582159738000,1732582,vic039,FR,,
 100,176,Javascript,1567946837000,859523,jukimv1986,ES,7683034960632,
 100,177,Javascript,1571273996000,1195856,daifei4321,US,2979089591958,
 100,177,Javascript,1574383151000,1244685,dorion,FR,21623788646587,
@@ -151,8 +152,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,192,Javascript,1567946837000,2049979,130N35,FR,13111365905174,
 100,195,Javascript,1574728247000,1063294,Chaya,FR,5516488637538,
 100,196,Javascript,1567946837000,3286802,JonasS,DE,,
+100,196,Javascript,1582159738000,1250571,ChrisJeamme,FR,44090843307907,
 100,197,Javascript,1569285045000,187572,Shomz,RS,12902457819085,
-100,197,Javascript,1575333166000,1250571,ChrisJeamme,FR,44090843307907,
 100,198,Javascript,1567946837000,950545,Cobru,RO,,
 100,198,Javascript,1567946837000,2547420,Coldk,FR,55596643029773,
 100,198,Javascript,1567946837000,1825144,HerrScheissmann,NL,26073263423687,
@@ -202,6 +203,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,269,Javascript,1567946837000,1542423,chocolatnoisette,FR,6013280804900,
 100,273,Javascript,1567946837000,3391220,JeromeLorenzo,PH,,
 100,273,Javascript,1581641195000,3681052,Varedz,US,,
+100,273,Javascript,1582159738000,2298871,-ac,FR,96460709785072,
 100,275,Javascript,1569458168000,3460822,J2319,HU,,
 100,275,Javascript,1569890703000,1596921,P1xt,,,
 100,281,Javascript,1568593842000,2858038,_shiro,PH,34046924507930,

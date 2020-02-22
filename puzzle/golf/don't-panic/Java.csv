@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1095|time=2020-02-21T00:30:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1095|time=2020-02-22T00:47:37
 100,172,Java,1567946820000,154372,Plopx,FR,7959085736890,
 100,173,Java,1567946820000,336377,n_r,FR,,
 100,177,Java,1567946820000,574371,Dillysfriend,US,1890070725954,
@@ -224,6 +224,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,502,Java,1567946820000,1424764,arbolman,CO,,
 100,503,Java,1567946820000,1122412,TheNinja,AU,3823739809641,
 100,504,Java,1567946820000,1423183,loarbihan,FR,4409895227819,
+100,504,Java,1582332457000,2984118,aplq,US,,
 100,505,Java,1567946820000,1186387,Aztek77,CH,,
 100,505,Java,1567946820000,1241062,jbs,FR,3587401362248,
 100,506,Java,1567946820000,426227,Mike6,FR,,
@@ -239,7 +240,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,517,Java,1567946820000,812912,AndiR,DE,,
 100,517,Java,1567946820000,2991804,Illumina1st,FR,23949961674925,
 100,517,Java,1567946820000,3245236,gumast,FR,25835310564334,
-100,517,Java,1582245032000,2984118,aplq,US,,
 100,519,Java,1567946820000,1671866,MarZago,PL,,
 100,519,Java,1567946820000,2315158,luigi_gelato,DE,,
 100,520,Java,1567946820000,907108,txxt,DE,,
@@ -363,6 +363,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,637,Java,1567946820000,488941,lucoram,MG,59509961409518,
 100,637,Java,1567946820000,957691,shawkat,EG,,
 100,638,Java,1567946820000,972102,Paly,SK,1871429452772,
+100,638,Java,1582332457000,3659917,Fa_Hae,DE,50954062333126,
 100,641,Java,1567946820000,887148,wrongstringformat,FR,3904841551928,
 100,643,Java,1567946820000,2273744,myCatIsKernel,ES,,
 100,643,Java,1581641174000,323895,HannesRammer,DE,8056200862286,
@@ -395,7 +396,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,666,Java,1567946820000,495198,Maskimeee,FR,,
 100,667,Java,1567946820000,933394,maven8919,HU,74333682255513,
 100,668,Java,1567946820000,1058001,QQQ,DE,2225193653342,
-100,671,Java,1581641174000,3659917,Fa_Hae,DE,50954062333126,
 100,672,Java,1567946820000,1716579,Lascapi,FR,67535428956962,
 100,672,Java,1567946820000,1169374,RafaelMedeirosTeles,BR,,
 100,673,Java,1567946820000,877671,miguel,ES,,

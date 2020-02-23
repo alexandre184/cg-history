@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=985|time=2020-02-22T00:47:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=985|time=2020-02-23T00:45:48
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -223,6 +223,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Javascript,1567946817000,409221,JohnGresham,FR,1806212906373,
 100,158,Javascript,1567946817000,937214,KissCool,FR,4941900968557,
 100,158,Javascript,1567946817000,1540478,struct,PT,61418101984360,
+100,158,Javascript,1582418748000,2622559,Gripnil,FR,19024435956137,
 100,159,Javascript,1567946817000,314027,CrazyTuna,NZ,2474116480252,
 100,159,Javascript,1567946817000,1809405,Ginkyu,BR,,
 100,159,Javascript,1567946817000,1202933,NullOps,AU,13683198089751,
@@ -292,7 +293,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,174,Javascript,1567946817000,1076583,olimago,FR,20459502851836,
 100,175,Javascript,1567946817000,2440248,Javfres,ES,16979059060054,
 100,175,Javascript,1567946817000,1167980,qoobus,DE,2852849084542,
-100,176,Javascript,1567946817000,2622559,Gripnil,FR,19024435956137,
 100,176,Javascript,1567946817000,952026,Kahsius,FR,,
 100,176,Javascript,1567946817000,706692,alexhap,UA,12742258885909,
 100,176,Javascript,1567946817000,1843383,oluigenuma,DE,11135757890308,
@@ -979,7 +979,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2633,Javascript,1567946817000,540192,Chifu,UA,106534389997628,
 100,2819,Javascript,1567946817000,1323814,SatineChatounette,FR,70979840035465,
 100,2911,Javascript,1567946817000,2397077,RatthawitPhokinrueankit,TH,16358670775550,
-100,2935,Javascript,1567946817000,2714945,TheCodeDuck,VN,40755629349242,
+100,2935,Javascript,1567946817000,2714945,JonhDoe101,VN,40755629349242,
 100,2959,Javascript,1567946817000,1215084,goforit,MA,,
 100,3516,Javascript,1567946817000,2572852,DuffyG,FR,,
 100,4190,Javascript,1580862627000,3667033,KimJaeHa,TH,39970147571776,

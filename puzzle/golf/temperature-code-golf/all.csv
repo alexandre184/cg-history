@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11328|time=2020-02-24T00:59:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11332|time=2020-02-25T02:27:43
 100,26,Perl,1567946831000,154372,Plopx,FR,7959085736890,
 100,26,Perl,1567946831000,154984,_Royale,FR,17869369984436,
 100,26,Perl,1567946831000,334009,abouvier,FR,4681436111242,
@@ -733,6 +733,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1575333162000,2565497,vladislao,RU,18197468031147,
 100,60,Ruby,1576888235000,3611465,FooBat,FI,,
 100,60,Javascript,1576978174000,2923506,darkhorse64,FR,23496414257567,
+100,60,Javascript,1582597667000,717196,NWDD,ES,,
 100,61,Javascript,1567946828000,1906719,ArpadDravecz,HU,11710900308045,
 100,61,Javascript,1567946828000,155887,BanBan,FR,8230051407070,
 100,61,Javascript,1567946828000,482445,BogdanSavchenko,UA,9319024256259,
@@ -922,8 +923,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1574728246000,2931967,KPlanas,FR,37296962333541,
 100,63,Javascript,1580000676000,3162821,Discourage,RU,38928080534385,
 100,63,Javascript,1581213050000,1436776,BrainSolver,FR,10099178983053,
-100,64,Javascript,1567946828000,861191,,,,
 100,64,Javascript,1567946828000,1492125,,,,
+100,64,Javascript,1567946828000,861191,,,,
 100,64,Javascript,1567946828000,2067176,0bug,FR,13297732398460,
 100,64,Javascript,1567946828000,2641149,3nvy_,GB,19075638303175,
 100,64,Javascript,1567946828000,1115198,Alextopher,US,10724493182879,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Ruby,1567946833000,835636,texus,BE,1717372585635,
 100,64,Ruby,1567946833000,1193731,vamPierchen,LU,,
 100,64,PHP,1568890137000,2928146,LolCat,MU,22538133010433,
-100,64,Ruby,1579311224000,3623576,InJustice,US,38901884417533,

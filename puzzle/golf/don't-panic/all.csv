@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7285|time=2020-03-03T03:29:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7286|time=2020-03-04T00:51:29
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,59,C,1567946816000,2288263,dbdr,UA,43448306132121,
 100,59,Bash,1567946818000,2288263,dbdr,UA,43448306132121,
@@ -932,6 +932,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,174,C++,1567946819000,1498755,Nyvis,FR,,
 100,174,C++,1567946819000,1838549,izik1,US,17617755701518,
 100,174,C#,1581641172000,155774,dwarfie,FR,17785582865119,
+100,174,Python3,1583283086000,953094,Witman,PL,1798239809031,
 100,175,Javascript,1567946817000,2440248,Javfres,ES,16979059060054,
 100,175,Javascript,1567946817000,1167980,qoobus,DE,2852849084542,
 100,175,Bash,1567946818000,1337680,Discoordination,GB,3817204278500,
@@ -977,7 +978,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Groovy,1567946820000,961785,Vick,DE,,
 100,177,Java,1567946820000,574371,Dillysfriend,US,1890070725954,
 100,177,Java,1567946820000,599674,NinetyOne,US,1890119238339,
-100,177,Python3,1573173920000,953094,Witman,PL,1798239809031,
 100,177,ObjectiveC,1580000664000,1436776,BrainSolver,FR,10099178983053,
 100,178,C,1567946816000,1630178,ulrikdem,ZA,,
 100,178,C#,1567946816000,553938,MagAlex,RU,3292063463360,

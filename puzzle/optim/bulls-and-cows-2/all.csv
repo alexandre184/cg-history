@@ -1,8 +1,9 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=9|time=2020-03-09T00:33:22
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=10|time=2020-03-10T00:53:58
 100,122,Python3,1583542911000,1566335,BeardedWhale,SE,36571449875674,
 100,311,C,1583542911000,2924895,trictrac,FR,23056996012330,
-100,327,C++,1583542911000,1629259,Marchete,ES,61997162908277,
+100,321,C++,1583801638000,1629259,Marchete,ES,61997162908277,
 100,337,C++,1583461893000,888898,helgui,RU,22560718540069,
+100,411,C#,1583801638000,1500515,eulerscheZahl,DE,43135502422075,
 100,540,Ruby,1583714002000,2290633,field3,JP,75961127697737,
 100,1013,C,1583714002000,3685512,TeamTV,CH,,
 100,1137,C#,1583542911000,1378958,Illedan,NO,16222515698472,

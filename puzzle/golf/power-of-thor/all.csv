@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=25417|time=2020-03-09T00:33:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=25435|time=2020-03-10T00:54:14
 100,43,Perl,1567946823000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,1654818,tarapitha,EE,79401682508715,
@@ -765,8 +765,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Perl,1567946823000,588426,Jeff06,FR,10102464552605,
 100,82,Perl,1567946823000,268845,Origraena,FR,,
 100,82,Perl,1567946823000,893416,gschroed42,FR,,
-100,82,Javascript,1567946825000,1546047,,,,
 100,82,Javascript,1567946825000,1870937,,,,
+100,82,Javascript,1567946825000,1546047,,,,
 100,82,Javascript,1567946825000,1469819,Allsecond,RU,4833247070096,
 100,82,Javascript,1567946825000,2043908,AntiSquid,,,
 100,82,Javascript,1567946825000,1231532,Arnaud_63,FR,3236083680840,
@@ -854,6 +854,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Ruby,1579399363000,2923506,darkhorse64,FR,23496414257567,
 100,82,Javascript,1579566932000,1066745,JohnRambo,FR,107574148016271,
 100,82,Javascript,1582765790000,490588,Uljahn,RU,23956705948685,
+100,82,Javascript,1583801658000,3238300,WarTey,CA,25776702601011,
+100,82,Javascript,1583801658000,2657622,eliobilisari,FR,,
 100,83,Bash,1567946822000,972894,resty-daze,CN,4833160251412,
 100,83,PHP,1567946822000,1143726,,,,
 100,83,PHP,1567946822000,1485690,Kikoo,FR,4993649967380,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Python3,1567946825000,1857171,AdamB,PL,11687390029916,
 100,85,Python3,1567946825000,224988,DerPferd,US,2806202774501,
 100,85,Python3,1567946825000,1837746,Fylkir,PL,10993646220872,
-100,85,Python3,1567946825000,813508,Hyperion,FR,,
-100,85,Python3,1567946825000,1193679,Icebox,DE,28987786895120,

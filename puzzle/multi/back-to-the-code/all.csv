@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4599|time=2020-03-11T20:09:36
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4599|time=2020-03-12T00:30:16
 0,46.75,C,,1484525,1433161,Mingu,KR,27653324382564,
 0,45.62,C++,,455215,494104,Recar,GB,4953953776940,
 0,45.61,C++,,357643,990110,Rogerup,BR,2038636261009,
@@ -520,6 +520,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,33.58,Go,,349554,984260,KapitanOwies,PL,5329194418319,
 0,33.58,Java,,364197,1145498,Mouseas,US,2664528636264,
 0,33.58,Python,,344999,1070781,Peterke,HU,,
+0,33.58,Python,,346113,566909,the_travelling-salesman,US,,
 0,33.58,Java,,349922,783337,Dewey,FR,,
 0,33.57,Java,,342305,1005110,daremer,ES,,
 0,33.57,Javascript,,412774,1294592,tetesoulo,FR,4569196601664,
@@ -532,7 +533,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,33.54,VB.NET,,349645,760921,Skleroz,FR,81487000724981,
 0,33.53,Javascript,,345860,1072075,vieirasub07,BR,2231449148006,
 0,33.52,Pascal,,346239,1041775,Darkcodi,UA,2113277653186,
-0,33.52,Python,,346113,566909,the_travelling-salesman,US,,
 0,33.49,Java,,474240,1122412,TheNinja,AU,3823739809641,
 0,33.49,C++,,346560,153927,Cubix,FR,59507908642549,
 0,33.48,C++,,1466297,692782,lafraise,FR,,
@@ -880,7 +880,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,30.42,Python3,,370204,1188273,DevNico,FR,86784221284744,
 0,30.41,Java,,347933,1069105,AlienBeer,FR,2204903131122,
 0,30.37,PHP,,354799,1042351,MPD,ZA,2151477798129,
-0,30.37,Perl,,344820,1062600,realfranz,FR,,
 0,30.35,C#,,602936,240311,Myrthem,FR,,
 0,30.34,Go,,2115966,825231,tumbudu,IN,1814370239923,
 0,30.32,C#,,343263,1010993,Hurrikhan,BE,,
@@ -892,6 +891,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,30.26,C++,,541165,1481353,SKS,IN,4961603042996,
 0,30.26,C++,,339918,393345,Peter9449,HU,,
 0,30.25,C#,,352933,587313,o4815162342,FR,,
+0,30.25,Perl,,344820,1062600,realfranz,FR,,
 0,30.23,Python,,342602,1054714,ScottKulp,US,,
 0,30.21,C++,,909020,1753424,FilkinKuiv,UA,10100504747660,
 0,30.18,C++,,495944,597560,DarkWaw,PL,4565101319388,

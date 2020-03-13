@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1653|time=2020-03-12T00:39:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1653|time=2020-03-13T01:31:45
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,60,Javascript,1567946828000,3373064,Archemiro,CO,29836421267053,
@@ -79,7 +79,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1567946828000,1305374,Frankich,FR,4884866560369,
 100,62,Javascript,1567946828000,1328758,GottZ,DE,3811962815765,
 100,62,Javascript,1567946828000,1306289,Jasperr,NL,56014127626531,
-100,62,Javascript,1567946828000,1883183,Jezza,,,
 100,62,Javascript,1567946828000,846838,K.MA,FR,42367927612850,
 100,62,Javascript,1567946828000,1545961,Klyve,NO,,
 100,62,Javascript,1567946828000,1158405,KolbasniyVeter,RU,12152414905102,
@@ -99,6 +98,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1567946828000,1068877,[CPC]Tamno,FR,2254398342499,
 100,62,Javascript,1567946828000,1495491,[Random]-J3ff3z,FR,25546988440003,
 100,62,Javascript,1567946828000,1712214,_CP,RO,51713368456019,
+100,62,Javascript,1567946828000,1883183,aenigmata,,,
 100,62,Javascript,1567946828000,1607251,baboulaf,FR,18176849207993,
 100,62,Javascript,1567946828000,818780,bbodin01,FR,110088260228852,
 100,62,Javascript,1567946828000,1396806,djcaesar9114,FR,4292058257651,
@@ -612,8 +612,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1567946828000,2151087,VincentB,FR,,
 100,108,Javascript,1567946828000,811064,Vincenzo,,,
 100,108,Javascript,1582332475000,3270198,simbst,FR,90556189912787,
-100,109,Javascript,1567946828000,1546047,,,,
 100,109,Javascript,1567946828000,1870937,,,,
+100,109,Javascript,1567946828000,1546047,,,,
 100,109,Javascript,1567946828000,1364294,AddNickname,DE,,
 100,109,Javascript,1567946828000,1664044,BUG,LT,8001540148135,
 100,109,Javascript,1567946828000,3372518,Chookees,DE,29657909541335,

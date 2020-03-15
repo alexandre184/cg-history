@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=691|time=2020-03-14T02:09:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=692|time=2020-03-15T00:41:19
 100,11902,Rust,1582245024000,2288263,dbdr,UA,43448306132121,
 100,11774,C++,1567946811000,351062,Neumann,FR,17173563008577,
 100,11724,C++,1567946811000,1169499,naab,FR,21217854473439,
@@ -458,6 +458,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1053,Python3,1567946811000,3283518,,,,
 100,1053,Python3,1567946811000,513153,voidle,FR,9502323846964,
 100,1048,C#,1567946811000,3321578,MathildeLav,FR,,
+100,1048,C++,1584232879000,1528055,YannBeuc,FR,,
 100,1045,C,1567946811000,2905866,,BE,,
 100,1045,C,1567946811000,992329,BeeGee,NL,5817423526804,
 100,1045,C,1567946811000,2905179,Jimgoo,CN,,

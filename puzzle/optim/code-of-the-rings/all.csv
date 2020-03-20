@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=3441|time=2020-03-19T02:01:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=3442|time=2020-03-20T00:45:20
 100,2761,C++,1584583284000,1833680,jvivenot,FR,10877987072863,
 100,2765,Rust,1577410189000,2288263,dbdr,UA,43448306132121,
 100,2780,C#,1584407577000,1301401,Stanax,FR,44495484097566,
@@ -892,6 +892,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5975,Python3,1571013025000,3522644,Atsu,US,,
 100,5976,Python3,1567946813000,1793463,,RU,,
 100,5976,Python3,1567946813000,2464787,gobi13x,JP,,
+100,5976,Python3,1584665120000,3622757,anid,,,
 100,5977,C#,1567946813000,898793,Kordalia,FR,24739672883806,
 100,5977,Python3,1567946813000,1307111,IvanDelSol,US,12090283448479,
 100,5978,Perl,1567946813000,431723,sfod,RU,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,6001,C++,1568521189000,1114496,BlasphemousCrossbreed,UA,2486265138222,
 100,6001,Java,1568521189000,1121088,Silars,CA,,
 100,6001,Python3,1568521189000,1052630,_,BY,,
-100,6001,Ruby,1568521189000,1112705,Pent,NL,,

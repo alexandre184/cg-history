@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1100|time=2020-03-19T02:01:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1101|time=2020-03-20T00:45:26
 100,172,Java,1567946820000,154372,Plopx,FR,7959085736890,
 100,173,Java,1567946820000,336377,n_r,FR,,
 100,177,Java,1567946820000,574371,Dillysfriend,US,1890070725954,
@@ -11,6 +11,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,217,Java,1576631469000,1845617,Shingyx,AU,26010702723839,
 100,222,Java,1567946820000,705188,Olivier,FR,,
 100,235,Java,1567946820000,553938,MagAlex,RU,3292063463360,
+100,258,Java,1584665126000,1968855,ThePurificator,FR,12329456921169,
 100,262,Java,1567946820000,351062,Neumann,FR,17173563008577,
 100,262,Java,1567946820000,1740037,ereiam,FR,12669494111004,
 100,265,Java,1579048229000,2923506,darkhorse64,FR,23496414257567,
@@ -41,7 +42,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,311,Java,1567946820000,1654458,thirstycrow,CN,9438887574270,
 100,312,Java,1567946820000,860239,Neilura,FR,,
 100,312,Java,1567946820000,2077458,Ragi,PL,13710770531146,
-100,312,Java,1584063094000,1968855,ThePurificator,FR,12329456921169,
 100,314,Java,1580000665000,1436776,BrainSolver,FR,10099178983053,
 100,315,Java,1567946820000,1766582,smugiss,LT,,
 100,316,Java,1567946820000,512097,Stilgart,FR,69893904259383,
@@ -210,6 +210,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,494,Java,1567946820000,1936800,DamienFremont,FR,28584502561762,
 100,494,Java,1567946820000,840697,st00p1d,SK,2233351090420,
 100,494,Java,1567946820000,1446007,sylys,FR,4594739278474,
+100,494,Java,1584665126000,3622757,anid,,,
 100,495,Java,1567946820000,2043908,AntiSquid,,,
 100,495,Java,1567946820000,969061,bombo,FR,,
 100,496,Java,1567946820000,795411,PepeMaster,FR,6081792322150,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,4651,Java,1567946820000,964503,ronna22,LV,,
 100,4679,Java,1567946820000,2007262,Larnth,US,,
 100,4680,Java,1567946820000,979186,IDEO,LT,17635087766740,
-100,4763,Java,1567946820000,1220556,dexterbravo,US,,

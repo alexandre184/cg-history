@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=273|time=2020-03-20T00:45:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=276|time=2020-03-21T00:58:36
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -247,12 +247,14 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,420,Javascript,1567946837000,3415138,nicolagheza,NL,,
 100,440,Javascript,1571360355000,1161639,Chade.Revingbell,FR,2744756571186,
 100,450,Javascript,1575679603000,154388,PonyPonyCodeCode,FR,37335148285737,
+100,455,Javascript,1584752316000,1276027,Sabryzz,FR,,
 100,475,Javascript,1567946837000,2073179,Biwere,FR,13718696097951,
 100,475,Javascript,1567946837000,2453008,Crypticsy,NP,91135821533111,
 100,479,Javascript,1567946837000,1822962,lolomist,FR,10774444806798,
 100,522,Javascript,1568521212000,2696879,onissay,MA,19822459991359,
 100,525,Javascript,1580776951000,3648050,CocoCouq,FR,39490627918112,
 100,603,Javascript,1567946837000,3442915,such,IN,32564548083080,
+100,623,Javascript,1584752316000,2300217,ThibaudNavarre,FR,52951901455213,
 100,639,Javascript,1567946837000,3295583,VagharTheFrenchMonster,FR,26419477616814,
 100,740,Javascript,1573261521000,1297521,ClouardDista,FR,11747154664609,
 100,743,Javascript,1571877046000,3533889,Shri121,IN,36250907577717,
@@ -271,4 +273,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1088,Javascript,1573261521000,1778307,AashishKarki,NP,13385162279998,
 100,1204,Javascript,1582765803000,3430773,Cotax,FR,55996407162212,
 100,1216,Javascript,1567946837000,2211153,Itchie,DE,,
+100,1390,Javascript,1584752316000,3258864,DavidCdr,FR,28687140355995,
 100,1665,Javascript,1569803441000,3389567,Neoxence,FR,30442665147997,

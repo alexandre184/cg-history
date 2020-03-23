@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4531|time=2020-03-22T16:23:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4532|time=2020-03-23T02:40:13
 100,58,Python3,1567946825000,848604,Sablier,FR,5344362713317,
 100,63,Python3,1567946825000,2288263,dbdr,UA,43448306132121,
 100,63,Python3,1567946825000,600941,mrv,PL,,
@@ -819,6 +819,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Python3,1574901637000,3583120,,DE,,
 100,123,Python3,1574901637000,911698,Krushak,DE,20356852428584,
 100,123,Python3,1584355738000,3713877,CodingDeerEntity,ZA,41510748403187,
+100,123,Python3,1584931213000,3663409,giosds,IT,,
 100,124,Python3,1567946825000,973631,DarkMio,DE,,
 100,124,Python3,1567946825000,3280748,Defelo,DE,94551247121386,
 100,124,Python3,1567946825000,1186292,GLE,FR,23304038397576,
@@ -896,6 +897,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Python3,1579153330000,3641826,RLE-git,DE,,
 100,126,Python3,1579311219000,1127861,void80,DE,2642635513526,
 100,126,Python3,1580689840000,831195,samgiz,LT,,
+100,126,Python3,1584931213000,3714974,ITAY,IL,41569868896809,
 100,127,Python3,1567946825000,1341375,AlexandreMercierAubin,CA,3822026643932,
 100,127,Python3,1567946825000,1438395,Beuth,FR,,
 100,127,Python3,1567946825000,1494552,DerteTrdelnik,SK,9670483568006,
@@ -996,6 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Python3,1567946825000,1127282,umnikos,BG,,
 100,132,Python3,1568684363000,1439233,RasPi,RU,,
 100,132,Python3,1579566934000,1406566,Pinoux,FR,,
-100,133,Python3,1567946825000,1113415,Lhassa,FR,,
-100,133,Python3,1567946825000,897543,Peiffer-antoine.fr,FR,,
 100,133,Python3,1567946825000,896625,quickndirty,DE,,

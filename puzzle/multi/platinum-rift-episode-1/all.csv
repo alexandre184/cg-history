@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1829|time=2020-03-25T00:44:38
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1829|time=2020-03-26T00:52:06
 5,27.74,C#,,1654422,271873,lionel_fr,FR,19441365909881,
 5,27.6,C++,,2493409,1629259,Marchete,ES,61997162908277,
 5,27.53,PHP,,1643774,155896,gamoul,FR,2010495372657,
@@ -81,7 +81,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,21.34,Javascript,,1648525,204179,resistcorp,FR,44032889515354,
 5,21.16,C#,,1731016,353884,parsley,NL,,
 5,20.68,PHP,,1731207,153057,PierralF,FR,1762452918913,
-5,20.39,C++,,1993052,2006324,SihardeOussama[PleaseStayAtHome],MA,75224840468195,
+5,20.39,C++,,1993052,2006324,SihardeOussama,MA,75224840468195,
 5,20.3,PHP,,2407441,304442,PepeBzH,FR,2070635535478,
 5,20.1,C#,,2493263,1399382,Regulus136,FR,4335723819637,
 5,20.04,Javascript,,1655465,155887,BanBan,FR,8230051407070,
@@ -315,7 +315,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,16.34,Kotlin,,2253165,1490383,arkwaw,PL,24542688022428,
 4,14.72,Clojure,,1635225,281777,Soreine,FR,2341973804339,
 4,14.07,Java,,2262164,1244740,Tenos,US,87869045865786,
-4,12.58,Java,,2694030,3704528,Palacsinta,US,,
+4,12.58,Java,,2694030,3704528,Lumpy15,US,,
 4,11.18,Clojure,,1635238,300356,RedDeckWins,US,,
 4,5.36,Javascript,,1661538,409202,Ammonite,FR,104375483781852,
 4,4.77,C++,,1935476,2650871,,,,

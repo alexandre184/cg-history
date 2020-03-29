@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=369|time=2020-03-28T01:08:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=370|time=2020-03-29T01:15:15
 100,43,Perl,1567946823000,154372,Plopx,FR,7959085736890,
 100,48,Perl,1567946823000,1193408,DoubleZeroSteph,FR,3015400557516,
 100,50,Perl,1582505942000,1537792,AsaiYusuke,US,41785380851985,
@@ -24,8 +24,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Perl,1567946823000,586565,Dedoo,RU,54341422072227,
 100,62,Perl,1567946823000,1399382,Regulus136,FR,4335723819637,
 100,62,Perl,1567946823000,371603,martin,CA,1761380964089,
-100,64,Perl,1567946823000,1546047,,,,
 100,64,Perl,1567946823000,1870937,,,,
+100,64,Perl,1567946823000,1546047,,,,
 100,64,Perl,1567946823000,1717962,Angryshark,,,
 100,64,Perl,1567946823000,2043908,AntiSquid,,,
 100,64,Perl,1567946823000,1307473,Evgenykz,UA,33899861048423,
@@ -292,6 +292,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,203,Perl,1567946823000,809821,sarahbau,US,,
 100,207,Perl,1567946823000,811776,Matthieu_R,FR,3201827172491,
 100,210,Perl,1567946823000,1138744,ElTouristo,AU,,
+100,210,Perl,1585444515000,3681143,WillRBX,US,40917526262284,
 100,211,Perl,1567946823000,271431,Newwin,CA,54951042004757,
 100,211,Perl,1567946823000,1451556,[MMI]_JA,FR,,
 100,212,Perl,1567946823000,1252380,Glopp,NC,3980880581126,

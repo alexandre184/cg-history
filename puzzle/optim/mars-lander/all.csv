@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2599|time=2020-03-30T00:40:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2600|time=2020-03-31T01:09:10
 100,2509,C++,1567946812000,1327028,FredericBautista,FR,9974192266436,
 100,2507,Bash,1567946812000,154372,Plopx,FR,7959085736890,
 100,2504,Python3,1567946812000,1695697,,,,
@@ -908,6 +908,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1734,Python3,1567946812000,1173137,chouetz,FR,18782855297444,
 100,1732,C++,1567946812000,1062808,jquilez,FR,3899227328338,
 100,1731,C#,1567946812000,2422498,nickypick,CA,16700788825344,
+100,1731,Python3,1585616950000,2593179,jocelab,FR,42203246136929,
 100,1729,C++,1567946812000,952784,Simon21,FR,15794417868476,
 100,1729,Scala,1567946812000,1317750,loul,FR,,
 100,1729,Scala,1567946812000,1477618,thunderk,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1695,C++,1567946812000,1330761,xardas,PL,3870215723014,
 100,1695,Java,1567946812000,1732278,Titikun,FR,9496768011805,
 100,1695,Scala,1567946812000,512207,Aun,FR,1913752936183,
-100,1694,C++,1567946812000,917163,RylauChelmi,FR,,

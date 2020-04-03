@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11222|time=2020-04-02T00:44:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11226|time=2020-04-03T00:41:44
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,32,PHP,1584063106000,1537792,AsaiYusuke,US,41785380851985,
 100,33,Ruby,1583461914000,1537792,AsaiYusuke,US,41785380851985,
@@ -903,8 +903,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Javascript,1567946828000,1658912,kyriiherman,UA,7907127427487,
 100,68,Javascript,1567946828000,1762207,max-y,LV,,
 100,68,Javascript,1567946828000,2075411,stw,DE,,
-100,68,Python3,1567946832000,1529381,,,,
 100,68,Python3,1567946832000,2799090,,,,
+100,68,Python3,1567946832000,1529381,,,,
 100,68,Python3,1567946832000,2049979,130N35,FR,13111365905174,
 100,68,Python3,1567946832000,2196209,Actium,RU,21530584816019,
 100,68,Python3,1567946832000,3044280,AminGholizad,BE,23774079662038,

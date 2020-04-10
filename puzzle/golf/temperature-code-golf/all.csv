@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11287|time=2020-04-09T00:48:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11302|time=2020-04-10T01:23:27
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -397,6 +397,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,54,Ruby,1583461914000,3317583,Mjo,FR,,
 100,54,C,1583542932000,1537792,AsaiYusuke,US,41785380851985,
 100,54,ObjectiveC,1584063109000,1537792,AsaiYusuke,US,41785380851985,
+100,54,Perl,1586481808000,1072200,alze,FR,5036475951741,
 100,55,Bash,1567946829000,1487168,FatIvan,GB,12794968553694,
 100,55,Perl,1567946831000,404560,Uquu,AT,15896226095125,
 100,55,Perl,1567946831000,1211531,ciaojian,IT,3126381962847,
@@ -726,8 +727,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1582940772000,953094,Witman,PL,1798239809031,
 100,63,PHP,1582940772000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,63,Javascript,1584894193000,3657944,xyz-1,PL,40019042861680,
-100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,861191,,,,
+100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,2067176,0bug,FR,13297732398460,
 100,64,Javascript,1567946828000,2641149,3nvy_,GB,19075638303175,
 100,64,Javascript,1567946828000,1115198,Alextopher,US,10724493182879,
@@ -920,8 +921,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Javascript,1567946828000,1658912,kyriiherman,UA,7907127427487,
 100,68,Javascript,1567946828000,1762207,max-y,LV,,
 100,68,Javascript,1567946828000,2075411,stw,DE,,
-100,68,Python3,1567946832000,1529381,,,,
 100,68,Python3,1567946832000,2799090,,,,
+100,68,Python3,1567946832000,1529381,,,,
 100,68,Python3,1567946832000,2049979,130N35,FR,13111365905174,
 100,68,Python3,1567946832000,2196209,Actium,RU,21530584816019,
 100,68,Python3,1567946832000,3044280,AminGholizad,BE,23774079662038,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Python3,1567946832000,1358848,rickyok,ID,,
 100,68,Python3,1567946832000,1590466,semicommutative,CA,,
 100,68,Python3,1567946832000,2621620,spirith,FR,18728615470199,
-100,68,Python3,1567946832000,3121445,tf423,DE,,

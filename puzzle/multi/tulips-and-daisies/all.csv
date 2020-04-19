@@ -1,6 +1,8 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=5|time=2020-04-18T01:19:58
-1,24.63,C++,,2805288,1880319,WildSmilodon,SI,11419736983376,
-1,20.13,C++,,2806908,880353,zasmu,FR,22237226756102,
-0,22.68,C,,2806210,2924895,trictrac,FR,23056996012330,
-0,16.74,C#,,2799030,1378958,Illedan,NO,16222515698472,
-0,9.35,D,,2800922,2043908,AntiSquid,,,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7|time=2020-04-19T01:17:07
+1,32.8,C,,2812003,2924895,trictrac,FR,23056996012330,
+1,24.48,C++,,2805288,1880319,WildSmilodon,SI,11419736983376,
+1,18.58,C++,,2806908,880353,zasmu,FR,22237226756102,
+0,19.02,C#,,2810637,2069141,tomeko,PL,13370027887052,
+0,15.5,C#,,2799030,1378958,Illedan,NO,16222515698472,
+0,12.97,C#,,2808955,523846,Palmipedus,GB,13261819485064,
+0,11.72,D,,2800922,2043908,AntiSquid,,,

@@ -1,8 +1,11 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7|time=2020-04-19T01:17:07
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=10|time=2020-04-20T00:55:33
 1,32.8,C,,2812003,2924895,trictrac,FR,23056996012330,
 1,24.48,C++,,2805288,1880319,WildSmilodon,SI,11419736983376,
 1,18.58,C++,,2806908,880353,zasmu,FR,22237226756102,
-0,19.02,C#,,2810637,2069141,tomeko,PL,13370027887052,
-0,15.5,C#,,2799030,1378958,Illedan,NO,16222515698472,
-0,12.97,C#,,2808955,523846,Palmipedus,GB,13261819485064,
-0,11.72,D,,2800922,2043908,AntiSquid,,,
+0,28.12,Python3,,2814068,2290633,field3,JP,75961127697737,
+0,25.54,Python3,,2818055,218189,[CG]Maxime,FR,2925297592678,
+0,21.47,C++,,2819259,1489865,EricSMSO,FR,10005277870281,
+0,16.82,C#,,2810637,2069141,tomeko,PL,13370027887052,
+0,14.52,C#,,2799030,1378958,Illedan,NO,16222515698472,
+0,12.04,C#,,2808955,523846,Palmipedus,GB,13261819485064,
+0,10.77,D,,2800922,2043908,AntiSquid,,,

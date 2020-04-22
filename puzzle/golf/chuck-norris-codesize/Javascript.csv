@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=292|time=2020-04-21T03:04:06
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=293|time=2020-04-22T00:43:35
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -44,6 +44,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1567946837000,1534317,Zwloki,PL,5841199758813,
 100,143,Javascript,1568248245000,3430435,DocteurWong,FR,34776645119766,
 100,143,Javascript,1569285045000,1923902,gkalpak,GR,33993501409918,
+100,143,Javascript,1587516215000,940791,Kris117,FR,16280535626899,
 100,144,Javascript,1567946837000,2451652,code_of_the_dead,FR,18798469788923,
 100,144,Javascript,1567946837000,2050195,eklore,FR,16153418043649,
 100,145,Javascript,1567946837000,3448473,massizero,FR,32732461348671,
@@ -71,7 +72,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,150,Javascript,1581294644000,3660819,BloodyTurtles,US,39803283840838,
 100,150,Javascript,1586138445000,1751832,buikikaesu,RU,24659390839366,
 100,151,Javascript,1567946837000,1629259,Marchete,ES,61997162908277,
-100,151,Javascript,1587347955000,940791,Kris117,FR,16280535626899,
 100,152,Javascript,1567946837000,783555,Colin88,NL,34373466836767,
 100,152,Javascript,1569803441000,1677918,CA,FR,8341569165435,
 100,152,Javascript,1570062745000,3508553,,CN,,
@@ -122,6 +122,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Javascript,1567946837000,2625812,Thorhod,FR,,
 100,168,Javascript,1577325808000,3612859,Gryzli,PL,41310923057410,
 100,168,Javascript,1582245053000,1017388,lavavrik,UA,3751242082505,
+100,168,Javascript,1587516215000,2469285,yassineH,MA,61201408260554,
 100,169,Javascript,1567946837000,1330843,Brokenmass,GB,4380409503798,
 100,169,Javascript,1585097115000,2438065,Wiljam,FI,60213703884300,
 100,169,Javascript,1586654970000,1406822,JBeen,UA,20440902196127,

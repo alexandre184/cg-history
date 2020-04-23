@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3172|time=2020-04-22T00:43:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3175|time=2020-04-23T01:05:00
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
 100,58,Python3,1583461912000,1537792,AsaiYusuke,US,41785380851985,
@@ -582,6 +582,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Python3,1582332474000,3644861,Sonkuun,FR,,
 100,78,Python3,1582853301000,2571540,Nagatwin,FR,18213950997435,
 100,78,Python3,1586481809000,3730057,Maxtreme,DE,42314728539566,
+100,78,Python3,1587603900000,1953786,ludowsky,FR,14499107805962,
 100,79,Python3,1567946832000,2542691,AnneMaelle,FR,,
 100,79,Python3,1567946832000,2445835,AnotherUnnamed,RU,,
 100,79,Python3,1567946832000,1323621,Blablub,DE,,
@@ -620,7 +621,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Python3,1567946832000,1047846,gpujol,FR,,
 100,79,Python3,1567946832000,1903031,hard-coded,KR,27487549921318,
 100,79,Python3,1567946832000,1589811,imrel,EE,10098097052717,
-100,79,Python3,1567946832000,1953786,ludowsky,FR,14499107805962,
 100,79,Python3,1567946832000,2652599,lyonnaisforever,FR,,
 100,79,Python3,1567946832000,1775340,ommadawn,JP,10425401671611,
 100,79,Python3,1567946832000,864308,plewanda,PL,,
@@ -824,6 +824,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Python3,1583542933000,1127908,Bigbaz,CZ,,
 100,85,Python3,1585788268000,3727174,Crazy_Remi,FR,42091389678583,
 100,85,Python3,1587516212000,2260965,LordOfBehemoths,FR,15245754478721,
+100,85,Python3,1587603900000,795411,PepeMaster,FR,6081792322150,
 100,86,Python3,1567946832000,1709315,ABCC,BR,,
 100,86,Python3,1567946832000,1739595,Bemethor,FR,56657523489584,
 100,86,Python3,1567946832000,2339129,ChristianSloper,NO,15811372447608,
@@ -989,7 +990,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Python3,1567946832000,1669999,Killerjay666,BE,8658854192939,
 100,92,Python3,1567946832000,263731,LePoulpeVolant,FR,14649590563515,
 100,92,Python3,1567946832000,1388660,Maeevick,FR,72284526964436,
-100,92,Python3,1567946832000,3314492,__Caveman__,FR,27297886488071,
 100,92,Python3,1567946832000,1429360,comp0zr,US,5127913573349,
 100,92,Python3,1567946832000,2553307,dnguyen,FR,18880544535283,
 100,92,Python3,1567946832000,1619163,furmon,FR,17917652707834,

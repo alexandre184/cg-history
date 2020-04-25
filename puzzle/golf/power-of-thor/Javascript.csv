@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3325|time=2020-04-24T01:09:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3329|time=2020-04-25T01:11:04
 100,56,Javascript,1567946825000,2449749,H.,ES,16987075738587,
 100,56,Javascript,1567946825000,1483723,d-s-x,RU,4980051025170,
 100,58,Javascript,1567946825000,599674,NinetyOne,US,1890119238339,
@@ -507,6 +507,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,100,Javascript,1567946825000,2451652,code_of_the_dead,FR,18798469788923,
 100,100,Javascript,1567946825000,765907,edejin,RU,3603704124914,
 100,100,Javascript,1567946825000,1463005,goffreder,IT,4735465165069,
+100,100,Javascript,1587777064000,3245819,TomA,JP,25841749199989,
 100,101,Javascript,1567946825000,1675279,ArnaudBarre,FR,25662301088049,
 100,101,Javascript,1567946825000,1388660,Maeevick,FR,72284526964436,
 100,101,Javascript,1567946825000,1530429,Michiel,NL,7014012141515,
@@ -599,9 +600,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1568161834000,2662861,GwenaelK,FR,24501576282344,
 100,108,Javascript,1574296233000,1825144,HerrScheissmann,NL,26073263423687,
 100,108,Javascript,1581641183000,3510173,Reinis-Mazeiks,LV,37663464036857,
-100,109,Javascript,1567946825000,1794061,,,,
-100,109,Javascript,1567946825000,1289001,,,,
 100,109,Javascript,1567946825000,1054451,,,,
+100,109,Javascript,1567946825000,1289001,,,,
+100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -808,7 +809,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Javascript,1567946825000,2029767,Dyomba,RU,,
 100,116,Javascript,1567946825000,1163546,Pyou,FR,11268161804466,
 100,116,Javascript,1567946825000,3216070,TaoJonesIndex,FR,25944702603911,
-100,116,Javascript,1567946825000,3245819,TomA,JP,25841749199989,
 100,116,Javascript,1567946825000,1315351,Ynovem,HU,68885946291747,
 100,116,Javascript,1567946825000,1657646,alberiw,PL,13632324432155,
 100,116,Javascript,1567946825000,1453981,fredware,NO,4736155420357,

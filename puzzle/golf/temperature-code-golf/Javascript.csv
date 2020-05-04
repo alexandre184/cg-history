@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1702|time=2020-05-03T01:34:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1702|time=2020-05-04T01:13:08
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,60,Javascript,1567946828000,3373064,Archemiro,CO,29836421267053,
@@ -153,8 +153,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1581213050000,1436776,BrainSolver,FR,10099178983053,
 100,63,Javascript,1582940772000,953094,Witman,PL,1798239809031,
 100,63,Javascript,1584894193000,3657944,xyz-1,PL,40019042861680,
-100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,861191,,,,
+100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,2067176,0bug,FR,13297732398460,
 100,64,Javascript,1567946828000,2641149,3nvy_,GB,19075638303175,
 100,64,Javascript,1567946828000,1115198,Alextopher,US,10724493182879,
@@ -207,6 +207,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Javascript,1581815586000,3651809,NicknameRequired,VA,40440567983888,
 100,64,Javascript,1586048261000,1566335,BeardedWhale,SE,36571449875674,
 100,64,Javascript,1587953080000,1711397,diogo.giassi,BR,9479385050848,
+100,64,Javascript,1588554788000,2552218,Jakque,FR,21307149950021,
 100,65,Javascript,1567946828000,1050768,AlfredoSalzillo,IT,2224251919371,
 100,65,Javascript,1567946828000,1937628,Elom,FR,12220589050170,
 100,65,Javascript,1567946828000,660643,Marrrk,DE,4967890171886,
@@ -263,7 +264,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Javascript,1567946828000,2075411,stw,DE,,
 100,68,Javascript,1575941080000,1021946,a_Tom,FR,,
 100,68,Javascript,1587438241000,3753183,DAS_G,FI,43449121485245,
-100,68,Javascript,1588469678000,2552218,Jakque,FR,21307149950021,
 100,69,Javascript,1567946828000,1211965,B0b,FR,,
 100,69,Javascript,1567946828000,3380514,DFrese,DE,30555045908186,
 100,69,Javascript,1567946828000,1537977,LeszekCzarny,PL,5894720247166,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3226|time=2020-05-04T01:13:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3229|time=2020-05-05T00:35:47
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
 100,58,Python3,1583461912000,1537792,AsaiYusuke,US,41785380851985,
@@ -594,6 +594,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Python3,1586481809000,3730057,Maxtreme,DE,42314728539566,
 100,78,Python3,1587603900000,1953786,ludowsky,FR,14499107805962,
 100,78,Python3,1588036464000,2244850,Kudonix,RU,21199773517045,
+100,78,Python3,1588638947000,2310861,Ilovepie,CA,34825369392996,
 100,79,Python3,1567946832000,2542691,AnneMaelle,FR,,
 100,79,Python3,1567946832000,2445835,AnotherUnnamed,RU,,
 100,79,Python3,1567946832000,1323621,Blablub,DE,,
@@ -895,9 +896,10 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,87,Python3,1582940775000,1297807,something,US,5881703188158,
 100,87,Python3,1583542933000,2622559,Gripnil,FR,19024435956137,
 100,87,Python3,1584931218000,844552,ogr,FR,2209506897881,
-100,87,Python3,1585703674000,1178245,nagster,IL,42003881679000,
+100,87,Python3,1585703674000,1178245,ngoodman,IL,42003881679000,
 100,87,Python3,1585788268000,3727326,ryanwelch,US,,
 100,87,Python3,1588554792000,1771120,redCroc,FR,39693608946814,
+100,87,Python3,1588638947000,3794809,boredStudent,CH,,
 100,88,Python3,1567946832000,338469,-___-,FR,35472269132292,
 100,88,Python3,1567946832000,2024273,AjvdD,NL,,
 100,88,Python3,1567946832000,1838977,Bemaso,FR,13243588071780,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,91,Python3,1567946832000,1486857,sammck,US,7320595789984,
 100,91,Python3,1567946832000,1110754,thepianist59,BE,2461891351100,
 100,91,Python3,1567946832000,3433701,tvvxaop,BE,,
-100,91,Python3,1571013048000,2649723,daanolav,NL,35334622095466,
-100,91,Python3,1586307021000,3705484,Lorem_Ipsum0,FR,,

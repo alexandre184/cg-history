@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=502|time=2020-05-06T00:43:18
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=502|time=2020-05-07T01:23:56
 5,32.86,C#,,2311007,2725066,Cize,CZ,23529628336949,
 5,32.17,C++,,2583704,1629259,Marchete,ES,61997162908277,
 5,31.47,C++,,2223884,2522090,MSmits,NL,17784428403916,
@@ -8,7 +8,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,29.13,C,,2223881,1415495,fenrir,FR,13431635833249,
 5,28.61,C++,,2235217,331880,Monstruo,MX,16575963540770,
 5,28.53,C++,,2223870,1022925,Adrien.,FR,17725389981317,
-5,28.29,C++,,2242073,1061242,chucknorris,HU,95146449193670,
+5,28.29,C++,,2242073,1061242,Csipcsirip,HU,95146449193670,
 5,27.97,C#,,2223871,1500515,eulerscheZahl,DE,43135502422075,
 5,27.91,C++,,2223862,1029833,tourist,BY,20527912073101,
 5,27.77,C++,,2254287,1321710,Swagboy,FR,17951677357012,
@@ -335,7 +335,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,14.38,Python3,,2209946,1953786,ludowsky,FR,14499107805962,
 3,14.32,Java,,2209891,894826,tekki,FR,7460304114642,
 3,14.28,C++,,2731036,2233179,Samsa,FR,17844764524716,
-3,14.26,Java,,2211688,1066745,JohnRambo,FR,107574148016271,
+3,14.26,Java,,2211688,1066745,DepartmentOfRedundancy,FR,107574148016271,
 3,14.07,C++,,2699513,3707873,Philbot,US,,
 3,14.05,C#,,2209918,1555572,ThunderbirdOne,BE,29020967090412,
 3,14,PHP,,2209985,1039319,pneus84,FR,,
@@ -369,7 +369,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,11.87,Python3,,2311317,2810803,pidjise,FR,,
 3,11.81,C++,,2685854,3691036,,,,
 3,11.62,C++,,2215227,2162401,Eugenijus,LT,15555779695597,
-3,11.52,Python3,,2839742,3645268,L0N3W07F,AT,43824187568105,
+3,11.52,Python3,,2839742,3645268,Werwolf,AT,43824187568105,
 3,11.45,Python3,,2262095,1272263,Caled,AU,8662053656720,
 3,11.19,C++,,2209981,1481544,ZarthaxX,AR,63758603571200,
 3,11.12,C#,,2209986,1525831,ntsd,TH,86763903852312,

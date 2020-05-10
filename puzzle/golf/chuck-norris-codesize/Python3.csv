@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=701|time=2020-05-09T00:30:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=702|time=2020-05-10T00:30:54
 100,86,Python3,1570408248000,1525831,ntsd,TH,86763903852312,
 100,90,Python3,1585961612000,1537792,AsaiYusuke,US,41785380851985,
 100,91,Python3,1571447814000,2288263,dbdr,UA,43448306132121,
@@ -334,6 +334,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Python3,1583112892000,397691,TeknighT,DK,65602063830932,
 100,163,Python3,1583461918000,3533119,wlesavo,RU,44695284080274,
 100,163,Python3,1586654968000,3749987,KobeL,BE,70587025971534,
+100,163,Python3,1589070654000,3641888,Potofmininiac,FR,,
 100,164,Python3,1567946837000,1305374,Frankich,FR,4884866560369,
 100,164,Python3,1572656636000,3385886,bandjeo,RS,,
 100,164,Python3,1586481813000,3740739,Djut,FR,,
@@ -429,7 +430,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,184,Python3,1567946837000,1480083,RunOutOfReality,FR,,
 100,184,Python3,1567946837000,1590835,ThePiProgrammer,CA,68339042835946,
 100,184,Python3,1569803439000,1926967,Stanworld,FR,11941603857102,
-100,184,Python3,1588984256000,3641888,Potofmininiac,FR,,
 100,185,Python3,1567946837000,2895220,GuillaumeRoux,FR,26527689813529,
 100,185,Python3,1567946837000,3440218,UL5,CH,,
 100,185,Python3,1584665143000,3424013,Felici3n,FR,,
@@ -672,6 +672,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,680,Python3,1576197041000,3068797,Mapx,BR,,
 100,680,Python3,1588469680000,3793673,Shyguy99,IN,,
 100,706,Python3,1569285040000,3493588,tesschung,KR,34366005881623,
+100,733,Python3,1589070654000,3804807,PinkiesOut,US,44052668506167,
 100,760,Python3,1572395743000,1543146,,DE,,
 100,774,Python3,1567946837000,3455904,StoryTeller,RU,33035663162047,
 100,784,Python3,1575941086000,3598486,Giuseppe1992,US,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3357|time=2020-05-09T00:30:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3358|time=2020-05-10T00:30:39
 100,56,Javascript,1567946825000,2449749,H.,ES,16987075738587,
 100,56,Javascript,1567946825000,1483723,d-s-x,RU,4980051025170,
 100,58,Javascript,1567946825000,599674,NinetyOne,US,1890119238339,
@@ -453,6 +453,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Javascript,1588816815000,3753183,DAS_G,FI,43449121485245,
 100,94,Javascript,1588816815000,3749987,KobeL,BE,70587025971534,
 100,94,Javascript,1588903122000,3585167,informathemusic,FR,57452709515182,
+100,94,Javascript,1589070639000,3750031,Dav1dS,US,42730143235867,
 100,95,Javascript,1567946825000,944576,,NL,,
 100,95,Javascript,1567946825000,1670895,Aeolus,US,8184934202881,
 100,95,Javascript,1567946825000,1218719,BLUB,DE,,
@@ -606,9 +607,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1568161834000,2662861,GwenaelK,FR,24501576282344,
 100,108,Javascript,1574296233000,1825144,HerrScheissmann,NL,26073263423687,
 100,108,Javascript,1581641183000,3510173,Reinis-Mazeiks,LV,37663464036857,
-100,109,Javascript,1567946825000,1289001,,,,
-100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,1054451,,,,
+100,109,Javascript,1567946825000,1794061,,,,
+100,109,Javascript,1567946825000,1289001,,,,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -996,6 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Javascript,1567946825000,3149473,tikenov,KZ,24914385794729,
 100,126,Javascript,1575852354000,3393246,Jodelhan,US,34960441143632,
 100,126,Javascript,1587690587000,2662505,aponomarev,CZ,19929405528229,
-100,127,Javascript,1567946825000,1579263,Antimony,CA,6421603564944,
 100,127,Javascript,1567946825000,866419,Rudenko,UA,4988251840943,
 100,127,Javascript,1567946825000,1149001,milenvoutchev,DE,2674189036115,

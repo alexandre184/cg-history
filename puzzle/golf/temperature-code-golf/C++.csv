@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1285|time=2020-05-10T00:30:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1287|time=2020-05-11T00:37:02
 100,56,C++,1586393337000,334009,abouvier,FR,4681436111242,
 100,63,C++,1568423181000,2288263,dbdr,UA,43448306132121,
 100,71,C++,1585703676000,1537792,AsaiYusuke,US,41785380851985,
@@ -820,6 +820,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,429,C++,1567946829000,1502690,strelok1918,UA,,
 100,430,C++,1567946829000,2273866,islammohsen98,EG,,
 100,432,C++,1567946829000,1078915,anonymousm,MA,15473429297422,
+100,434,C++,1589157422000,2613192,sigus,RU,,
 100,436,C++,1567946829000,825366,Gam,HU,,
 100,443,C++,1567946829000,1940225,astgh7,IR,12057575492728,
 100,444,C++,1567946829000,1469666,alenic,IT,46060125344133,
@@ -939,6 +940,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,772,C++,1585357717000,3736336,AshishYUO,IN,,
 100,773,C++,1567946829000,2351497,GTGAME,US,15924365903095,
 100,774,C++,1567946829000,1588863,SrArbol,ES,,
+100,775,C++,1589157422000,3735125,0ne,IN,,
 100,776,C++,1567946829000,3214487,TarasPobyvanets,UA,25572528079792,
 100,780,C++,1567946829000,1760808,Flemgrim,UA,,
 100,780,C++,1567946829000,2577299,roy97,IN,,
@@ -970,7 +972,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,836,C++,1567946829000,2616350,Schnibble,FR,18679417682497,
 100,839,C++,1567946829000,1904658,ToroidalVortex,CA,11704474317407,
 100,841,C++,1567946829000,2279870,AlirezaAtaei,UA,15578781501270,
-100,845,C++,1589070647000,2613192,sigus,RU,,
 100,850,C++,1567946829000,2385743,edik123663,UA,16435158445219,
 100,851,C++,1570581039000,3465096,arvindp97,IN,34620383630120,
 100,852,C++,1571877037000,3515666,paq1,FR,37003843359233,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,900,C++,1567946829000,1857503,HowardMartin,ID,,
 100,901,C++,1567946829000,1840657,AkhilKumarTatipamula,IN,,
 100,901,C++,1567946829000,2245066,Ukrainier,UA,,
-100,902,C++,1571533605000,3321480,Bassder,FR,,

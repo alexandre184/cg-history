@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1716|time=2020-05-14T01:17:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1718|time=2020-05-15T02:30:45
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
@@ -505,6 +505,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Javascript,1567946828000,1613949,elaaboum,FR,57975686502457,
 100,92,Javascript,1567946828000,2452281,mrKrabe,UA,17017691333357,
 100,92,Javascript,1578702638000,1213850,Rativel,PL,3108976562691,
+100,92,Javascript,1589509845000,154937,[CG]BOUGA,FR,1884036222374,
 100,93,Javascript,1567946828000,2777684,Fabiouch,BE,104390384564461,
 100,93,Javascript,1567946828000,1525923,Milihhard,FR,5657929468911,
 100,93,Javascript,1567946828000,971801,Samuel_,FR,13194088443369,
@@ -537,7 +538,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,95,Javascript,1576552573000,3590773,FrankDiehl,DE,,
 100,96,Javascript,1567946828000,1956023,GallyNet,FR,12233363995590,
 100,96,Javascript,1567946828000,2547109,JefferyNelson,US,18000689372125,
-100,96,Javascript,1567946828000,154937,[CG]BOUGA,FR,1884036222374,
 100,96,Javascript,1567946828000,3019620,codri,MD,,
 100,96,Javascript,1567946828000,1816696,flammehawk,DE,,
 100,96,Javascript,1567946828000,1668912,sirCodesALot,DK,,
@@ -853,6 +853,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,134,Javascript,1567946828000,2423076,sky42,DE,,
 100,134,Javascript,1572309474000,862919,Astrobytes,GB,60413902297900,
 100,134,Javascript,1574383145000,1542423,chocolatnoisette,FR,6013280804900,
+100,134,Javascript,1589509845000,2856198,port0201,RU,,
 100,135,Javascript,1567946828000,1197534,FranciscoAriJosinoJunior,CA,3201487382260,
 100,135,Javascript,1567946828000,1500174,Madgvox,US,19222429186173,
 100,135,Javascript,1567946828000,246128,TheCreator,FR,3184534552423,
@@ -997,5 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,164,Javascript,1582765800000,2027373,ForkMeSpoon,AU,19843675220489,
 100,164,Javascript,1582765800000,3308436,Imnibis,DE,90715648399029,
 100,164,Javascript,1582765800000,2214719,NoNickName,BE,,
-100,166,Javascript,1582765800000,1709692,LaFayette,FR,9117321578046,
 100,166,Javascript,1582765800000,1551215,MatthiasMounier,FR,,

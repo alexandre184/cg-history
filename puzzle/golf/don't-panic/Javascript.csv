@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1058|time=2020-05-16T01:57:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1059|time=2020-05-17T01:30:12
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -184,6 +184,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Javascript,1567946817000,1525816,Flodnes,NO,5656265985683,
 100,146,Javascript,1567946817000,1158948,Prowler,DE,41721263222935,
 100,146,Javascript,1567946817000,476478,Silver,US,,
+100,146,Javascript,1589679012000,2438514,ciaoo,IT,16905477283014,
 100,147,Javascript,1567946817000,952534,Slapstick,HK,1807164990711,
 100,147,Javascript,1567946817000,1712214,_CP,RO,51713368456019,
 100,147,Javascript,1567946817000,1122567,diziaq,RU,5650174828606,
@@ -470,7 +471,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,215,Javascript,1567946817000,282361,charlycoste,FR,63579787995879,
 100,216,Javascript,1567946817000,1192524,Alexander_Ts,UA,2988179515490,
 100,216,Javascript,1567946817000,864308,plewanda,PL,,
-100,217,Javascript,1567946817000,1883183,aenigma,,,
+100,217,Javascript,1567946817000,1883183,,,,
 100,217,Javascript,1567946817000,1840808,exastion,LU,11751637137247,
 100,217,Javascript,1576369828000,3151486,rhunders,BE,25017853220330,
 100,218,Javascript,1567946817000,1522266,Sliya,FR,5644669981232,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2427,Javascript,1567946817000,980980,vptrung,VN,15480219090976,
 100,2473,Javascript,1567946817000,399492,skew,RU,,
 100,2516,Javascript,1567946817000,2283415,didierbrun,FR,15422445649742,
-100,2533,Javascript,1567946817000,809529,CobraCode,DE,1893111758265,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=712|time=2020-05-17T01:30:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=715|time=2020-05-18T02:05:16
 100,86,Python3,1570408248000,1525831,ntsd,TH,86763903852312,
 100,90,Python3,1585961612000,1537792,AsaiYusuke,US,41785380851985,
 100,91,Python3,1571447814000,2288263,dbdr,UA,43448306132121,
@@ -170,6 +170,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Python3,1581727201000,3642129,nicotard,FR,39337668405582,
 100,133,Python3,1582418765000,1407720,bananaMixer,FR,4478289426855,
 100,133,Python3,1589244504000,1566335,BeardedWhale,SE,36571449875674,
+100,133,Python3,1589767516000,1874759,se-ovs,,,
 100,134,Python3,1567946837000,3410351,Deltaspace,RU,31254101171655,
 100,134,Python3,1567946837000,481988,DevKirill,RU,26384102822076,
 100,134,Python3,1567946837000,2328351,DominicCrutchley,GB,,
@@ -455,6 +456,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,190,Python3,1567946837000,3465623,Ted_Bear,TW,33437342792809,
 100,190,Python3,1567946837000,1545572,darkside,GR,,
 100,190,Python3,1588208147000,2596326,HazelJoy,US,,
+100,190,Python3,1589767516000,3797016,hauke,DK,44538862524460,
 100,191,Python3,1571620218000,1667222,Lui,IT,8041549674211,
 100,191,Python3,1581901374000,3119539,SaifFaidi,FR,40432082046913,
 100,192,Python3,1573442939000,3207719,Lumix,FR,82230880746712,
@@ -681,6 +683,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,680,Python3,1576197041000,3068797,Mapx,BR,,
 100,680,Python3,1588469680000,3793673,Shyguy99,IN,,
 100,706,Python3,1569285040000,3493588,tesschung,KR,34366005881623,
+100,714,Python3,1589767516000,3802918,thethiny,AE,44247984870201,
 100,733,Python3,1589070654000,3804807,PinkiesOut,US,44052668506167,
 100,760,Python3,1572395743000,1543146,,DE,,
 100,774,Python3,1567946837000,3455904,StoryTeller,RU,33035663162047,

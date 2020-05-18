@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1722|time=2020-05-17T01:30:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1724|time=2020-05-18T02:05:13
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
@@ -597,6 +597,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,102,Javascript,1574728246000,3574688,RaulButuc,GB,69501041689910,
 100,102,Javascript,1577064328000,1567705,noahmay,SE,32310343810810,
 100,102,Javascript,1585184078000,1870098,nubinub,FR,,
+100,102,Javascript,1589767513000,2438514,ciaoo,IT,16905477283014,
 100,103,Javascript,1567946828000,1171965,.,FR,,
 100,103,Javascript,1567946828000,158495,Cr3aHal0,FR,11235124705354,
 100,103,Javascript,1567946828000,1298152,Malito,DO,15707245390835,
@@ -818,6 +819,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,Javascript,1567946828000,1600226,Giancarlo,IT,6838034611799,
 100,129,Javascript,1567946828000,1956017,Sigandi,LU,12225787567852,
 100,129,Javascript,1567946828000,343906,Xhycos,FR,13080483287703,
+100,129,Javascript,1589767513000,3819654,Ragloph,HU,88238701295841,
 100,130,Javascript,1567946828000,1499090,AlphaCode,TH,10646262573092,
 100,130,Javascript,1567946828000,2406108,JohanKarlsson123,SE,,
 100,130,Javascript,1567946828000,1524222,derHai,DE,6986918296117,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Javascript,1582765800000,1695568,,EE,,
 100,163,Javascript,1582765800000,1790704,Xeno_PXD,FR,11028783380624,
 100,164,Javascript,1582765800000,192600,,,,
-100,164,Javascript,1582765800000,2027373,ForkMeSpoon,AU,19843675220489,
-100,164,Javascript,1582765800000,2214719,NoNickName,BE,,

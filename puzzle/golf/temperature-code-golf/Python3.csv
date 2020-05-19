@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3286|time=2020-05-18T02:05:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3292|time=2020-05-19T01:56:24
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
 100,58,Python3,1583461912000,1537792,AsaiYusuke,US,41785380851985,
@@ -722,6 +722,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Python3,1579153339000,2521626,Rylox,BE,,
 100,81,Python3,1588208139000,3561472,dmoa,GB,43429709646444,
 100,81,Python3,1589594237000,3596500,Fksg,FR,,
+100,81,Python3,1589853384000,3821926,wereii,CZ,44683905964719,
 100,82,Python3,1567946832000,1734105,Bibou,FR,13195589819771,
 100,82,Python3,1567946832000,859708,Biniou,FR,,
 100,82,Python3,1567946832000,1785098,E_pur_si_muove,HU,13222134762125,
@@ -761,6 +762,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Python3,1588726372000,2942240,John404,FR,22625480043076,
 100,82,Python3,1588903141000,2807466,ArtNext,RU,21006399417851,
 100,82,Python3,1589157419000,3686887,R1FA,FR,43807526086874,
+100,82,Python3,1589853384000,2377428,Neinaps,FR,,
 100,83,Python3,1567946832000,1428628,Asha_man,FR,,
 100,83,Python3,1567946832000,1109833,BlindOryx,ES,11210031244077,
 100,83,Python3,1567946832000,1496013,Burk,US,,
@@ -993,9 +995,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,Python3,1582332474000,3644869,valpiros,FR,,
 100,90,Python3,1586741410000,1578140,00000001,DE,,
 100,90,Python3,1587172844000,3772762,khuldraeseth,US,,
-100,91,Python3,1567946832000,1286277,Belzh,FR,11278657177153,
 100,91,Python3,1567946832000,1555784,Carl_Soiden,DK,6158862718094,
 100,91,Python3,1567946832000,1813131,Coobie,SE,,
 100,91,Python3,1567946832000,1049650,Davvyd,RS,,
 100,91,Python3,1567946832000,842737,Xexanos,DE,3345943594886,
-100,91,Python3,1567946832000,1110754,thepianist59,BE,2461891351100,

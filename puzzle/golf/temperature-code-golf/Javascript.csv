@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1732|time=2020-05-20T03:04:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1734|time=2020-05-21T01:46:28
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
@@ -317,6 +317,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Javascript,1567946828000,629655,Wolden-Dans,FR,3653109390599,
 100,75,Javascript,1567946828000,1898883,edoudou,FR,11631757928306,
 100,75,Javascript,1567946828000,3376614,tyhal,NZ,30060941965872,
+100,75,Javascript,1590025588000,2923497,Tenru,RE,44787223940148,
 100,76,Javascript,1567946828000,1639616,Bogdacutu,RO,,
 100,76,Javascript,1567946828000,2458742,Mitrandir,UA,30236969102612,
 100,76,Javascript,1567946828000,593873,SmSSysteM,RU,4699140979697,
@@ -401,7 +402,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Javascript,1572828118000,3489223,KarloHubai,RS,88425880005143,
 100,82,Javascript,1575510319000,3568154,RiRika,PH,36906507196892,
 100,82,Javascript,1578876276000,1362305,AstroSnout,RS,14751639280102,
-100,82,Javascript,1589853385000,2923497,Tenru,RE,44787223940148,
 100,83,Javascript,1567946828000,1839307,Crashthatch,GB,14088003369425,
 100,83,Javascript,1567946828000,2056649,J3r3m067,FR,13424000823169,
 100,83,Javascript,1567946828000,969000,KB,DE,37409704502795,
@@ -699,7 +699,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,114,Javascript,1567946828000,1813853,ypalaguta,UA,10667708865584,
 100,114,Javascript,1582940772000,3660819,BloodyTurtles,US,39803283840838,
 100,114,Javascript,1583283102000,3514275,Sergueibaskakov,PE,,
-100,114,Javascript,1589943885000,3825077,,GR,,
+100,114,Javascript,1589943885000,3825077,Kolberg,GR,,
 100,115,Javascript,1567946828000,1663473,Askoog,SE,11932643388530,
 100,115,Javascript,1567946828000,681607,Gyabire,DE,5255994010157,
 100,115,Javascript,1567946828000,1023075,Naro,DZ,2072711628218,

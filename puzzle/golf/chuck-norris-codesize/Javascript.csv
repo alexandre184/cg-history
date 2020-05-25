@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=328|time=2020-05-24T01:53:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=329|time=2020-05-25T01:11:12
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -17,6 +17,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Javascript,1583206178000,1436776,BrainSolver,FR,10099178983053,
 100,114,Javascript,1579399373000,1540394,LVdA,FR,14731262429844,
 100,114,Javascript,1587259083000,2023260,NinJavascript,FR,,
+100,114,Javascript,1590369072000,3796951,Gerbil,US,,
 100,115,Javascript,1574642110000,3555948,NegativeHoro,FR,95752981213366,
 100,117,Javascript,1588726380000,3513265,DaNinja,IE,35022107863170,
 100,119,Javascript,1567946837000,351062,Neumann,FR,17173563008577,
@@ -29,7 +30,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Javascript,1580000684000,3162821,Discourage,RU,38928080534385,
 100,123,Javascript,1567946837000,2178794,Unihedron,HK,17500773502453,
 100,124,Javascript,1567946837000,1109881,Salsiccia_affumicata,IT,11631190889877,
-100,124,Javascript,1589679030000,3796951,Gerbil,US,,
 100,125,Javascript,1567946837000,1179357,avdg,BE,28437229401065,
 100,125,Javascript,1567946837000,1372843,djjeck,US,5407978094654,
 100,125,Javascript,1569285045000,513549,y0p,FR,,
@@ -292,6 +292,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,399,Javascript,1581381048000,3633115,Colato4,US,,
 100,399,Javascript,1582940778000,3680766,AndrosBandos,RU,,
 100,399,Javascript,1590285206000,3826560,golliet,FR,,
+100,399,Javascript,1590369072000,3823594,0b0x,IN,44705440676315,
 100,420,Javascript,1567946837000,3415138,nicolagheza,NL,,
 100,440,Javascript,1571360355000,1161639,Chade.Revingbell,FR,2744756571186,
 100,450,Javascript,1575679603000,154388,PonyPonyCodeCode,FR,37335148285737,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1612|time=2020-05-24T01:53:10
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1614|time=2020-05-25T01:10:56
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -586,6 +586,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,241,Python3,1567946818000,154380,Manger,FR,,
 100,241,Python3,1567946818000,3378428,huchzi,DE,,
 100,241,Python3,1567946818000,2520126,yy214,FR,39959142950454,
+100,241,Python3,1590369056000,3596445,Bafiko,FR,44854648215244,
 100,242,Python3,1567946818000,3044280,AminGholizad,BE,23774079662038,
 100,242,Python3,1567946818000,903185,F1reminded,DE,2433429928602,
 100,242,Python3,1567946818000,878638,Lupin,FR,,
@@ -694,7 +695,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,253,Python3,1567946818000,1081335,DemonHunter,NO,2266573551604,
 100,253,Python3,1567946818000,1635357,GiB,FR,7734029926719,
 100,253,Python3,1567946818000,930118,Regule,PL,104975282812423,
-100,253,Python3,1590108762000,3596445,Bafiko,FR,44854648215244,
 100,254,Python3,1567946818000,2670746,BetterThanScott,GB,36341086990913,
 100,254,Python3,1567946818000,1113709,Nemeseus,FR,,
 100,254,Python3,1567946818000,1314316,jolindien,FR,14585204616953,
@@ -824,6 +824,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,285,Python3,1567946818000,1036441,CastorAF,FR,35222369281167,
 100,285,Python3,1567946818000,1021689,Nemesmarci,HU,5654945773136,
 100,286,Python3,1568161826000,1438943,LelouchSDark,DO,,
+100,286,Python3,1590369056000,3776530,Insufficient,GB,43170924073821,
 100,287,Python3,1567946818000,1440207,Rungekutta,CA,8891915436212,
 100,288,Python3,1567946818000,1117214,res,EE,,
 100,288,Python3,1567946818000,1696998,schmy,AU,8853791221380,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,338,Python3,1567946818000,1761819,EstebanRojas,CR,13550558168835,
 100,338,Python3,1567946818000,991730,Marmotte,FR,2043239675808,
 100,338,Python3,1567946818000,491851,Viral,RU,3493191171625,
-100,339,Python3,1567946818000,1447872,mike-perdide,FR,,

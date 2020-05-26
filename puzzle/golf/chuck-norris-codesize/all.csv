@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2158|time=2020-05-25T01:11:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2162|time=2020-05-26T00:54:18
 100,55,C,1567946836000,2288263,dbdr,UA,43448306132121,
 100,55,ObjectiveC,1567946836000,2288263,dbdr,UA,43448306132121,
 100,56,C,1567946836000,805067,Magus,FR,24623991925371,
@@ -505,6 +505,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Python3,1589244504000,1566335,BeardedWhale,SE,36571449875674,
 100,133,Python3,1589767516000,1874759,se-ovs,,,
 100,133,Python3,1589943888000,2377428,Neinaps,FR,,
+100,133,Python3,1590454459000,3431759,ngxingyu,SG,,
 100,134,Swift,1567946834000,1654818,tarapitha,EE,79401682508715,
 100,134,Bash,1567946835000,2998138,hoeskioeh,DE,23306747598878,
 100,134,Lua,1567946837000,155774,dwarfie,FR,17785582865119,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,174,C++,1567946834000,2786666,TetraktysPhi,FR,20818693590142,
 100,174,C#,1567946837000,2669104,KBurov,US,19292152791924,
 100,174,C#,1567946837000,1132011,pci,US,26278821513211,
-100,174,Javascript,1567946837000,3187336,C6PO,FR,25489077903191,

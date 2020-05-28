@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3324|time=2020-05-27T01:13:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3327|time=2020-05-28T00:35:03
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
 100,58,Python3,1583461912000,1537792,AsaiYusuke,US,41785380851985,
@@ -360,6 +360,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,73,Python3,1587690596000,3717149,Jef808,CA,43240908081890,
 100,73,Python3,1588121964000,3750700,VulpesCorsac,RU,42453281242210,
 100,73,Python3,1589244499000,814239,sizzbiut,FR,14081651208140,
+100,73,Python3,1590626103000,154806,piwai,FR,1956863959967,
 100,74,Python3,1567946832000,2200732,,PL,,
 100,74,Python3,1567946832000,3408715,Abydox,CA,31243628068777,
 100,74,Python3,1567946832000,1185533,Aesmerol,DE,2981708364443,
@@ -393,7 +394,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,74,Python3,1567946832000,936902,jeff333,US,,
 100,74,Python3,1567946832000,839539,madCasper,KR,11219541628592,
 100,74,Python3,1567946832000,3111214,mrcdpa,IT,24540790456284,
-100,74,Python3,1567946832000,154806,piwai,FR,1956863959967,
 100,74,Python3,1567946832000,2829780,sosna,CH,21592140136666,
 100,74,Python3,1567946832000,154967,trnsnt,FR,3237137369643,
 100,74,Python3,1567946832000,2045179,tt293,DE,35186787061982,
@@ -861,6 +861,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Python3,1587516212000,2260965,LordOfBehemoths,FR,15245754478721,
 100,85,Python3,1587603900000,795411,Fauconfan,FR,6081792322150,
 100,85,Python3,1589070651000,2143355,cooljoseph,US,82895868628196,
+100,85,Python3,1590626103000,3601776,rangelucas,AR,46751724178645,
 100,86,Python3,1567946832000,1709315,ABCC,BR,,
 100,86,Python3,1567946832000,1739595,Bemethor,FR,56657523489584,
 100,86,Python3,1567946832000,2339129,ChristianSloper,NO,15811372447608,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,Python3,1567946832000,1502456,xenic,US,5556890770673,
 100,90,Python3,1567946832000,1676162,xyz42,DE,,
 100,90,Python3,1576631483000,1544065,MSchou,DK,,
-100,90,Python3,1577234452000,3608247,IntegratedQuantum,,,

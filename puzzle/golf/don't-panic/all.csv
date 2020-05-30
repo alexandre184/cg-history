@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7564|time=2020-05-29T00:45:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7569|time=2020-05-30T00:39:17
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,59,C,1567946816000,2288263,dbdr,UA,43448306132121,
 100,59,Bash,1567946818000,2288263,dbdr,UA,43448306132121,
@@ -308,6 +308,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,C++,1585703662000,1537792,AsaiYusuke,US,41785380851985,
 100,121,PHP,1590285187000,1968855,ThePurificator,FR,12329456921169,
 100,121,OCaml,1590285189000,1968855,ThePurificator,FR,12329456921169,
+100,121,Javascript,1590799159000,1701936,Chatterton,FR,9000293426040,
 100,122,F#,1567946816000,1654818,tarapitha,EE,79401682508715,
 100,122,Javascript,1567946817000,1530199,DarkDefender,LV,5782383455241,
 100,122,Javascript,1567946817000,1290799,froyer,FR,3533893014839,
@@ -971,6 +972,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,174,Javascript,1586138428000,1751832,buikikaesu,RU,24659390839366,
 100,174,Perl,1587086420000,3730057,Maxtreme,DE,42314728539566,
 100,174,Python3,1589157400000,3750700,VulpesCorsac,RU,42453281242210,
+100,174,Ruby,1590799159000,3717149,Jef808,CA,43240908081890,
 100,175,Javascript,1567946817000,2440248,Javfres,ES,16979059060054,
 100,175,Javascript,1567946817000,1167980,qoobus,DE,2852849084542,
 100,175,Bash,1567946818000,1337680,Discoordination,GB,3817204278500,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,176,Bash,1567946818000,830819,johnnyhibiki,JP,1839904395917,
 100,176,Python3,1567946818000,1113415,Lhassa,FR,,
 100,176,Python3,1567946818000,1112073,Pouf,FR,11747341035468,
-100,176,Python3,1567946818000,1923457,Wonshtrum,FR,12619168103960,
-100,176,Python3,1567946818000,1349430,tardigrada,HU,3852192432181,

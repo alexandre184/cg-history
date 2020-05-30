@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1751|time=2020-05-29T00:45:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1754|time=2020-05-30T00:39:30
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
@@ -73,8 +73,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1589679027000,3796951,Gerbil,US,,
 100,61,Javascript,1590202391000,1193679,Icebox,DE,28987786895120,
 100,61,Javascript,1590202391000,1505715,Yiin,LT,,
-100,62,Javascript,1567946828000,1912751,,,,
 100,62,Javascript,1567946828000,1883183,,,,
+100,62,Javascript,1567946828000,1912751,,,,
 100,62,Javascript,1567946828000,2220824,Aerodactylus,FR,54336008500576,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,2043908,AntiSquid,,,
@@ -379,6 +379,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Javascript,1577064328000,3346085,Philipp~,DE,28804820047953,
 100,80,Javascript,1584665138000,1064903,Ghirtor,FR,12908263710932,
 100,80,Javascript,1590369069000,2250473,MPaviza,FR,45247183107539,
+100,80,Javascript,1590799170000,1205152,cfoll,FR,44547348311154,
 100,81,Javascript,1567946828000,1822346,Arcaseus,FR,11392604384339,
 100,81,Javascript,1567946828000,1861852,Cramer,DE,13289802969874,
 100,81,Javascript,1567946828000,1126892,David.Lalancette,CA,2936858264610,
@@ -835,6 +836,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,Javascript,1567946828000,1956017,Sigandi,LU,12225787567852,
 100,129,Javascript,1567946828000,343906,Xhycos,FR,13080483287703,
 100,129,Javascript,1589767513000,3819654,Ragloph,HU,88238701295841,
+100,129,Javascript,1590799170000,3452551,Stalroc,FR,,
 100,130,Javascript,1567946828000,1499090,AlphaCode,TH,10646262573092,
 100,130,Javascript,1567946828000,2406108,JohanKarlsson123,SE,,
 100,130,Javascript,1567946828000,1524222,derHai,DE,6986918296117,
@@ -996,6 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,157,Javascript,1567946828000,1249272,cywil,PL,10583458414793,
 100,157,Javascript,1582765800000,3677180,TrashBucket,US,51085641863261,
 100,158,Javascript,1567946828000,983420,BastianS,NL,2177919371135,
-100,158,Javascript,1567946828000,1618420,DieterVyncke,BE,,
-100,158,Javascript,1567946828000,1531471,Faktotum,DE,57964540946788,
 100,158,Javascript,1567946828000,1410425,TitouanLaunay,FR,,

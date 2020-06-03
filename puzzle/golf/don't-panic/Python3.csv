@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1624|time=2020-06-02T01:42:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1625|time=2020-06-03T00:43:09
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -567,6 +567,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,235,Python3,1567946818000,1777705,au2001,FR,37075082878106,
 100,235,Python3,1567946818000,1375637,thibaut77,FR,10317445051533,
 100,235,Python3,1586481793000,1498189,Pyoroalb,FR,14505336358731,
+100,235,Python3,1591144989000,3823601,cysong,GB,,
 100,236,Python3,1567946818000,3473248,Alex_tref,RU,34032221836049,
 100,236,Python3,1567946818000,2328351,DominicCrutchley,GB,,
 100,236,Python3,1567946818000,1306541,Steuh,FR,15808915160175,
@@ -608,8 +609,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,243,Python3,1576369827000,2667209,crashoz,FR,19272542087169,
 100,243,Python3,1585616957000,3396638,Oddcorp,FR,,
 100,243,Python3,1587777056000,2532837,fauresebast,FR,43340205355577,
-100,244,Python3,1567946818000,1402390,,,,
 100,244,Python3,1567946818000,1054451,,,,
+100,244,Python3,1567946818000,1402390,,,,
 100,244,Python3,1567946818000,1057506,Amoun,EG,,
 100,244,Python3,1567946818000,975797,Cushydom,GB,,
 100,244,Python3,1567946818000,733335,DJNour,CA,3633921896361,
@@ -963,7 +964,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,320,Python3,1567946818000,1193856,zimnicky,UA,,
 100,321,Python3,1567946818000,1182319,cucasf,AR,47378722933214,
 100,321,Python3,1567946818000,1804169,stalk-calvin,CA,24523726097663,
-100,321,Python3,1590454441000,3823601,cysong,GB,,
 100,322,Python3,1567946818000,1572888,DirtyHarry,US,12984709843239,
 100,322,Python3,1567946818000,1176217,Vladysllav,UA,17627812958112,
 100,322,Python3,1567946818000,2785892,levbor,IL,25706639013764,

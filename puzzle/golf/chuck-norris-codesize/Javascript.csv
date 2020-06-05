@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=335|time=2020-06-04T01:17:14
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=336|time=2020-06-05T00:30:43
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -88,6 +88,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1567946837000,1316505,blader0x,IT,4215851911963,
 100,153,Javascript,1567946837000,964169,ivanoff.org.ua,UA,1877756495782,
 100,153,Javascript,1567946837000,1838549,izik1,US,17617755701518,
+100,153,Javascript,1591317043000,3771692,obstinado,RU,43684328133957,
 100,154,Javascript,1572395744000,1383959,ebriand,FR,4078625698623,
 100,155,Javascript,1567946837000,1305374,Frankich,FR,4884866560369,
 100,155,Javascript,1567946837000,1390789,Matthieu.L,FR,36482342568862,
@@ -278,6 +279,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,302,Javascript,1573607681000,1220626,Trineon89,LU,,
 100,304,Javascript,1582418766000,2065521,igolus,FR,39913769766376,
 100,308,Javascript,1571273996000,1528237,Lizzie4044,US,,
+100,315,Javascript,1591317043000,2727914,Othogar,BR,35759348909586,
 100,319,Javascript,1567946837000,1016689,Ajustor,FR,26351091586217,
 100,320,Javascript,1567946837000,3278261,alexeysinko,RU,26208568157922,
 100,321,Javascript,1585788273000,1920786,Amatsukan_OFICIAL,BR,12320512151686,
@@ -312,7 +314,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,603,Javascript,1567946837000,3442915,such,IN,32564548083080,
 100,623,Javascript,1584752316000,2300217,ThibaudNavarre,FR,52951901455213,
 100,639,Javascript,1567946837000,3295583,VagharTheFrenchMonster,FR,26419477616814,
-100,673,Javascript,1588984254000,2727914,Othogar,BR,35759348909586,
 100,737,Javascript,1586048266000,3424684,Midoki,FR,59519385580335,
 100,740,Javascript,1573261521000,1297521,ClouardDista,FR,11747154664609,
 100,743,Javascript,1571877046000,3533889,Shri121,IN,36250907577717,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=967|time=2020-06-08T00:30:08
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=967|time=2020-06-09T00:30:07
 6,26.7,C++,,2058383,2577687,blasterpoard,SK,36336680250371,
 6,25.73,C#,,2058386,1500515,eulerscheZahl,DE,43135502422075,
 6,25.39,C++,,2583261,1629259,Marchete,ES,61997162908277,
@@ -212,7 +212,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,16.42,C++,,2099963,1314796,JBence,HU,12256157738927,
 5,16.37,C++,,2412639,351062,Neumann,FR,17173563008577,
 5,15.68,F#,,2616919,3590189,,,,
-5,15.38,C++,,2458352,2450542,MindControler,LT,18279641223736,
+5,15.38,C++,,2458352,2450542,MindController,LT,18279641223736,
 5,14.22,Clojure,,2052040,2662239,MarvinTheMartian,DE,19282729082244,
 5,13.75,Scala,,2616907,3590067,,,,
 5,13.52,Swift,,2458280,3087270,Alex.swift,DE,89948464798168,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2365|time=2020-06-09T00:30:08
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2365|time=2020-06-10T00:30:09
 5,35.53,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.79,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.56,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -852,6 +852,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.18,C,,595604,1482103,BlasterBaz,FR,4967237240823,
 1,23.18,Javascript,,487289,1409204,Ricco7La,BE,4336117454857,
 1,23.17,Java,,484493,1155328,Disruption,ES,2712506232940,
+1,23.17,Python3,,502717,215395,Enknable,CA,14488393339187,
 1,23.17,C,,749641,1620096,InvisibleUSA,DE,,
 1,23.17,C++,,484310,1443075,Wolfy82,HU,4574349418639,
 1,23.17,Java,,500812,390965,Aikyos,FR,11358910482676,
@@ -860,7 +861,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.16,PHP,,746798,1066028,JrmC,FR,2834222029361,
 1,23.16,Python3,,968976,1668643,Tofull,CA,8087044184320,
 1,23.16,C#,,735117,1559074,Meilby,NO,,
-1,23.16,Python3,,502717,215395,Enknable,CA,14488393339187,
 1,23.16,C++,,1390550,2085746,JacobNoga,US,,
 1,23.15,Javascript,,2226397,2548707,notliam,GB,18098162130332,
 1,23.14,C,,511891,1072200,alze,FR,5036475951741,
@@ -942,6 +942,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.9,C++,,1110328,1866525,charMlessMan,BE,,
 1,22.9,Javascript,,488144,1404527,Bastiboy,FR,4264214623777,
 1,22.9,Javascript,,498595,1412502,falsidge,US,,
+1,22.9,Javascript,,494529,1463578,MarkusMulkahainen,FI,,
 1,22.89,Go,,751000,1640431,Automatico,NO,,
 1,22.89,C#,,547484,1231500,Kinga,HU,,
 1,22.88,Java,,589398,1494734,Leogelas,FR,,
@@ -951,7 +952,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.86,C#,,573090,859508,ger0000,HU,,
 1,22.86,C++,,576064,973155,Namal,FR,,
 1,22.85,Javascript,,773140,1667353,jacobs472,US,,
-1,22.84,Javascript,,494529,1463578,MarkusMulkahainen,FI,,
 1,22.84,Java,,615127,1075687,elefank,HU,,
 1,22.84,Java,,1295886,1304340,AntoineLatour,FR,,
 1,22.84,Lua,,771961,1554944,LuaLuke,NL,6158956687345,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=757|time=2020-06-11T01:10:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=758|time=2020-06-12T00:30:47
 100,86,Python3,1570408248000,1525831,ntsd,TH,86763903852312,
 100,90,Python3,1585961612000,1537792,AsaiYusuke,US,41785380851985,
 100,91,Python3,1571447814000,2288263,dbdr,UA,43448306132121,
@@ -112,6 +112,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Python3,1583542938000,3073020,_francois_,FR,,
 100,123,Python3,1588469680000,3760922,danialgoodwin,US,43089601058933,
 100,123,Python3,1590799176000,3775962,AlexProk,RU,43243040218320,
+100,123,Python3,1591921847000,3823601,cysong,GB,,
 100,124,Python3,1567946837000,1739595,Bemethor,FR,56657523489584,
 100,124,Python3,1567946837000,854169,Silmaen,FR,26099485782783,
 100,124,Python3,1588984256000,1622367,Dela,US,,
@@ -160,6 +161,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,130,Python3,1578876283000,3621446,panLing,CZ,,
 100,130,Python3,1580862645000,1785098,E_pur_si_muove,HU,13222134762125,
 100,130,Python3,1583957411000,1485989,ReActiveNZ,NZ,5006250777410,
+100,130,Python3,1591921847000,1588583,dANNs,GB,9401676737311,
 100,131,Python3,1567946837000,1657457,GrantPerkins,US,33650747755894,
 100,131,Python3,1567946837000,2514555,RoyReznik,IL,,
 100,131,Python3,1567946837000,1502463,jitsch,DE,15422411815708,
@@ -265,7 +267,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Python3,1578702644000,1388660,Maeevick,FR,72284526964436,
 100,149,Python3,1579221124000,3446921,TheOtherAKS,TN,61339184114316,
 100,149,Python3,1590369073000,3766435,sch87,FR,,
-100,149,Python3,1591408589000,3823601,cysong,GB,,
 100,150,Python3,1567946837000,2202771,Kaplone,FR,23792369424472,
 100,150,Python3,1567946837000,1706034,Patricia,DE,19418452448625,
 100,150,Python3,1567946837000,3429080,Tingo,DE,,

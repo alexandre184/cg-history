@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1075|time=2020-06-18T01:19:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1075|time=2020-06-19T00:40:59
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -173,6 +173,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,142,Javascript,1567946817000,2643222,Voschuk,RU,18932834440917,
 100,143,Javascript,1567946817000,844863,Magnasilvar,FR,16814034335695,
 100,143,Javascript,1567946817000,2870586,MattZ,US,21782473296749,
+100,143,Javascript,1592527259000,3808031,_proton,US,44172683522650,
 100,144,Javascript,1567946817000,930869,Meidor,NL,,
 100,144,Javascript,1567946817000,233627,SlipOne,HU,4994821803578,
 100,144,Javascript,1580085027000,3540338,CAV,FR,,
@@ -192,7 +193,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1567946817000,1712214,_CP,RO,51713368456019,
 100,147,Javascript,1567946817000,1122567,diziaq,RU,5650174828606,
 100,148,Javascript,1567946817000,365796,CvxFous,FR,2892223124232,
-100,148,Javascript,1592443191000,3808031,_proton,US,44172683522650,
 100,149,Javascript,1567946817000,954763,InTheGround,FR,,
 100,149,Javascript,1567946817000,2418857,MathiasSpanhove,BE,16745962145656,
 100,149,Javascript,1567946817000,1701043,Qnu,FR,9551310631906,
@@ -204,6 +204,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,150,Javascript,1567946817000,2176877,pasymows,PL,14333167453890,
 100,150,Javascript,1567946817000,1652988,wardialer,IT,7801345180157,
 100,150,Javascript,1584063092000,490588,Uljahn,RU,23956705948685,
+100,150,Javascript,1592527259000,1474519,Sny_de_Treves,FR,59444303531011,
 100,151,Javascript,1567946817000,1357614,OptiPanda,FR,25029501539760,
 100,151,Javascript,1567946817000,3030808,skps2010,TW,,
 100,152,Javascript,1567946817000,1070566,Kodnot,LT,20227250201533,
@@ -404,7 +405,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,193,Javascript,1586048246000,3407364,personAlex,BY,33008880931371,
 100,194,Javascript,1567946817000,1707377,Colgate-Blancheur,FR,9896613056357,
 100,194,Javascript,1567946817000,1833173,MCluck90,US,10872938309363,
-100,194,Javascript,1567946817000,1474519,Sny_de_Treves,FR,59444303531011,
 100,194,Javascript,1567946817000,1198181,lapostoj,,,
 100,194,Javascript,1573607661000,3005622,tuomatz,FI,29245506856691,
 100,195,Javascript,1567946817000,1663473,Askoog,SE,11932643388530,

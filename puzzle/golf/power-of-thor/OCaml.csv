@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=78|time=2020-06-19T00:41:06
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=79|time=2020-06-20T01:05:50
 100,62,OCaml,1586567504000,1483723,d-s-x,RU,4980051025170,
 100,64,OCaml,1585528852000,1537792,AsaiYusuke,US,41785380851985,
 100,67,OCaml,1567946822000,2288263,dbdr,UA,43448306132121,
@@ -27,8 +27,10 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,209,OCaml,1567946822000,1485304,lgd,FR,4994532194737,
 100,216,OCaml,1567946822000,1695697,,,,
 100,216,OCaml,1567946822000,1008096,StekiKun,FR,2018195430287,
+100,219,OCaml,1592615150000,3719098,Adriennnn,FR,,
 100,222,OCaml,1567946822000,1094645,Swagusn,FR,2622656028322,
 100,225,OCaml,1567946822000,886483,R4N4R4M4,FR,7943435133357,
+100,230,OCaml,1592615150000,3866703,oulitan,FR,,
 100,238,OCaml,1567946822000,1095118,prignony,LU,14123963715630,
 100,242,OCaml,1567946822000,864071,Basecrosser,,,
 100,242,OCaml,1567946822000,934381,PolyB,FR,,
@@ -38,7 +40,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,261,OCaml,1567946822000,2252914,Malleek,FR,18829198596160,
 100,267,OCaml,1567946822000,1486792,Verathez,PL,,
 100,269,OCaml,1567946822000,2043908,AntiSquid,,,
-100,270,OCaml,1592354921000,3719098,Adriennnn,FR,,
 100,279,OCaml,1567946822000,254889,data,FR,1966533388796,
 100,284,OCaml,1567946822000,984109,LeCaRiBoU,FR,,
 100,287,OCaml,1567946822000,1433365,npstar,FR,16477139746925,

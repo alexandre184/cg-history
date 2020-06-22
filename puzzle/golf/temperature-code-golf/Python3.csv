@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3412|time=2020-06-21T00:46:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3416|time=2020-06-22T00:57:55
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
 100,58,Python3,1583461912000,1537792,AsaiYusuke,US,41785380851985,
@@ -371,6 +371,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,73,Python3,1590799167000,3464590,abbecool,CH,33395363139095,
 100,73,Python3,1592615157000,3807227,GaryAflalo,FR,45755587170620,
 100,73,Python3,1592700388000,975057,LeoTigers,FR,45776082875495,
+100,73,Python3,1592787475000,3857586,Rush_iam,RU,63831865848969,
 100,74,Python3,1567946832000,2200732,,PL,,
 100,74,Python3,1567946832000,3408715,Abydox,CA,31243628068777,
 100,74,Python3,1567946832000,1185533,Aesmerol,DE,2981708364443,
@@ -525,6 +526,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1586138442000,1810014,Pentaguy,FR,10685225431015,
 100,76,Python3,1586393333000,1498189,Pyoroalb,FR,14505336358731,
 100,76,Python3,1592443207000,2504032,b3n01t,US,17725703921870,
+100,76,Python3,1592787475000,2844747,imbadpython,HK,,
 100,77,Python3,1567946832000,1329079,Aengus,CH,9983363899985,
 100,77,Python3,1567946832000,2045063,DaanP,GB,,
 100,77,Python3,1567946832000,1684066,Dade,IL,,
@@ -852,7 +854,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,Python3,1588121964000,3726978,VirtualAtom,FR,41848346565993,
 100,84,Python3,1590713143000,3727326,ryanwelch,US,,
 100,84,Python3,1590799167000,1717907,DeividasMorkunas,GB,,
-100,84,Python3,1592700388000,2844747,imbadpython,HK,,
 100,85,Python3,1567946832000,3373291,BHW,NZ,30114207714096,
 100,85,Python3,1567946832000,1691929,Blubbor,AT,8734602753318,
 100,85,Python3,1567946832000,162982,Dami-e,MA,1957175104038,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,89,Python3,1582332474000,3644867,MattH,FR,,
 100,89,Python3,1584931218000,3718108,WJL2020,CN,41590581563745,
 100,89,Python3,1585528862000,3663409,giosds,IT,,
-100,89,Python3,1585616970000,3718422,Onurbi12,FR,41595261171515,

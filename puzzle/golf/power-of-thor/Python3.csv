@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4947|time=2020-06-22T00:57:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4951|time=2020-06-23T00:45:12
 100,58,Python3,1567946825000,848604,Sablier,FR,5344362713317,
 100,63,Python3,1567946825000,2288263,dbdr,UA,43448306132121,
 100,63,Python3,1567946825000,600941,mrv,PL,,
@@ -312,7 +312,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,95,Python3,1588816810000,3749987,SaintPlaysThings,BE,70587025971534,
 100,95,Python3,1588984242000,3777855,jimzrt,DE,43242320530088,
 100,95,Python3,1589070641000,3750031,Dav1dS,US,42730143235867,
-100,96,Python3,1567946825000,1390607,GoperJohn,UA,67601821029462,
+100,96,Python3,1567946825000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,96,Python3,1567946825000,1549145,Mealc,SI,,
 100,96,Python3,1567946825000,854169,Silmaen,FR,26099485782783,
 100,96,Python3,1567946825000,1523309,TimS,US,,
@@ -867,6 +867,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Python3,1567946825000,1762567,xibu,DE,,
 100,122,Python3,1583801653000,3424280,Zener,FR,39512266910769,
 100,122,Python3,1587003182000,1865617,StepanSmirnov,RU,43620222104393,
+100,122,Python3,1592873112000,2858445,Ophelion,RU,43769520718525,
 100,123,Python3,1567946825000,1350249,Georges,FR,,
 100,123,Python3,1567946825000,1333545,Hydro7,NL,5352076212438,
 100,123,Python3,1567946825000,1556010,Kungen,SE,8211278842066,
@@ -992,7 +993,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,Python3,1587516199000,3416055,ItsAFeature,DE,102091024235650,
 100,128,Python3,1567946825000,1691929,Blubbor,AT,8734602753318,
 100,128,Python3,1567946825000,1109301,McKenneii,FR,,
-100,128,Python3,1567946825000,2734485,Randrian,CA,,
 100,128,Python3,1567946825000,2571114,cheetaah,RU,18526443365050,
 100,128,Python3,1567946825000,2543881,hjkl,SI,,
 100,128,Python3,1567946825000,1676761,jnoyola,US,,

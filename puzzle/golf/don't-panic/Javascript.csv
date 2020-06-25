@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1077|time=2020-06-24T00:58:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1078|time=2020-06-25T00:45:47
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -782,6 +782,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,377,Javascript,1567946817000,976999,Munzuk,FR,2066674126132,
 100,377,Javascript,1567946817000,1814705,ebausson,FR,,
 100,379,Javascript,1567946817000,154348,ProYd,FR,2271405018802,
+100,380,Javascript,1593045947000,1483410,GiulneverFergett,GR,64162085944079,
 100,381,Javascript,1567946817000,2306023,Egganta,FR,,
 100,382,Javascript,1567946817000,1755033,sylvainpellier,FR,9898189074772,
 100,385,Javascript,1567946817000,1364530,Tegomass,FR,3947394669884,
@@ -826,7 +827,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,454,Javascript,1567946817000,155770,zedd971,FR,65021647658461,
 100,466,Javascript,1567946817000,937795,mace,ZA,,
 100,469,Javascript,1567946817000,2968042,GANON,FR,22933668628876,
-100,472,Javascript,1592960308000,1483410,GiulneverFergett,GR,64162085944079,
 100,473,Javascript,1567946817000,1292916,btravers,FR,9818101716522,
 100,475,Javascript,1567946817000,1053360,vlabob,RS,2152074318983,
 100,477,Javascript,1567946817000,2373953,Dridriun,FR,64609504937617,
@@ -870,6 +870,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,623,Javascript,1567946817000,157377,McKelian,FR,63490429201814,
 100,626,Javascript,1567946817000,1218749,dauom,MA,19379286277703,
 100,649,Javascript,1567946817000,314562,Mechar,FI,3832913620992,
+100,650,Javascript,1593045947000,3829638,Notantoine,DK,44839102640732,
 100,666,Javascript,1567946817000,939577,fejesbence,HU,1759120231264,
 100,677,Javascript,1567946817000,855983,mind,BR,1747150921980,
 100,678,Javascript,1567946817000,2817558,PMak,DK,21331777712404,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2110,Javascript,1567946817000,1124828,Cheatah,CZ,2546926540357,
 100,2121,Javascript,1567946817000,1023108,,DE,,
 100,2127,Javascript,1567946817000,887061,,,,
-100,2128,Javascript,1567946817000,1883289,bthalheim,US,,

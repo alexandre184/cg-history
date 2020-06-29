@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2373|time=2020-06-28T00:30:06
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2374|time=2020-06-29T00:30:06
 5,35.58,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.8,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.51,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -870,6 +870,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.15,Javascript,,2226397,2548707,notliam,GB,18098162130332,
 1,23.14,C#,,512115,1377467,GeorgeClooney,CA,5097084386601,
 1,23.14,C,,511891,1072200,alze,FR,5036475951741,
+1,23.14,C,,686826,1592902,sondx89,VN,,
 1,23.14,Python3,,936212,1517028,Nicau,FR,8848906617685,
 1,23.14,C++,,768550,1662602,brenrik,FR,,
 1,23.13,C#,,962800,1385626,Wabash9000,US,4206137522309,
@@ -886,7 +887,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.08,Python3,,2663570,3654128,Phoenixya,FR,39647882838978,
 1,23.07,Java,,484493,1155328,Disruption,ES,2712506232940,
 1,23.07,Ruby,,577663,1477028,CbIC,RU,13717872806680,
-1,23.07,C,,686826,1592902,sondx89,VN,,
 1,23.06,Javascript,,746657,1355097,Manos,CH,7359369827903,
 1,23.06,PHP,,493584,1014924,TommyP,PT,,
 1,23.06,Javascript,,625811,1494618,Lune,FR,5430953847195,
@@ -922,6 +922,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.96,C++,,579789,1490531,pedrofr,CH,,
 1,22.96,Javascript,,722158,1604839,Smeletz,PL,6905310140527,
 1,22.96,Java,,589398,1494734,Leogelas,FR,,
+1,22.95,Go,,751000,1640431,Automatico,NO,,
 1,22.95,C#,,573090,859508,ger0000,HU,,
 1,22.94,C++,,1481109,890335,ttr,NL,15580335029168,
 1,22.94,C#,,508856,1448599,MdNght,RO,,
@@ -945,7 +946,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.9,C++,,1110328,1866525,charMlessMan,BE,,
 1,22.9,Javascript,,498595,1412502,falsidge,US,,
 1,22.9,Javascript,,494529,1463578,MarkusMulkahainen,FI,,
-1,22.89,Go,,751000,1640431,Automatico,NO,,
 1,22.89,C#,,2335906,912971,Amousy,FR,4498392759233,
 1,22.89,C++,,760825,1656386,miszczu,PL,,
 1,22.89,C#,,547484,1231500,Kinga,HU,,

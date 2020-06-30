@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2374|time=2020-06-29T00:30:06
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2374|time=2020-06-30T00:30:06
 5,35.58,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.8,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.51,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -884,7 +884,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.09,Python,,628546,810902,bouletta,US,,
 1,23.09,Python,,506945,224988,DerPferd,US,2806202774501,
 1,23.09,Go,,685362,1547430,softclone,US,6893546461299,
-1,23.08,Python3,,2663570,3654128,Phoenixya,FR,39647882838978,
 1,23.07,Java,,484493,1155328,Disruption,ES,2712506232940,
 1,23.07,Ruby,,577663,1477028,CbIC,RU,13717872806680,
 1,23.06,Javascript,,746657,1355097,Manos,CH,7359369827903,
@@ -959,6 +958,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.87,Perl,,725150,1567782,brt,NL,6297278202178,
 1,22.87,C++,,679131,1573009,Fibonacci-,US,,
 1,22.86,Python3,,503835,1107599,NoOne,FR,2460651071448,
+1,22.86,Python3,,2663570,3654128,Phoenixya,FR,39647882838978,
 1,22.85,Javascript,,773140,1667353,jacobs472,US,,
 1,22.85,Python3,,634685,1012020,Markusha,MD,21117387170051,
 1,22.85,C++,,501778,846817,KENGURU,CY,3456881442204,
@@ -980,6 +980,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.82,C++,,1848811,1442814,RedXam,FR,19548250120571,
 1,22.81,C++,,534250,1479835,skill,JP,,
 1,22.81,VB.NET,,576247,1476242,Txiwi,ES,5036284664644,
+1,22.81,C++,,2578454,3396528,surffer3d,ES,32089180617011,
 1,22.81,C#,,604645,1502114,Sambock,IT,5799476411156,
 1,22.81,Python3,,570330,1471382,Andilutten,SE,4840977361513,
 1,22.81,C++,,488791,1456040,RaphaelM,FR,,
@@ -998,4 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.78,C++,,884827,1594820,Hyuga,AU,6688139933706,
 1,22.78,Python3,,2682995,3338228,odii,AT,28481144765919,
 1,22.78,Python,,979417,1350971,Bodzio,PL,5390793557284,
-1,22.77,Python3,,2726142,1487824,AndreasGoral,DE,11731952967276,

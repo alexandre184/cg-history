@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3457|time=2020-06-29T00:32:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3459|time=2020-06-30T00:34:18
 100,56,Javascript,1567946825000,2449749,H.,ES,16987075738587,
 100,56,Javascript,1567946825000,1483723,d-s-x,RU,4980051025170,
 100,58,Javascript,1567946825000,599674,NinetyOne,US,1890119238339,
@@ -177,6 +177,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Javascript,1567946825000,740424,vmeurisse,FR,2106597540539,
 100,80,Javascript,1571447803000,1566335,BeardedWhale,SE,36571449875674,
 100,80,Javascript,1591317031000,2923506,darkhorse64,FR,23496414257567,
+100,80,Javascript,1593477258000,975057,LeoTigers,FR,45776082875495,
 100,81,Javascript,1567946825000,893416,3C273,FR,,
 100,81,Javascript,1567946825000,906002,Artur,RU,1816203553637,
 100,81,Javascript,1567946825000,949477,Athomas,HU,4475315848713,
@@ -382,7 +383,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,Javascript,1582765790000,735487,amurushkin,RU,2111605585777,
 100,90,Javascript,1582765790000,3230794,tutubalin,RU,25714480415254,
 100,90,Javascript,1585788259000,3611120,Gary000,FR,38377541187317,
-100,90,Javascript,1593390757000,975057,LeoTigers,FR,45776082875495,
 100,91,Javascript,1567946825000,2087409,,FR,,
 100,91,Javascript,1567946825000,2897325,CAEZAR,FR,22044095600520,
 100,91,Javascript,1567946825000,882162,Catarinao,BR,2304950377150,
@@ -429,8 +429,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,93,Javascript,1584355739000,1527062,dst,AU,34803303136299,
 100,93,Javascript,1589943875000,2698637,CorentinFoucault,FR,26497120301720,
 100,93,Javascript,1593132397000,3873248,Acerbic,RU,,
-100,94,Javascript,1567946825000,861191,,,,
 100,94,Javascript,1567946825000,2103453,,,,
+100,94,Javascript,1567946825000,861191,,,,
 100,94,Javascript,1567946825000,2292422,ABE2048,FR,15466971859762,
 100,94,Javascript,1567946825000,952284,Copro,FR,2300779354891,
 100,94,Javascript,1567946825000,1837427,Evangelyne,FR,36709626848785,

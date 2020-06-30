@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2980|time=2020-06-29T00:32:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2983|time=2020-06-30T00:34:18
 100,112,C#,1586481799000,1483723,d-s-x,RU,4980051025170,
 100,121,C#,1567946821000,848989,revever,FR,3260982337452,
 100,124,C#,1567946821000,2316796,Psio,FR,44129382204229,
@@ -48,6 +48,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,148,C#,1567946821000,776401,mshogren,CA,,
 100,149,C#,1567946821000,557990,Wazemo,PL,1724224108740,
 100,155,C#,1567946821000,858978,Gauss,FR,,
+100,158,C#,1593477258000,975057,LeoTigers,FR,45776082875495,
 100,161,C#,1567946821000,1071140,BeberLeNewbie,FR,9528729029244,
 100,163,C#,1567946821000,1209008,,,,
 100,163,C#,1567946821000,912633,Poviliukas,LT,,
@@ -900,8 +901,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,325,C#,1567946821000,1268929,Ombrok,FR,,
 100,325,C#,1567946821000,1723104,Typlan,FR,93983166885603,
 100,325,C#,1576802426000,987596,Benve,FR,,
-100,326,C#,1567946821000,1082488,,FR,,
 100,326,C#,1567946821000,2946541,,,,
+100,326,C#,1567946821000,1082488,,FR,,
 100,326,C#,1567946821000,946865,AncientStorm,NL,,
 100,326,C#,1567946821000,1135668,BColaco,PT,,
 100,326,C#,1567946821000,946860,Sailor_Of_My_Vessel,NL,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,339,C#,1567946821000,1981732,MJS,FR,12502282804946,
 100,339,C#,1567946821000,1504379,Moonshine,SE,6079777591624,
 100,339,C#,1567946821000,1449795,iDeko,GB,,
-100,339,C#,1569285028000,3493392,Nickname123123,US,,

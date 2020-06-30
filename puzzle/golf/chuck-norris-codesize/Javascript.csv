@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=355|time=2020-06-29T00:32:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=356|time=2020-06-30T00:34:29
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -133,6 +133,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1592182476000,1198181,lapostoj,,,
 100,162,Javascript,1589157425000,2422063,vikingviolinist,NO,,
 100,163,Javascript,1568684374000,3349783,glm9637,DE,29214528162212,
+100,163,Javascript,1593477269000,935744,Alcalyn,FR,12077756999042,
 100,164,Javascript,1567946837000,1146138,Hyperlisk,US,,
 100,165,Javascript,1567946837000,1854246,Counterbalance,NL,26367790351026,
 100,165,Javascript,1567946837000,3313645,tcr,FR,28970347821773,
@@ -198,6 +199,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,186,Javascript,1585097115000,3726613,Mark_Essam,EG,41761861143554,
 100,186,Javascript,1588121967000,3772998,CodingKiwi,DE,43026028361140,
 100,187,Javascript,1589679030000,3768412,calebharrison,US,77138061844747,
+100,187,Javascript,1593477269000,3774645,LimaceHurlante,FR,43164861241910,
 100,188,Javascript,1567946837000,416762,Khao,CA,2035557596161,
 100,188,Javascript,1583631660000,1282856,ErikBrendel,DE,41207148765120,
 100,188,Javascript,1587438246000,2662505,aponomarev,CZ,19929405528229,
@@ -208,7 +210,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,190,Javascript,1590025593000,1681589,NoGoodBox,DE,8602324243582,
 100,191,Javascript,1567946837000,1695141,sbsbessa,PT,24874664192666,
 100,192,Javascript,1567946837000,2049979,130N35,FR,13111365905174,
-100,192,Javascript,1590887972000,3774645,LimaceHurlante,FR,43164861241910,
 100,194,Javascript,1590108781000,3825077,Kolberg,GR,,
 100,195,Javascript,1574728247000,1063294,Chaya,FR,5516488637538,
 100,196,Javascript,1567946837000,3286802,JonasS,DE,,

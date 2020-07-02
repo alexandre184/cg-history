@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=356|time=2020-07-01T00:30:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=357|time=2020-07-02T00:49:03
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -188,6 +188,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,181,Javascript,1567946837000,3229071,megawarrior,UA,25970334501033,
 100,181,Javascript,1581553846000,155723,gfauchart,GB,22030522492096,
 100,182,Javascript,1567946837000,155881,XLP,CH,104405127658237,
+100,182,Javascript,1593650943000,3531488,Dryadim,FR,35488801936304,
 100,183,Javascript,1567946837000,2243940,Revenge911,ZA,60190844196823,
 100,184,Javascript,1572066679000,1197593,NatNgs,FR,39232585925310,
 100,184,Javascript,1589244504000,3517779,flo5589,FR,42081762142788,
@@ -205,7 +206,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,188,Javascript,1587438246000,2662505,aponomarev,CZ,19929405528229,
 100,189,Javascript,1567946837000,3310913,Poot,US,26989344685981,
 100,189,Javascript,1580517047000,3327267,Exoden,FR,39337364208048,
-100,189,Javascript,1584355756000,3531488,Dryadim,FR,35488801936304,
 100,190,Javascript,1571704870000,1493086,Booligoosh,AU,35590187557733,
 100,190,Javascript,1590025593000,1681589,NoGoodBox,DE,8602324243582,
 100,191,Javascript,1567946837000,1695141,sbsbessa,PT,24874664192666,
@@ -307,6 +307,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,372,Javascript,1567946837000,2373953,Dridriun,FR,64609504937617,
 100,374,Javascript,1587953085000,1932031,Tricatel,FR,83353245236605,
 100,378,Javascript,1575333166000,2591473,ListsOfArrays,US,19150776457506,
+100,392,Javascript,1593650943000,1483410,GiulneverFergett,GR,64162085944079,
 100,394,Javascript,1571013056000,2048433,Naferla,RE,22925688348029,
 100,394,Javascript,1580171442000,3363565,BloodRayne,IN,39882160214224,
 100,396,Javascript,1571273996000,2411443,,,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=358|time=2020-07-04T00:50:09
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=360|time=2020-07-05T00:30:45
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1579482012000,1654818,tarapitha,EE,79401682508715,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -93,6 +93,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1567946837000,964169,ivanoff.org.ua,UA,1877756495782,
 100,153,Javascript,1567946837000,1838549,izik1,US,17617755701518,
 100,153,Javascript,1591317043000,3771692,obstinado,RU,43684328133957,
+100,153,Javascript,1593909045000,3808031,_proton,US,44172683522650,
 100,154,Javascript,1572395744000,1383959,ebriand,FR,4078625698623,
 100,155,Javascript,1567946837000,1305374,Frankich,FR,4884866560369,
 100,155,Javascript,1567946837000,1390789,Matthieu.L,FR,36482342568862,
@@ -100,7 +101,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1578876284000,2923506,darkhorse64,FR,23496414257567,
 100,155,Javascript,1581641195000,3651809,NicknameRequired,VA,40440567983888,
 100,155,Javascript,1590108781000,3814546,awarua,AU,44606627612380,
-100,155,Javascript,1592787479000,3808031,_proton,US,44172683522650,
 100,156,Javascript,1567946837000,2744095,ArSeNiK,TH,,
 100,156,Javascript,1567946837000,3435196,KratosAurion,US,32311505826149,
 100,156,Javascript,1567946837000,2420013,Zoli007,HU,82985362200270,
@@ -220,6 +220,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Javascript,1567946837000,2547420,Coldk,FR,55596643029773,
 100,198,Javascript,1567946837000,1825144,HerrScheissmann,NL,26073263423687,
 100,198,Javascript,1576802436000,1203306,OcterA,FR,38396527373859,
+100,198,Javascript,1593909045000,3883993,GuidoCrego,AR,,
+100,198,Javascript,1593909045000,3820903,HexaDonut,US,44685727284033,
 100,199,Javascript,1567946837000,1641962,RoliBoy,,,
 100,199,Javascript,1567946837000,204179,resistcorp,FR,44032889515354,
 100,199,Javascript,1582332479000,3270198,simbst,FR,90556189912787,

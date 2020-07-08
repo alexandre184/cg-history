@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1655|time=2020-07-07T00:30:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1656|time=2020-07-08T00:35:35
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -92,6 +92,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,162,Python3,1567946818000,1186885,miracle,CA,,
 100,162,Python3,1567946818000,3121445,tf423,DE,,
 100,162,Python3,1581727183000,2490008,ebicochineal,JP,43936521576530,
+100,162,Python3,1594168535000,3797725,matcl,FR,,
 100,163,Python3,1567946818000,1436814,Nosveo,ES,8228862724368,
 100,163,Python3,1567946818000,1691194,fernsham,US,,
 100,164,Python3,1567946818000,1193679,Icebox,DE,28987786895120,
@@ -495,6 +496,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,221,Python3,1567946818000,1877372,ptillemans,BE,11390352349670,
 100,221,Python3,1567946818000,1116062,rohbotic,AU,28182124833387,
 100,221,Python3,1583206155000,2924895,trictrac,FR,23056996012330,
+100,221,Python3,1594168535000,2007690,SpeedOfMagic,RU,13311791401255,
 100,222,Python3,1567946818000,2400928,Gilsidoo,FR,16457530734249,
 100,222,Python3,1567946818000,2991804,Illumina1st,FR,23949961674925,
 100,222,Python3,1567946818000,1876212,PFischbeck,DE,14113662061799,
@@ -508,7 +510,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,223,Python3,1567946818000,2297753,Warly7692,FR,15501605839682,
 100,223,Python3,1567946818000,1237668,lezeroq,BY,3317932257080,
 100,223,Python3,1567946818000,1332977,ren,FR,,
-100,223,Python3,1586307004000,2007690,SpeedOfMagic,RU,13311791401255,
 100,224,Python3,1567946818000,1712214,_CP,RO,51713368456019,
 100,224,Python3,1592270210000,3657937,elderlybeginner,PL,39723186977905,
 100,225,Python3,1567946818000,1795882,TeamBatman,FR,14335690018299,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,324,Python3,1567946818000,1953786,ludowsky,FR,14499107805962,
 100,325,Python3,1567946818000,1122194,Ciko,CZ,5522100353743,
 100,326,Python3,1567946818000,774387,DrunkenMonkey,GB,,
-100,326,Python3,1567946818000,1603408,sandor,FR,7380882831559,

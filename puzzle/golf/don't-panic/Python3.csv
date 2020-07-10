@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1656|time=2020-07-09T01:30:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1656|time=2020-07-10T00:41:03
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -75,6 +75,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Python3,1585703663000,865280,batin,FR,,
 100,159,Python3,1567946818000,1954303,Freidrich,NO,12213509614148,
 100,159,Python3,1567946818000,848017,t4g,RU,4070728666810,
+100,159,Python3,1594341663000,1708981,Melir,FR,,
 100,160,Python3,1567946818000,1695697,,,,
 100,160,Python3,1567946818000,648983,Elliot,GB,1875283981324,
 100,160,Python3,1567946818000,153799,Neomatamune,FR,15739395988007,
@@ -86,7 +87,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Python3,1567946818000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,161,Python3,1567946818000,1207632,uppi,RU,3090376418072,
 100,161,Python3,1570408224000,1535449,Kisioj,PL,5855157999885,
-100,162,Python3,1567946818000,1708981,Melir,FR,,
 100,162,Python3,1567946818000,2163375,Yomgui,CA,,
 100,162,Python3,1567946818000,1518983,bertm,NL,7625279377731,
 100,162,Python3,1567946818000,1186885,miracle,CA,,
@@ -326,7 +326,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,194,Python3,1591317026000,3431759,ngxingyu,SG,,
 100,194,Python3,1592615143000,3807227,GaryAflalo,FR,45755587170620,
 100,195,Python3,1567946818000,1411343,Jimms,TW,5307068064831,
-100,195,Python3,1567946818000,1480083,RunOutOfReality,FR,,
+100,195,Python3,1567946818000,1480083,Sharym,FR,,
 100,195,Python3,1567946818000,1284747,mr-push,ZW,9045526147125,
 100,195,Python3,1567946818000,1485892,mypetlion,CA,,
 100,195,Python3,1567946818000,1748571,quantumCat,DE,9788648330507,

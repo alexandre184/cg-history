@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7658|time=2020-07-09T01:30:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7664|time=2020-07-10T00:41:02
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,59,C,1567946816000,2288263,dbdr,UA,43448306132121,
 100,59,Bash,1567946818000,2288263,dbdr,UA,43448306132121,
@@ -729,6 +729,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Python3,1567946818000,1954303,Freidrich,NO,12213509614148,
 100,159,Python3,1567946818000,848017,t4g,RU,4070728666810,
 100,159,Ruby,1567946820000,1122412,TheNinja,AU,3823739809641,
+100,159,Python3,1594341663000,1708981,Melir,FR,,
 100,160,C,1567946816000,351062,Neumann,FR,17173563008577,
 100,160,C#,1567946816000,1039809,Azziliz,FR,2174385385699,
 100,160,Bash,1567946818000,1143726,,,,
@@ -762,7 +763,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Python3,1570408224000,1535449,Kisioj,PL,5855157999885,
 100,162,Javascript,1567946817000,1012619,HenJi,FR,,
 100,162,Javascript,1567946817000,1158405,KolbasniyVeter,RU,12152414905102,
-100,162,Python3,1567946818000,1708981,Melir,FR,,
 100,162,Python3,1567946818000,2163375,Yomgui,CA,,
 100,162,Python3,1567946818000,1518983,bertm,NL,7625279377731,
 100,162,Python3,1567946818000,1186885,miracle,CA,,

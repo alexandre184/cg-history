@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1083|time=2020-07-10T00:41:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1083|time=2020-07-11T01:15:13
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
@@ -32,6 +32,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,104,Javascript,1567946817000,2438065,Wiljam,FI,60213703884300,
 100,104,Javascript,1567946817000,2663611,bobd91,GB,,
 100,104,Javascript,1567946817000,998275,jforne,SE,1999273328174,
+100,104,Javascript,1594430113000,3845610,pardouin,FR,60364063762936,
 100,105,Javascript,1567946817000,1629259,Marchete,ES,61997162908277,
 100,105,Javascript,1567946817000,1179357,avdg,BE,28437229401065,
 100,105,Javascript,1591144988000,940791,Kris117,FR,16280535626899,
@@ -507,9 +508,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,226,Javascript,1567946817000,1348523,Numb_,FR,12609619784224,
 100,226,Javascript,1567946817000,1383083,lillethomas,DK,5906220830897,
 100,227,Javascript,1567946817000,916264,DeKay,BG,4231531910733,
-100,227,Javascript,1567946817000,1217280,Future_Infinity,GE,,
 100,227,Javascript,1567946817000,568337,Ofire,FR,3503624251334,
 100,227,Javascript,1567946817000,3076711,Sceurpien,HU,52730426530429,
+100,227,Javascript,1567946817000,1217280,nikodz,GE,,
 100,228,Javascript,1587953067000,3303979,DavidBinaud,FR,41129026224441,
 100,228,Javascript,1593563427000,3868172,Desjardins,DE,46161242090337,
 100,229,Javascript,1567946817000,1047454,Kiloapt,PT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2017,Javascript,1567946817000,1227426,Azaol,FR,34916102430935,
 100,2025,Javascript,1567946817000,2696461,Wivern,DE,,
 100,2087,Javascript,1567946817000,2030520,nicolas59,FR,,
-100,2093,Javascript,1567946817000,1081031,,FR,,

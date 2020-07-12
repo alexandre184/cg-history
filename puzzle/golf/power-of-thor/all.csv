@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=26682|time=2020-07-11T01:15:19
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=26689|time=2020-07-12T00:30:35
 100,45,Bash,1567946822000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,1654818,tarapitha,EE,79401682508715,
 100,45,Ruby,1567946826000,154372,Plopx,FR,7959085736890,
@@ -170,6 +170,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Python3,1567946825000,2927320,itectori,CA,22507458161222,
 100,65,Ruby,1567946826000,828213,anst,FR,1734651202684,
 100,65,Ruby,1567946826000,973040,papyjo,FR,15696776172839,
+100,65,Ruby,1567946826000,2527522,proGuix,FR,23265549015073,
 100,65,Ruby,1567946826000,1201783,yoha,FR,3181778176261,
 100,65,C,1567946827000,601054,geza,HU,,
 100,65,Javascript,1574556786000,3555948,NegativeHoro,FR,95752981213366,
@@ -291,6 +292,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,70,Python3,1581553836000,717196,NWDD,ES,,
 100,70,ObjectiveC,1585528854000,1537792,AsaiYusuke,US,41785380851985,
 100,70,C,1585528855000,1537792,AsaiYusuke,US,41785380851985,
+100,70,Javascript,1594513839000,3873248,Acerbic,RU,,
 100,71,Bash,1567946822000,1615710,rexso,NO,,
 100,71,PHP,1567946822000,553938,MagAlex,RU,3292063463360,
 100,71,PHP,1567946822000,1629259,Marchete,ES,61997162908277,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Javascript,1567946825000,1036353,,BG,,
 100,85,Javascript,1567946825000,1479264,ArbustRe,FR,4956547000583,
 100,85,Javascript,1567946825000,3255377,Fulgar,FR,,
-100,85,Javascript,1567946825000,3147898,Injourn,US,25304248339913,
-100,85,Javascript,1567946825000,1526464,MehmetTheConqueror,TR,6573089914117,

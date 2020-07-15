@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=413|time=2020-07-14T00:54:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=414|time=2020-07-15T02:51:07
 100,45,Bash,1567946822000,154372,Plopx,FR,7959085736890,
 100,45,Bash,1567946822000,1654818,tarapitha,EE,79401682508715,
 100,46,Bash,1567946822000,2288263,dbdr,UA,43448306132121,
@@ -96,6 +96,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,93,Bash,1567946822000,1854639,iDxMeG,FR,11242007512344,
 100,93,Bash,1567946822000,2116157,ivfun,FI,,
 100,93,Bash,1567946822000,482543,seshoumara,DE,2706057761436,
+100,93,Bash,1594781467000,3767576,njaber,FR,42859081180228,
 100,94,Bash,1567946822000,1976379,Deoda,FR,12409568749977,
 100,94,Bash,1567946822000,1535449,Kisioj,PL,5855157999885,
 100,94,Bash,1567946822000,826359,Skywalker,AT,,
@@ -342,6 +343,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,255,Bash,1567946822000,792501,Stryke,GB,,
 100,257,Bash,1567946822000,944379,Ironor,FR,,
 100,257,Bash,1567946822000,1648302,Relative_Causality,US,,
+100,261,Bash,1594781467000,3808031,_proton,US,44172683522650,
 100,269,Bash,1567946822000,877888,kael,FR,,
 100,269,Bash,1593218103000,820000,ValGrowth,JP,95440985747208,
 100,273,Bash,1567946822000,1069082,Lenqth,JP,2202750660136,
@@ -370,7 +372,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,363,Bash,1567946822000,1206537,MadKnight,RU,29443769474274,
 100,378,Bash,1567946822000,1894079,HeliosIsCoding,FR,12602740028902,
 100,381,Bash,1567946822000,1498189,Pyoroalb,FR,14505336358731,
-100,381,Bash,1594258246000,3808031,_proton,US,44172683522650,
 100,395,Bash,1567946822000,1238875,El_Matador,FR,3264909237453,
 100,397,Bash,1567946822000,1002925,AngelDeaD,BA,,
 100,401,Bash,1567946822000,976079,JesseNelson,US,,

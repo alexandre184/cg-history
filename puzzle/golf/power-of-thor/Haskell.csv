@@ -1,6 +1,7 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=155|time=2020-07-25T00:33:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=155|time=2020-07-26T01:35:59
 100,81,Haskell,1595464480000,1483723,d-s-x,RU,4980051025170,
 100,105,Haskell,1595032238000,1537792,AsaiYusuke,US,41785380851985,
+100,119,Haskell,1595727359000,154906,JBM,CH,,
 100,120,Haskell,1567946824000,903521,j_hn,GB,,
 100,121,Haskell,1567946824000,1370901,Valdrac,IE,3986102843776,
 100,131,Haskell,1567946824000,948682,artcorpse,RO,1785805181787,
@@ -20,6 +21,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Haskell,1567946824000,1546047,,,,
 100,160,Haskell,1567946824000,903982,Hurryabit,DE,,
 100,160,Haskell,1588036455000,3622757,anid,,,
+100,160,Haskell,1595727359000,3046779,Kathrin,DE,23869551387688,
 100,161,Haskell,1567946824000,1654818,tarapitha,EE,79401682508715,
 100,165,Haskell,1567946824000,879096,Drestin,FR,,
 100,166,Haskell,1567946824000,1822346,Arcaseus,FR,11392604384339,
@@ -30,7 +32,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,189,Haskell,1567946824000,1838289,Dagal,BE,11875122484747,
 100,190,Haskell,1567946824000,2315411,cejonio,VE,15624450307485,
 100,192,Haskell,1567946824000,949729,erdeszt,DK,1789653253955,
-100,194,Haskell,1567946824000,154906,JBM,CH,,
 100,197,Haskell,1567946824000,1971578,skami,CA,,
 100,200,Haskell,1567946824000,1648938,Kharyus,CA,8167199125486,
 100,201,Haskell,1567946824000,1123943,RISC,DE,2581072065027,
@@ -42,7 +43,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,222,Haskell,1567946824000,1086579,biinari,GB,8045497744230,
 100,223,Haskell,1567946824000,196486,phaazon,FR,35118024167088,
 100,228,Haskell,1567946824000,841814,kdridi,FR,3360688669846,
-100,229,Haskell,1567946824000,3046779,Kathrin,DE,23869551387688,
 100,230,Haskell,1567946824000,1452275,Mateon1,PL,,
 100,233,Haskell,1567946824000,849004,Lulu,FR,,
 100,234,Haskell,1567946824000,1450167,Cookiemagik,NO,4624670891049,

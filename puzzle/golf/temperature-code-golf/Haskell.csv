@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=138|time=2020-07-26T01:36:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=138|time=2020-07-27T00:37:52
 100,64,Haskell,1586393334000,334009,abouvier,FR,4681436111242,
 100,66,Haskell,1585616975000,1537792,AsaiYusuke,US,41785380851985,
 100,67,Haskell,1567946829000,512125,Totoro83,IT,,
@@ -6,6 +6,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,71,Haskell,1567946829000,512097,Stilgart,FR,69893904259383,
 100,73,Haskell,1567946829000,2176877,pasymows,PL,14333167453890,
 100,76,Haskell,1567946829000,1250366,Ookami,TR,9293970212210,
+100,76,Haskell,1595810272000,2491616,abt8601,TW,98797144337932,
 100,78,Haskell,1567946829000,1654818,tarapitha,EE,79401682508715,
 100,80,Haskell,1567946829000,1630178,ulrikdem,ZA,,
 100,82,Haskell,1567946829000,280898,Syllo,FR,20531209560804,
@@ -18,8 +19,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,89,Haskell,1582681640000,709490,Sinlepuissant,FR,2102604527472,
 100,90,Haskell,1582853300000,1629259,Marchete,ES,61997162908277,
 100,91,Haskell,1567946829000,1822346,Arcaseus,FR,11392604384339,
-100,92,Haskell,1567946829000,1483501,,,,
 100,92,Haskell,1567946829000,1546047,,,,
+100,92,Haskell,1567946829000,1483501,,,,
 100,92,Haskell,1567946829000,2043908,AntiSquid,,,
 100,92,Haskell,1567946829000,2073179,Biwere,FR,13718696097951,
 100,92,Haskell,1567946829000,1528929,Blackfich,FR,95780209684968,
@@ -69,7 +70,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Haskell,1567946829000,1634195,k.ab,ID,13042180236760,
 100,94,Haskell,1567946829000,2096266,southzz,CN,,
 100,95,Haskell,1567946829000,1167096,exfalso,HU,,
-100,95,Haskell,1585357710000,2491616,abt8601,TW,98797144337932,
 100,96,Haskell,1567946829000,1342745,Catiminie,FR,5639908914832,
 100,97,Haskell,1567946829000,331248,Zycho,FR,11110536282546,
 100,97,Haskell,1567946829000,2315411,cejonio,VE,15624450307485,

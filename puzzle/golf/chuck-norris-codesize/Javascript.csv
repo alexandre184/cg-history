@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=378|time=2020-07-28T00:32:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=379|time=2020-07-29T00:49:23
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
@@ -53,6 +53,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Javascript,1584355756000,3035070,Ipso,FR,25682160338718,
 100,141,Javascript,1568161847000,3465335,nQ,DE,33460668324556,
 100,142,Javascript,1590971918000,1205152,cfoll,FR,44547348311154,
+100,142,Javascript,1595983763000,1838549,izik1,US,17617755701518,
 100,143,Javascript,1567946837000,1534317,Zwloki,PL,5841199758813,
 100,143,Javascript,1568248245000,3430435,DocteurWong,FR,34776645119766,
 100,143,Javascript,1569285045000,1923902,gkalpak,GR,33993501409918,
@@ -99,7 +100,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,152,Javascript,1592012096000,3800387,typingm,US,45632925718771,
 100,153,Javascript,1567946837000,1316505,blader0x,IT,4215851911963,
 100,153,Javascript,1567946837000,964169,ivanoff.org.ua,UA,1877756495782,
-100,153,Javascript,1567946837000,1838549,izik1,US,17617755701518,
 100,153,Javascript,1591317043000,3771692,obstinado,RU,43684328133957,
 100,154,Javascript,1572395744000,1383959,ebriand,FR,4078625698623,
 100,155,Javascript,1567946837000,1305374,Frankich,FR,4884866560369,
@@ -338,6 +338,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,399,Javascript,1590285206000,3826560,golliet,FR,,
 100,399,Javascript,1590369072000,3823594,T.I.C,IN,44705440676315,
 100,399,Javascript,1591145005000,3802193,Chentala_2005466,IN,,
+100,399,Javascript,1595983763000,3906374,ThanhDat,VN,47378501570499,
 100,420,Javascript,1567946837000,3415138,nicolagheza,NL,,
 100,440,Javascript,1571360355000,1161639,Chade.Revingbell,FR,2744756571186,
 100,447,Javascript,1590799174000,3824499,DingYi,CH,45484684606562,

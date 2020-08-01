@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2385|time=2020-07-31T00:30:06
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2385|time=2020-08-01T00:30:06
 5,35.58,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.8,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.51,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -825,6 +825,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.28,C#,,675167,1520716,Haskeer,CZ,5527962940413,
 1,23.28,Python3,,506028,1471739,Kronus,GB,4842018201637,
 1,23.28,Javascript,,672424,889640,Kaljuk,EE,15473756993353,
+1,23.28,C,,582671,1492574,zc,SE,,
 1,23.27,C#,,631709,1503612,Dreagor,DK,5582369908328,
 1,23.26,C#,,2335906,912971,Amousy,FR,4498392759233,
 1,23.26,Python,,506945,224988,DerPferd,US,2806202774501,
@@ -852,7 +853,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.21,Ruby,,664050,435967,NullNilNone,JP,1994356422592,
 1,23.21,PHP,,716503,1052976,MatasR,LT,51797208337996,
 1,23.21,C++,,1218206,1836084,TaoLu,NO,11029116747275,
-1,23.21,C,,582671,1492574,zc,SE,,
 1,23.21,Python3,,2622382,3101644,HerrHagner,DE,39056126752805,
 1,23.21,Python3,,2983464,2740243,Rprades,ES,20624170826703,
 1,23.2,Perl,,484831,1411423,Wyllyam,FR,11464394269084,
@@ -938,9 +938,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.94,Ruby,,494078,208864,Garutha,FR,,
 1,22.94,Javascript,,488144,1404527,Bastiboy,FR,4264214623777,
 1,22.94,Python3,,622783,1505665,NicolasGrosjean,FR,19417507523832,
+1,22.93,C#,,594920,1497497,Sonic8484,US,,
 1,22.93,Java,,582753,1489108,adri,FR,7702842636234,
 1,22.93,C#,,512253,1472234,Filip.Lada,PL,,
-1,22.93,C#,,594920,1497497,Sonic8484,US,,
 1,22.93,C#,,619650,915148,mbsff,NL,21702014925988,
 1,22.92,Python,,607474,918962,enc0der,LT,3294043340055,
 1,22.9,Python3,,491838,1460921,suchintan,US,,

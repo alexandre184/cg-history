@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3554|time=2020-07-31T00:30:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3560|time=2020-08-01T00:40:54
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
 100,58,Python3,1583461912000,1537792,AsaiYusuke,US,41785380851985,
@@ -605,6 +605,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,77,Python3,1584407600000,1105871,PolonaisCripestro,RO,4163650938351,
 100,77,Python3,1588383510000,3393535,LuckyJ.,FR,42540162041167,
 100,77,Python3,1593823804000,356923,NgoKimPhu,VN,2178894043498,
+100,77,Python3,1596242454000,2522090,MSmits,NL,17784428403916,
 100,78,Python3,1567946832000,1279172,Alphaloc,BE,23634984069202,
 100,78,Python3,1567946832000,935500,Brewir,FR,2864631216806,
 100,78,Python3,1567946832000,481988,DevKirill,RU,26384102822076,
@@ -700,6 +701,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Python3,1590542038000,3576115,Arphnut,FR,44695708675877,
 100,79,Python3,1590799167000,3837466,fantamar,FR,45416462663807,
 100,79,Python3,1591233429000,1178320,Trunksistor,FR,62480066877864,
+100,79,Python3,1596242454000,3219780,Lucdel,FR,39684206233472,
 100,80,Python3,1567946832000,1359111,,HK,,
 100,80,Python3,1567946832000,1960233,AntonBorzenko,RS,13330046099369,
 100,80,Python3,1567946832000,1633040,ChristopheSauge,FR,7469447139553,
@@ -995,7 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,87,Python3,1596099792000,3913241,KevinLi-py,CN,66916307437823,
 100,88,Python3,1567946832000,1374100,IcEEyE,IS,,
 100,88,Python3,1567946832000,1402237,MikeHung,TW,,
-100,88,Python3,1567946832000,1640935,UR,UA,,
 100,88,Python3,1567946832000,1407720,bananaMixer,FR,4478289426855,
 100,88,Python3,1567946832000,838184,deyan,BG,,
-100,88,Python3,1567946832000,1188063,kelevra,ES,,

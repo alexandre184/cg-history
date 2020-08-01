@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2046|time=2020-07-31T00:30:11
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2050|time=2020-08-01T00:30:11
 5,27.92,C++,,1935827,735910,Agade,CH,1997542876524,
 5,25.54,C++,,2657329,3640479,Draxodia,LT,39244463975400,
 5,25.45,C#,,2113625,1500515,eulerscheZahl,DE,43135502422075,
@@ -912,7 +912,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,12.92,C#,,2599783,1391603,Morten242,NO,4158945269170,
 3,12.82,C#,,1664799,2264391,hrkrx,DE,15280318448445,
 3,12.6,Java,,1938220,1980934,ddimi,GR,,
-3,12.4,Python3,,2491435,2858827,basicbotter,DE,,
+3,12.4,Python3,,2491435,2858827,basicAI,DE,,
 3,12.05,C++,,3012717,153774,cocoche007,FR,12063678639268,
 3,12,C#,,1770718,2530451,EPP8,DE,,
 3,11.88,Python3,,2626366,3581724,ffgth,FR,37357984761390,
@@ -952,7 +952,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,27.48,C#,,1818968,2574801,sT0Ps,CH,18311804856425,
 2,27.23,Python3,,2022415,1544133,GameHHH,IN,34984045611102,
 2,27.21,C++,,2267262,2725632,Warren_Pons,FR,,
-2,27.2,C++,,2663914,3648226,boullenote,FR,,
+2,27.19,C++,,2663914,3648226,boullenote,FR,,
 2,27.15,C#,,1676194,2470095,Warzexx,FR,,
 2,27.15,Kotlin,,1653033,1306289,Jasperr,NL,56014127626531,
 2,27.14,C#,,1667698,2109099,tod2g,US,,
@@ -975,8 +975,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,26.72,Javascript,,2103957,2926806,nojohns14,AU,22543513302573,
 2,26.65,Python3,,1655553,2384276,elIrd,FR,,
 2,26.62,Python3,,1935456,2689722,Tomatosoup,PL,19584449110737,
+2,26.6,Python3,,2315835,2642273,Pluk,NL,18908025938362,
 2,26.58,PHP,,2405771,1376795,jguihard,FR,,
-2,26.57,Python3,,2315835,2642273,Pluk,NL,18908025938362,
 2,26.54,Javascript,,2066070,2833265,chowhy,RU,,
 2,26.52,C,,1669432,1782559,ribensan,FR,13418421686343,
 2,26.47,C#,,1661273,2219871,TernumSal,NL,14764669380633,

@@ -1,5 +1,6 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=386|time=2020-08-01T00:41:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=386|time=2020-08-02T00:44:25
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
+100,88,Javascript,1596329065000,3845610,pardouin,FR,60364063762936,
 100,89,Javascript,1571447817000,2288263,dbdr,UA,43448306132121,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
 100,99,Javascript,1567946837000,1341520,egaetan,FR,21055353954161,
@@ -17,7 +18,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,Javascript,1596242461000,1540394,LVdA,FR,14731262429844,
 100,108,Javascript,1591145005000,940791,Kris117,FR,16280535626899,
 100,111,Javascript,1594081846000,3883981,mauguignard,AR,59651720258546,
-100,112,Javascript,1596242461000,3845610,pardouin,FR,60364063762936,
 100,113,Javascript,1583206178000,1436776,BrainSolver,FR,10099178983053,
 100,114,Javascript,1587259083000,2023260,NinJavascript,FR,,
 100,114,Javascript,1590369072000,3796951,Gerbil,US,,
@@ -51,6 +51,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,139,Javascript,1593737171000,975057,LeoTigers,FR,45776082875495,
 100,140,Javascript,1583973561000,1353795,TheCrucial,PL,18581166493021,
 100,140,Javascript,1584355756000,3035070,Ipso,FR,25682160338718,
+100,140,Javascript,1596329065000,2315158,luigi_gelato,DE,,
 100,141,Javascript,1568161847000,3465335,nQ,DE,33460668324556,
 100,142,Javascript,1590971918000,1205152,cfoll,FR,44547348311154,
 100,142,Javascript,1595983763000,1838549,izik1,US,17617755701518,
@@ -74,7 +75,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1567946837000,3217628,,,,
 100,147,Javascript,1567946837000,3352676,3t0n,RU,29140567952302,
 100,147,Javascript,1587777076000,1525816,Flodnes,NO,5656265985683,
-100,147,Javascript,1595896346000,2315158,luigi_gelato,DE,,
 100,148,Javascript,1567946837000,1876059,Knagis,LV,,
 100,148,Javascript,1579566945000,3009598,Flashantik,RU,32413605073716,
 100,149,Javascript,1567946837000,3380514,DFrese,DE,30555045908186,

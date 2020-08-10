@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1882|time=2020-08-09T00:39:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1883|time=2020-08-10T00:45:36
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -675,6 +675,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1567946828000,2069141,tomeko,PL,13370027887052,
 100,105,Javascript,1571360351000,3517002,tha_Sup3rN0va,US,35129605395957,
 100,105,Javascript,1592527274000,3820903,HexaDonut,US,44685727284033,
+100,105,Javascript,1597020336000,1282856,ErikBrendel,DE,41207148765120,
 100,106,Javascript,1567946828000,1250571,ChrisJeamme,FR,44090843307907,
 100,106,Javascript,1567946828000,679101,Dazzle,CY,32305181598666,
 100,106,Javascript,1567946828000,1706784,Garryton,FR,,
@@ -693,8 +694,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1567946828000,2151087,VincentB,FR,,
 100,108,Javascript,1567946828000,811064,Vincenzo,,,
 100,108,Javascript,1582332475000,3270198,simbst,FR,90556189912787,
-100,109,Javascript,1567946828000,1870937,,,,
 100,109,Javascript,1567946828000,1546047,,,,
+100,109,Javascript,1567946828000,1870937,,,,
 100,109,Javascript,1567946828000,1364294,AddNickname,DE,,
 100,109,Javascript,1567946828000,1664044,BUG,LT,8001540148135,
 100,109,Javascript,1567946828000,3372518,Chookees,DE,29657909541335,
@@ -777,7 +778,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,117,Javascript,1567946828000,1036656,solf,FR,,
 100,117,Javascript,1567946828000,1833749,yusech,RU,11283028781086,
 100,117,Javascript,1573518725000,3530476,kitofers,LV,35503406232989,
-100,117,Javascript,1583631652000,1282856,ErikBrendel,DE,41207148765120,
 100,117,Javascript,1586741409000,2508635,hemhel,FR,17633818881669,
 100,117,Javascript,1588816817000,3730720,jdedev-fr,FR,41850529930879,
 100,117,Javascript,1592354924000,1466631,Akrib,FR,17971797700592,

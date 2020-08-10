@@ -1,8 +1,8 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1103|time=2020-08-09T00:39:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1105|time=2020-08-10T00:45:18
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
-100,78,Javascript,1567946817000,2288263,dbdr,UA,43448306132121,
+100,77,Javascript,1597020318000,2288263,dbdr,UA,43448306132121,
 100,79,Javascript,1567946817000,553938,MagAlex,RU,3292063463360,
 100,79,Javascript,1567946817000,995896,Ro9,NO,1966483935754,
 100,81,Javascript,1567946817000,1001096,MyIIone,AT,4231449697357,
@@ -334,6 +334,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,179,Javascript,1567946817000,811064,Vincenzo,,,
 100,179,Javascript,1567946817000,1639807,kubked,PL,9601040293335,
 100,179,Javascript,1596846627000,311035,leojean890,FR,42398427701382,
+100,179,Javascript,1597020318000,1282856,ErikBrendel,DE,41207148765120,
 100,180,Javascript,1567946817000,1070463,,LB,,
 100,180,Javascript,1567946817000,1416686,Avatar256,CY,9078440854926,
 100,180,Javascript,1567946817000,1185580,Lauz,FR,,
@@ -437,6 +438,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,Javascript,1596099776000,3896228,Boruwaka,FR,46695808602989,
 100,199,Javascript,1596589269000,894599,DidierC,FR,1756298465824,
 100,199,Javascript,1596589269000,1464932,Tiramon,DE,12287237914571,
+100,199,Javascript,1597020318000,3770485,zakki,JP,47838307587408,
 100,200,Javascript,1567946817000,1060181,Dabou,FR,3798025078627,
 100,200,Javascript,1567946817000,2990918,Dingodino,FR,23216166624189,
 100,200,Javascript,1567946817000,1390503,IQuick,CZ,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1823,Javascript,1567946817000,2537136,terra,IN,,
 100,1830,Javascript,1567946817000,1164044,Visual,BG,5482099319684,
 100,1851,Javascript,1567946817000,1233827,U-Zyn,SG,,
-100,1851,Javascript,1568423160000,2696879,onissay,MA,19822459991359,
-100,1863,Javascript,1567946817000,1723970,Cendretoundra,FR,9405856720848,

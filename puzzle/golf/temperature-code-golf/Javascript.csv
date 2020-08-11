@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1883|time=2020-08-10T00:45:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1885|time=2020-08-11T00:31:02
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -643,6 +643,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,102,Javascript,1574728246000,3574688,RaulButuc,GB,69501041689910,
 100,102,Javascript,1577064328000,1567705,noahmay,SE,32310343810810,
 100,102,Javascript,1585184078000,1870098,nubinub,FR,,
+100,102,Javascript,1597105862000,3745240,Murch,US,61337140457028,
 100,103,Javascript,1567946828000,1171965,.,FR,,
 100,103,Javascript,1567946828000,158495,Cr3aHal0,FR,11235124705354,
 100,103,Javascript,1567946828000,1298152,Malito,DO,15707245390835,
@@ -836,7 +837,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Javascript,1567946828000,1721781,svetlana,RU,,
 100,122,Javascript,1580430635000,3576678,camiloacosta,CO,39077307084047,
 100,122,Javascript,1587438241000,3585167,informathemusic,FR,57452709515182,
-100,122,Javascript,1590542039000,3745240,Murch,US,61337140457028,
 100,123,Javascript,1567946828000,667135,,,,
 100,123,Javascript,1567946828000,1175822,Teramis,UA,9224171656574,
 100,123,Javascript,1567946828000,155099,Valindah,FR,,
@@ -984,6 +984,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1567946828000,1483661,papper,HU,,
 100,143,Javascript,1582765800000,2037120,Keyser_D_Soze,IT,13370375363088,
 100,143,Javascript,1594600240000,3884325,Leafslash02,US,,
+100,143,Javascript,1597105862000,3573721,Kheops,FR,47496100144083,
 100,144,Javascript,1567946828000,1867545,MisterJavaScript,RO,,
 100,144,Javascript,1567946828000,1157501,OMantere,FI,5763017362957,
 100,144,Javascript,1567946828000,2049236,fuzzalicious,SE,13275434062852,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,Javascript,1590887967000,3824499,DingYi,CH,45484684606562,
 100,146,Javascript,1567946828000,1664435,Moorehojer,DK,7993838461284,
 100,146,Javascript,1567946828000,784594,thocon,VN,13823538984539,
-100,146,Javascript,1568423179000,3460822,J2319,HU,,

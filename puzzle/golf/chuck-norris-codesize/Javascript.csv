@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=414|time=2020-08-23T00:30:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=415|time=2020-08-24T00:39:11
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -334,6 +334,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,289,Javascript,1596155448000,2083173,3moor,EG,47635240771408,
 100,289,Javascript,1597624245000,1473079,Zylar,US,4875610554885,
 100,296,Javascript,1571533607000,3444208,Anatoli,DE,32592586143834,
+100,301,Javascript,1598229551000,3833619,sacquet,FR,48929182387074,
 100,302,Javascript,1573607681000,1220626,Trineon89,LU,,
 100,303,Javascript,1594688101000,3601226,CodePredator,DE,45218383617227,
 100,304,Javascript,1582418766000,2065521,igolus,FR,39913769766376,
@@ -345,7 +346,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,324,Javascript,1597537849000,2320995,Photon_,LT,,
 100,330,Javascript,1597624245000,1689191,FranckEinstein90,CA,25662004570430,
 100,333,Javascript,1593305188000,1982271,ploufplouf,FR,63080328493265,
-100,340,Javascript,1598142646000,3833619,sacquet,FR,48929182387074,
 100,345,Javascript,1575592245000,3590773,FrankDiehl,DE,,
 100,347,Javascript,1597886065000,1496370,Auk,FR,,
 100,348,Javascript,1597105865000,3751016,Q12,IL,51600040008150,
@@ -411,5 +411,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1197,Javascript,1596155448000,3916660,Mikei,PL,,
 100,1204,Javascript,1582765803000,3430773,Cotax,FR,55996407162212,
 100,1216,Javascript,1567946837000,2211153,Itchie,DE,,
+100,1235,Javascript,1598229551000,2094622,Meliandah,FR,16512787841973,
 100,1390,Javascript,1584752316000,3258864,DavidCdr,FR,28687140355995,
 100,1665,Javascript,1569803441000,3389567,Neoxence,FR,30442665147997,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7884|time=2020-08-31T02:40:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7887|time=2020-09-01T02:30:33
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,58,Ruby,1598142630000,3845610,pardouin,FR,60364063762936,
@@ -197,6 +197,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,104,C,1571447796000,973040,papyjo,FR,15696776172839,
 100,104,C,1585444507000,1537792,AsaiYusuke,US,41785380851985,
 100,104,ObjectiveC,1585444509000,1537792,AsaiYusuke,US,41785380851985,
+100,104,Javascript,1598927434000,2315158,luigi_gelato,DE,,
 100,105,Javascript,1567946817000,1629259,Marchete,ES,61997162908277,
 100,105,Javascript,1567946817000,1179357,avdg,BE,28437229401065,
 100,105,Lua,1567946817000,371603,martin,CA,1761380964089,
@@ -282,6 +283,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Ruby,1567946820000,1186273,knacky,FR,,
 100,116,Ruby,1567946820000,1201783,qsantos,FR,3181778176261,
 100,116,Haskell,1585616956000,1537792,AsaiYusuke,US,41785380851985,
+100,116,TypeScript,1598927437000,155774,dwarfie,FR,17785582865119,
 100,117,Javascript,1567946817000,2043908,AntiSquid,,,
 100,117,Javascript,1567946817000,1195992,NickJammer,FR,,
 100,117,Javascript,1567946817000,1049881,TheDudeGuySomeone,PT,,
@@ -600,7 +602,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Python3,1567946818000,356235,Fread,FR,,
 100,147,C,1569025927000,2928146,LolCat,MU,22538133010433,
 100,147,Python3,1569025930000,2928146,LolCat,MU,22538133010433,
-100,147,Javascript,1596242439000,2315158,luigi_gelato,DE,,
 100,147,Python3,1598810508000,2552218,Jakque,FR,21307149950021,
 100,148,C,1567946816000,1072200,alze,FR,5036475951741,
 100,148,Javascript,1567946817000,365796,CvxFous,FR,2892223124232,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,174,Javascript,1567946817000,1118531,Darmo,FR,68614044187891,
 100,174,Javascript,1567946817000,1485462,LamSonFei,FR,4992683759913,
 100,174,Javascript,1567946817000,2591473,ListsOfArrays,US,19150776457506,
-100,174,Javascript,1567946817000,1340767,ThibM,LU,,

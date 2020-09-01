@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=420|time=2020-08-31T02:40:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=422|time=2020-09-01T02:30:54
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -285,6 +285,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,225,Javascript,1589509853000,3818428,kalamari,FR,44621789630735,
 100,226,Javascript,1591664132000,3830995,CFeerick,US,,
 100,227,Javascript,1567946837000,3389343,Judhyr,FR,31482164310375,
+100,227,Javascript,1598927454000,1833749,yusech,RU,11283028781086,
 100,229,Javascript,1585357720000,811064,Vincenzo,,,
 100,230,Javascript,1582074236000,371603,martin,CA,1761380964089,
 100,230,Javascript,1597365048000,3869618,tsds,RU,46148249699201,
@@ -404,6 +405,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,786,Javascript,1594258254000,3865350,Haiit99,VN,46031745006737,
 100,807,Javascript,1575679603000,1258139,KaoX,ES,37972329130154,
 100,823,Javascript,1567946837000,908073,DanielKamras,RS,,
+100,834,Javascript,1598927454000,3925985,A2theK,DE,48163241270499,
 100,861,Javascript,1580689850000,3665757,Socolin,CA,39940682811977,
 100,926,Javascript,1567946837000,3402262,,GE,,
 100,946,Javascript,1567946837000,1709995,PlpSwg,FR,,
@@ -414,7 +416,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1088,Javascript,1573261521000,1778307,AashishKarki,NP,13385162279998,
 100,1101,Javascript,1586567517000,3757487,lester_,,,
 100,1197,Javascript,1596155448000,3916660,Mikei,PL,,
-100,1204,Javascript,1582765803000,3430773,Cotax,FR,55996407162212,
+100,1204,Javascript,1582765803000,3430773,tax16,FR,55996407162212,
 100,1216,Javascript,1567946837000,2211153,Itchie,DE,,
 100,1235,Javascript,1598229551000,2094622,Meliandah,FR,16512787841973,
 100,1390,Javascript,1584752316000,3258864,DavidCdr,FR,28687140355995,

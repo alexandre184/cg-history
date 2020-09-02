@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1740|time=2020-09-01T02:30:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1740|time=2020-09-02T02:30:40
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,73,Python3,1595464471000,1654818,tarapitha,EE,79401682508715,
 100,76,Python3,1595378016000,2288263,dbdr,UA,43448306132121,
@@ -512,6 +512,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,216,Python3,1567946818000,1868564,nimaje,DE,,
 100,216,Python3,1593909027000,1959179,savitar,FR,12257932088083,
 100,216,Python3,1598229534000,3940027,alexlo,ES,,
+100,216,Python3,1599013840000,3496138,HayTheFirst,FR,,
 100,217,Python3,1567946818000,1453857,Ard,US,,
 100,217,Python3,1567946818000,1592768,BillTuer,DE,6631259379552,
 100,217,Python3,1571704850000,1803872,happyweary,FR,10689522808579,
@@ -593,7 +594,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,229,Python3,1567946818000,1983963,pluieciel,LU,12585096610807,
 100,229,Python3,1592354914000,1178320,Trunksistor,FR,62480066877864,
 100,229,Python3,1597537833000,154354,Fougere,FR,19964083097688,
-100,229,Python3,1598810508000,3496138,HayTheFirst,FR,,
 100,230,Python3,1567946818000,952026,Kahsius,FR,,
 100,230,Python3,1567946818000,1652555,Kalwyn,FR,7793845902567,
 100,230,Python3,1567946818000,1400864,Markoz,FR,10120695961981,
@@ -996,6 +996,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,307,Python3,1567946818000,2107217,Oh-Maley,CA,79905126426607,
 100,307,Python3,1567946818000,1997622,Ra777,LT,13037200839952,
 100,307,Python3,1567946818000,1785774,stork,FR,11402200102074,
+100,307,Python3,1599013840000,1483648,DhakalKumar,,,
 100,308,Python3,1567946818000,1303696,ral,DE,5006942746642,
-100,309,Python3,1567946818000,1581483,dragonblade,NL,6723321463553,
 100,309,Python3,1567946818000,1028977,h4stoor,,,

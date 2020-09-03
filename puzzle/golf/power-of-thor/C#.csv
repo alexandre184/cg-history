@@ -1,5 +1,6 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3039|time=2020-09-02T02:30:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3040|time=2020-09-03T02:43:12
 100,125,C#,1595291435000,1483723,d-s-x,RU,4980051025170,
+100,135,C#,1599100992000,1301401,Stanax,FR,44495484097566,
 100,140,C#,1598057919000,3845610,pardouin,FR,60364063762936,
 100,141,C#,1596846636000,1436776,BrainSolver,FR,10099178983053,
 100,196,C#,1595118633000,2288263,dbdr,UA,43448306132121,
@@ -646,8 +647,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,330,C#,1567946821000,1399852,Thaell,FR,4406620865444,
 100,330,C#,1567946821000,1762955,peppapig,FR,10043455778421,
 100,330,C#,1595118633000,1679187,Xelz,FR,,
-100,331,C#,1567946821000,1132834,,,,
 100,331,C#,1567946821000,1507208,,,,
+100,331,C#,1567946821000,1132834,,,,
 100,331,C#,1567946821000,1441193,ChrisHeral,FR,,
 100,331,C#,1567946821000,1754804,Desmadre_Inc,BO,9893884809801,
 100,331,C#,1567946821000,1940248,Dragondort,LU,12056913322477,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,420,C#,1594946586000,2324697,Peppe77,FR,16220137510987,
 100,420,C#,1594946586000,876568,SidRed,BR,,
 100,420,C#,1594946586000,935576,hdk,NL,,
-100,421,C#,1594946586000,961781,CssaBee,HU,,

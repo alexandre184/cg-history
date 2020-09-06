@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2902|time=2020-09-05T02:42:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2905|time=2020-09-06T02:30:31
 100,2509,C++,1567946812000,1327028,FredericBautista,FR,9974192266436,
 100,2507,Bash,1567946812000,154372,Plopx,FR,7959085736890,
 100,2504,Python3,1567946812000,1695697,,,,
@@ -948,6 +948,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1771,Java,1598315426000,1255509,BTA,TN,15841548221533,
 100,1771,Java,1598810503000,1483648,DhakalKumar,,,
 100,1771,Java,1598810503000,928567,Konstanta,LT,40817500234931,
+100,1771,Java,1599359431000,658246,leon44,FR,48153444766110,
 100,1769,Python3,1597192261000,1433450,Gucci,JP,23395409642188,
 100,1768,C#,1567946812000,416762,Khao,CA,2035557596161,
 100,1768,C++,1567946812000,1182518,AaronRuel,US,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1750,PHP,1567946812000,1166952,,DE,,
 100,1750,Java,1596589263000,1464932,Tiramon,DE,12287237914571,
 100,1749,C++,1567946812000,1070978,Sataroth,UA,2407757831026,
-100,1749,Javascript,1567946812000,1103662,Menighin,BR,20611160531480,

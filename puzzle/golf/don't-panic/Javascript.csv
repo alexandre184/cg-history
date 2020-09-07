@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1124|time=2020-09-06T02:30:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1125|time=2020-09-07T03:09:33
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -448,6 +448,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Javascript,1581815569000,1462259,tooppaaaaa,FR,41791720474075,
 100,198,Javascript,1596242439000,1932980,AlexandreK,FR,30714560059953,
 100,198,Javascript,1597537830000,1473079,Zylar,US,4875610554885,
+100,198,Javascript,1599448173000,1579627,Bahrani,SK,35411202673504,
 100,199,Javascript,1567946817000,221573,TiTi,FR,63573243211328,
 100,199,Javascript,1567946817000,3349783,glm9637,DE,29214528162212,
 100,199,Javascript,1567946817000,1095446,tarbomb,FR,83100206722923,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1659,Javascript,1590542025000,2602804,KamilNych,PL,60871781901424,
 100,1664,Javascript,1567946817000,676791,MardiKun,ID,,
 100,1675,Javascript,1567946817000,1938265,ANONYMOUS42,DZ,64358868697596,
-100,1677,Javascript,1595378019000,3905476,kallosz,PL,46935721588427,

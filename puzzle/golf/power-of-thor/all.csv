@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=25968|time=2020-09-11T02:38:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=26000|time=2020-09-12T02:39:41
 100,45,Ruby,1596760232000,3845610,pardouin,FR,60364063762936,
 100,46,Perl,1595464478000,1483723,d-s-x,RU,4980051025170,
 100,50,Bash,1595464475000,1483723,d-s-x,RU,4980051025170,
@@ -442,8 +442,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Ruby,1598927441000,3944763,fschuetz04,DE,66162746750554,
 100,109,Perl,1567946823000,1518602,norcas,SK,12252484684558,
 100,109,Javascript,1567946825000,1289001,,,,
-100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,1054451,,,,
+100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -524,8 +524,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1567946825000,1429958,xixi78,FR,4426224171858,
 100,109,Javascript,1567946825000,1154439,zigab123,SI,,
 100,109,Javascript,1567946825000,1764472,zwilias,BE,10056362369860,
-100,109,Python3,1567946825000,2554213,,DE,,
 100,109,Python3,1567946825000,1695697,,,,
+100,109,Python3,1567946825000,2554213,,DE,,
 100,109,Python3,1567946825000,425462,Azt-yur,RU,16224786627212,
 100,109,Python3,1567946825000,1288168,Nebkaure,FR,40402946197267,
 100,109,Python3,1567946825000,1387039,Pyrous,BR,,
@@ -554,6 +554,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1596760238000,953094,Witman,PL,1798239809031,
 100,109,Python3,1597105852000,3496138,HayTheFirst,FR,,
 100,109,TypeScript,1599013844000,2315158,luigi_gelato,DE,,
+100,109,Python3,1599878380000,3393535,LuckyJ.,FR,42540162041167,
 100,110,Bash,1567946822000,366305,Mgayar,EG,5691231749425,
 100,110,Javascript,1567946825000,2050543,Cherubael,DK,13150128776541,
 100,110,Javascript,1567946825000,2471054,Goldcott,BE,24540565061023,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Ruby,1567946826000,511925,d0x,FR,,
 100,119,Ruby,1567946826000,452641,masakt,JP,14163585005061,
 100,119,Ruby,1567946826000,3320101,megahallon,SE,27428584943559,
-100,119,Ruby,1567946826000,2590423,zeroDivisible,US,,

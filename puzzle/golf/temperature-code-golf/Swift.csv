@@ -1,10 +1,11 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29|time=2020-09-11T02:38:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=31|time=2020-09-12T02:39:46
 100,75,Swift,1567946832000,1399382,Regulus136,FR,4335723819637,
 100,80,Swift,1582853299000,1629259,Marchete,ES,61997162908277,
 100,81,Swift,1567946832000,240311,Myrthem,FR,,
 100,83,Swift,1567946832000,1179950,Patorikkuyatta,FR,94806006573123,
 100,83,Swift,1593563441000,1654818,tarapitha,EE,79401682508715,
 100,87,Swift,1567946832000,709490,Sinlepuissant,FR,2102604527472,
+100,99,Swift,1599878386000,2288263,dbdr,UA,43448306132121,
 100,100,Swift,1567946832000,365796,CvxFous,FR,2892223124232,
 100,100,Swift,1583206168000,3073020,_francois_,FR,,
 100,100,Swift,1590887967000,3833014,0b1010,JP,,
@@ -25,6 +26,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,210,Swift,1570149657000,1668138,Poisson,FR,,
 100,479,Swift,1579048245000,382661,RobertoCaldas,PT,39260582521581,
 100,505,Swift,1571273993000,1077559,PhOeNyX,FR,2248934338554,
+100,563,Swift,1599878386000,3961157,LayQ,FR,,
 100,640,Swift,1595378031000,820000,ValGrowth,JP,95440985747208,
 100,768,Swift,1598810521000,3953448,KAROU,TN,,
 100,938,Swift,1589943881000,3825824,AlexanderPuchta,DE,,

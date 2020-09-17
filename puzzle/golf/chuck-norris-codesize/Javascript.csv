@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=434|time=2020-09-16T02:56:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=434|time=2020-09-17T02:39:10
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -149,6 +149,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Javascript,1588903194000,3622757,anid,,,
 100,160,Javascript,1591145005000,2438514,ciaoo,IT,16905477283014,
 100,160,Javascript,1593305188000,3774500,zakariamouhid,MA,46244702989556,
+100,160,Javascript,1600310350000,3354337,Westicles,CX,79146641399080,
 100,161,Javascript,1567946837000,1328758,GottZ,DE,3811962815765,
 100,161,Javascript,1592182476000,1198181,lapostoj,,,
 100,161,Javascript,1598142646000,224325,TidyMaze,FR,2654133392410,
@@ -402,7 +403,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,623,Javascript,1584752316000,2300217,ThibaudNavarre,FR,52951901455213,
 100,636,Javascript,1594341682000,578289,Kludjer,US,5656729521608,
 100,639,Javascript,1567946837000,3295583,VagharTheFrenchMonster,FR,26419477616814,
-100,639,Javascript,1599967651000,3354337,Westicles,CX,79146641399080,
+100,652,Javascript,1600310350000,3925985,A2theK,DE,48163241270499,
 100,655,Javascript,1592615161000,3545122,DangNguyenVan,VN,45928025898236,
 100,674,Javascript,1599189830000,1621382,Zobee,CA,48954102884608,
 100,690,Javascript,1596933590000,3904675,ggolfz,TH,48215366976020,
@@ -416,7 +417,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,786,Javascript,1594258254000,3865350,Haiit99,VN,46031745006737,
 100,807,Javascript,1575679603000,1258139,KaoX,ES,37972329130154,
 100,823,Javascript,1567946837000,908073,DanielKamras,RS,,
-100,834,Javascript,1598927454000,3925985,A2theK,DE,48163241270499,
 100,861,Javascript,1580689850000,3665757,Socolin,CA,39940682811977,
 100,906,Javascript,1600138077000,3478673,never-again,FR,55942343550622,
 100,926,Javascript,1567946837000,3402262,,GE,,

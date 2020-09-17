@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=101|time=2020-09-16T02:56:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=101|time=2020-09-17T02:38:59
 100,85,Pascal,1595464480000,1483723,d-s-x,RU,4980051025170,
 100,87,Pascal,1596674084000,1537792,AsaiYusuke,US,41785380851985,
 100,165,Pascal,1573864704000,3509975,bneumann,HU,35027463301192,
@@ -6,6 +6,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,176,Pascal,1567946823000,788340,real_aibolit,UA,,
 100,180,Pascal,1599705043000,3845610,pardouin,FR,60364063762936,
 100,185,Pascal,1597192276000,1436776,BrainSolver,FR,10099178983053,
+100,190,Pascal,1600310339000,3354337,Westicles,CX,79146641399080,
 100,223,Pascal,1567946823000,1402511,AlexRomanov,UA,4238861297512,
 100,225,Pascal,1567946823000,1707377,Colgate-Blancheur,FR,9896613056357,
 100,225,Pascal,1567946823000,1152008,GrigoreDiviza,MD,,
@@ -65,7 +66,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1220,Pascal,1567946823000,230794,alpha_one_x86,FR,2166128477999,
 100,1239,Pascal,1567946823000,199979,VonRickroll,FR,4699081038708,
 100,1283,Pascal,1567946823000,1390607,Ivan_Derzhylo,UA,67601821029462,
-100,1367,Pascal,1599878382000,3354337,Westicles,CX,79146641399080,
 100,1419,Pascal,1567946823000,1433338,Elykia,CH,4453583282073,
 100,1604,Pascal,1567946823000,154984,_Royale,FR,17869369984436,
 100,1656,Pascal,1567946823000,2177896,NTL51,VN,,

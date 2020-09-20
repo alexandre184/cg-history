@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2405|time=2020-09-19T00:34:07
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2406|time=2020-09-20T00:30:09
 5,35.5,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.94,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.45,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -881,7 +881,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.16,PHP,,746798,1066028,JrmC,FR,2834222029361,
 1,23.16,C,,493173,614489,Nazoum81,FR,1733762647042,
 1,23.15,Java,,628910,359746,Shoohei,FR,1976981425507,
-1,23.15,Python,,628546,810902,bouletta,US,,
 1,23.15,C#,,896454,1251131,ma81xx,IT,9638700030976,
 1,23.15,C,,686826,1592902,sondx89,VN,,
 1,23.15,C++,,768550,1662602,brenrik,FR,,
@@ -914,6 +913,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.05,C,,749641,1620096,InvisibleUSA,DE,,
 1,23.04,C#,,768314,1596346,LaurisJansons,LV,7768245836879,
 1,23.04,C#,,610550,1502298,skargg,GB,,
+1,23.04,Python,,628546,810902,bouletta,US,,
 1,23.04,Javascript,,501141,1393911,neal_s,US,13162519781744,
 1,23.02,C#,,508856,1448599,MdNght,RO,,
 1,23.02,Python3,,490592,1354742,torxx,SE,,
@@ -980,6 +980,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.87,Python3,,570330,1471382,Andilutten,SE,4840977361513,
 1,22.87,Java,,628892,1116946,marhuero,FR,,
 1,22.87,C++,,551752,1478742,Archimist,FR,,
+1,22.87,Python3,,3101789,3926522,Denshire,US,98102241022642,
 1,22.87,C++,,576064,973155,Namal,FR,,
 1,22.86,Python3,,753673,651153,jikiliou,FR,7472573230627,
 1,22.85,Javascript,,773140,1667353,jacobs472,US,,
@@ -998,4 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.83,C++,,510765,153927,Cubix,FR,59507908642549,
 1,22.82,Java,,566928,1477937,koeki13,CH,4984927473266,
 1,22.82,Javascript,,494480,1463609,FabFive-2,FI,,
-1,22.82,Java,,624803,1212895,Vilrolf,NO,,

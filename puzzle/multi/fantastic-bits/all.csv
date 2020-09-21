@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2513|time=2020-09-20T02:30:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2513|time=2020-09-21T02:50:07
 5,43.03,C++,,3084895,1400179,reCurse,CA,58850847098890,
 5,40.25,C++,,1764125,832306,pb4,FR,10135289026547,
 5,36.01,C++,,2238208,1629259,Marchete,ES,61997162908277,
@@ -855,8 +855,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,18.56,Python3,,2496201,3488602,Priyank.,,,
 3,18.56,C,,919171,999637,dinobogan,FR,61192341763607,
 3,18.5,Groovy,,1097030,169033,Yasser,IE,1729823426851,
+3,18.47,Java,,2686375,3693029,NikolasMori,CA,40807767520743,
 3,18.47,C++,,940340,1059313,_SERGE_,FR,,
-3,18.45,Java,,2686375,3693029,NikolasMori,CA,40807767520743,
 3,18.44,Java,,2698905,3694705,Jfischy_19,CA,,
 3,18.39,Java,,1219332,1713618,Mok,FR,9211160379917,
 3,18.35,C#,,980476,841085,Risen,JP,1840452387524,
@@ -893,7 +893,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,17.58,Java,,1041105,1663053,DocbrownAA,FR,11260619260974,
 3,17.56,VB.NET,,899025,1564593,kjasghlisuagerhdfn,US,7456980128670,
 3,17.56,Python3,,978248,1272263,Caled,AU,8662053656720,
-3,17.54,C#,,2655857,3627342,Zuabros,BR,48813181012768,
 3,17.54,C++,,913403,596947,LBandy,HU,1812385072011,
 3,17.54,Java,,2243153,1194069,Redstrike,DE,57293561455683,
 3,17.51,Python3,,970693,1589581,SamAstro,FR,6569003437124,
@@ -905,7 +904,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,17.47,Javascript,,1056228,913960,MrLeon,FR,9249869505272,
 3,17.47,Java,,2695831,3631872,nulface,CA,39039740993232,
 3,17.47,Go,,1745881,2152308,bakisa,RS,17744797533367,
-3,17.45,C#,,1387521,839879,Washier,ZA,12972766898492,
+3,17.46,C#,,1387521,839879,Washier,ZA,12972766898492,
 3,17.45,Python3,,1870888,2636264,mattdeal,US,,
 3,17.44,Java,,1086338,903179,maksmas,EE,101274743228150,
 3,17.44,C#,,914050,1480323,OvidiuSzanto,RO,9256043459996,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,16.25,C#,,1588991,1539249,RobinV,NL,64019781177526,
 3,16.21,Javascript,,909301,1654172,hebaref,TR,8371237194433,
 3,16.21,Python,,1393385,893027,R.Janvier,FR,13207862339896,
+3,16.2,Python3,,1614712,2245596,BAZooo,FR,15035211220780,

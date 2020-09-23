@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8025|time=2020-09-22T03:14:14
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8028|time=2020-09-23T02:30:27
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,58,Ruby,1598142630000,3845610,pardouin,FR,60364063762936,
@@ -247,6 +247,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1567946817000,1130993,Azaria,FR,5570211139396,
 100,109,Javascript,1567946817000,1442344,PavelRaskin,GE,,
 100,109,Python3,1567946818000,2458197,Stack_of_Pancakes,US,17063542094647,
+100,109,Javascript,1600828228000,3354337,Westicles,CX,79146641399080,
 100,110,PHP,1567946816000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,110,Pascal,1567946816000,1100752,ValNykol,GB,10307803807981,
 100,110,Javascript,1567946817000,1113722,,CZ,,
@@ -716,7 +717,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,154,Ruby,1567946820000,905122,nILS,DE,5705638332288,
 100,154,Python3,1587347925000,860754,Actias,FR,18840906045570,
 100,154,Python3,1591062150000,154806,piwai,FR,1956863959967,
-100,154,Javascript,1600310332000,3354337,Westicles,CX,79146641399080,
 100,155,PHP,1567946816000,935802,Jerhyn,FR,109463964266798,
 100,155,Javascript,1567946817000,1870937,,,,
 100,155,Javascript,1567946817000,2867477,MichaelKommandant,UA,,
@@ -779,6 +779,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Python3,1585703663000,865280,batin,FR,,
 100,158,Javascript,1588903088000,1706476,Maboul95,FR,9338051370545,
 100,158,Ruby,1589244485000,1566335,BeardedWhale,SE,36571449875674,
+100,158,C++,1600828226000,3918583,mikmak,FR,48134583112917,
 100,159,Javascript,1567946817000,314027,CrazyTuna,NZ,2474116480252,
 100,159,Javascript,1567946817000,1809405,Ginkyu,BR,,
 100,159,Javascript,1567946817000,1202933,NullOps,AU,13683198089751,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,172,Python3,1587259058000,3703485,anter69,HU,41141446684299,
 100,172,Python3,1587690581000,1566335,BeardedWhale,SE,36571449875674,
 100,172,Python3,1588816806000,3622757,anid,,,
-100,173,C,1567946816000,518108,Elijan9,NL,,

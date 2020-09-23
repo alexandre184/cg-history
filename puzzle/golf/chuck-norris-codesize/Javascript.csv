@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=441|time=2020-09-22T03:14:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=442|time=2020-09-23T02:30:44
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -373,6 +373,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,354,Javascript,1578011530000,3626601,[0],CA,,
 100,355,Javascript,1580000684000,957775,Sutat,FR,39056485466494,
 100,359,Javascript,1567946837000,1416343,Chillbologna,US,30907683411084,
+100,359,Javascript,1600828244000,2948708,MrMN,MG,50304043389879,
 100,372,Javascript,1567946837000,2373953,Dridriun,FR,64609504937617,
 100,374,Javascript,1587953085000,1932031,Tricatel,FR,83353245236605,
 100,378,Javascript,1575333166000,2591473,ListsOfArrays,US,19150776457506,
@@ -392,7 +393,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,399,Javascript,1595983763000,3906374,ThanhDat,VN,47378501570499,
 100,399,Javascript,1598810528000,3917824,Shooting_Star,DE,48256009117423,
 100,399,Javascript,1599448189000,3923167,Sachin_07,ID,48303461924281,
-100,399,Javascript,1600656638000,3978889,_venom_,JO,50614301782778,
+100,399,Javascript,1600656638000,3978889,aziz_a,JO,50614301782778,
 100,420,Javascript,1567946837000,3415138,nicolagheza,NL,,
 100,440,Javascript,1571360355000,1161639,Chade.Revingbell,FR,2744756571186,
 100,447,Javascript,1590799174000,3824499,DingYi,CH,45484684606562,

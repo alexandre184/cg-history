@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=994|time=2020-09-26T04:31:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=995|time=2020-09-27T04:11:03
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
 100,75,Python3,1600483627000,2288263,dbdr,UA,43448306132121,
@@ -370,6 +370,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Python3,1596099798000,3691366,V90,RO,52309387852953,
 100,149,Python3,1598927451000,3585269,Colios13,FR,53325408754229,
 100,149,Python3,1599273795000,2250452,Isac,PT,15287816336604,
+100,149,Python3,1601179863000,3978885,Dauka_Ruslanovich,KZ,,
 100,150,Python3,1567946837000,2202771,Kaplone,FR,23792369424472,
 100,150,Python3,1567946837000,1706034,Patricia,DE,19418452448625,
 100,150,Python3,1567946837000,3429080,Tingo,DE,,
@@ -401,7 +402,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Python3,1587516218000,3715410,Revy2H,,,
 100,153,Python3,1587603906000,3378428,huchzi,DE,,
 100,153,Python3,1600397774000,828239,[SG]Bisou,FR,3777247629960,
-100,153,Python3,1601094681000,3978885,Dauka_Ruslanovich,KZ,,
 100,154,Python3,1567946837000,3338944,Flaykz,NC,28958286994099,
 100,154,Python3,1567946837000,886483,R4N4R4M4,FR,7943435133357,
 100,154,Python3,1567946837000,3417294,VinzDV,FR,31667688268684,
@@ -957,6 +957,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,830,Python3,1584583309000,2595729,oth-onmoon,GR,,
 100,832,Python3,1600828245000,3977701,nuriman_a,KZ,50309767894182,
 100,837,Python3,1595896346000,3842278,hem123,NL,53299160555338,
+100,848,Python3,1601179863000,3987091,Rayteur,FR,50827129410801,
 100,849,Python3,1598810529000,3950691,yatesrates,AU,,
 100,851,Python3,1567946837000,1430796,_PereKastor_,FR,,
 100,858,Python3,1576110848000,1753077,codingWhale,DE,44660101966182,

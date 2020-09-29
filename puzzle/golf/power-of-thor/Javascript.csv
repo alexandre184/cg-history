@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3629|time=2020-09-28T02:30:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3629|time=2020-09-29T04:31:15
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -69,9 +69,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1567946825000,1316751,volodimir,UA,,
 100,108,Javascript,1581641183000,3510173,Reinis-Mazeiks,LV,37663464036857,
 100,108,Javascript,1595896336000,3900977,Codewaves,LT,,
+100,109,Javascript,1567946825000,1054451,,,,
 100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,1289001,,,,
-100,109,Javascript,1567946825000,1054451,,,,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -329,6 +329,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Javascript,1567946825000,2689552,dudasaron,HU,79434440162795,
 100,123,Javascript,1567946825000,1765457,iica,JP,,
 100,123,Javascript,1583283095000,2931967,KPlanas,FR,37296962333541,
+100,123,Javascript,1601353875000,481564,mihei,RU,4454400756022,
 100,124,Javascript,1567946825000,1120596,Dejmek,CZ,7921459261337,
 100,124,Javascript,1567946825000,3359690,Enilia,FR,,
 100,124,Javascript,1567946825000,235912,Errorname,FR,16906658043115,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,167,Javascript,1594946584000,683445,sben,FR,,
 100,167,Javascript,1600919086000,3822349,Ol_Blue_Eyes,GB,50638648242197,
 100,168,Javascript,1594946584000,1022415,,,,
-100,168,Javascript,1594946584000,295381,GodMasterFlex,FR,,

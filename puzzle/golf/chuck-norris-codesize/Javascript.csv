@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=452|time=2020-09-29T04:31:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=452|time=2020-09-30T03:12:46
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -401,7 +401,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,399,Javascript,1595983763000,3906374,ThanhDat,VN,47378501570499,
 100,399,Javascript,1598810528000,3917824,Shooting_Star,DE,48256009117423,
 100,399,Javascript,1599448189000,3923167,Sachin_07,ID,48303461924281,
-100,399,Javascript,1600656638000,3978889,_venom_,JO,50614301782778,
+100,399,Javascript,1600656638000,3978889,Zhansaya_M,JO,50614301782778,
 100,399,Javascript,1601260257000,2930341,Apedemak,FR,22508983191327,
 100,420,Javascript,1567946837000,3415138,nicolagheza,NL,,
 100,440,Javascript,1571360355000,1161639,Chade.Revingbell,FR,2744756571186,
@@ -428,6 +428,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,737,Javascript,1586048266000,3424684,Midoki,FR,59519385580335,
 100,740,Javascript,1573261521000,1297521,ClouardDista,FR,11747154664609,
 100,743,Javascript,1571877046000,3533889,Shri121,IN,36250907577717,
+100,755,Javascript,1601435566000,3478673,never-again,FR,55942343550622,
 100,757,Javascript,1567946837000,3132303,Lauseloeffel,DE,,
 100,762,Javascript,1567946837000,3299131,Pasalietis,LT,,
 100,774,Javascript,1567946837000,378051,Storkoxa,BR,,
@@ -435,7 +436,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,807,Javascript,1575679603000,1258139,KaoX,ES,37972329130154,
 100,823,Javascript,1567946837000,908073,DanielKamras,RS,,
 100,861,Javascript,1580689850000,3665757,Socolin,CA,39940682811977,
-100,906,Javascript,1600138077000,3478673,never-again,FR,55942343550622,
 100,926,Javascript,1567946837000,3402262,,GE,,
 100,946,Javascript,1567946837000,1709995,PlpSwg,FR,,
 100,947,Javascript,1571013056000,3518846,JacquesWu,ES,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1144|time=2020-10-01T05:27:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1145|time=2020-10-02T02:43:44
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -363,6 +363,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,181,Javascript,1567946817000,1072328,soba,UA,,
 100,181,Javascript,1567946817000,2069141,tomeko,PL,13370027887052,
 100,181,Javascript,1572828108000,3380514,DFrese,DE,30555045908186,
+100,181,Javascript,1601606624000,389473,BigBart,CH,4922026050684,
 100,182,Javascript,1567946817000,630050,Chulepa,DE,3648993972565,
 100,182,Javascript,1567946817000,1414873,Volcomix,FR,9274241205710,
 100,182,Javascript,1567946817000,1275607,ghitier,FR,18434835896752,
@@ -924,6 +925,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,601,Javascript,1601094658000,3751016,Q12,IL,51600040008150,
 100,607,Javascript,1567946817000,1028302,Knine,SG,,
 100,613,Javascript,1567946817000,1899051,Mr-D,MG,22560992671741,
+100,619,Javascript,1601606624000,3660819,BloodyTurtles,US,39803283840838,
 100,621,Javascript,1567946817000,1409925,DouglasLima,BR,18027438016711,
 100,623,Javascript,1567946817000,157377,McKelian,FR,63490429201814,
 100,626,Javascript,1567946817000,1218749,dauom,MA,19379286277703,
@@ -942,7 +944,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,740,Javascript,1567946817000,1074897,Vidmar,BR,4963798710763,
 100,747,Javascript,1567946817000,906310,ghsamm,TN,,
 100,771,Javascript,1567946817000,1069026,Roshaw,BG,2202221378286,
-100,773,Javascript,1586048246000,3660819,BloodyTurtles,US,39803283840838,
 100,777,Javascript,1567946817000,1537927,thecavemanlogic,US,,
 100,780,Javascript,1567946817000,922463,Maxoust,FR,,
 100,781,Javascript,1567946817000,2493254,WarRaok,FR,17513752166160,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1288,Javascript,1600483610000,966368,Skelethor,DE,5876802021528,
 100,1316,Javascript,1567946817000,942352,Krilas,HR,3512770603807,
 100,1349,Javascript,1584493466000,2415470,ZiomaleQ,PL,95786061215784,
-100,1353,Javascript,1567946817000,430068,Magiczvn,VN,63530343612278,

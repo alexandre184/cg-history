@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=453|time=2020-10-01T05:27:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=453|time=2020-10-02T02:44:02
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -84,6 +84,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1587777076000,1525816,Flodnes,NO,5656265985683,
 100,148,Javascript,1567946837000,1876059,Knagis,LV,,
 100,148,Javascript,1579566945000,3009598,Flashantik,RU,32413605073716,
+100,148,Javascript,1601606642000,2520443,Einwickler,DE,50711405528093,
 100,149,Javascript,1567946837000,3380514,DFrese,DE,30555045908186,
 100,149,Javascript,1567946837000,1962352,DPAmar,FR,56994389567033,
 100,149,Javascript,1567946837000,2870586,MattZ,US,21782473296749,
@@ -92,6 +93,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Javascript,1575333166000,1250593,Ellama,FR,3675088014038,
 100,149,Javascript,1590971918000,3376696,Nikcname,FR,44310083572875,
 100,149,Javascript,1594513849000,3808031,_proton,US,44172683522650,
+100,149,Javascript,1601606642000,2519884,mamphis,DE,50735447122410,
 100,150,Javascript,1574042140000,2452543,Maznek,FR,19088417820828,
 100,150,Javascript,1581294644000,3660819,BloodyTurtles,US,39803283840838,
 100,150,Javascript,1586138445000,1751832,buikikaesu,RU,24659390839366,
@@ -249,7 +251,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,188,Javascript,1567946837000,416762,Khao,CA,2035557596161,
 100,188,Javascript,1583631660000,1282856,ErikBrendel,DE,41207148765120,
 100,188,Javascript,1587438246000,2662505,aponomarev,CZ,19929405528229,
-100,188,Javascript,1601353883000,2519884,mamphis,DE,50735447122410,
 100,189,Javascript,1567946837000,3310913,Poot,US,26989344685981,
 100,189,Javascript,1580517047000,3327267,Exoden,FR,39337364208048,
 100,190,Javascript,1571704870000,1493086,Booligoosh,AU,35590187557733,
@@ -307,7 +308,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,229,Javascript,1585357720000,811064,Vincenzo,,,
 100,230,Javascript,1582074236000,371603,martin,CA,1761380964089,
 100,230,Javascript,1597365048000,3869618,tsds,RU,46148249699201,
-100,230,Javascript,1601353883000,2520443,Einwickler,DE,50711405528093,
 100,231,Javascript,1581467449000,1218719,BLUB,DE,,
 100,232,Javascript,1567946837000,331880,Monstruo,MX,16575963540770,
 100,232,Javascript,1586654970000,3753183,DAS_G,FI,43449121485245,

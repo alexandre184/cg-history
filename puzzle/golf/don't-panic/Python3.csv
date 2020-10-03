@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1813|time=2020-10-02T02:43:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1815|time=2020-10-03T03:59:45
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,70,Python3,1601260240000,1654818,tarapitha,EE,79401682508715,
 100,76,Python3,1595378016000,2288263,dbdr,UA,43448306132121,
@@ -407,6 +407,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Python3,1595637186000,1335230,jft63,FR,24907820247515,
 100,198,Python3,1601260240000,1390789,Matthieu.L,FR,36482342568862,
 100,198,Python3,1601435547000,3937876,nakeze,FR,50859667856405,
+100,198,Python3,1601697585000,2071429,Mgcat,BE,,
 100,199,Python3,1567946818000,569247,LaurentBouvier,FR,16324240302815,
 100,199,Python3,1567946818000,3080189,Multiplicity,DE,,
 100,199,Python3,1567946818000,1517028,Nicau,FR,8848906617685,
@@ -921,7 +922,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,272,Python3,1567946818000,1856796,Farls,ES,11609180315449,
 100,272,Python3,1567946818000,1195663,TimberLefief,BE,81896889572439,
 100,272,Python3,1569458151000,3488887,MarineMarine,FR,,
-100,272,Python3,1601606627000,3978888,ku_anar,KZ,51114580541820,
+100,272,Python3,1601606627000,3978888,kua,KZ,51114580541820,
 100,273,Python3,1567946818000,2169137,SkippyBro,AU,16945597192860,
 100,274,Python3,1567946818000,1394530,Idleless,CA,4170046072282,
 100,274,Python3,1567946818000,1380095,Sztyma,PL,,
@@ -996,6 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,293,Python3,1567946818000,1156014,revilloc,GB,,
 100,293,Python3,1596155429000,1394865,Lukwos,FR,47548280103156,
 100,293,Python3,1600397753000,3755815,Moctrof,FR,63048502195182,
-100,294,Python3,1567946818000,1267958,ChristopheBossens,BE,11396493070195,
 100,294,Python3,1567946818000,1667868,parvus,BE,8050109177953,
 100,294,Python3,1567946818000,1196869,tentousama,US,,

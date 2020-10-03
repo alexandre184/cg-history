@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4271|time=2020-10-02T02:43:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4271|time=2020-10-03T03:59:59
 100,148,Java,1597886053000,3845610,pardouin,FR,60364063762936,
 100,156,Java,1595983752000,1483723,d-s-x,RU,4980051025170,
 100,167,Java,1596846631000,1436776,BrainSolver,FR,10099178983053,
@@ -72,6 +72,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,273,Java,1579566932000,3598723,Tee-Resa,DE,38192405205039,
 100,274,Java,1567946824000,164454,aRaMinet,FR,2194604042922,
 100,274,Java,1573518715000,1845697,enday,UA,,
+100,274,Java,1601697599000,2698637,CorentinFoucault,FR,26497120301720,
 100,275,Java,1567946824000,1707377,Colgate-Blancheur,FR,9896613056357,
 100,275,Java,1567946824000,999204,Dirge,FR,1993502206281,
 100,275,Java,1567946824000,2167180,TheDuck,,,
@@ -185,7 +186,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,287,Java,1567946824000,1715596,Tesuji,FR,,
 100,287,Java,1567946824000,2165641,Vorholt,DE,,
 100,287,Java,1581124011000,2202771,Kaplone,FR,23792369424472,
-100,287,Java,1601606630000,2698637,CorentinFoucault,FR,26497120301720,
 100,288,Java,1567946824000,196606,EasyCoder,FR,4933798984412,
 100,288,Java,1567946824000,1308058,Ezeckiel,FR,5104837626412,
 100,288,Java,1567946824000,1202382,FredFz,FR,,

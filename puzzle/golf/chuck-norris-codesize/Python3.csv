@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1102|time=2020-10-09T04:52:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1104|time=2020-10-10T02:30:50
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
 100,75,Python3,1600483627000,2288263,dbdr,UA,43448306132121,
@@ -229,6 +229,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,131,Python3,1594600247000,1470053,eaglecode,HU,,
 100,131,Python3,1600483627000,3913376,LaurentValade,FR,47390627049317,
 100,131,Python3,1600483627000,3882445,petiteTomate,FR,48545785236466,
+100,131,Python3,1602297050000,3919916,Hotz,CX,51487863796721,
 100,132,Python3,1570235467000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,132,Python3,1571704871000,835581,FishKOH,RU,12713740374484,
 100,132,Python3,1584894201000,3714974,ITAY,IL,41569868896809,
@@ -824,6 +825,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,254,Python3,1567946837000,2043892,kk93,US,42109508526672,
 100,254,Python3,1593045965000,3863255,reza0310,FR,45935982416259,
 100,255,Python3,1600656640000,3741002,ichbinsmith,FR,42117668118696,
+100,256,Python3,1602297050000,3828035,YCS-Venom,GB,44819000907864,
 100,257,Python3,1567946837000,1319274,SVK,IN,11298279519111,
 100,259,Python3,1588903190000,1845235,N2R,FR,,
 100,260,Python3,1579048250000,3618955,PythonEaterTiger,HU,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,848,Python3,1601179863000,3987091,Rayteur,FR,50827129410801,
 100,849,Python3,1598810529000,3950691,yatesrates,AU,,
 100,851,Python3,1567946837000,1430796,_PereKastor_,FR,,
-100,858,Python3,1576110848000,1753077,codingWhale,DE,44660101966182,
-100,859,Python3,1595983765000,3913766,maleksal,TN,67761405020687,

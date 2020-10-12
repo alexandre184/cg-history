@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1148|time=2020-10-11T04:41:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1151|time=2020-10-12T02:32:30
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -42,6 +42,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1591144988000,940791,Kris117,FR,16280535626899,
 100,105,Javascript,1598229533000,2923506,darkhorse64,FR,23496414257567,
 100,106,Javascript,1567946817000,2084583,,SG,,
+100,107,Javascript,1602469950000,1515891,ndc,RU,57247748477088,
 100,108,Javascript,1567946817000,1675034,francois,FR,15464459859531,
 100,108,Javascript,1567946817000,513549,y0p,FR,,
 100,109,Javascript,1567946817000,1130993,Azaria,FR,5570211139396,
@@ -536,6 +537,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,219,Javascript,1567946817000,1094663,JocoM,HU,,
 100,219,Javascript,1567946817000,2446220,gsipos,HU,16925748874873,
 100,219,Javascript,1567946817000,1833749,yusech,RU,11283028781086,
+100,219,Javascript,1602469950000,981878,nicolasD,FR,22576267267565,
 100,220,Javascript,1567946817000,906441,Andriyko007,UA,2118058446668,
 100,220,Javascript,1567946817000,998513,Ghost_X,RU,,
 100,220,Javascript,1567946817000,1435608,Onys,FR,4455603205385,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1192,Javascript,1567946817000,2376419,Ikana,FR,16102264598377,
 100,1214,Javascript,1567946817000,3103433,DeuxAlpha,US,24454196292524,
 100,1247,Javascript,1568521194000,3074711,LeoLet,FR,34061300841679,
-100,1247,Javascript,1583023752000,3685184,molk95,TN,40593265287574,
-100,1247,Javascript,1590887951000,3013718,Bongonauta,FR,23463422605687,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3646|time=2020-10-13T02:54:55
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3648|time=2020-10-14T02:30:39
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -69,9 +69,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1567946825000,1316751,volodimir,UA,,
 100,108,Javascript,1581641183000,3510173,Reinis-Mazeiks,LV,37663464036857,
 100,108,Javascript,1595896336000,3900977,Codewaves,LT,,
-100,109,Javascript,1567946825000,1794061,,,,
-100,109,Javascript,1567946825000,1289001,,,,
 100,109,Javascript,1567946825000,1054451,,,,
+100,109,Javascript,1567946825000,1289001,,,,
+100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -472,6 +472,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Javascript,1594859431000,1653052,fbosco,IT,7821315128596,
 100,132,Javascript,1594859431000,2688132,jatj,MX,,
 100,132,Javascript,1598810514000,2106901,Kyoshiro10500,CH,13673088159635,
+100,132,Javascript,1602642639000,3998990,bgotink,BE,51302604328322,
 100,133,Javascript,1594859431000,679101,Dazzle,CY,32305181598666,
 100,133,Javascript,1594859431000,2191051,DennisHenze,DE,,
 100,133,Javascript,1594859431000,2455639,GomoryCut,CA,17236107353922,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,166,Javascript,1594946584000,2382054,jsimoes,PT,18422571317300,
 100,166,Javascript,1594946584000,1008564,kbo,BG,3237974323613,
 100,166,Javascript,1594946584000,2223337,renku,EE,,
-100,166,Javascript,1594946584000,3872653,yokevin20,MX,,

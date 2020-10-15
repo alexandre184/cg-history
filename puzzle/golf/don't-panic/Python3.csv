@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1841|time=2020-10-14T02:30:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1846|time=2020-10-15T02:32:08
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,70,Python3,1601260240000,1654818,tarapitha,EE,79401682508715,
 100,76,Python3,1595378016000,2288263,dbdr,UA,43448306132121,
@@ -134,6 +134,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,169,Python3,1569803426000,1473017,justhalf,SG,5020626234049,
 100,169,Python3,1588816806000,481564,mihei,RU,4454400756022,
 100,169,Python3,1596760229000,3657937,elderlybeginner,PL,39723186977905,
+100,169,Python3,1602729128000,2818814,LordOfThePings,AU,21202226399755,
 100,170,Python3,1567946818000,481988,DevKirill,RU,26384102822076,
 100,170,Python3,1567946818000,1803865,olinox14,FR,10567248069605,
 100,170,Python3,1595205027000,3855753,tuan91,SG,82558900731482,
@@ -720,6 +721,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,241,Python3,1567946818000,3378428,huchzi,DE,,
 100,241,Python3,1567946818000,2520126,yy214,FR,39959142950454,
 100,241,Python3,1590369056000,3596445,Bafiko,FR,44854648215244,
+100,241,Python3,1602729128000,632056,fearz,FR,,
 100,242,Python3,1567946818000,3044280,AminGholizad,BE,23774079662038,
 100,242,Python3,1567946818000,903185,F1reminded,DE,2433429928602,
 100,242,Python3,1567946818000,878638,Lupin,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,289,Python3,1567946818000,1067087,Testoubidou,FR,4112234276995,
 100,289,Python3,1567946818000,2445452,kalpdal,SE,17795132856919,
 100,289,Python3,1567946818000,847563,r_sa,AT,2204426618448,
-100,289,Python3,1600483608000,2743016,DevilSnare,IN,63196168928752,
-100,290,Python3,1567946818000,1030884,pr0v3rbs,KR,2087962065541,

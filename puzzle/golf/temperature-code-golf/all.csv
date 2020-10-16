@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13706|time=2020-10-15T02:32:18
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13724|time=2020-10-16T02:37:15
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -134,6 +134,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,48,Perl,1600224978000,3354337,Westicles,CX,79146641399080,
 100,48,Ruby,1600919092000,3982709,lukasjapan,JP,51562467085693,
 100,48,Perl,1601530045000,2584779,quirck,RU,18381413562499,
+100,48,Perl,1602815839000,2923506,darkhorse64,FR,23496414257567,
 100,49,C,1567946831000,2085649,Lsmith-Zenoscave,,16732451007917,
 100,49,C,1567946831000,2416641,Zenoscave,US,16732569385856,
 100,49,ObjectiveC,1567946831000,2416641,Zenoscave,US,16732569385856,
@@ -345,8 +346,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,53,Perl,1567946831000,1785670,Squallfirst,FR,10409341881681,
 100,53,Perl,1567946831000,715319,poksh,NL,1750588470839,
 100,53,Ruby,1567946833000,2799090,,,,
-100,53,Ruby,1567946833000,1492070,,,,
 100,53,Ruby,1567946833000,1542719,,,,
+100,53,Ruby,1567946833000,1492070,,,,
 100,53,Ruby,1567946833000,1502637,BlaBla,IN,,
 100,53,Ruby,1567946833000,837350,BorisZ,RU,4405751597540,
 100,53,Ruby,1567946833000,1156852,CoolStoryBro,GB,5702298127915,
@@ -849,8 +850,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1599100994000,3932077,CopperFr,FR,49629049829522,
 100,63,Javascript,1601179857000,2792530,Xanrum,RU,20842908721872,
 100,63,Javascript,1601952012000,587769,infusion,DE,2936450004591,
-100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,861191,,,,
+100,64,Javascript,1567946828000,1492125,,,,
 100,64,Javascript,1567946828000,2067176,0bug,FR,13297732398460,
 100,64,Javascript,1567946828000,2641149,3nvy_,GB,19075638303175,
 100,64,Javascript,1567946828000,1115198,Alextopher,US,10724493182879,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Javascript,1601353881000,3917749,Alex24,,,
 100,66,Javascript,1567946828000,1695697,,,,
 100,66,Javascript,1567946828000,735910,Agade,CH,1997542876524,
-100,66,Javascript,1567946828000,1193408,DoubleZeroSteph,FR,3015400557516,

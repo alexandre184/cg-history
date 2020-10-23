@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3662|time=2020-10-22T02:37:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3662|time=2020-10-23T02:35:52
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -283,6 +283,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Javascript,1595464476000,1616191,PotcFdk,DE,7181025277310,
 100,119,Javascript,1598057917000,1473079,Zylar,US,4875610554885,
 100,119,Javascript,1598810514000,2552218,Jakque,FR,21307149950021,
+100,119,Javascript,1603420552000,3998990,bgotink,BE,51302604328322,
 100,120,Javascript,1567946825000,441578,C_Minor,GB,20079810974992,
 100,120,Javascript,1567946825000,1876059,Knagis,LV,,
 100,120,Javascript,1567946825000,2438065,WillFrost,FI,60213703884300,
@@ -357,7 +358,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,125,Javascript,1571793089000,3530476,kitofers,LV,35503406232989,
 100,125,Javascript,1589853382000,2397660,Confatalis,CH,16363533057266,
 100,125,Javascript,1591921835000,3771692,obstinado,RU,43684328133957,
-100,125,Javascript,1603334268000,3998990,bgotink,BE,51302604328322,
 100,126,Javascript,1567946825000,928564,Dagohan,TR,,
 100,126,Javascript,1567946825000,2400938,Gaiel,BE,16450990810131,
 100,126,Javascript,1567946825000,1809405,Ginkyu,BR,,
@@ -461,7 +461,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,131,Javascript,1594859431000,966190,pepperoach,BR,,
 100,131,Javascript,1595118634000,154806,piwai,FR,1956863959967,
 100,131,Javascript,1595727358000,1511810,B1ts,LT,,
-100,131,Javascript,1601260247000,3717379,B0bb1e,FR,58305824159084,
+100,131,Javascript,1601260247000,3717379,makbob,FR,58305824159084,
 100,132,Javascript,1594859431000,1050768,AlfredoSalzillo,IT,2224251919371,
 100,132,Javascript,1594859431000,1949076,AndorsLee,SG,18577859874422,
 100,132,Javascript,1594859431000,271250,Berdes,FR,,

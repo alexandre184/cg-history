@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=26589|time=2020-10-24T02:47:10
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=26600|time=2020-10-25T02:33:53
 100,45,Ruby,1596760232000,3845610,pardouin,FR,60364063762936,
 100,46,Perl,1595464478000,1483723,d-s-x,RU,4980051025170,
 100,50,Bash,1595464475000,1483723,d-s-x,RU,4980051025170,
@@ -481,9 +481,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Perl,1602815833000,2325449,otpv,CA,36646766447960,
 100,108,C,1603248334000,3977266,batkonapazike,RU,,
 100,109,Perl,1567946823000,1518602,norcas,SK,12252484684558,
-100,109,Javascript,1567946825000,1794061,,,,
-100,109,Javascript,1567946825000,1289001,,,,
 100,109,Javascript,1567946825000,1054451,,,,
+100,109,Javascript,1567946825000,1289001,,,,
+100,109,Javascript,1567946825000,1794061,,,,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -771,6 +771,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Javascript,1601530038000,2698637,CorentinFoucault,FR,26497120301720,
 100,113,Python3,1603077439000,2832217,Hadry,FR,105176684223271,
 100,113,Python3,1603161745000,831195,samgiz,LT,,
+100,113,Javascript,1603593231000,1883670,radekmie,PL,86797522736009,
+100,113,Python3,1603593233000,4018953,zTTK,BH,99798786084209,
 100,114,Perl,1567946823000,1608670,designer,RO,7008607161805,
 100,114,Javascript,1567946825000,1546478,BennyP,GB,,
 100,114,Javascript,1567946825000,1565529,DarkNacht,DE,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,117,Python3,1595896335000,973040,papyjo,FR,15696776172839,
 100,117,PHP,1596099786000,3896228,Boruwaka,FR,46695808602989,
 100,117,C++,1596155437000,1399382,Regulus136,FR,4335723819637,
-100,117,Python3,1596415470000,3915248,abavoil,FR,47583963988929,
-100,117,Python3,1596933580000,257832,BlaiseEbuth,,,

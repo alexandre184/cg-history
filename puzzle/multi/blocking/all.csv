@@ -1,8 +1,9 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7|time=2020-10-30T00:30:04
-0,24.38,C++,,3153666,1479930,LeRenard,FR,40384564000700,
-0,23.41,C++,,3153670,2923506,darkhorse64,FR,23496414257567,
-0,22.92,C++,,3153806,862919,Astrobytes,GB,60413902297900,
-0,22.47,Java,,3153671,2924895,trictrac,FR,23056996012330,
-0,14.98,Python3,,3153706,3136787,jacek,PL,75369242083208,
-0,14.55,C++,,3153669,811622,Scarfield,DK,73294709815061,
-0,-1.09,Python3,,3153877,1713174,BigUP,FR,9962854189979,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8|time=2020-10-31T02:39:19
+1,0,C,,3154544,2924895,trictrac,FR,23056996012330,
+0,24.76,C++,,3153666,1479930,LeRenard,FR,40384564000700,
+0,23.35,C++,,3153670,2923506,darkhorse64,FR,23496414257567,
+0,23.03,Python3,,3155093,1489865,EricSMSO,FR,10005277870281,
+0,22.34,C++,,3153806,862919,Astrobytes,GB,60413902297900,
+0,15.01,C++,,3153669,811622,Scarfield,DK,73294709815061,
+0,14.21,Python3,,3153706,3136787,jacek,PL,75369242083208,
+0,-1.19,Python3,,3153877,1713174,BigUP,FR,9962854189979,

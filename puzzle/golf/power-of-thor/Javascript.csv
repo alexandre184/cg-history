@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3630|time=2020-10-31T04:42:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3632|time=2020-11-01T04:58:41
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -6,10 +6,10 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Javascript,1595032234000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,85,Javascript,1596099788000,3896228,Boruwaka,FR,46695808602989,
 100,85,Javascript,1596099788000,978875,sokki,DE,47220967041687,
+100,87,Javascript,1604206721000,2910225,Guytan67,FR,22197098430669,
 100,88,Javascript,1595032234000,820000,ValGrowth,JP,95440985747208,
 100,88,Javascript,1598142633000,2923506,darkhorse64,FR,23496414257567,
 100,89,Javascript,1596155438000,1399382,Regulus136,FR,4335723819637,
-100,90,Javascript,1604119361000,2910225,Guytan67,FR,22197098430669,
 100,92,Javascript,1592354921000,2603249,JeC,FR,18501353407912,
 100,93,Javascript,1599618864000,3238300,WarTey,CA,25776702601011,
 100,98,Javascript,1596760236000,155774,dwarfie,FR,17785582865119,
@@ -845,6 +845,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,154,Javascript,1596099788000,3136097,Cl00e9ment,FR,47574606569858,
 100,154,Javascript,1596760236000,3924897,takeshi_kovacs,HU,48303405432389,
 100,154,Javascript,1598927441000,3939954,vivescere,FR,48795145307927,
+100,154,Javascript,1604206721000,4037158,s0lar,DE,86731667632695,
 100,155,Javascript,1594946584000,845639,Domagoj,HR,1781091224915,
 100,155,Javascript,1594946584000,977679,Fabonatchi,FR,,
 100,155,Javascript,1594946584000,2154529,ImSquanchingHere,US,14161441691410,
@@ -996,6 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,166,Javascript,1594946584000,706570,CarlHC,ES,,
 100,166,Javascript,1594946584000,1119154,Daveed,CH,,
 100,166,Javascript,1594946584000,409028,Melkhy,FR,63896445251182,
-100,166,Javascript,1594946584000,1590026,UnknownCoder,PT,,
 100,166,Javascript,1594946584000,965895,Wust,BR,,
 100,166,Javascript,1594946584000,1008564,kbo,BG,3237974323613,

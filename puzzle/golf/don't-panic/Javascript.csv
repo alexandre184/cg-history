@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1154|time=2020-11-01T04:58:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1154|time=2020-11-02T02:31:52
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -336,6 +336,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Javascript,1567946817000,1699885,kromanychev,NL,15124249553173,
 100,177,Javascript,1567946817000,1405926,mtreinik,FI,,
 100,177,Javascript,1603938994000,389473,BigBart,CH,4922026050684,
+100,177,Javascript,1604284312000,165671,cyppan,FR,64028666285629,
 100,178,Javascript,1567946817000,906002,Artur,RU,1816203553637,
 100,178,Javascript,1567946817000,1495642,AtomCrafty,DE,5134929486180,
 100,178,Javascript,1567946817000,1348832,AzatJalilov,DE,,
@@ -413,7 +414,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,189,Javascript,1567946817000,3438209,IdiomSavant,GB,,
 100,189,Javascript,1567946817000,2526465,doritosxxx,RU,17838342424936,
 100,189,Javascript,1567946817000,1583209,smlabt,DE,6592491785037,
-100,189,Javascript,1604206715000,165671,TheDarkByte,FR,64028666285629,
 100,190,Javascript,1567946817000,1749242,Daratho,BE,11579615752208,
 100,190,Javascript,1567946817000,986852,Elkfoot,GB,,
 100,190,Javascript,1567946817000,913505,]-_Archangel_-[,RU,,
@@ -466,7 +466,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Javascript,1597537830000,1473079,Zylar,US,4875610554885,
 100,198,Javascript,1599448173000,1579627,Bahrani,SK,35411202673504,
 100,198,Javascript,1600569419000,664164,Jeako,FR,,
-100,198,Javascript,1603161740000,1848459,perlebach,CZ,48538649860014,
+100,198,Javascript,1603161740000,1848459,Velcoro,CZ,48538649860014,
 100,199,Javascript,1567946817000,221573,TiTi,FR,63573243211328,
 100,199,Javascript,1567946817000,3349783,glm9637,DE,29214528162212,
 100,199,Javascript,1567946817000,1095446,tarbomb,FR,83100206722923,

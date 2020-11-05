@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2017|time=2020-11-04T03:03:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2020|time=2020-11-05T00:48:52
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -378,6 +378,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Javascript,1567946828000,1898883,edoudou,FR,11631757928306,
 100,75,Javascript,1567946828000,3376614,tyhal,NZ,30060941965872,
 100,75,Javascript,1596329060000,3387410,Paolo_Rzf,MG,91658708408744,
+100,75,Javascript,1604537332000,153964,Zanng,FR,,
 100,76,Javascript,1567946828000,1639616,Bogdacutu,RO,,
 100,76,Javascript,1567946828000,2458742,Mitrandir,UA,30236969102612,
 100,76,Javascript,1567946828000,593873,SmSSysteM,RU,4699140979697,
@@ -653,7 +654,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Javascript,1567946828000,1549856,Keylan,US,7544816458112,
 100,98,Javascript,1567946828000,545216,Morikko,NL,2716438739473,
 100,98,Javascript,1567946828000,1145122,Turturul,BE,14028174172338,
-100,98,Javascript,1567946828000,153964,Zanng,FR,,
 100,98,Javascript,1567946828000,1614814,Zippolyte,FR,8512646797636,
 100,98,Javascript,1567946828000,1551203,mfsamuel,US,7008990030871,
 100,98,Javascript,1571013050000,2851992,musatag,FR,34415881686866,
@@ -668,6 +668,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Javascript,1567946828000,1904462,oronodea,DE,,
 100,99,Javascript,1567946828000,2610764,wouter,NL,,
 100,99,Javascript,1603420556000,4025187,SomoKRoceS,IL,,
+100,99,Javascript,1604537332000,2377428,Neinaps,FR,,
 100,100,Javascript,1567946828000,807443,Chen_Wang,CN,5565316259595,
 100,100,Javascript,1567946828000,867642,LazyBerserker,RU,15857292617399,
 100,100,Javascript,1567946828000,893177,Rebelwillow,US,20738672717048,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,135,Javascript,1567946828000,1944933,efes,AT,12118905775699,
 100,135,Javascript,1571971787000,1197593,NatNgs,FR,39232585925310,
 100,135,Javascript,1575592237000,3569710,TrashCoder,FR,,
-100,135,Javascript,1584407598000,1370611,Superflight,UA,41463882391159,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=75|time=2020-11-04T03:03:19
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=76|time=2020-11-05T00:48:49
 100,66,TypeScript,1598315439000,3845610,pardouin,FR,60364063762936,
 100,70,TypeScript,1595464479000,1483723,d-s-x,RU,4980051025170,
 100,81,TypeScript,1596501978000,2288263,dbdr,UA,43448306132121,
@@ -6,6 +6,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,102,TypeScript,1598057918000,1399382,Regulus136,FR,4335723819637,
 100,102,TypeScript,1598142637000,2923506,darkhorse64,FR,23496414257567,
 100,109,TypeScript,1599013844000,2315158,luigi_gelato,DE,,
+100,109,TypeScript,1604537329000,1485690,Kikoo,FR,4993649967380,
 100,111,TypeScript,1598927441000,155774,dwarfie,FR,17785582865119,
 100,115,TypeScript,1601606628000,1045485,Jessie,FR,9025608819920,
 100,115,TypeScript,1601606628000,3918583,mikmak,FR,48134583112917,
@@ -33,6 +34,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,TypeScript,1590626095000,3835659,Nimatt,SE,,
 100,163,TypeScript,1592354918000,1466631,Akrib,FR,17971797700592,
 100,163,TypeScript,1603679450000,1902002,minhhuyle,FR,11654254968300,
+100,174,TypeScript,1604537329000,1467771,Telokis,FR,52513387742977,
 100,175,TypeScript,1572568234000,2786666,TetraktysPhi,FR,20818693590142,
 100,184,TypeScript,1603334264000,2538615,eyev,US,,
 100,185,TypeScript,1593132398000,1518504,bohuss,SK,5792284370171,
@@ -43,7 +45,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,193,TypeScript,1599705045000,3966434,FredericP,DE,,
 100,199,TypeScript,1601606628000,3997947,,FR,,
 100,204,TypeScript,1573000237000,3531488,Dryadim,FR,35488801936304,
-100,205,TypeScript,1604370648000,1467771,Telokis,FR,52513387742977,
 100,209,TypeScript,1593305175000,3411563,myStick,BG,46246327942419,
 100,209,TypeScript,1595205035000,2290633,field3,JP,75961127697737,
 100,216,TypeScript,1599359444000,1902767,Kenny92,RU,48821522622075,

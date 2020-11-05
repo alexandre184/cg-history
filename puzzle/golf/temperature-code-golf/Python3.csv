@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3952|time=2020-11-04T03:03:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3958|time=2020-11-05T00:48:53
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
@@ -551,6 +551,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Python3,1600656635000,3677764,matrak091,IL,,
 100,75,Python3,1600744466000,948764,Katie,GB,2150180090592,
 100,75,Python3,1602642647000,1495694,MisterJensen,FR,51391581868539,
+100,75,Python3,1604537333000,2377428,Neinaps,FR,,
 100,76,Python3,1567946832000,1842592,Ace57,US,84168607827449,
 100,76,Python3,1567946832000,1535819,Afordancja,PL,6886920472910,
 100,76,Python3,1567946832000,517890,Altaire,RU,60751364963571,
@@ -681,6 +682,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,77,Python3,1600828238000,3981314,lecornichon,FR,51086480476988,
 100,77,Python3,1601866244000,3980660,vdtdg,FR,95472365322912,
 100,77,Python3,1604284323000,2802157,HKit,GB,21341851545659,
+100,77,Python3,1604537333000,2834065,anominos,GB,21614732919432,
 100,78,Python3,1567946832000,1279172,Alphaloc,BE,23634984069202,
 100,78,Python3,1567946832000,935500,Brewir,FR,2864631216806,
 100,78,Python3,1567946832000,481988,DevKirill,RU,26384102822076,
@@ -813,7 +815,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Python3,1594781475000,3872416,CodinGamerAK,IN,49688927730827,
 100,80,Python3,1594946591000,3895614,matthewsao,HK,,
 100,80,Python3,1595550641000,1894182,Bluesheeptoken,FR,12046904321674,
-100,80,Python3,1595637203000,2377428,Neinaps,FR,,
 100,80,Python3,1596155444000,3894184,DoctorFoo,GR,96617348184489,
 100,80,Python3,1598142641000,3940027,alexlo,ES,,
 100,80,Python3,1600050796000,2143315,FluffyToaster,NL,14075852675260,
@@ -997,5 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,Python3,1600919091000,3965807,TritiumBond,,,
 100,85,Python3,1567946832000,1235673,Lirkin,FR,13380771600138,
 100,85,Python3,1567946832000,1348556,Mywen,FR,4009766478897,
-100,85,Python3,1567946832000,1542465,PranavK123,IN,,
 100,85,Python3,1567946832000,908494,wsmind,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=487|time=2020-11-09T00:43:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=489|time=2020-11-10T00:47:49
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -188,7 +188,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Javascript,1567946837000,2625812,Thorhod,FR,,
 100,168,Javascript,1577325808000,3612859,Gryzli,PL,41310923057410,
 100,168,Javascript,1582245053000,1017388,lavavrik,UA,3751242082505,
-100,168,Javascript,1587516215000,2469285,yassineH,MA,61201408260554,
+100,168,Javascript,1587516215000,2469285,Yassine_EL_HOSNI,MA,61201408260554,
 100,168,Javascript,1601094682000,2644772,Airwaito,FR,35481509328406,
 100,169,Javascript,1567946837000,1330843,Brokenmass,GB,4380409503798,
 100,169,Javascript,1585097115000,2438065,WillFrost,FI,60213703884300,
@@ -198,6 +198,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,170,Javascript,1574296249000,1981179,4ndr3s,ES,12476591605432,
 100,170,Javascript,1579399373000,1172385,LuckyMe,NL,5881502329792,
 100,170,Javascript,1589943889000,3819867,Elvis438,CA,,
+100,170,Javascript,1604969269000,1425201,JamesPun,ZA,4426071280478,
 100,171,Javascript,1567946837000,2762653,RAAAT,FR,20523458481719,
 100,171,Javascript,1588036469000,2043908,AntiSquid,,,
 100,172,Javascript,1567946837000,478137,Z_Dante,UA,11970641956778,
@@ -466,6 +467,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,822,Javascript,1604797980000,3871852,anantaCodes,IN,46176181608115,
 100,823,Javascript,1567946837000,908073,DanielKamras,RS,,
 100,861,Javascript,1580689850000,3665757,Socolin,CA,39940682811977,
+100,905,Javascript,1604969269000,3984624,MarlonPassos-git,BR,,
 100,919,Javascript,1604370657000,1467771,Telokis,FR,52513387742977,
 100,926,Javascript,1567946837000,3402262,,GE,,
 100,946,Javascript,1567946837000,1709995,PlpSwg,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1645|time=2020-11-12T01:29:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1648|time=2020-11-13T00:39:14
 100,147,Java,1583368731000,1483723,d-s-x,RU,4980051025170,
 100,157,Java,1584894197000,1654818,tarapitha,EE,79401682508715,
 100,168,Java,1582853303000,1629259,Marchete,ES,61997162908277,
@@ -262,6 +262,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,263,Java,1592527271000,3847266,oskarssd,SE,,
 100,263,Java,1600224977000,3354337,Westicles,CX,79146641399080,
 100,264,Java,1583206170000,1723892,Kuriet,FR,41025528871310,
+100,264,Java,1605227954000,2464160,Taeth,FR,20862382884723,
 100,265,Java,1567946832000,1545924,agentcross,DE,16029489857306,
 100,265,Java,1567946832000,1590823,agentx1118,US,6596866905412,
 100,265,Java,1567946832000,1564705,classical_leap,US,16252101377044,
@@ -339,6 +340,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,287,Java,1567946832000,2360927,schuitj,NL,45905485491002,
 100,287,Java,1572222636000,3334658,Aquaphobe,CH,36561446647658,
 100,288,Java,1567946832000,198916,WhatTrickeryIsThis,FR,40590448621674,
+100,288,Java,1605227954000,3817276,BrainNotFound,GB,,
 100,289,Java,1567946832000,2365835,,FR,,
 100,289,Java,1567946832000,652793,ThePoltergeist,FR,,
 100,290,Java,1591750331000,2644772,Airwaito,FR,35481509328406,
@@ -624,7 +626,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,401,Java,1567946832000,1793178,Sergei_Kolenchenko,RU,10444535662722,
 100,401,Java,1567946832000,1713186,TiBlam,FR,,
 100,401,Java,1567946832000,2371494,amigo,GB,,
-100,401,Java,1583112886000,2464160,Taeth,FR,20862382884723,
 100,403,Java,1567946832000,1660268,Flocy,FR,7932805887208,
 100,403,Java,1593563440000,1483648,DhakalKumar,,,
 100,404,Java,1567946832000,1013711,Zinapra,BA,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,888,Java,1567946832000,1863592,Faustthephantom,US,,
 100,889,Java,1569803434000,1102278,david64,HU,,
 100,890,Java,1567946832000,3266090,rutu1312,IN,,
-100,891,Java,1567946832000,3327909,arbi,TR,,

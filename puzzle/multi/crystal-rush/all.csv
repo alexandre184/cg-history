@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2331|time=2020-11-12T01:29:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2331|time=2020-11-13T00:38:46
 4,36.07,C++,,2708375,3193653,karliso,LV,54368321987353,
 4,32.35,C++,,2707833,2577687,blasterpoard,SK,36336680250371,
 4,32.01,C++,,2707285,3502867,The_Duck,US,34740708743362,
@@ -194,7 +194,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.99,Java,,2707247,1537792,AsaiYusuke,US,41785380851985,
 3,24.93,Python3,,2707745,194630,javadev,UA,1810418971986,
 3,24.93,C++,,2709157,1586749,Vivek_A_Ramachandra,IN,,
-3,24.89,C++,,2708271,221648,svankoot,US,,
+3,24.89,C++,,2708271,221648,stephenvk,US,,
 3,24.88,C++,,2708964,1673512,Ryoken,LI,,
 3,24.85,C++,,3032546,1836058,SeebOmega,FR,58553586406181,
 3,24.81,C++,,2707532,1854246,Counterbalance,NL,26367790351026,
@@ -393,7 +393,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.04,C++,,2708960,1453934,Rety,RU,11180141666047,
 3,22.04,Java,,2708660,2521379,Calaglin,FR,33437189438314,
 3,21.92,Python3,,2707727,3511979,Kunii,AR,34978542031549,
-3,21.76,Javascript,,2707469,3427659,[JS]-Eric,FR,53698186556302,
+3,21.76,Javascript,,2707469,3427659,Joe-OTAGI,FR,53698186556302,
 3,21.74,C++,,2708458,2386035,Samsonov,RU,16206427127519,
 3,21.7,Go,,2708578,1898847,faga,AU,41790707860920,
 3,21.6,Python3,,2709455,1231237,crazyiop,FR,25750321111943,
@@ -727,7 +727,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,24.85,C++,,2708721,1864265,witty2,DE,,
 2,24.78,C#,,2708799,2036356,Choumanboy,FR,28682308705160,
 2,24.74,C++,,3097318,3939089,CuteLittleWolf,HU,48771288387918,
-2,24.73,C++,,2708249,3511049,Nach_Vigi,AR,35389987728675,
+2,24.73,C++,,2708249,3511049,Nacho_Vigi,AR,35389987728675,
 2,24.73,Swift,,2707663,1418816,ictor,US,35075420510213,
 2,24.73,C++,,2708718,2373019,witty3,UY,,
 2,24.71,C++,,2707417,2014306,Chadako,FR,23245453211489,

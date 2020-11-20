@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3677|time=2020-11-19T02:34:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3682|time=2020-11-20T02:13:25
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -746,7 +746,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1594946584000,1612918,palluau,FR,,
 100,147,Javascript,1594946584000,1240334,richardlt,FR,3419865860528,
 100,147,Javascript,1594946584000,3270198,simbst,FR,90556189912787,
-100,147,Javascript,1601697600000,2438514,ciaoo,IT,16905477283014,
+100,147,Javascript,1601697600000,2438514,davi_bart,IT,16905477283014,
 100,148,Javascript,1594946584000,2123567,BoutDeBois,FR,28874328851052,
 100,148,Javascript,1594946584000,1923302,Dracco,PL,11868998484454,
 100,148,Javascript,1594946584000,222988,FARV,FR,,
@@ -925,6 +925,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Javascript,1594946584000,866778,izulrad,RU,,
 100,159,Javascript,1595983751000,1474519,Sny_de_Treves,FR,59444303531011,
 100,159,Javascript,1598057917000,414278,oobException,FR,4595241889335,
+100,159,Javascript,1605838405000,1204325,Witik,NL,9897478437534,
 100,160,Javascript,1594946584000,1628102,AzariasB,FR,7372071224277,
 100,160,Javascript,1594946584000,1297521,ClouardDista,FR,11747154664609,
 100,160,Javascript,1594946584000,1988456,Danpan,JP,,
@@ -988,7 +989,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,164,Javascript,1594946584000,2091501,MetalFetishist,RU,13503069720263,
 100,164,Javascript,1594946584000,1016299,RicardoNunes,PT,3672394129984,
 100,164,Javascript,1594946584000,3210386,TheYo-gi,NL,44731408357402,
-100,164,Javascript,1594946584000,3569710,TrashCoder,FR,,
 100,164,Javascript,1594946584000,343906,Xhycos,FR,13080483287703,
 100,164,Javascript,1594946584000,3410991,YohanPerrot,FR,,
 100,164,Javascript,1594946584000,2578065,aleyrer,AT,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=504|time=2020-11-22T02:32:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=505|time=2020-11-23T02:46:41
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -59,6 +59,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Javascript,1573692633000,2069141,tomeko,PL,13370027887052,
 100,139,Javascript,1577064334000,3489223,KarloHubai,RS,88425880005143,
 100,139,Javascript,1593737171000,975057,LeoTigers,FR,45776082875495,
+100,139,Javascript,1606099601000,4060994,3030,FI,,
 100,140,Javascript,1583973561000,1353795,TheCrucial,PL,18581166493021,
 100,140,Javascript,1584355756000,3035070,Ipso,FR,25682160338718,
 100,140,Javascript,1600483627000,3971654,EDumdum,BE,,
@@ -124,7 +125,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1567946837000,964169,ivanoff.org.ua,UA,1877756495782,
 100,153,Javascript,1591317043000,3771692,obstinado,RU,43684328133957,
 100,153,Javascript,1605227968000,2323725,GMartigny,FR,24456305576601,
-100,153,Javascript,1606012362000,4060994,3030,FI,,
 100,154,Javascript,1572395744000,1383959,ebriand,FR,4078625698623,
 100,154,Javascript,1603507647000,2708267,XyoloJR,FR,52279543518143,
 100,155,Javascript,1567946837000,1305374,Frankich,FR,4884866560369,
@@ -407,6 +407,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,308,Javascript,1571273996000,1528237,Lizzie4044,US,,
 100,315,Javascript,1591317043000,2727914,Othogar,BR,35759348909586,
 100,319,Javascript,1567946837000,1016689,Ajustor,FR,26351091586217,
+100,319,Javascript,1606099601000,4028554,BasTooN,FR,52472605973209,
 100,320,Javascript,1567946837000,3278261,alexeysinko,RU,26208568157922,
 100,321,Javascript,1585788273000,1920786,Amatsukan_OFICIAL,BR,12320512151686,
 100,324,Javascript,1597537849000,2320995,Photon_,LT,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4066|time=2020-11-22T02:32:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4072|time=2020-11-23T02:46:34
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
@@ -190,6 +190,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Python3,1604969265000,2391407,daadi,HU,41389547149875,
 100,68,Python3,1605144568000,2452056,jk622,US,16996382126685,
 100,68,Python3,1605227953000,4047832,jschmidt,DE,,
+100,68,Python3,1606099594000,4061517,mr2dark,RU,,
 100,69,Python3,1567946832000,1128268,DubZzz,FR,4053201483190,
 100,69,Python3,1567946832000,1467559,Guillaumelale,FR,10814233323574,
 100,69,Python3,1567946832000,1855354,KiwiTae,TW,109683640425245,
@@ -509,6 +510,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,74,Python3,1605062550000,3353411,andrey-vinokurov,RU,29378066364709,
 100,74,Python3,1605144568000,1802967,Meruem,FR,31992166318610,
 100,74,Python3,1605227953000,957467,StopKran,RU,63377807690000,
+100,74,Python3,1606099594000,4036826,Feust,FR,52969508387999,
 100,75,Python3,1567946832000,1833849,Akromha,FR,27020769116001,
 100,75,Python3,1567946832000,333934,CrazyMerlyn,IE,20045015439951,
 100,75,Python3,1567946832000,1780436,Dambre,FR,,
@@ -805,7 +807,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Python3,1603248338000,3774010,Presac,DK,43644622174508,
 100,79,Python3,1603248338000,2325449,otpv,CA,36646766447960,
 100,79,Python3,1606012358000,4060994,3030,FI,,
-100,79,Python3,1606012358000,4036826,Feust,FR,52969508387999,
 100,80,Python3,1567946832000,1359111,,HK,,
 100,80,Python3,1567946832000,1960233,AntonBorzenko,RS,13330046099369,
 100,80,Python3,1567946832000,1633040,ChristopheSauge,FR,7469447139553,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,Python3,1567946832000,1470019,ndimov,US,,
 100,84,Python3,1567946832000,1982713,siikamiika,FI,,
 100,84,Python3,1567946832000,2862951,studentofbrand,US,,
-100,84,Python3,1567946832000,3376614,tyhal,NZ,30060941965872,

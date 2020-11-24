@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3687|time=2020-11-23T02:46:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3689|time=2020-11-24T01:19:36
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -385,6 +385,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Javascript,1587690587000,2662505,aponomarev,CZ,19929405528229,
 100,126,Javascript,1594859431000,3884325,Leafslash02,US,,
 100,126,Javascript,1596846633000,1527403,Di_Masta,BG,5689020242575,
+100,126,Javascript,1606180776000,4037158,s0lar,DE,86731667632695,
 100,127,Javascript,1567946825000,1579263,Antimony,CA,6421603564944,
 100,127,Javascript,1567946825000,2380259,JIo6cTep,RU,16163772419705,
 100,127,Javascript,1567946825000,1357612,Maisnborg,DE,,
@@ -563,6 +564,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,137,Javascript,1595464476000,2547420,Coldk,FR,55596643029773,
 100,137,Javascript,1596501978000,1733593,Wei-1,TW,12250588953001,
 100,137,Javascript,1602815829000,1228784,Coding_4_Fun,FR,18601321898125,
+100,137,Javascript,1606180776000,3672271,Namysh,FR,65285481149637,
 100,138,Javascript,1594859431000,1147524,CastorJo,FR,,
 100,138,Javascript,1594859431000,854215,Ji-aSH,FR,8541093906809,
 100,138,Javascript,1594946584000,252533,AlexSurin,RU,75568268871335,
@@ -862,7 +864,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,154,Javascript,1596099788000,3136097,Cl00e9ment,FR,47574606569858,
 100,154,Javascript,1596760236000,3924897,takeshi_kovacs,HU,48303405432389,
 100,154,Javascript,1598927441000,3939954,vivescere,FR,48795145307927,
-100,154,Javascript,1604206721000,4037158,s0lar,DE,86731667632695,
 100,155,Javascript,1594946584000,845639,Domagoj,HR,1781091224915,
 100,155,Javascript,1594946584000,977679,Fabonatchi,FR,,
 100,155,Javascript,1594946584000,2154529,ImSquanchingHere,US,14161441691410,
@@ -985,7 +986,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Javascript,1597451553000,3915518,majkojordan,SK,,
 100,163,Javascript,1599705041000,2381000,Oswaldo,DE,16507681006615,
 100,163,Javascript,1601179849000,3967226,lingesan,IN,,
-100,164,Javascript,1594946584000,3440664,Alanis,GB,,
 100,164,Javascript,1594946584000,1252380,Glopp,NC,3980880581126,
 100,164,Javascript,1594946584000,1537887,Jonathan_IJzerman,NL,7542417998615,
 100,164,Javascript,1594946584000,2091501,MetalFetishist,RU,13503069720263,

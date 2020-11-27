@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=213|time=2020-11-26T00:54:14
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=214|time=2020-11-27T00:57:39
 100,136,C#,1585961607000,1537792,AsaiYusuke,US,41785380851985,
 100,139,C#,1567946837000,2178794,Unihedron,HK,17500773502453,
 100,158,C#,1583714032000,1436776,BrainSolver,FR,10099178983053,
@@ -116,7 +116,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,392,C#,1582681652000,3689483,Rd211,NL,47794304723416,
 100,393,C#,1567946837000,3444039,TheSub63,FR,32561387759439,
 100,403,C#,1594859448000,3808031,_proton,US,44172683522650,
-100,414,C#,1580517045000,2298871,wth.mvp.s,FR,96460709785072,
+100,414,C#,1580517045000,2298871,jesuisdev.net,FR,96460709785072,
 100,424,C#,1579739772000,3646426,rookieMistake,AU,,
 100,426,C#,1594341683000,3833386,IszakPeter,HU,,
 100,430,C#,1606012362000,911178,therougegorge,FR,54283265875493,
@@ -164,6 +164,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1070,C#,1582681652000,3497787,Taci,CH,,
 100,1071,C#,1577234460000,3617845,AmitPatriwala,IN,38593466530860,
 100,1080,C#,1583801667000,3706363,Andario,CW,,
+100,1090,C#,1606438659000,4029194,Zaax,FR,,
 100,1105,C#,1567946837000,3306561,Gloops,FR,,
 100,1106,C#,1591145004000,3329203,DonnySte,GB,,
 100,1115,C#,1567946837000,3461827,PuzSol,AU,,

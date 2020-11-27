@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=511|time=2020-11-26T00:54:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=513|time=2020-11-27T00:57:41
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -182,6 +182,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,164,Javascript,1602902858000,4009018,Deltfather,CR,51592522391694,
 100,164,Javascript,1603161760000,1256312,Djoums,FR,3366390627127,
 100,164,Javascript,1603593244000,1883670,radekmie,PL,86797522736009,
+100,164,Javascript,1606438661000,3947806,Kr4unos,FR,50431809600802,
 100,165,Javascript,1567946837000,1854246,Counterbalance,NL,26367790351026,
 100,165,Javascript,1567946837000,3313645,tcr,FR,28970347821773,
 100,165,Javascript,1578790355000,1213850,Rativel,PL,3108976562691,
@@ -390,7 +391,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,269,Javascript,1598841630000,186225,bob1,US,8960055584772,
 100,273,Javascript,1567946837000,3391220,JeromeLorenzo,PH,,
 100,273,Javascript,1581641195000,3681052,Varedz,US,,
-100,273,Javascript,1582159738000,2298871,wth.mvp.s,FR,96460709785072,
+100,273,Javascript,1582159738000,2298871,jesuisdev.net,FR,96460709785072,
 100,273,Javascript,1582597670000,3693549,MostafaAhmedAbdEl-fattah,EG,40818689061237,
 100,274,Javascript,1590713147000,2453008,Crypticsy,NP,91135821533111,
 100,275,Javascript,1569458168000,3460822,J2319,HU,,
@@ -491,6 +492,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,905,Javascript,1604969269000,3984624,MarlonPassos-git,BR,,
 100,919,Javascript,1604370657000,1467771,Telokis,FR,52513387742977,
 100,926,Javascript,1567946837000,3402262,,GE,,
+100,930,Javascript,1606438661000,3795485,TOV,VN,44166148451700,
 100,946,Javascript,1567946837000,1709995,PlpSwg,FR,,
 100,947,Javascript,1571013056000,3518846,JacquesWu,ES,,
 100,954,Javascript,1569890703000,2936179,bobmcaleavey,US,,

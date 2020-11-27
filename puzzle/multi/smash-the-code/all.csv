@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2387|time=2020-11-26T00:37:43
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2387|time=2020-11-27T00:48:42
 5,35.62,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.95,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.35,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -835,6 +835,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.27,Javascript,,609670,1504640,Wicpar,FR,10403081046213,
 1,23.26,C#,,747446,1053403,indomit,RU,,
 1,23.26,C#,,2335906,912971,Amousy,FR,4498392759233,
+1,23.26,Javascript,,614967,1439710,Buesto,FR,5055564669623,
 1,23.26,C#,,969744,609811,Atesz,CA,5001858462202,
 1,23.26,C++,,906113,754792,Ramdeath,LT,13430148307311,
 1,23.25,Python3,,493497,1455173,DrSpock,NL,4677392520182,
@@ -848,7 +849,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.21,Javascript,,575454,1294592,tetesoulo,FR,4569196601664,
 1,23.21,Javascript,,487289,1409204,Ricco7La,BE,4336117454857,
 1,23.21,C,,486102,1280770,John_Black,RU,,
-1,23.21,Javascript,,614967,1439710,Buesto,FR,5055564669623,
 1,23.21,PHP,,716503,1052976,MatasR,LT,51797208337996,
 1,23.2,C#,,675167,1520716,Haskeer,CZ,5527962940413,
 1,23.19,Python3,,646541,1263862,Palermo,PT,18258512631714,
@@ -913,6 +913,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.02,Javascript,,494294,549396,GoossensPi,BE,4709806764411,
 1,23.02,Java,,498676,1460044,Fuz,RU,,
 1,23.02,C#,,508856,1448599,MdNght,RO,,
+1,23.02,C#,,573090,859508,ger0000,HU,,
 1,23.01,Python3,,653895,1113415,Lhassa,FR,,
 1,23.01,C++,,1428550,2133806,Thechrist,FR,68724120035078,
 1,23.01,Ruby,,494078,208864,Garutha,FR,,
@@ -920,7 +921,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23,Javascript,,746657,1355097,Manos,CH,7359369827903,
 1,23,C++,,1481109,890335,ttr,NL,15580335029168,
 1,23,Python3,,551811,1481265,erdnaxe42,,,
-1,23,C#,,573090,859508,ger0000,HU,,
 1,23,Python3,,634685,1012020,Markusha,MD,21117387170051,
 1,22.99,C++,,678800,1514906,Gwaka,FR,6030214428695,
 1,22.99,Python3,,3101789,3926522,Denshire,US,98102241022642,

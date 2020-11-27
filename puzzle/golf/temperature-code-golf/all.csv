@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14298|time=2020-11-26T00:54:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14320|time=2020-11-27T00:57:34
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -586,6 +586,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Javascript,1596674090000,3913849,kingKong,FR,,
 100,59,Lua,1600224979000,3845610,pardouin,FR,60364063762936,
 100,59,Python3,1604459010000,1654818,tarapitha,EE,79401682508715,
+100,59,Ruby,1606438655000,1158098,Matjaz,SI,3323712602158,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -804,6 +805,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Python3,1604284323000,1186885,miracle,CA,,
 100,62,Javascript,1604370651000,2910225,Guytan67,FR,22197098430669,
 100,62,Javascript,1604711084000,1774018,ModernShogun,CA,10218654357749,
+100,62,Javascript,1606438653000,3947806,Kr4unos,FR,50431809600802,
 100,63,Javascript,1567946828000,3352676,3t0n,RU,29140567952302,
 100,63,Javascript,1567946828000,1744223,Bissel,DE,9713102708582,
 100,63,Javascript,1567946828000,1070566,Kodnot,LT,20227250201533,
@@ -947,7 +949,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Javascript,1600483619000,828239,[SG]Bisou,FR,3777247629960,
 100,64,Javascript,1600744469000,3430773,tax16,FR,55996407162212,
 100,64,Javascript,1601094675000,3592273,fana06,MG,,
-100,64,Ruby,1601530048000,1158098,Matjaz,SI,3323712602158,
 100,64,Ruby,1601530048000,962495,e-boot,FR,55086804311206,
 100,64,OCaml,1601952012000,1968855,ThePurificator,FR,12329456921169,
 100,64,Python3,1602041460000,1178276,Jerome_95,FR,19999067509724,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Javascript,1595464482000,2375283,VirusX,UA,46597081793240,
 100,65,Javascript,1596099795000,978875,sokki,DE,47220967041687,
 100,65,Javascript,1596329060000,1854246,Counterbalance,NL,26367790351026,
-100,65,Ruby,1598810521000,828239,[SG]Bisou,FR,3777247629960,

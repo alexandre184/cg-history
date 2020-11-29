@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1677|time=2020-11-28T01:49:19
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1679|time=2020-11-29T00:59:59
 100,147,Java,1583368731000,1483723,d-s-x,RU,4980051025170,
 100,157,Java,1584894197000,1654818,tarapitha,EE,79401682508715,
 100,168,Java,1582853303000,1629259,Marchete,ES,61997162908277,
@@ -331,6 +331,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,281,Java,1572395737000,3506456,ValentinPicavet,FR,34869848947602,
 100,282,Java,1567946832000,3066640,MaherYounsi,FR,25197044359159,
 100,282,Java,1567946832000,1757794,midou007,FR,,
+100,282,Java,1606611599000,4083202,Will_Moss,US,54707860123863,
 100,283,Java,1575333164000,3574648,,TN,,
 100,284,Java,1567946832000,1077559,PhOeNyX,FR,2248934338554,
 100,284,Java,1590713140000,1858965,Chipmunk,FR,45372266932710,
@@ -376,6 +377,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,300,Java,1567946832000,2059321,GaelP,FR,,
 100,300,Java,1567946832000,2569985,herrJanglzz,US,,
 100,300,Java,1567946832000,894826,tekki,FR,7460304114642,
+100,300,Java,1606611599000,3721214,jrke,IN,68983084061211,
 100,301,Java,1567946832000,706570,CarlHC,ES,,
 100,301,Java,1567946832000,1452097,MikeMack,US,,
 100,301,Java,1604119370000,4035839,Barzuln,IT,,
@@ -416,7 +418,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,312,Java,1567946832000,2310987,cheryuriy,RU,,
 100,313,Java,1567946832000,1863849,Peglo,FR,12316126417980,
 100,313,Java,1586393338000,3756133,,RO,,
-100,313,Java,1594781474000,3721214,jrke,IN,68983084061211,
 100,314,Java,1567946832000,1506967,Misterjony,PT,5525781469316,
 100,315,Java,1567946832000,2467024,Daytona,FR,17260562156895,
 100,315,Java,1576718279000,3611726,dcdd,IE,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,859,Java,1573173930000,3558944,,FR,,
 100,864,Java,1567946832000,2491210,TiagoFunk,BR,17467287940744,
 100,865,Java,1571620213000,3529910,hichemlamine,TN,35455025492408,
-100,870,Java,1567946832000,2957256,KevinDelplanque,FR,,

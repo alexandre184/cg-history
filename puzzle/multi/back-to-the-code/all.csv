@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4648|time=2020-11-29T00:59:32
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4649|time=2020-11-30T01:02:09
 0,47.64,C,,1484525,1433161,Mingu,KR,27653324382564,
 0,46.24,C++,,455215,494104,Recar,GB,4953953776940,
 0,45.81,C++,,357643,990110,Rogerup,BR,2038636261009,
@@ -505,6 +505,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,33.67,Java,,353536,706692,alexhap,UA,12742258885909,
 0,33.67,C#,,344988,1070189,Sebizuka,FR,53963844280967,
 0,33.67,C++,,373751,736854,yento,FR,,
+0,33.66,Java,,341232,516255,Vargas,FR,1723834742159,
 0,33.66,Javascript,,2047784,903485,artur99,RO,,
 0,33.65,C++,,344358,982132,cocouf,FR,,
 0,33.64,C#,,344215,1013576,GabrielBottari,CA,2076461593593,
@@ -512,7 +513,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,33.63,OCaml,,1916524,2488368,frayien,FR,17616785813102,
 0,33.61,C,,361769,1013649,Nodren,FR,,
 0,33.61,C,,379987,1302858,Quinton,US,3562276363089,
-0,33.61,Java,,341232,516255,Vargas,FR,1723834742159,
 0,33.61,Ruby,,366966,1186871,bnd,JP,2987194468089,
 0,33.61,Javascript,,347727,955137,balamir53,TR,1974922764525,
 0,33.6,Java,,342478,1047061,ThePiti85,DE,,
@@ -693,10 +693,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,31.81,Ruby,,351609,1005061,drac,SE,2014585116987,
 0,31.8,Java,,353244,543181,dominisz,PL,2001884155929,
 0,31.76,Java,,352232,978754,flower_child,UA,,
-0,31.76,Python,,357568,406152,TiarinBlate,US,,
 0,31.75,C,,355307,1040245,Matze,DE,2113243279897,
 0,31.71,OCaml,,1916131,2488552,MPSI-LIV-nicod-eva,FR,,
 0,31.7,C++,,3131120,831195,samgiz,LT,,
+0,31.7,Python,,357568,406152,TiarinBlate,US,,
 0,31.68,C#,,1122731,1728217,_spoon_,FR,13334111098309,
 0,31.67,F#,,374894,1239787,Name,US,9908265081489,
 0,31.66,OCaml,,354065,359529,vIg0r,FR,21959982471260,

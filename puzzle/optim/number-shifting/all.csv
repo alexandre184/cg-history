@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=214|time=2020-11-29T00:59:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=216|time=2020-11-30T02:11:56
 100,700,C++,1604969248000,3949307,xevixevi,JP,51534829531760,
 100,653,C++,1600828221000,3354337,Westicles,CX,79146641399080,
 100,500,Rust,1583461895000,2288263,dbdr,UA,43448306132121,
@@ -63,6 +63,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,24,PHP,1600919071000,3956109,saquintes,GB,49343560098671,
 100,23,PHP,1583957383000,1579653,zweedeend,NL,17837515509499,
 100,23,Python3,1588036444000,992329,BeeGee,NL,5817423526804,
+100,23,PHP,1606702316000,3971358,OldJohn,FR,63565949763225,
 100,22,PHP,1578702616000,2508635,hemhel,FR,17633818881669,
 100,22,Ruby,1579399347000,371603,martin,CA,1761380964089,
 100,22,PHP,1590202372000,154388,PonyPonyCodeCode,FR,37335148285737,
@@ -131,6 +132,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5,Python3,1593650921000,3842838,Streusel,DE,,
 100,4,PHP,1580171415000,3424530,[symfunc]_Dreamer,FR,57972349624681,
 100,4,PHP,1580862619000,888898,helgui,RU,22560718540069,
+100,4,C#,1606702316000,2045078,AleksandrSharak,LV,55020309748597,
 100,3,Python3,1580344999000,3154694,TheAristos,GB,24978952121057,
 100,3,Java,1595727345000,1518732,Apfeloxid,DE,27685163757224,
 100,3,Kotlin,1600569414000,3863995,Apri1,RU,,

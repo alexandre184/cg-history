@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=106|time=2020-11-29T01:00:06
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=107|time=2020-11-30T02:12:24
 100,73,PHP,1595291446000,2288263,dbdr,UA,43448306132121,
 100,74,PHP,1595291446000,1537792,AsaiYusuke,US,41785380851985,
 100,77,PHP,1567946837000,1654818,tarapitha,EE,79401682508715,
@@ -71,7 +71,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,275,PHP,1577579756000,3586725,ivon,FR,38932740061063,
 100,276,PHP,1569285040000,495730,Philoupe,FR,34284081914097,
 100,276,PHP,1584665141000,3622757,anid,,,
-100,287,PHP,1593995996000,3679709,GiggZ,FR,42442125432818,
+100,287,PHP,1593995996000,3679709,grivalan,FR,42442125432818,
 100,292,PHP,1604624207000,904197,CramSan,FR,,
 100,293,PHP,1567946837000,2637320,villfa,FR,,
 100,300,PHP,1567946837000,1011080,LGeorgiev,BG,2030854072056,
@@ -105,3 +105,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1180,PHP,1575333165000,3558337,atome,FR,,
 100,1276,PHP,1576718283000,3611548,,TN,,
 100,1362,PHP,1593045966000,2695791,abdessalemgh,TN,23712593300967,
+100,1885,PHP,1606702344000,1979380,beatwinthewave,FR,12462706748316,

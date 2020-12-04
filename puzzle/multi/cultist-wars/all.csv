@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=100|time=2020-12-03T00:30:05
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=99|time=2020-12-04T00:30:07
 1,35.01,C++,,2482861,837436,aropan,BY,68849260530594,
 1,33.73,Java,,2338793,2114947,Nixerrr,HU,25886476520293,
 1,32.52,TypeScript,,2591344,525275,pierallard,FR,36251782959516,
@@ -53,7 +53,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,15.36,Python3,,2440129,682715,orkipastafari,ES,13209214054008,
 0,15.09,C#,,2335645,2069141,tomeko,PL,13370027887052,
 0,14.04,Kotlin,,2437469,3335921,vcoubray,FR,28402108918604,
-0,12.91,Python3,,2606935,3550197,sevans425,,,
 0,12.86,Python3,,2609121,723476,NeoPhnx,FR,7395365458376,
 0,12.25,Javascript,,2343140,1525816,Flodnes,NO,5656265985683,
 0,11.06,C++,,2849846,1436776,BrainSolver,FR,10099178983053,

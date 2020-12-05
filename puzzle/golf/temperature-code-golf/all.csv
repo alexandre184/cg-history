@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14425|time=2020-12-04T01:22:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14437|time=2020-12-05T01:17:58
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -85,6 +85,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,47,Perl,1597105862000,154388,PonyPonyCodeCode,FR,37335148285737,
 100,47,Ruby,1603507641000,2142961,masterpoo,FR,43088841158401,
 100,47,Ruby,1605062552000,3982709,lukasjapan,JP,51562467085693,
+100,47,Perl,1607131080000,3913376,LaurentValade,FR,47390627049317,
 100,48,Perl,1567946831000,1306289,Jasperr,NL,56014127626531,
 100,48,Perl,1567946831000,2669104,KBurov,US,19292152791924,
 100,48,Perl,1567946831000,1629259,Marchete,ES,61997162908277,
@@ -132,7 +133,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,48,Perl,1600224978000,3354337,Westicles,CX,79146641399080,
 100,48,Perl,1601530045000,2584779,quirck,RU,18381413562499,
 100,48,Perl,1602815839000,2923506,darkhorse64,FR,23496414257567,
-100,48,Perl,1603593241000,3913376,LaurentValade,FR,47390627049317,
 100,48,Perl,1605323140000,1068877,[CPC]Tamno,FR,2254398342499,
 100,49,C,1567946831000,2416641,Zenoscave,US,16732569385856,
 100,49,ObjectiveC,1567946831000,2416641,Zenoscave,US,16732569385856,
@@ -705,6 +705,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Ruby,1604711081000,3962136,l4hg,US,49677525397562,
 100,61,Javascript,1606783908000,2220824,Aerodactylus,FR,54336008500576,
 100,61,Javascript,1606783908000,1348600,erodataM,FR,15560295582514,
+100,61,Javascript,1607131079000,2635907,lopidav,UA,18844623817442,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,2043908,AntiSquid,,,
 100,62,Javascript,1567946828000,814685,AthosPyte,NO,5617445240242,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Javascript,1593218105000,1525831,ntsd,TH,86763903852312,
 100,65,ObjectiveC,1593477264000,1654818,tarapitha,EE,79401682508715,
 100,65,Python3,1594168549000,3663409,giosds,IT,,
-100,65,Javascript,1595378030000,3879907,RealJasomo,US,,

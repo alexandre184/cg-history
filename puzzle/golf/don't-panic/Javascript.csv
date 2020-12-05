@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1180|time=2020-12-04T01:21:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1182|time=2020-12-05T01:17:44
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -660,6 +660,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,249,Javascript,1567946817000,2762653,RAAAT,FR,20523458481719,
 100,249,Javascript,1567946817000,2315411,cejonio,VE,15624450307485,
 100,249,Javascript,1567946817000,604167,chango,CH,12610458268103,
+100,249,Javascript,1607131064000,4059706,wistler,US,53872864930862,
 100,250,Javascript,1567946817000,1506049,Hartorn,FR,8250287333472,
 100,250,Javascript,1567946817000,1103662,Menighin,BR,20611160531480,
 100,250,Javascript,1567946817000,2060079,faud,FR,13488958525291,
@@ -698,6 +699,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,268,Javascript,1567946817000,2370805,hmss,US,,
 100,268,Javascript,1586741389000,2508635,hemhel,FR,17633818881669,
 100,268,Javascript,1598315430000,3925274,MikeNHikes,US,,
+100,268,Javascript,1607131064000,3998772,zefogm,FR,,
 100,271,Javascript,1567946817000,1234947,kuro,BR,6850950439511,
 100,271,Javascript,1590202380000,1038882,ICTylor,ES,5675054368659,
 100,272,Javascript,1567946817000,1400060,manolopm,ES,69588024154950,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,866,Javascript,1567946817000,881373,BronzBierd,ZA,,
 100,900,Javascript,1567946817000,838400,SmokeyPHP,GB,86447984653166,
 100,904,Javascript,1567946817000,1347608,Darkoneko,FR,3859007351449,
-100,913,Javascript,1567946817000,2079926,cheuf,FR,27890525224254,
-100,914,Javascript,1567946817000,1721781,svetlana,RU,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14452|time=2020-12-06T01:57:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14468|time=2020-12-07T01:10:44
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -587,6 +587,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Lua,1600224979000,3845610,pardouin,FR,60364063762936,
 100,59,Python3,1604459010000,1654818,tarapitha,EE,79401682508715,
 100,59,Ruby,1606438655000,1158098,Matjaz,SI,3323712602158,
+100,59,Javascript,1607303443000,2565497,vladislao,RU,18197468031147,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -629,7 +630,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1573864713000,1626913,AdrienTurmo,FR,7339608490797,
 100,60,Javascript,1574296239000,1244685,dorion,FR,21623788646587,
 100,60,Javascript,1574556794000,3510173,Reinis-Mazeiks,LV,37663464036857,
-100,60,Javascript,1575333162000,2565497,vladislao,RU,18197468031147,
 100,60,Ruby,1576888235000,3611465,FooBat,FI,,
 100,60,Javascript,1576978174000,2923506,darkhorse64,FR,23496414257567,
 100,60,Javascript,1582597667000,717196,NWDD,ES,,
@@ -963,6 +963,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Javascript,1606352050000,4060994,3030,FI,,
 100,64,Javascript,1606528157000,3812486,gitKad,CA,44329387618958,
 100,64,Python3,1606878452000,631323,herve056,FR,11494731136934,
+100,64,Perl,1607303440000,4060870,aspirator,JP,54135746708506,
 100,65,Javascript,1567946828000,1050768,AlfredoSalzillo,IT,2224251919371,
 100,65,Javascript,1567946828000,1937628,Elom,FR,12220589050170,
 100,65,Javascript,1567946828000,660643,Marrrk,DE,4967890171886,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Javascript,1589070646000,3771692,obstinado,RU,43684328133957,
 100,65,Javascript,1593218105000,1525831,ntsd,TH,86763903852312,
 100,65,ObjectiveC,1593477264000,1654818,tarapitha,EE,79401682508715,
-100,65,Python3,1594168549000,3663409,giosds,IT,,

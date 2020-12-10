@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=74|time=2020-12-09T01:30:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=74|time=2020-12-10T02:09:07
 100,113,Scala,1567946818000,1654818,tarapitha,EE,79401682508715,
 100,118,Scala,1567946818000,1740037,ereiam,FR,12669494111004,
 100,133,Scala,1567946818000,2113625,marc0,FR,14077268978564,
@@ -36,6 +36,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,332,Scala,1567946818000,2069141,tomeko,PL,13370027887052,
 100,342,Scala,1567946818000,735910,Agade,CH,1997542876524,
 100,351,Scala,1567946818000,1786774,stsc-pentasys,DE,10360572740970,
+100,352,Scala,1607566147000,937073,Krlos,ES,18241478681928,
 100,357,Scala,1567946818000,1192837,davidB,FR,3812849123499,
 100,358,Scala,1567946818000,2786666,TetraktysPhi,FR,20818693590142,
 100,368,Scala,1567946818000,620935,zbyszek,PL,3174507162135,
@@ -46,7 +47,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,381,Scala,1567946818000,1188212,superredlark,CN,2920737364455,
 100,383,Scala,1567946818000,704875,XaY,FR,1746313875354,
 100,393,Scala,1567946818000,1143193,mikeybarker,DE,,
-100,393,Scala,1607044917000,937073,Krlos,ES,18241478681928,
 100,423,Scala,1567946818000,2290633,field3,JP,75961127697737,
 100,432,Scala,1567946818000,973017,bitofmagic,UA,,
 100,453,Scala,1567946818000,1477618,thunderk,FR,,

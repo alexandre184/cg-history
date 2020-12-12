@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2103|time=2020-12-11T01:24:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2105|time=2020-12-12T01:40:39
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -39,7 +39,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1586827830000,334009,abouvier,FR,4681436111242,
 100,60,Javascript,1587438241000,2837454,Inc_,DE,22024624258996,
 100,60,Javascript,1587438241000,3730057,Maxtreme,DE,42314728539566,
-100,60,Javascript,1600483619000,3354337,anon12600701,CX,79146641399080,
+100,60,Javascript,1600483619000,3354337,Westicles,CX,79146641399080,
 100,60,Javascript,1600744469000,3115228,TThomas,FR,,
 100,60,Javascript,1600919089000,1045485,Jessie,FR,9025608819920,
 100,60,Javascript,1600919089000,3918583,mikmak,FR,48134583112917,
@@ -531,6 +531,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,86,Javascript,1571447808000,2136109,Klemek,FR,30486220021128,
 100,86,Javascript,1585097112000,854215,Ji-aSH,FR,8541093906809,
 100,86,Javascript,1585444520000,2585741,Waiting_for_player....,MX,51354286825574,
+100,86,Javascript,1607737239000,4100825,ablin42,FR,55479060101488,
 100,87,Javascript,1567946828000,881037,Amadeuszx,PL,1720829478041,
 100,87,Javascript,1567946828000,1495782,BROCK,NL,5230736064378,
 100,87,Javascript,1567946828000,978771,COMIT,FR,6875266625699,
@@ -997,5 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,131,Javascript,1567946828000,1513349,Arnab07,IN,5434798112532,
 100,131,Javascript,1567946828000,1512239,Kanngi,IN,,
 100,131,Javascript,1567946828000,1016299,RicardoNunes,PT,3672394129984,
-100,131,Javascript,1567946828000,1332480,ZereK,FR,7911401628721,
 100,131,Javascript,1567946828000,1174208,benpdavison,GB,7933319197374,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=530|time=2020-12-11T01:24:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=531|time=2020-12-12T01:40:41
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -160,7 +160,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,157,Javascript,1591921847000,3569691,KndrSrprizzz,FR,46021287537442,
 100,158,Javascript,1567946837000,2786666,TetraktysPhi,FR,20818693590142,
 100,158,Javascript,1580430645000,3407364,personAlex,BY,33008880931371,
-100,158,Javascript,1600483627000,3354337,anon12600701,CX,79146641399080,
+100,158,Javascript,1600483627000,3354337,Westicles,CX,79146641399080,
 100,158,Javascript,1602989384000,3934908,TheDrakonir,DE,51719564715384,
 100,158,Javascript,1605921613000,2641712,Scarlatine,SE,19128425061644,
 100,159,Javascript,1572395744000,3065338,DrKhyz,FR,36071020940695,
@@ -299,8 +299,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,196,Javascript,1582159738000,1250571,ChrisJeamme,FR,44090843307907,
 100,197,Javascript,1569285045000,187572,Shomz,RS,12902457819085,
 100,198,Javascript,1567946837000,950545,Cobru,RO,,
-100,198,Javascript,1567946837000,2547420,Coldk,FR,55596643029773,
 100,198,Javascript,1567946837000,1825144,HerrScheissmann,NL,26073263423687,
+100,198,Javascript,1567946837000,2547420,SauceSept,FR,55596643029773,
 100,198,Javascript,1576802436000,1203306,OcterA,FR,38396527373859,
 100,198,Javascript,1593909045000,3883993,GuidoCrego,AR,,
 100,198,Javascript,1593909045000,3820903,HexaDonut,US,44685727284033,
@@ -519,6 +519,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1088,Javascript,1573261521000,1778307,AashishKarki,NP,13385162279998,
 100,1089,Javascript,1607044931000,4090452,AbsolutMonkey,RU,,
 100,1101,Javascript,1586567517000,3757487,lester_,,,
+100,1132,Javascript,1607737241000,3765613,abezanni,FR,,
 100,1197,Javascript,1596155448000,3916660,Mikei,PL,,
 100,1216,Javascript,1567946837000,2211153,Itchie,DE,,
 100,1235,Javascript,1598229551000,2094622,Meliandah,FR,16512787841973,

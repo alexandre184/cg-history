@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=538|time=2020-12-20T00:57:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=539|time=2020-12-21T01:14:09
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -169,6 +169,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Javascript,1582765803000,2067176,0bug,FR,13297732398460,
 100,159,Javascript,1592012096000,1701936,Chatterton,FR,9000293426040,
 100,159,Javascript,1596099796000,2688381,willf80,FR,70802160683965,
+100,159,Javascript,1608513249000,4100825,ablin42,FR,55479060101488,
 100,160,Javascript,1567946837000,893541,wala,FR,97577641170180,
 100,160,Javascript,1571013056000,2093490,paul.cabanes,FR,13963535448576,
 100,160,Javascript,1584894198000,3657944,xyz-1,PL,40019042861680,
@@ -195,6 +196,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,165,Javascript,1567946837000,1854246,Counterbalance,NL,26367790351026,
 100,165,Javascript,1567946837000,3313645,tcr,FR,28970347821773,
 100,165,Javascript,1578790355000,1213850,Rativel,PL,3108976562691,
+100,165,Javascript,1608513249000,3887131,cpilko,US,,
 100,166,Javascript,1567946837000,158495,Cr3aHal0,FR,11235124705354,
 100,166,Javascript,1572222643000,1588777,ClemC,FR,35766566727043,
 100,166,Javascript,1588903194000,3761566,Arnav-S,US,46459284452691,
@@ -338,7 +340,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,215,Javascript,1579221123000,3476778,Inari_,FR,,
 100,215,Javascript,1583542940000,3593651,CodeDonkey,NL,38414349528713,
 100,215,Javascript,1588208146000,1249391,Betisman,ES,25466464199674,
-100,215,Javascript,1608345429000,4100825,ablin42,FR,55479060101488,
 100,217,Javascript,1589331061000,3446461,juslin03,CI,108009928768420,
 100,217,Javascript,1606702343000,1711397,DiogoGiassi,BR,9479385050848,
 100,218,Javascript,1599359456000,3115228,TThomas,FR,,

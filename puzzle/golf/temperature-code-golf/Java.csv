@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1707|time=2020-12-23T01:03:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1711|time=2020-12-24T01:12:59
 100,147,Java,1583368731000,1483723,d-s-x,RU,4980051025170,
 100,157,Java,1584894197000,1654818,tarapitha,EE,79401682508715,
 100,168,Java,1582853303000,1629259,Marchete,ES,61997162908277,
@@ -467,6 +467,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,328,Java,1600397768000,3967270,rivancic,CH,49975642793889,
 100,329,Java,1567946832000,2390968,Minetoblend,AT,,
 100,329,Java,1567946832000,1780303,ZeMateo,FR,10656215014151,
+100,329,Java,1608772379000,4115833,Mohamed_Kharrat,CH,68998928055852,
 100,330,Java,1567946832000,1277724,Earthborne,NO,3459885929162,
 100,330,Java,1567946832000,1521217,Quincunx,US,,
 100,330,Java,1567946832000,1526243,ash2620,IN,,
@@ -862,8 +863,10 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,636,Java,1567946832000,2789256,Noirtam,FR,,
 100,636,Java,1567946832000,1286715,SaiAungPyae,MM,7836254888501,
 100,643,Java,1567946832000,2198389,CaptainZ,FR,25368607862122,
+100,645,Java,1608772379000,4115913,SemahChaouch,TN,,
 100,652,Java,1567946832000,2083051,JonathanHohgrefe,US,,
 100,659,Java,1567946832000,3167968,Master_Zain,GB,25059813489079,
+100,660,Java,1608772379000,4116895,olaf0101,TN,,
 100,662,Java,1567946832000,1229873,AhmedAyman_2nd-year,EG,7416059227736,
 100,663,Java,1567946832000,2536921,urSenpai,FR,28156522791382,
 100,664,Java,1603679458000,4021858,keekee,HR,,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,836,Java,1567946832000,2347492,DilwarSingh,IN,,
 100,837,Java,1567946832000,1731570,RainerR,AT,,
 100,842,Java,1596155442000,3819155,ValentinJustin,FR,,
-100,844,Java,1605062554000,1912333,Yacine-B,FR,13437493661679,
-100,846,Java,1570235454000,3500257,Ranj,IQ,34651701061639,
-100,846,Java,1605323144000,3862818,FKA87,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3741|time=2020-12-24T01:12:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3745|time=2020-12-25T01:09:19
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -31,6 +31,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1598841621000,2315158,luigi_gelato,DE,,
 100,101,Javascript,1602729137000,2520443,Einwickler,DE,50711405528093,
 100,101,Javascript,1608598084000,839539,madCasper,KR,11219541628592,
+100,101,Javascript,1608858559000,4055973,Aeschli,CH,,
 100,102,Javascript,1597278634000,2888129,terazoid,UA,49682242574474,
 100,103,Javascript,1567946825000,2109511,taquion,MX,13694693506047,
 100,104,Javascript,1567946825000,1706476,Maboul95,FR,9338051370545,
@@ -495,6 +496,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,131,Javascript,1595118634000,154806,piwai,FR,1956863959967,
 100,131,Javascript,1595727358000,1511810,B1ts,LT,,
 100,131,Javascript,1601260247000,3717379,makbob,FR,58305824159084,
+100,131,Javascript,1608858559000,2254195,BrunoFelthes,BR,92712103847740,
 100,132,Javascript,1594859431000,1050768,AlfredoSalzillo,IT,2224251919371,
 100,132,Javascript,1594859431000,1949076,AndorsLee,SG,18577859874422,
 100,132,Javascript,1594859431000,271250,Berdes,FR,,
@@ -996,6 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1605062564000,4051808,Wong_Dev,CU,,
 100,162,Javascript,1594946584000,153683,40R15T3,FR,13910938941186,
 100,162,Javascript,1594946584000,1003661,MykolaU,UA,,
-100,162,Javascript,1594946584000,1175822,Teramis,UA,9224171656574,
 100,162,Javascript,1594946584000,1161780,Trey59000,FR,,
-100,162,Javascript,1594946584000,1486792,Verathez,PL,,

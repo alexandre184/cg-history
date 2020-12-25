@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4232|time=2020-12-24T01:12:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4238|time=2020-12-25T01:09:32
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
@@ -383,6 +383,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,72,Python3,1604025053000,4029261,pascscha,CH,55154180517744,
 100,72,Python3,1608167607000,2605855,logiqub,FR,18528263791679,
 100,72,Python3,1608167607000,4102840,professoryana,NL,,
+100,72,Python3,1608858572000,4081634,Wontonimo,CA,54970169109216,
 100,73,Python3,1567946832000,1842440,07734willy,US,10984521090532,
 100,73,Python3,1567946832000,2933084,Adrades,FR,22545589972040,
 100,73,Python3,1567946832000,1661651,Aetias,SE,7951915941659,
@@ -771,7 +772,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Python3,1602469965000,1359547,Transat,FR,,
 100,78,Python3,1605144568000,3982827,MohamedZaki,DZ,51839908314099,
 100,78,Python3,1605753255000,1890727,JeroenB,NL,54025101203057,
-100,78,Python3,1607303441000,4081634,Wontonimo,CA,54970169109216,
 100,78,Python3,1607477449000,3376384,esteban616,CU,29892445962458,
 100,79,Python3,1567946832000,2542691,AnneMaelle,FR,,
 100,79,Python3,1567946832000,2445835,AnotherUnnamed,RU,,
@@ -967,6 +967,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Python3,1595291440000,3881824,aprasath,IN,99349365527750,
 100,82,Python3,1598810520000,1584774,FoXbOw,KH,45761262636415,
 100,82,Python3,1606180768000,3838616,RAHL_,GB,86615743767702,
+100,82,Python3,1608858572000,3999174,Shrimpster,GR,51130985693656,
 100,83,Python3,1567946832000,1428628,Asha_man,FR,,
 100,83,Python3,1567946832000,1109833,BlindOryx,ES,11210031244077,
 100,83,Python3,1567946832000,1496013,Burk,US,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,83,Python3,1592354924000,3731945,clham,FR,93777485620816,
 100,83,Python3,1595032242000,3861822,Sefan,SE,,
 100,83,Python3,1595727364000,1049935,Azkellas,FR,20993257292354,
-100,83,Python3,1597886060000,3256629,melonbreadjin,CH,48664108442477,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=541|time=2020-12-25T01:09:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=542|time=2020-12-26T01:15:01
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -56,6 +56,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,130,Javascript,1567946837000,1382285,Neverever978,AU,28822446519150,
 100,130,Javascript,1599189830000,3859980,DoxLee,TR,46884823037093,
 100,131,Javascript,1594781480000,3199548,yonder83,FI,26322476080161,
+100,133,Javascript,1608945301000,3647844,rc95401,US,39486169555819,
 100,134,Javascript,1599189830000,3923347,scrocchi,VE,81355226966889,
 100,136,Javascript,1567946837000,1931039,MooMooN,FR,11972180817471,
 100,136,Javascript,1594258254000,1616191,PotcFdk,DE,7181025277310,
@@ -74,7 +75,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1567946837000,1534317,Zwloki,PL,5841199758813,
 100,143,Javascript,1568248245000,3430435,DocteurWong,FR,34776645119766,
 100,143,Javascript,1569285045000,1923902,gkalpak,GR,33993501409918,
-100,143,Javascript,1607822434000,3647844,rc95401,US,39486169555819,
 100,144,Javascript,1567946837000,2451652,code_of_the_dead,FR,18798469788923,
 100,144,Javascript,1567946837000,2050195,eklore,FR,16153418043649,
 100,145,Javascript,1567946837000,3448473,massizero,FR,32732461348671,
@@ -479,6 +479,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,482,Javascript,1601530053000,1190807,ThomasBourg,FR,,
 100,493,Javascript,1607909014000,4104994,test123456789fr,FR,,
 100,519,Javascript,1603768118000,1804874,EladRon,IL,21414494296397,
+100,519,Javascript,1608945301000,3897118,IRISIRI,TH,56381042224633,
 100,522,Javascript,1568521212000,2696879,onissay,MA,19822459991359,
 100,525,Javascript,1580776951000,3648050,CocoCouq,FR,39490627918112,
 100,540,Javascript,1598057928000,3942335,Fireseed,FR,,

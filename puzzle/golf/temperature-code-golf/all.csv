@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14730|time=2020-12-28T01:21:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14745|time=2020-12-29T01:05:34
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -720,6 +720,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1606783908000,2220824,Aerodactylus,FR,54336008500576,
 100,61,Javascript,1606783908000,1348600,erodataM,FR,15560295582514,
 100,61,Javascript,1607131079000,2635907,lopidav,UA,18844623817442,
+100,61,Ruby,1609203935000,4038295,RamanShakya,NP,71844144198887,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,2043908,AntiSquid,,,
 100,62,Javascript,1567946828000,814685,AthosPyte,NO,5617445240242,
@@ -984,6 +985,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Javascript,1608167612000,4100825,ablin42,FR,55479060101488,
 100,64,Python3,1608425845000,3393535,LuckyJ.,FR,42540162041167,
 100,64,Python3,1608598086000,3703485,anter69,HU,41141446684299,
+100,64,Python3,1609203933000,4038295,RamanShakya,NP,71844144198887,
 100,65,Javascript,1567946828000,1050768,AlfredoSalzillo,IT,2224251919371,
 100,65,Javascript,1567946828000,1937628,Elom,FR,12220589050170,
 100,65,Javascript,1567946828000,660643,Marrrk,DE,4967890171886,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Javascript,1567946828000,2201471,seihoukei,RU,14584645316508,
 100,65,C,1567946831000,1620803,Lyapunov,HU,8098302957147,
 100,65,Perl,1567946831000,1863849,Peglo,FR,12316126417980,
-100,65,Perl,1567946831000,153667,tocose,SN,7812139467712,
-100,65,Python3,1567946832000,3356352,MrMey,FR,,

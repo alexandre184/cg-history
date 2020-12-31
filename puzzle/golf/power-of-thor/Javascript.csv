@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3750|time=2020-12-30T00:53:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3753|time=2020-12-31T01:48:01
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -389,6 +389,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,125,Javascript,1591921835000,3771692,obstinado,RU,43684328133957,
 100,125,Javascript,1605664492000,4063512,Goku_PL,PL,66203365755158,
 100,125,Javascript,1607737230000,2050195,eklore,FR,16153418043649,
+100,125,Javascript,1609379281000,4120722,SuperMeerkat,,,
 100,126,Javascript,1567946825000,928564,Dagohan,TR,,
 100,126,Javascript,1567946825000,2400938,Gaiel,BE,16450990810131,
 100,126,Javascript,1567946825000,1809405,Ginkyu,BR,,
@@ -414,6 +415,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,Javascript,1567946825000,1334917,lowlighter,FR,29644824263001,
 100,127,Javascript,1567946825000,1149001,milenvoutchev,DE,2674189036115,
 100,127,Javascript,1595032234000,2972662,Hoyer,DK,23351637278989,
+100,127,Javascript,1609379281000,3924786,Tionkje,BE,62710605796918,
 100,128,Javascript,1567946825000,913244,,CH,,
 100,128,Javascript,1567946825000,969168,154,DE,,
 100,128,Javascript,1567946825000,1071463,Arbarwings,NL,2211484565601,
@@ -612,8 +614,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Javascript,1594946584000,2049236,fuzzalicious,SE,13275434062852,
 100,138,Javascript,1594946584000,1421152,kevinleedrum,US,4983963715196,
 100,138,Javascript,1594946584000,1668912,sirCodesALot,DK,,
-100,138,Javascript,1597020323000,3924786,Tionkje,BE,62710605796918,
 100,138,Javascript,1599791917000,953094,Witman,PL,1798239809031,
+100,138,Javascript,1609379281000,4120316,kishkumen,BE,56517809323442,
 100,139,Javascript,1594946584000,1808019,Aelexe,NZ,15610840171173,
 100,139,Javascript,1594946584000,947565,Albatar,FR,22046364066060,
 100,139,Javascript,1594946584000,1283478,Amilor7,FR,17670201731833,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1595291433000,2079926,cheuf,FR,27890525224254,
 100,161,Javascript,1600050791000,2550842,CodePhisch,DE,50059802166536,
 100,161,Javascript,1605062564000,4051808,Wong_Dev,CU,,
-100,162,Javascript,1594946584000,153683,40R15T3,FR,13910938941186,
-100,162,Javascript,1594946584000,1003661,MykolaU,UA,,

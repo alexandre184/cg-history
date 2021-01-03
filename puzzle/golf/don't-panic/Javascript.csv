@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1204|time=2021-01-02T02:40:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1205|time=2021-01-03T01:19:43
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -432,6 +432,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,187,Javascript,1567946817000,1958165,timetopwn,NO,,
 100,187,Javascript,1605144560000,311423,kirzyka,UA,5244779889243,
 100,188,Javascript,1567946817000,1197161,olsh,AM,7264098552514,
+100,188,Javascript,1609636783000,1256312,Djoums,FR,3366390627127,
 100,189,Javascript,1567946817000,2688693,Catagami,NL,19560525429680,
 100,189,Javascript,1567946817000,3438209,IdiomSavant,GB,,
 100,189,Javascript,1567946817000,2526465,doritosxxx,RU,17838342424936,
@@ -513,6 +514,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,200,Javascript,1567946817000,899780,kostya,UA,1856458846461,
 100,200,Javascript,1595118625000,820000,ValGrowth,JP,95440985747208,
 100,200,Javascript,1607219856000,4030696,msfe,SE,52988600819316,
+100,200,Javascript,1609636783000,3606971,LordVonAdel,DE,56200446449919,
 100,201,Javascript,1567946817000,933182,Lasiboy,FR,1753240716590,
 100,201,Javascript,1567946817000,1316505,blader0x,IT,4215851911963,
 100,202,Javascript,1567946817000,571484,SlaviTsvetanov,BG,,
@@ -643,7 +645,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,240,Javascript,1567946817000,708968,DezAnd,US,,
 100,240,Javascript,1567946817000,624532,Pierro~,FR,1910495557875,
 100,240,Javascript,1583714012000,3531488,Dryadim,FR,35488801936304,
-100,241,Javascript,1567946817000,1256312,Djoums,FR,3366390627127,
 100,241,Javascript,1567946817000,2908945,JeremyMouzin,,,
 100,241,Javascript,1567946817000,3179611,Mr_m,EG,31771824743155,
 100,241,Javascript,1567946817000,1169374,RafaelMedeirosTeles,BR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,746,Javascript,1603248323000,966368,Skelethor,DE,5876802021528,
 100,747,Javascript,1567946817000,906310,ghsamm,TN,,
 100,771,Javascript,1567946817000,1069026,Roshaw,BG,2202221378286,
-100,777,Javascript,1567946817000,1537927,thecavemanlogic,US,,

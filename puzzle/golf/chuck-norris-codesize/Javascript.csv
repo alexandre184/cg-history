@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=550|time=2021-01-03T01:20:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=551|time=2021-01-04T02:31:00
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -75,6 +75,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1567946837000,1534317,Zwloki,PL,5841199758813,
 100,143,Javascript,1568248245000,3430435,DocteurWong,FR,34776645119766,
 100,143,Javascript,1569285045000,1923902,gkalpak,GR,33993501409918,
+100,143,Javascript,1609727460000,4027771,AndreMarasca,BR,52647904853809,
 100,144,Javascript,1567946837000,2451652,code_of_the_dead,FR,18798469788923,
 100,144,Javascript,1567946837000,2050195,eklore,FR,16153418043649,
 100,145,Javascript,1567946837000,3448473,massizero,FR,32732461348671,
@@ -166,6 +167,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Javascript,1600483627000,3354337,Westicles,CX,79146641399080,
 100,158,Javascript,1602989384000,3934908,TheDrakonir,DE,51719564715384,
 100,158,Javascript,1605921613000,2641712,Scarlatine,SE,19128425061644,
+100,158,Javascript,1609727460000,1256312,Djoums,FR,3366390627127,
 100,159,Javascript,1572395744000,3065338,DrKhyz,FR,36071020940695,
 100,159,Javascript,1582765803000,2067176,0bug,FR,13297732398460,
 100,159,Javascript,1592012096000,1701936,Chatterton,FR,9000293426040,
@@ -192,7 +194,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Javascript,1606528163000,3660537,Taink,FR,39792942872590,
 100,164,Javascript,1567946837000,1146138,Hyperlisk,US,,
 100,164,Javascript,1602902858000,4009018,Deltfather,CR,51592522391694,
-100,164,Javascript,1603161760000,1256312,Djoums,FR,3366390627127,
 100,164,Javascript,1603593244000,1883670,radekmie,PL,86797522736009,
 100,164,Javascript,1606438661000,3947806,Kr4unos,FR,50431809600802,
 100,165,Javascript,1567946837000,1854246,Counterbalance,NL,26367790351026,

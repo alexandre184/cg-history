@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1210|time=2021-01-08T05:00:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1211|time=2021-01-09T02:37:28
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -38,6 +38,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,104,Javascript,1567946817000,2663611,bobd91,GB,,
 100,104,Javascript,1567946817000,998275,jforne,SE,1999273328174,
 100,104,Javascript,1598927434000,2315158,luigi_gelato,DE,,
+100,104,Javascript,1610159848000,2928146,LolCat,MU,22538133010433,
 100,105,Javascript,1567946817000,1629259,Marchete,ES,61997162908277,
 100,105,Javascript,1567946817000,1179357,avdg,BE,28437229401065,
 100,105,Javascript,1591144988000,940791,Kris117,FR,16280535626899,
@@ -145,7 +146,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,Javascript,1567946817000,1915856,bochsdbg,RU,,
 100,129,Javascript,1567946817000,204179,resistcorp,FR,44032889515354,
 100,129,Javascript,1606957953000,3035808,PinpinLeLapin,FR,23953753038336,
-100,129,Javascript,1609989619000,2928146,LolCat,MU,22538133010433,
 100,130,Javascript,1567946817000,1485690,Kikoo,FR,4993649967380,
 100,130,Javascript,1567946817000,1212198,kernel78,IT,3343880905136,
 100,131,Javascript,1567946817000,1607251,baboulaf,FR,18176849207993,
@@ -766,6 +766,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,295,Javascript,1567946817000,1409204,Ricco7La,BE,4336117454857,
 100,297,Javascript,1567946817000,1222305,Helicosaurus_Rex,FR,3172365824448,
 100,298,Javascript,1579399353000,957775,Sutat,FR,39056485466494,
+100,298,Javascript,1610159848000,2998967,K-Gilde,FR,62190109872577,
 100,299,Javascript,1567946817000,977704,Dimkin,IL,1900226938362,
 100,299,Javascript,1567946817000,856921,Gasd,HU,,
 100,300,Javascript,1567946817000,532706,MaximKarpinskiy,RU,13044187532888,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,726,Javascript,1567946817000,717456,BullsEye72,FR,16259444079823,
 100,731,Javascript,1567946817000,3358382,cAPS,US,29218281587306,
 100,734,Javascript,1582597649000,3693549,MostafaAhmedAbdEl-fattah,EG,40818689061237,
-100,738,Javascript,1582159720000,2298871,jesuisdev.net,FR,96460709785072,

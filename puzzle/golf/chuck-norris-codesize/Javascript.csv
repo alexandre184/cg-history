@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=554|time=2021-01-08T05:00:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=555|time=2021-01-09T02:37:46
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -145,6 +145,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1590108781000,3814546,awarua,AU,44606627612380,
 100,155,Javascript,1595727368000,3903942,ngoc,VN,,
 100,155,Javascript,1609815184000,4038295,RamanShakya,NP,71844144198887,
+100,155,Javascript,1610159866000,389786,menu,DE,,
 100,156,Javascript,1567946837000,2744095,ArSeNiK,TH,,
 100,156,Javascript,1567946837000,3435196,KratosAurion,US,32311505826149,
 100,156,Javascript,1567946837000,2420013,Zoli007,HU,82985362200270,
@@ -189,7 +190,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,162,Javascript,1589157425000,2422063,vikingviolinist,NO,,
 100,162,Javascript,1593563444000,3868172,Desjardins,DE,46161242090337,
 100,162,Javascript,1600656638000,1050421,geppoz,IT,4030238757816,
-100,162,Javascript,1610082038000,389786,menu,DE,,
 100,163,Javascript,1568684374000,3349783,glm9637,DE,29214528162212,
 100,163,Javascript,1593477269000,935744,Alcalyn,FR,12077756999042,
 100,163,Javascript,1605144572000,311423,kirzyka,UA,5244779889243,
@@ -523,6 +523,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,810,Javascript,1602642650000,1793906,vXRomanXv,AT,20093754155009,
 100,822,Javascript,1604797980000,3871852,anantaCodes,IN,46176181608115,
 100,823,Javascript,1567946837000,908073,DanielKamras,RS,,
+100,824,Javascript,1610159866000,3922857,L-TCT,,,
 100,834,Javascript,1606611605000,2366647,Chubakak,CA,16022361287800,
 100,850,Javascript,1606611605000,4083937,sylvavio,FR,54708003519173,
 100,861,Javascript,1580689850000,3665757,Socolin,CA,39940682811977,

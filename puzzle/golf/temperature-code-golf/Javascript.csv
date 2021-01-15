@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2171|time=2021-01-14T04:31:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2176|time=2021-01-15T04:31:12
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -93,6 +93,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1606783908000,1348600,erodataM,FR,15560295582514,
 100,61,Javascript,1607131079000,2635907,lopidav,UA,18844623817442,
 100,61,Javascript,1610245860000,2928146,LolCat,MU,22538133010433,
+100,61,Javascript,1610685072000,4060994,3030,FI,,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,2043908,AntiSquid,,,
 100,62,Javascript,1567946828000,814685,AthosPyte,NO,5617445240242,
@@ -167,7 +168,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1604370651000,2910225,Guytan67,FR,22197098430669,
 100,62,Javascript,1604711084000,1774018,ModernShogun,CA,10218654357749,
 100,62,Javascript,1606438653000,3947806,Kr4unos,FR,50431809600802,
-100,62,Javascript,1610336544000,4060994,3030,FI,,
 100,63,Javascript,1567946828000,3352676,3t0n,RU,29140567952302,
 100,63,Javascript,1567946828000,1744223,Bissel,DE,9713102708582,
 100,63,Javascript,1567946828000,1070566,Kodnot,LT,20227250201533,
@@ -944,6 +944,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Javascript,1601530044000,942392,Metanoob,IE,81480427823239,
 100,121,Javascript,1605921607000,3687035,EmericC,FR,,
 100,121,Javascript,1606352050000,820541,Johnstyle,FR,2889199792751,
+100,121,Javascript,1610685072000,4142862,mkhstar,TR,57646584713911,
 100,122,Javascript,1567946828000,2422378,C2H5OH,UA,19226708700974,
 100,122,Javascript,1567946828000,1873370,Doppelganger9,FR,11352491980896,
 100,122,Javascript,1567946828000,754792,Ramdeath,LT,13430148307311,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,Javascript,1567946828000,1294366,ThatNameWasAlreadyTaken,DE,,
 100,127,Javascript,1567946828000,1757794,midou007,FR,,
 100,127,Javascript,1596501983000,3912890,AlbinAxtelius,SE,,
-100,127,Javascript,1602219148000,3743195,Narcolepticnugget,CA,,

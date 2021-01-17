@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2180|time=2021-01-16T04:51:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2183|time=2021-01-17T04:31:03
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -463,7 +463,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Javascript,1597537846000,3770485,zakki,JP,47838307587408,
 100,80,Javascript,1600397765000,2253267,snowfrogdev,CA,91617025510820,
 100,80,Javascript,1606528157000,1600371,MoritzWachter,DE,7064447976077,
-100,80,Javascript,1607219869000,3855258,lolo4444,FR,57681805205585,
+100,80,Javascript,1607219869000,3855258,Starfighter,FR,57681805205585,
 100,80,Javascript,1607303443000,1720605,carlicolosse,FR,13415897219799,
 100,80,Javascript,1608083745000,4055973,Aeschli,CH,,
 100,80,Javascript,1608345422000,4016184,Andy-Inviqa,GB,,
@@ -592,6 +592,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,89,Javascript,1567946828000,1136521,nadrek,GB,,
 100,89,Javascript,1572309474000,2371389,Franta,CZ,16642908084028,
 100,89,Javascript,1610245860000,1688466,geoffroy,FR,8641960561768,
+100,89,Javascript,1610857863000,4124054,Joshua02,US,57287523607434,
 100,90,Javascript,1567946828000,1469819,Allsecond,RU,4833247070096,
 100,90,Javascript,1567946828000,1348832,AzatJalilov,DE,,
 100,90,Javascript,1567946828000,1485462,LamSonFei,FR,4992683759913,
@@ -672,7 +673,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,95,Javascript,1601260251000,3967226,lingesan,IN,,
 100,95,Javascript,1601606638000,389473,BigBart,CH,4922026050684,
 100,95,Javascript,1603939006000,2708267,XyoloJR,FR,52279543518143,
-100,95,Javascript,1610772694000,4124054,Joshua02,US,57287523607434,
 100,96,Javascript,1567946828000,1956023,GallyNet,FR,12233363995590,
 100,96,Javascript,1567946828000,2547109,JefferyNelson,US,18000689372125,
 100,96,Javascript,1567946828000,3019620,codri,MD,,

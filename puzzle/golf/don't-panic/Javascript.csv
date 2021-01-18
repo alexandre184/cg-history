@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1212|time=2021-01-17T04:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1215|time=2021-01-18T04:31:02
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -76,6 +76,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Javascript,1567946817000,416762,Khao,CA,2035557596161,
 100,119,Javascript,1600138058000,3933828,cesmunoz,AR,50035301207099,
 100,120,Javascript,1567946817000,935802,Jerhyn,FR,109463964266798,
+100,120,Javascript,1610944262000,3740142,EliteDaMyth,IN,71621844864426,
+100,120,Javascript,1610944262000,3546420,ZackGabri,TD,35924043313662,
 100,121,Javascript,1567946817000,1383636,atsikov,LV,8154551476699,
 100,121,Javascript,1590799159000,1701936,Chatterton,FR,9000293426040,
 100,122,Javascript,1567946817000,1530199,DarkDefender,LV,5782383455241,
@@ -195,6 +197,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1567946817000,844863,Magnasilvar,FR,16814034335695,
 100,143,Javascript,1567946817000,2870586,MattZ,US,21782473296749,
 100,143,Javascript,1601951994000,3487645,hypers,UA,34243548996636,
+100,143,Javascript,1610944262000,4084120,jake1,GR,55390961783376,
 100,144,Javascript,1567946817000,930869,Meidor,NL,,
 100,144,Javascript,1567946817000,233627,SlipOne,HU,4994821803578,
 100,144,Javascript,1580085027000,3540338,CAV,FR,,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,678,Javascript,1567946817000,2817558,PMak,DK,21331777712404,
 100,695,Javascript,1567946817000,957334,Dam,FR,2089298349369,
 100,697,Javascript,1567946817000,923557,Jabberwockey,DE,2177736989926,
-100,718,Javascript,1567946817000,1518974,Pandy,EC,16864121850053,
-100,726,Javascript,1567946817000,717456,BullsEye72,FR,16259444079823,
-100,731,Javascript,1567946817000,3358382,cAPS,US,29218281587306,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=55|time=2021-01-17T04:30:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=56|time=2021-01-18T04:31:13
 100,63,OCaml,1595464475000,1483723,d-s-x,RU,4980051025170,
 100,66,OCaml,1596674086000,1537792,AsaiYusuke,US,41785380851985,
 100,77,OCaml,1597192277000,1436776,BrainSolver,FR,10099178983053,
@@ -32,6 +32,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,357,OCaml,1567946822000,825460,antoyo,CA,5310448761506,
 100,358,OCaml,1567946822000,1203593,[CPC]Naity,DE,3021901066458,
 100,359,OCaml,1592182462000,1466631,Akrib,FR,17971797700592,
+100,364,OCaml,1610944273000,3305510,TBali,HU,26750785092441,
 100,384,OCaml,1567946822000,464006,Ryugate,JP,1720477560450,
 100,437,OCaml,1567946822000,365796,CvxFous,FR,2892223124232,
 100,465,OCaml,1567946822000,1654818,tarapitha,EE,79401682508715,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1218|time=2021-01-21T04:57:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1218|time=2021-01-23T06:13:11
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -21,6 +21,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,100,Javascript,1567946817000,687103,juan.cortes,ES,2120395137910,
 100,100,Javascript,1567946817000,172938,kuzmaka,UA,1842478040420,
 100,100,Javascript,1599359437000,3918583,mikmak,FR,48134583112917,
+100,100,Javascript,1611382391000,3740142,EliteDaMyth,IN,71621844864426,
 100,101,Javascript,1567946817000,2067176,0bug,FR,13297732398460,
 100,101,Javascript,1567946817000,1701924,Kethryes,FR,65611961439802,
 100,101,Javascript,1567946817000,1093968,milosMATRIXrepic,RS,78180568348596,
@@ -76,7 +77,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Javascript,1567946817000,416762,Khao,CA,2035557596161,
 100,119,Javascript,1600138058000,3933828,cesmunoz,AR,50035301207099,
 100,120,Javascript,1567946817000,935802,Jerhyn,FR,109463964266798,
-100,120,Javascript,1610944262000,3740142,EliteDaMyth,IN,71621844864426,
 100,120,Javascript,1610944262000,3546420,ZackGabri,TD,35924043313662,
 100,121,Javascript,1567946817000,1383636,atsikov,LV,8154551476699,
 100,121,Javascript,1590799159000,1701936,Chatterton,FR,9000293426040,
@@ -845,7 +845,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,327,Javascript,1580776935000,3648050,CocoCouq,FR,39490627918112,
 100,328,Javascript,1582940761000,1743344,ush189,DE,9680328817159,
 100,329,Javascript,1567946817000,416365,cccccombo,KR,2666358178244,
-100,330,Javascript,1567946817000,1285876,Captain.Org_didier,FR,53878769394478,
+100,330,Javascript,1567946817000,1285876,Captain.Org_Meritis.best_company,FR,53878769394478,
 100,330,Javascript,1567946817000,1440262,DeafGecko,GB,4606373769108,
 100,331,Javascript,1567946817000,154001,PoneyTruand,FR,1889878541003,
 100,334,Javascript,1567946817000,809683,Frogger,FR,,

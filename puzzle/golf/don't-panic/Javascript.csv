@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1218|time=2021-01-23T06:13:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1218|time=2021-01-24T02:43:05
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -18,6 +18,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,97,Javascript,1567946817000,574656,dmpage,US,1759291406309,
 100,98,Javascript,1567946817000,599674,NinetyOne,US,1890119238339,
 100,98,Javascript,1608083733000,1399382,Regulus136,FR,4335723819637,
+100,99,Javascript,1611456185000,1566335,BeardedWhale,SE,36571449875674,
 100,100,Javascript,1567946817000,687103,juan.cortes,ES,2120395137910,
 100,100,Javascript,1567946817000,172938,kuzmaka,UA,1842478040420,
 100,100,Javascript,1599359437000,3918583,mikmak,FR,48134583112917,
@@ -185,7 +186,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Javascript,1567946817000,1532586,Kruemel,DE,9300803752471,
 100,140,Javascript,1567946817000,1512912,RichardZ,DE,9435459461890,
 100,140,Javascript,1567946817000,893541,wala,FR,97577641170180,
-100,140,Javascript,1587690579000,1566335,BeardedWhale,SE,36571449875674,
 100,141,Javascript,1567946817000,186179,Nagrarok,FR,95596601515650,
 100,141,Javascript,1567946817000,199243,[CG]Nonofr,FR,1715936252943,
 100,141,Javascript,1567946817000,1619220,aliai,SE,7778393618334,
@@ -197,7 +197,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1567946817000,844863,Magnasilvar,FR,16814034335695,
 100,143,Javascript,1567946817000,2870586,MattZ,US,21782473296749,
 100,143,Javascript,1601951994000,3487645,hypers,UA,34243548996636,
-100,143,Javascript,1610944262000,4084120,jake1,GR,55390961783376,
+100,143,Javascript,1610944262000,4084120,jake11,GR,55390961783376,
 100,144,Javascript,1567946817000,930869,Meidor,NL,,
 100,144,Javascript,1567946817000,233627,SlipOne,HU,4994821803578,
 100,144,Javascript,1580085027000,3540338,CAV,FR,,

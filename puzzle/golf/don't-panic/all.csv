@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8630|time=2021-01-24T02:43:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8635|time=2021-01-25T05:33:22
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -458,6 +458,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Ruby,1569285022000,2744095,ArSeNiK,TH,,
 100,126,Javascript,1579153324000,826058,niconoe,FR,1722623821631,
 100,126,Javascript,1605921598000,1425201,JamesPun,ZA,4426071280478,
+100,126,Ruby,1611552799000,1566335,BeardedWhale,SE,36571449875674,
 100,127,C,1567946816000,162661,Doraj,FR,,
 100,127,Javascript,1567946817000,1017155,BadInfluence,AU,,
 100,127,Javascript,1567946817000,1962352,DPAmar,FR,56994389567033,
@@ -712,7 +713,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Javascript,1575333150000,1250593,Ellama,FR,3675088014038,
 100,149,C,1602391293000,3235897,Zylo,PL,25779784253696,
 100,149,Python3,1604711066000,1607522,RoboStac,GB,11333369102997,
-100,149,Ruby,1611119598000,1566335,BeardedWhale,SE,36571449875674,
 100,150,Javascript,1567946817000,999484,Paturages,FR,1991319539637,
 100,150,Javascript,1567946817000,2176877,pasymows,PL,14333167453890,
 100,150,Javascript,1567946817000,1652988,wardialer,IT,7801345180157,
@@ -997,5 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,C,1584063094000,953094,Witman,PL,1798239809031,
 100,168,Groovy,1596415463000,1399382,Regulus136,FR,4335723819637,
 100,168,C++,1602391292000,3235897,Zylo,PL,25779784253696,
+100,168,Javascript,1611552800000,4066824,Thannajo,FR,55595967738179,
 100,169,C,1567946816000,1538884,twasilczyk,PL,,
-100,169,PHP,1567946816000,1163110,edinux,LT,,

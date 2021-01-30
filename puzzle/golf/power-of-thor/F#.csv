@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=108|time=2021-01-29T03:24:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=108|time=2021-01-30T02:44:18
 100,90,F#,1595378025000,1483723,d-s-x,RU,4980051025170,
 100,139,F#,1597020324000,1436776,BrainSolver,FR,10099178983053,
 100,163,F#,1567946823000,2228811,MichalKovac,CZ,,
@@ -43,6 +43,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,360,F#,1567946823000,225892,ikarni,CZ,2319871675955,
 100,365,F#,1604797985000,3523160,SteveDkt,FR,63589921820825,
 100,373,F#,1567946823000,2825209,manimerz,AT,,
+100,374,F#,1611974658000,3589251,el71,BE,,
 100,380,F#,1567946823000,935815,mkucia,PL,1758058490879,
 100,388,F#,1567946823000,933335,,GB,,
 100,392,F#,1567946823000,933134,polkduran,FR,1761148453610,
@@ -88,7 +89,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,862,F#,1567946823000,1433338,Elykia,CH,4453583282073,
 100,920,F#,1567946823000,967667,Ardagan,US,,
 100,955,F#,1567946823000,2586292,Synth14,FR,19627079069318,
-100,1062,F#,1611890679000,3589251,el71,BE,,
 100,1102,F#,1567946823000,935571,,CZ,,
 100,1270,F#,1567946823000,3240292,Traumination,FR,25789743774955,
 100,1277,F#,1567946823000,1215408,tle-meur,FR,4526090010842,

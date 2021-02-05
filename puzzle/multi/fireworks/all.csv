@@ -1,8 +1,9 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7|time=2021-02-04T04:50:35
-1,0,C++,,3416590,1479930,LeRenard,FR,40384564000700,
-1,0,C,,3416591,2924895,trictrac,FR,23056996012330,
-1,0,Java,,3416774,3443015,Wozniak,FR,,
-0,22.83,Python3,,3417002,311035,leojean890,FR,42398427701382,
-0,18.06,Python3,,3416931,3846244,JLukeSkywalker,US,46282060365828,
-0,13.45,C#,,3416800,3274956,LeProfesseur,FR,,
-0,8.32,C++,,3416578,3354337,Westicles,CX,79146641399080,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8|time=2021-02-05T02:39:10
+1,31.96,C++,,3416590,1479930,LeRenard,FR,40384564000700,
+1,31.6,C,,3416591,2924895,trictrac,FR,23056996012330,
+1,25.66,Python3,,3418504,311035,leojean890,FR,42398427701382,
+1,21.34,Java,,3416774,3443015,Wozniak,FR,,
+0,20.74,C++,,3418390,2923506,darkhorse64,FR,23496414257567,
+0,15.63,Python3,,3416931,3846244,JLukeSkywalker,US,46282060365828,
+0,12.99,C#,,3416800,3274956,LeProfesseur,FR,,
+0,7.31,C++,,3416578,3354337,Westicles,CX,79146641399080,

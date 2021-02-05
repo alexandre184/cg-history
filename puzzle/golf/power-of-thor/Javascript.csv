@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3807|time=2021-02-04T04:50:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3809|time=2021-02-05T02:39:28
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -264,7 +264,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,115,Javascript,1598142633000,1305374,Frankich,FR,4884866560369,
 100,115,Javascript,1598927441000,3923347,scrocchi,VE,81355226966889,
 100,115,Javascript,1604537330000,153964,Zanng,FR,,
-100,115,Javascript,1610772687000,4124054,Joshua02,US,57287523607434,
+100,115,Javascript,1610772687000,4124054,JoshuaRC02,US,57287523607434,
 100,116,Javascript,1567946825000,926549,Daraden,HU,,
 100,116,Javascript,1567946825000,2029767,Dyomba,RU,,
 100,116,Javascript,1567946825000,1315351,Ynovem,HU,68885946291747,
@@ -666,6 +666,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Javascript,1594946584000,2672757,smateev,BG,,
 100,140,Javascript,1602297032000,1691438,mvill,FR,,
 100,140,Javascript,1604025046000,1565296,TimothyChan1,US,,
+100,140,Javascript,1612492768000,3889406,MFogleman,US,,
 100,141,Javascript,1594946584000,1022925,Adrien.,FR,17725389981317,
 100,141,Javascript,1594946584000,2021361,Albard,FR,16959394076245,
 100,141,Javascript,1594946584000,1120964,DeltaEvo,FR,53458964321716,
@@ -992,7 +993,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Javascript,1598057917000,414278,oobException,FR,4595241889335,
 100,159,Javascript,1605838405000,1204325,Witik,NL,9897478437534,
 100,160,Javascript,1594946584000,1628102,AzariasB,FR,7372071224277,
-100,160,Javascript,1594946584000,1618420,DieterVyncke,BE,,
 100,160,Javascript,1594946584000,1170712,Djo0012,CA,8090268414289,
 100,160,Javascript,1594946584000,1142435,MjProblem,SE,,
 100,160,Javascript,1594946584000,692317,Ozzie,US,1733605086823,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2063|time=2021-02-05T02:39:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2064|time=2021-02-06T02:30:53
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,69,Python3,1604458995000,1654818,tarapitha,EE,79401682508715,
 100,76,Python3,1595378016000,2288263,dbdr,UA,43448306132121,
@@ -100,6 +100,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Python3,1567946818000,153799,Neomatamune,FR,15739395988007,
 100,160,Python3,1567946818000,826359,Skywalker,AT,,
 100,160,Python3,1610598657000,1652969,Berci79,HU,,
+100,160,Python3,1612578653000,4037601,Jelafo,DE,,
 100,161,Python3,1567946818000,1857171,AdamB,PL,11687390029916,
 100,161,Python3,1567946818000,638784,Yqnn,FR,2711674975713,
 100,161,Python3,1567946818000,1884432,Zhormos,FR,83723708684540,
@@ -140,7 +141,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,166,Python3,1567946818000,2096064,xiao.sha,CN,13778309629915,
 100,166,Python3,1567946818000,873626,yomax,FR,1725596494238,
 100,166,Python3,1609461036000,4116084,grahamcracker1234,US,56223045071058,
-100,166,Python3,1612492765000,4037601,Jelafo,DE,,
 100,167,Python3,1567946818000,1481043,Kyrosh,DE,12661250712745,
 100,167,Python3,1567946818000,972894,resty-daze,CN,4833160251412,
 100,167,Python3,1567946818000,1701561,sskw,PL,,
@@ -953,6 +953,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,245,Python3,1567946818000,1471565,skippy,SI,,
 100,245,Python3,1585528851000,2555611,SpiderSas,VN,50179047778858,
 100,245,Python3,1599273771000,3956922,emmagordon,GB,,
+100,245,Python3,1612578653000,3924101,kzntz,FR,68827689420662,
 100,246,Python3,1567946818000,517890,Altaire,RU,60751364963571,
 100,246,Python3,1567946818000,1753424,FilkinKuiv,UA,10100504747660,
 100,246,Python3,1567946818000,1369177,PernicN,FR,5398582392443,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,251,Python3,1590542024000,2043512,matijabelec,HR,13060579497474,
 100,251,Python3,1599359436000,2479417,Papa94,FR,41071361598850,
 100,251,Python3,1610857854000,2040876,K.A.C,JP,56588921555131,
-100,252,Python3,1567946818000,1253664,Arinelle,FR,,

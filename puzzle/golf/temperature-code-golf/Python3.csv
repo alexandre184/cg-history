@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4413|time=2021-02-06T02:31:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4416|time=2021-02-07T02:41:08
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,58,Python3,1567946832000,1525831,ntsd,TH,86763903852312,
@@ -399,6 +399,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,72,Python3,1611714664000,3625469,Crimson_King,TR,56016089557697,
 100,72,Python3,1611974665000,2340294,deviluc,DE,15818944269214,
 100,72,Python3,1612492777000,3962693,Kamoun,TN,,
+100,72,Python3,1612665668000,2796157,nikhil_kokkula,IN,64021163998790,
 100,73,Python3,1567946832000,1842440,07734willy,US,10984521090532,
 100,73,Python3,1567946832000,1841051,0xbeefed,GB,17119043174583,
 100,73,Python3,1567946832000,2933084,Adrades,FR,22545589972040,
@@ -864,7 +865,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Python3,1603248338000,2325449,otpv,CA,36646766447960,
 100,79,Python3,1610245859000,4084352,ant0x,FR,56894467612788,
 100,79,Python3,1610772695000,3091791,DaniilChizhesvkij,RU,77344662575435,
-100,79,Python3,1611119609000,2796157,nikhil_kokkula,IN,64021163998790,
+100,79,Python3,1612665668000,3428333,pavel.jesenski,RS,69458780244502,
 100,80,Python3,1567946832000,1359111,,HK,,
 100,80,Python3,1567946832000,1960233,AntonBorzenko,RS,13330046099369,
 100,80,Python3,1567946832000,1633040,ChristopheSauge,FR,7469447139553,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Python3,1588383510000,3779670,fvla,US,63607343703268,
 100,82,Python3,1588903141000,2807466,ArtNext,RU,21006399417851,
 100,82,Python3,1589157419000,3686887,R1FA,FR,43807526086874,
-100,82,Python3,1590799167000,999673,Bambr,RU,12075657399360,

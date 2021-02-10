@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15260|time=2021-02-09T02:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15271|time=2021-02-10T02:30:58
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -149,7 +149,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,49,Perl,1567946831000,154906,JBM,CH,,
 100,49,Perl,1567946831000,802230,Orabig,FR,1718532341458,
 100,49,Perl,1567946831000,1029251,Simon5,FR,6980029783479,
-100,49,Perl,1567946831000,2438065,WillFrost,FI,60213703884300,
+100,49,Perl,1567946831000,2438065,wFrost,FI,60213703884300,
 100,49,Perl,1567946831000,513549,y0p,FR,,
 100,49,Ruby,1567946833000,1425410,AgentJam,UG,12252841405616,
 100,49,Ruby,1567946833000,1739595,Bemethor,FR,56657523489584,
@@ -635,7 +635,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1567946828000,233627,SlipOne,HU,4994821803578,
 100,60,Javascript,1567946828000,1055481,TerenceTsang,HK,4140409655381,
 100,60,Javascript,1567946828000,1353795,TheCrucial,PL,18581166493021,
-100,60,Javascript,1567946828000,2438065,WillFrost,FI,60213703884300,
 100,60,Javascript,1567946828000,3048146,alexhulbert,US,,
 100,60,Javascript,1567946828000,1675034,francois,FR,15464459859531,
 100,60,Javascript,1567946828000,225875,leff,US,46674243497438,
@@ -643,6 +642,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1567946828000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,60,Javascript,1567946828000,2553302,mmottet,FR,18061071472251,
 100,60,Javascript,1567946828000,1654818,tarapitha,EE,79401682508715,
+100,60,Javascript,1567946828000,2438065,wFrost,FI,60213703884300,
 100,60,Javascript,1567946828000,513549,y0p,FR,,
 100,60,Javascript,1567946828000,1853956,yoannk,FR,108956788280248,
 100,60,Bash,1567946829000,1235673,Lirkin,FR,13380771600138,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=259|time=2021-02-11T02:59:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=259|time=2021-02-12T02:36:07
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,36,Perl,1590887965000,1626273,markasoftware,US,8897186785162,
@@ -45,6 +45,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,47,Perl,1607131080000,3913376,LaurentValade,FR,47390627049317,
 100,47,Perl,1607393945000,1896273,Coyin,FR,,
 100,47,Perl,1609727456000,4111058,Perlorodka,SK,55974844398841,
+100,47,Perl,1613097367000,4095128,Voltmachine,BG,56919066754571,
 100,48,Perl,1567946831000,1306289,Jasperr,NL,56014127626531,
 100,48,Perl,1567946831000,2669104,KBurov,US,19292152791924,
 100,48,Perl,1567946831000,1629259,Marchete,ES,61997162908277,
@@ -72,7 +73,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,49,Perl,1567946831000,2438065,wFrost,FI,60213703884300,
 100,49,Perl,1567946831000,513549,y0p,FR,,
 100,49,Perl,1587438237000,2837454,Inc_,DE,22024624258996,
-100,49,Perl,1613012365000,4095128,Voltmachine,BG,56919066754571,
 100,50,Perl,1567946831000,1323621,Blablub,DE,,
 100,50,Perl,1567946831000,1202933,NullOps,AU,13683198089751,
 100,50,Perl,1567946831000,2458197,Stack_of_Pancakes,US,17063542094647,

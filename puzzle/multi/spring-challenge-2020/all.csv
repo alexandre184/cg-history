@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=5771|time=2021-02-11T02:59:01
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=5779|time=2021-02-12T02:35:41
 5,33.11,C++,,3004019,3193653,karliso,LV,54368321987353,
 5,31.27,C++,,2975979,880353,zasmu,FR,22237226756102,
 5,31.17,C++,,2982332,1082988,Saelyos,FR,6965824947540,
@@ -724,8 +724,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.84,C++,,2978314,1453934,Rety,RU,11180141666047,
 3,24.79,C++,,2976014,1549145,Mealc,SI,,
 3,24.76,Javascript,,2980017,3563633,p1100i,HU,36708686213273,
+3,24.75,Java,,2977875,1178251,Briag,FR,53730781013315,
 3,24.72,Python3,,2976805,1529396,ulukai,FR,,
-3,24.68,Java,,2977875,1178251,Briag,FR,53730781013315,
 3,24.68,Javascript,,2978246,1415488,alinde2,PT,18189405533729,
 3,24.65,Python3,,2979906,3750754,lukasg,AT,42375420007560,
 3,24.61,Java,,2980030,1066745,DepartmentOfRedundancy,FR,107574148016271,
@@ -854,7 +854,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.15,Java,,2976519,3380514,DFrese,DE,30555045908186,
 3,23.15,Python3,,2980233,1373231,shypiguy,US,3999441830250,
 3,23.14,Python3,,3016804,2453008,Crypticsy,NP,91135821533111,
-3,23.14,Javascript,,2977204,2675308,vkochev,RU,19449986593644,
 3,23.12,C++,,2978733,996279,BOBKA,DE,95301225927568,
 3,23.11,Kotlin,,2977759,3502478,tachan,JP,,
 3,23.11,Go,,2976467,3811032,LadislavZigo,SK,105640520321930,
@@ -868,6 +867,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.07,Python3,,2979229,3805081,ai_rice,US,44645527323104,
 3,23.07,C,,2976715,3821637,Ace310K,JP,,
 3,23.05,C++,,2976652,3511049,Nacho_Vigi,AR,35389987728675,
+3,23.05,Javascript,,2977204,2675308,vkochev,RU,19449986593644,
 3,23.04,Java,,2979830,1539245,Riduidel,FR,5919000461553,
 3,23.04,Java,,2995372,1687809,egoprince,FR,,
 3,23.02,C#,,2976520,3564365,lIAnkIl,VN,44603109716146,

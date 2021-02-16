@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2234|time=2021-02-13T02:55:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2243|time=2021-02-16T02:47:27
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -800,6 +800,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Javascript,1600483619000,3862589,anha,DE,50482388140800,
 100,106,Javascript,1611119610000,4115416,miejs,CH,57895125402057,
 100,106,Javascript,1611382399000,4144393,Nmnnm,FR,103088586197735,
+100,106,Javascript,1613443647000,4138318,dr-awetz,HU,,
 100,107,Javascript,1567946828000,221911,fafl,DE,23311741254436,
 100,107,Javascript,1567946828000,1049264,onitsuka,FR,,
 100,107,Javascript,1569458162000,3463334,MonsieurTa,FR,,
@@ -977,6 +978,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Javascript,1567946828000,1495628,Vanderwolk,MA,44215044905151,
 100,123,Javascript,1598142644000,414278,oobException,FR,4595241889335,
 100,123,Javascript,1600744469000,2948708,MrMN,MG,50304043389879,
+100,123,Javascript,1613443647000,4156154,issogood,CH,59814183471795,
 100,124,Javascript,1567946828000,3130133,1Dave,CZ,,
 100,124,Javascript,1567946828000,1048682,Gypp,FR,24472819945065,
 100,124,Javascript,1567946828000,2168021,Marcel256,AT,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,125,Javascript,1567946828000,2989765,aldebout,FR,,
 100,125,Javascript,1567946828000,1278167,ashsa,ES,3458310044120,
 100,125,Javascript,1567946828000,1495946,chdu08,FR,13354274187720,
-100,125,Javascript,1595727362000,1140177,yckmciaiy,UA,11569519603976,
-100,126,Javascript,1567946828000,1596346,LaurisJansons,LV,7768245836879,

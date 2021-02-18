@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8801|time=2021-02-17T02:32:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8806|time=2021-02-18T02:42:38
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -780,6 +780,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,154,Python3,1587347925000,860754,Actias,FR,18840906045570,
 100,154,Python3,1591062150000,154806,piwai,FR,1956863959967,
 100,154,Python3,1608167596000,1393802,a.mezhenin,RU,81786846913810,
+100,154,Python3,1613616161000,1725941,TFeld,DK,77240442360963,
 100,155,PHP,1567946816000,935802,Jerhyn,FR,109463964266798,
 100,155,Javascript,1567946817000,2867477,MichaelKommandant,UA,,
 100,155,Javascript,1567946817000,893177,Rebelwillow,US,20738672717048,
@@ -932,6 +933,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,164,PHP,1607822417000,4011783,sylbouns,FR,51693040520151,
 100,164,Javascript,1609815165000,1256312,Djoums,FR,3366390627127,
 100,164,Python3,1610159850000,3353015,Salted,CA,78606329541070,
+100,164,Python3,1613616161000,2090434,natrian,FR,49484369182246,
 100,165,PHP,1567946816000,155928,pk,FR,1720918958539,
 100,165,Javascript,1567946817000,2299286,Chalarangelo,GR,15517696790023,
 100,165,Javascript,1567946817000,1339790,Kyran,GB,5265340488770,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Python3,1567946818000,225875,leff,US,46674243497438,
 100,168,Python3,1567946818000,1701433,ratm,PL,,
 100,168,Python3,1567946818000,2719604,vpoulailleau,FR,43338781560535,
-100,168,Scala,1567946818000,1629259,Marchete,ES,61997162908277,
-100,168,VB.NET,1567946818000,1629259,Marchete,ES,61997162908277,

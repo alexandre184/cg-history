@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4457|time=2021-02-17T02:32:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4462|time=2021-02-18T02:42:46
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,57,Python3,1613443648000,3483490,rak1507,GB,,
@@ -253,6 +253,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,69,Python3,1608083745000,1309948,Runner87,IT,6963904733897,
 100,69,Python3,1608345424000,4072223,gnoxo,SK,55721023684814,
 100,69,Python3,1613012369000,2051334,Dwarth,FR,13399991490721,
+100,69,Python3,1613616166000,1725941,TFeld,DK,77240442360963,
 100,70,Python3,1567946832000,2671038,1one,RU,19327450927528,
 100,70,Python3,1567946832000,868896,Arn,BE,19508493305134,
 100,70,Python3,1567946832000,3047355,ArtyMaury,FR,44066043404736,
@@ -813,6 +814,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Python3,1610426811000,2004703,Clafrelie,FR,39061169141893,
 100,78,Python3,1612837854000,3862913,minhcccp,DE,74075442524998,
 100,78,Python3,1613097366000,3789784,Rectifier_NG,HR,58789485434556,
+100,78,Python3,1613616166000,4186575,UncleZam,FI,63812569086765,
 100,79,Python3,1567946832000,2542691,AnneMaelle,FR,,
 100,79,Python3,1567946832000,2445835,AnotherUnnamed,RU,,
 100,79,Python3,1567946832000,1323621,Blablub,DE,,
@@ -990,7 +992,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Python3,1567946832000,2415955,deflatSOCO,JP,,
 100,82,Python3,1567946832000,920989,james1729,GB,,
 100,82,Python3,1567946832000,2328977,jongwony,KR,107688088630898,
-100,82,Python3,1567946832000,2897230,kalevala,JP,,
 100,82,Python3,1567946832000,2233000,lynxy,RW,14905673226285,
 100,82,Python3,1567946832000,2176877,pasymows,PL,14333167453890,
 100,82,Python3,1567946832000,1703551,repanzar,AT,9146467676733,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Python3,1567946832000,2416017,thomascorthouts,BE,16694367302751,
 100,82,Python3,1567946832000,1684020,tom_,FR,68400349015363,
 100,82,Python3,1567946832000,992691,tredden,US,1920053008535,
-100,82,Python3,1571704864000,2793264,hyphz,GB,43864585520531,

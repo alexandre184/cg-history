@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=583|time=2021-02-18T02:42:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=584|time=2021-02-19T02:53:02
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -197,6 +197,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,162,Javascript,1589157425000,2422063,vikingviolinist,NO,,
 100,162,Javascript,1593563444000,3868172,Desjardins,DE,46161242090337,
 100,162,Javascript,1600656638000,1050421,geppoz,IT,4030238757816,
+100,162,Javascript,1613703182000,1693448,KoenduBuf,NL,65025161404567,
 100,163,Javascript,1568684374000,3349783,glm9637,DE,29214528162212,
 100,163,Javascript,1593477269000,935744,Alcalyn,FR,12077756999042,
 100,163,Javascript,1605144572000,311423,kirzyka,UA,5244779889243,
@@ -401,6 +402,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,244,Javascript,1596099796000,1836058,SeebOmega,FR,58553586406181,
 100,245,Javascript,1588293052000,2962429,Daneon,FR,35186328031839,
 100,245,Javascript,1592960326000,554140,mel-mouk,FR,98366668410415,
+100,245,Javascript,1613703182000,4146645,manlek,LT,,
 100,246,Javascript,1567946837000,2990918,Dingodino,FR,23216166624189,
 100,246,Javascript,1567946837000,3254280,Monbrey,AU,63106200911315,
 100,247,Javascript,1579399373000,152907,FrMe,FR,9797198581385,
@@ -570,7 +572,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1048,Javascript,1602469972000,1063624,Ethazhiel,NL,38643624769756,
 100,1088,Javascript,1573261521000,1778307,AashishKarki,NP,13385162279998,
 100,1089,Javascript,1607044931000,4090452,AbsolutMonkey,RU,,
-100,1101,Javascript,1586567517000,3757487,lester_,,,
 100,1132,Javascript,1607737241000,3765613,abezanni,FR,,
 100,1197,Javascript,1596155448000,3916660,Mikei,PL,,
 100,1216,Javascript,1567946837000,2211153,Itchie,DE,,

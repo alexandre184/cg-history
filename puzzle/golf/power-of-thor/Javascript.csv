@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3831|time=2021-02-20T02:31:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3835|time=2021-02-21T03:05:24
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -82,6 +82,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,Javascript,1595118634000,975057,LeoTigers,FR,45776082875495,
 100,107,Javascript,1595550634000,3305293,Jean-Lou,FR,55596623874599,
 100,107,Javascript,1595550634000,2954598,djedje72,FR,46182862613652,
+100,107,Javascript,1613876724000,4124688,Murat_Eroglu,TR,91676687994670,
 100,108,Javascript,1567946825000,1656351,Castosaurus,YT,21643540184535,
 100,108,Javascript,1567946825000,981084,pio95,PL,,
 100,108,Javascript,1567946825000,1316751,volodimir,UA,,
@@ -425,13 +426,13 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Javascript,1606180776000,4037158,s0lar,DE,86731667632695,
 100,126,Javascript,1611205070000,3783481,Yatech,PL,43596228434099,
 100,126,Javascript,1613616177000,4190119,Charlie2698,GT,59066642881683,
+100,126,Javascript,1613876724000,4160659,Phi-001,US,88924442605510,
 100,127,Javascript,1567946825000,1579263,Antimony,CA,6421603564944,
 100,127,Javascript,1567946825000,2380259,JIo6cTep,RU,16163772419705,
 100,127,Javascript,1567946825000,1357612,Maisnborg,DE,,
 100,127,Javascript,1567946825000,1334917,lowlighter,FR,29644824263001,
 100,127,Javascript,1567946825000,1149001,milenvoutchev,DE,2674189036115,
 100,127,Javascript,1595032234000,2972662,Hoyer,DK,23351637278989,
-100,127,Javascript,1613788263000,4160659,Phi-001,US,88924442605510,
 100,128,Javascript,1567946825000,913244,,CH,,
 100,128,Javascript,1567946825000,969168,154,DE,,
 100,128,Javascript,1567946825000,1071463,Arbarwings,NL,2211484565601,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Javascript,1594946584000,932873,dwhitnee,US,,
 100,159,Javascript,1594946584000,866778,izulrad,RU,,
 100,159,Javascript,1595983751000,1474519,Sny_de_Treves,FR,59444303531011,
-100,159,Javascript,1598057917000,414278,oobException,FR,4595241889335,

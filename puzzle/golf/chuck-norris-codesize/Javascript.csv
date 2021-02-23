@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=587|time=2021-02-22T02:49:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=588|time=2021-02-23T03:21:42
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -281,6 +281,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Javascript,1601785869000,3923022,FabInCode,FR,48651086856618,
 100,178,Javascript,1585184082000,1870098,nubinub,FR,,
 100,178,Javascript,1597105865000,204179,resistcorp,FR,44032889515354,
+100,178,Javascript,1614050502000,930280,SterlingMaloryArcher,US,,
 100,180,Javascript,1567946837000,1686456,Sir2B,DE,8601310304557,
 100,180,Javascript,1567946837000,1607251,baboulaf,FR,18176849207993,
 100,181,Javascript,1567946837000,3229071,megawarrior,UA,25970334501033,
@@ -342,7 +343,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,201,Javascript,1581553846000,1462259,tooppaaaaa,FR,41791720474075,
 100,201,Javascript,1605227968000,2605855,logiqub,FR,18528263791679,
 100,201,Javascript,1606878456000,4084987,Noktourn,MA,,
-100,201,Javascript,1613788259000,930280,SterlingMaloryArcher,US,,
 100,203,Javascript,1567946837000,1672050,MCM,IT,8634166418022,
 100,203,Javascript,1605062558000,1848459,Velcoro,CZ,48538649860014,
 100,204,Javascript,1605323145000,3813684,Hermoult,FR,,
@@ -422,6 +422,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,256,Javascript,1592012096000,363724,spidag,FR,,
 100,257,Javascript,1567946837000,1371420,FerrusDude,US,15695581430629,
 100,257,Javascript,1576456385000,3151486,rhunders,BE,25017853220330,
+100,257,Javascript,1614050502000,762642,Wonyoung,KR,4963742317694,
 100,258,Javascript,1567946837000,3290425,CBTyrone,CA,27188488117612,
 100,259,Javascript,1611632871000,4142862,mkhstar,TR,57646584713911,
 100,261,Javascript,1599878390000,2048763,Mickev,FR,48745204870870,

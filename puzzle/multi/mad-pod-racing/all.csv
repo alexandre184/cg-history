@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=116380|time=2021-02-22T02:49:29
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=116463|time=2021-02-23T03:21:22
 6,61.5,Python3,,3124799,1400179,reCurse,CA,58850847098890,
 6,60.99,C++,,2251077,832306,pb4,FR,10135289026547,
 6,55.32,C,,2255817,1415495,fenrir,FR,13431635833249,
@@ -359,7 +359,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 6,27.63,Python3,,1180170,1824968,PEPCSI1,FR,12195760524433,
 6,27.63,C++,,2235229,813360,Notinlist,HU,10547177537928,
 6,27.61,C#,,1399994,1814485,Fluttershy,DE,10675859429606,
-6,27.61,C++,,3419533,4119030,_W4ru_,AR,62151924199415,
+6,27.61,C++,,3419533,4119030,Waru.,AR,62151924199415,
 6,27.59,C++,,2559574,3519752,punkt,SE,35214186542956,
 6,27.56,C#,,2997880,1371221,JacobMarner,DK,44587241645853,
 6,27.55,Java,,3384867,2451652,code_of_the_dead,FR,18798469788923,
@@ -944,9 +944,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,39.07,C++,,3042205,3901555,GSmerch,BY,,
 5,39.06,C++,,3382606,3283415,Bon[]Crayon,FR,95885462628438,
 5,39.06,Python3,,2318676,3256614,FredL,FR,,
+5,39.04,C,,2333670,3314335,Snailbot,SE,,
 5,39.03,Python3,,2691214,3399188,GabrielAmare,FR,67180260295567,
 5,39.03,Java,,3118136,3961389,Jonny-Johnson,DE,50175723531787,
-5,39.02,C,,2333670,3314335,Snailbot,SE,,
 5,38.96,Python3,,2097988,2143315,FluffyToaster,NL,14075852675260,
 5,38.92,Python3,,3400119,3550023,slime789,BE,41450946062876,
 5,38.9,Python3,,3250379,4065322,ootsby,GB,54368428766659,

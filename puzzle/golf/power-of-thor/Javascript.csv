@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3836|time=2021-02-23T03:21:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3838|time=2021-02-24T03:51:48
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -533,7 +533,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Javascript,1594859431000,1653052,fbosco,IT,7821315128596,
 100,132,Javascript,1594859431000,2688132,jatj,MX,,
 100,132,Javascript,1598810514000,2106901,Kyoshiro10500,CH,13673088159635,
-100,132,Javascript,1608083737000,155881,XLP,CH,104405127658237,
+100,132,Javascript,1608083737000,155881,Hevey,CH,104405127658237,
 100,132,Javascript,1611119603000,3855258,Starfighter,FR,57681805205585,
 100,132,Javascript,1613097363000,1306429,Neckers,IT,73429625249924,
 100,133,Javascript,1594859431000,679101,Dazzle,CY,32305181598666,
@@ -956,6 +956,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1605921603000,3687035,EmericC,FR,,
 100,155,Javascript,1606702334000,1111798,lifetimeLearner007,IN,91231063773599,
 100,155,Javascript,1613616177000,1693448,KoenduBuf,NL,65025161404567,
+100,155,Javascript,1614138708000,4168646,RaccoonWithSpork,US,59168085376989,
 100,156,Javascript,1594946584000,954759,Fajri,ID,1806123005075,
 100,156,Javascript,1594946584000,809683,Frogger,FR,,
 100,156,Javascript,1594946584000,1583514,Giorga,GE,6466342284037,
@@ -996,6 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Javascript,1594946584000,1298794,Husenap,SE,81287588995481,
 100,159,Javascript,1594946584000,1327962,Touffy[SFEIR],FR,3700371318796,
 100,159,Javascript,1594946584000,897311,TrollMagic,FR,,
-100,159,Javascript,1594946584000,3321380,Zejabel,FR,,
 100,159,Javascript,1594946584000,932873,dwhitnee,US,,
 100,159,Javascript,1594946584000,866778,izulrad,RU,,

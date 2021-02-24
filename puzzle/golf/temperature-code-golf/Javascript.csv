@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2256|time=2021-02-23T03:21:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2260|time=2021-02-24T03:51:38
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -635,6 +635,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,91,Javascript,1595032244000,829018,alchemsti,DE,39208827785278,
 100,91,Javascript,1597797060000,2333314,Vawi,FR,47861640497445,
 100,91,Javascript,1609203936000,3626280,Fillan,FR,42980628832290,
+100,91,Javascript,1614138698000,4168646,RaccoonWithSpork,US,59168085376989,
 100,92,Javascript,1567946828000,3035837,,US,,
 100,92,Javascript,1567946828000,2029767,Dyomba,RU,,
 100,92,Javascript,1567946828000,1904154,HinaKaze,CN,11661433033891,
@@ -721,7 +722,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Javascript,1581294641000,2773306,kryshac,MD,21488586693265,
 100,98,Javascript,1600224977000,935744,Alcalyn,FR,12077756999042,
 100,98,Javascript,1602989381000,3934908,TheDrakonir,DE,51719564715384,
-100,98,Javascript,1611552803000,155881,XLP,CH,104405127658237,
+100,98,Javascript,1611552803000,155881,Hevey,CH,104405127658237,
 100,99,Javascript,1567946828000,2599667,DashBrownies,FR,,
 100,99,Javascript,1567946828000,1633972,MicheleAmante,IT,,
 100,99,Javascript,1567946828000,1515264,Mr.Zero,US,7711174607268,
@@ -996,6 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,124,Javascript,1606957966000,1910916,VivienBillot,FR,53165247393812,
 100,124,Javascript,1608345422000,3795485,TOV,VN,44166148451700,
 100,124,Javascript,1608945298000,2254195,BrunoFelthes,BR,92712103847740,
-100,125,Javascript,1567946828000,1596751,RatTub,CA,6722861257385,
 100,125,Javascript,1567946828000,779449,THoVer,LT,,
 100,125,Javascript,1567946828000,1495946,chdu08,FR,13354274187720,

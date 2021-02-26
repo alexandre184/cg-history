@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3839|time=2021-02-25T03:02:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3841|time=2021-02-26T03:55:23
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -536,6 +536,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Javascript,1608083737000,155881,Hevey,CH,104405127658237,
 100,132,Javascript,1611119603000,3855258,Starfighter,FR,57681805205585,
 100,132,Javascript,1613097363000,1306429,Neckers,IT,73429625249924,
+100,132,Javascript,1614311723000,4047152,Willard21,US,53068420450889,
 100,133,Javascript,1594859431000,679101,Dazzle,CY,32305181598666,
 100,133,Javascript,1594859431000,2191051,DennisHenze,DE,,
 100,133,Javascript,1594859431000,2455639,GomoryCut,CA,17236107353922,
@@ -789,6 +790,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Javascript,1604882642000,1834129,oPOCCOMAXAo,UA,52715622633189,
 100,146,Javascript,1608772370000,3425328,waterblue,PT,31824207534933,
 100,146,Javascript,1609203929000,1845235,N2R,FR,,
+100,146,Javascript,1614311723000,4007298,ShadiestEwe,GB,,
 100,147,Javascript,1594946584000,199711,Apolo,FR,2301349496065,
 100,147,Javascript,1594946584000,630050,Chulepa,DE,3648993972565,
 100,147,Javascript,1594946584000,3531488,Dryadim,FR,35488801936304,
@@ -994,8 +996,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Javascript,1613443658000,4185169,dacodr,US,,
 100,159,Javascript,1594946584000,1020377,Azzazzel,BG,2064693492746,
 100,159,Javascript,1594946584000,1459659,Duffmaster_Flex,US,,
-100,159,Javascript,1594946584000,1298794,Husenap,SE,81287588995481,
-100,159,Javascript,1594946584000,1327962,Touffy[SFEIR],FR,3700371318796,
 100,159,Javascript,1594946584000,897311,TrollMagic,FR,,
 100,159,Javascript,1594946584000,932873,dwhitnee,US,,
 100,159,Javascript,1594946584000,866778,izulrad,RU,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8852|time=2021-03-02T02:34:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8857|time=2021-03-03T02:30:34
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -228,8 +228,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,104,Javascript,1567946817000,1076425,Loicfr,FR,4099899416445,
 100,104,Javascript,1567946817000,2077458,Ragi,PL,13710770531146,
 100,104,Javascript,1567946817000,2663611,bobd91,GB,,
+100,104,Javascript,1567946817000,2438065,iter,FI,60213703884300,
 100,104,Javascript,1567946817000,998275,jforne,SE,1999273328174,
-100,104,Javascript,1567946817000,2438065,wFrost,FI,60213703884300,
 100,104,Bash,1567946818000,1487168,FatIvan,GB,12794968553694,
 100,104,Python3,1567946818000,2096266,southzz,CN,,
 100,104,C,1571447796000,973040,papyjo,FR,15696776172839,
@@ -345,6 +345,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Haskell,1585616956000,1537792,AsaiYusuke,US,41785380851985,
 100,116,Lua,1600483610000,3354337,Westicles,CX,79146641399080,
 100,116,PHP,1608083733000,1848459,Velcoro,CZ,48538649860014,
+100,116,Python3,1614738635000,3647844,rc95401,US,39486169555819,
 100,117,Javascript,1567946817000,2043908,AntiSquid,,,
 100,117,Javascript,1567946817000,1195992,NickJammer,FR,,
 100,117,Javascript,1567946817000,1049881,TheDudeGuySomeone,PT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,167,Javascript,1610857851000,4124054,JoshuaRC02,US,57287523607434,
 100,167,Python3,1613788248000,3393535,LuckyJ.,FR,42540162041167,
 100,168,Javascript,1567946817000,1048208,MikeDawley,US,,
-100,168,Javascript,1567946817000,818780,bbodin01,FR,110088260228852,

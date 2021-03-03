@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=592|time=2021-03-02T02:34:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=594|time=2021-03-03T02:30:50
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -233,7 +233,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Javascript,1609118507000,1567705,noahmay,SE,32310343810810,
 100,168,Javascript,1610857868000,1566335,BeardedWhale,SE,36571449875674,
 100,169,Javascript,1567946837000,1330843,Brokenmass,GB,4380409503798,
-100,169,Javascript,1585097115000,2438065,wFrost,FI,60213703884300,
+100,169,Javascript,1585097115000,2438065,iter,FI,60213703884300,
 100,169,Javascript,1586654970000,1406822,JBeen,UA,20440902196127,
 100,169,Javascript,1596155448000,1854639,iDxMeG,FR,11242007512344,
 100,169,Javascript,1601260257000,3921345,JFP81,FR,47979082454844,
@@ -320,6 +320,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,190,Javascript,1605921613000,3687035,EmericC,FR,,
 100,190,Javascript,1614138704000,762642,Wonyoung,KR,4963742317694,
 100,191,Javascript,1567946837000,1695141,sbsbessa,PT,24874664192666,
+100,191,Javascript,1614738650000,1782005,AlexW,FR,47883185026219,
 100,192,Javascript,1567946837000,2049979,130N35,FR,13111365905174,
 100,193,Javascript,1604711088000,4022991,dom-dom-1,FR,,
 100,193,Javascript,1606012362000,1624708,lifran,US,54053746330759,
@@ -459,6 +460,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,289,Javascript,1597624245000,1473079,Zylar,US,4875610554885,
 100,294,Javascript,1599618878000,969000,KB,DE,37409704502795,
 100,296,Javascript,1571533607000,3444208,Anatoli,DE,32592586143834,
+100,300,Javascript,1614738650000,4164553,Raliesin,FR,58292146953858,
 100,301,Javascript,1598229551000,3833619,sacquet,FR,48929182387074,
 100,301,Javascript,1605144572000,3989427,LaurentHrt,FR,82285527323787,
 100,302,Javascript,1573607681000,1220626,Trineon89,LU,,

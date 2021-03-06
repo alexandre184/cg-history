@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8864|time=2021-03-05T02:30:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8874|time=2021-03-06T02:30:57
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Python3,1597712194000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -189,6 +189,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Javascript,1611456185000,1566335,BeardedWhale,SE,36571449875674,
 100,99,C,1613529140000,2928146,LolCat,MU,22538133010433,
 100,99,ObjectiveC,1613529141000,2928146,LolCat,MU,22538133010433,
+100,99,Javascript,1614997856000,4166845,HugeMissedSteak,NL,59373221969418,
 100,100,PHP,1567946816000,334009,abouvier,FR,4681436111242,
 100,100,PHP,1567946816000,1039319,pneus84,FR,,
 100,100,Javascript,1567946817000,687103,juan.cortes,ES,2120395137910,
@@ -258,6 +259,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,ObjectiveC,1567946819000,553938,MagAlex,RU,3292063463360,
 100,107,TypeScript,1586138427000,1845617,Shingyx,AU,26010702723839,
 100,107,Ruby,1605227944000,3982709,lukasjapan,JP,51562467085693,
+100,107,TypeScript,1614997856000,4166845,HugeMissedSteak,NL,59373221969418,
 100,108,C,1567946816000,1853956,yoannk,FR,108956788280248,
 100,108,Javascript,1567946817000,1675034,francois,FR,15464459859531,
 100,108,Javascript,1567946817000,513549,y0p,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,167,Javascript,1598810510000,3667259,LoneWolf-M21,IR,40202549989244,
 100,167,Bash,1604119359000,1684030,Mator,FR,14204349233622,
 100,167,Python3,1605144559000,3532237,Bubaptik,DE,35503927539574,
-100,167,Javascript,1610857851000,4124054,JoshuaRC02,US,57287523607434,
-100,167,Python3,1613788248000,3393535,LuckyJ.,FR,42540162041167,

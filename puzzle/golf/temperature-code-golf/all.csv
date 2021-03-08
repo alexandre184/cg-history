@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15571|time=2021-03-07T02:43:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15583|time=2021-03-08T03:06:24
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -630,6 +630,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Javascript,1607303443000,2565497,vladislao,RU,18197468031147,
 100,59,Python3,1607393941000,2927320,itectori,CA,22507458161222,
 100,59,Ruby,1610426809000,4127584,Ran222,HK,,
+100,59,Python3,1615172787000,534361,MrPapaya,UA,60605642423308,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -759,6 +760,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Ruby,1611974667000,2638020,ja_fica,PT,43608047918764,
 100,61,Javascript,1612147804000,3421059,Threenplusone,AU,31653244193472,
 100,61,Ruby,1612837852000,3377745,mathieuv,FR,108488081454028,
+100,61,Javascript,1615172785000,4156154,issogood,CH,59814183471795,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,2043908,AntiSquid,,,
 100,62,Javascript,1567946828000,814685,AthosPyte,NO,5617445240242,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Python3,1596329063000,1968855,ThePurificator,FR,12329456921169,
 100,64,Javascript,1596501983000,862919,Astrobytes,GB,60413902297900,
 100,64,Javascript,1596846641000,1527403,Di_Masta,BG,5689020242575,
-100,64,Python3,1597278639000,186179,Nagrarok,FR,95596601515650,
-100,64,TypeScript,1598142641000,3845610,pardouin,FR,60364063762936,

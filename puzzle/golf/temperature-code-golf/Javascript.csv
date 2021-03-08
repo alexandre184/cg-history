@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2274|time=2021-03-07T02:43:17
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2276|time=2021-03-08T03:06:25
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -97,6 +97,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1610685072000,4060994,3030,FI,,
 100,61,Javascript,1611024428000,3647844,rc95401,US,39486169555819,
 100,61,Javascript,1612147804000,3421059,Threenplusone,AU,31653244193472,
+100,61,Javascript,1615172785000,4156154,issogood,CH,59814183471795,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,2043908,AntiSquid,,,
 100,62,Javascript,1567946828000,814685,AthosPyte,NO,5617445240242,
@@ -500,7 +501,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Javascript,1608598091000,3795832,VietAnhTong,VN,60137669402865,
 100,81,Javascript,1609461046000,3924786,Tionkje,BE,62710605796918,
 100,81,Javascript,1609555264000,4120316,kishkumen,BE,56517809323442,
-100,81,Javascript,1613788254000,4156154,issogood,CH,59814183471795,
 100,82,Javascript,1567946828000,2996089,0x01001111,FR,23352098660994,
 100,82,Javascript,1567946828000,2299286,Chalarangelo,GR,15517696790023,
 100,82,Javascript,1567946828000,1602313,FartingCatJr.,US,7248825683818,
@@ -640,6 +640,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,91,Javascript,1597797060000,2333314,Vawi,FR,47861640497445,
 100,91,Javascript,1609203936000,3626280,Fillan,FR,42980628832290,
 100,91,Javascript,1614138698000,4168646,RaccoonWithSpork,US,59168085376989,
+100,91,Javascript,1615172785000,1129777,Velvacaine,CA,59727663468173,
 100,92,Javascript,1567946828000,3035837,,US,,
 100,92,Javascript,1567946828000,2029767,Dyomba,RU,,
 100,92,Javascript,1567946828000,1904154,HinaKaze,CN,11661433033891,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,124,Javascript,1567946828000,1779483,h.otto,HU,11271952070965,
 100,124,Javascript,1567946828000,1508255,shadowX[Dorin-E],MD,10178721110150,
 100,124,Javascript,1572568239000,1588777,ClemC,FR,35766566727043,
-100,124,Javascript,1573442936000,1066745,DepartmentOfRedundancy,FR,107574148016271,

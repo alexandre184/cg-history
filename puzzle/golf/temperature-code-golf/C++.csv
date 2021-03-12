@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1735|time=2021-03-11T02:30:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1736|time=2021-03-12T02:35:38
 100,56,C++,1586393337000,334009,abouvier,FR,4681436111242,
 100,63,C++,1568423181000,2288263,dbdr,UA,43448306132121,
 100,71,C++,1585703676000,1537792,AsaiYusuke,US,41785380851985,
@@ -556,6 +556,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,173,C++,1567946829000,2520126,yy214,FR,39959142950454,
 100,173,C++,1603768112000,1549217,HaXxX,FI,6151091005771,
 100,173,C++,1606012357000,4063300,maciej_bielik,PL,,
+100,173,C++,1615516538000,3837895,Vampyre_Angel,US,,
 100,174,C++,1567946829000,805724,Appul,US,17427763306542,
 100,174,C++,1567946829000,1272485,Bistvan,HU,3435828423115,
 100,174,C++,1567946829000,2141259,Roout,RU,28937447803658,
@@ -605,7 +606,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,183,C++,1567946829000,3145069,marcjanek,PL,,
 100,184,C++,1567946829000,1876212,PFischbeck,DE,14113662061799,
 100,184,C++,1567946829000,1245246,Pierrotie,FR,,
-100,184,C++,1598315444000,3837895,Vampyre_Angel,US,,
 100,185,C++,1567946829000,1001266,Chamel,PL,3202310175320,
 100,185,C++,1567946829000,3438817,ClottedCream,FR,32425626760881,
 100,185,C++,1567946829000,1740237,OlegKornelsen,DE,10266719666046,
@@ -976,6 +976,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,401,C++,1603852585000,3969388,Shell_07,IN,,
 100,402,C++,1611382395000,1795151,Toureiffel,FR,10480634837087,
 100,406,C++,1614311705000,4207464,kalucas,US,,
+100,407,C++,1615516538000,4226626,viptomsu,VN,60232704118059,
 100,409,C++,1567946829000,1724146,alefajnie,PL,13912981938894,
 100,409,C++,1567946829000,578321,llucie,FR,23402757681094,
 100,412,C++,1599532402000,3951779,ConstantBolzmann,,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,430,C++,1567946829000,2273866,islammohsen98,EG,,
 100,431,C++,1608858571000,3946547,FatFish,CN,,
 100,432,C++,1567946829000,1078915,anonymousm,MA,15473429297422,
-100,436,C++,1567946829000,825366,Gam,HU,,

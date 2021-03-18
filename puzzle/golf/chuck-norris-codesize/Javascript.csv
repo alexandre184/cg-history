@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=605|time=2021-03-17T02:30:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=606|time=2021-03-18T02:43:51
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -102,6 +102,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1587777076000,1525816,Flodnes,NO,5656265985683,
 100,147,Javascript,1607477454000,3508909,meroje,FR,34940742910807,
 100,147,Javascript,1607995162000,2220824,Aerodactylus,FR,54336008500576,
+100,147,Javascript,1616035431000,4156154,issogood,CH,59814183471795,
 100,148,Javascript,1567946837000,1876059,Knagis,LV,,
 100,148,Javascript,1579566945000,3009598,Flashantik,RU,32413605073716,
 100,148,Javascript,1601606642000,2520443,Einwickler,DE,50711405528093,
@@ -305,7 +306,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,185,Javascript,1582597670000,1849062,AnkitAnand_12,IN,11046628570924,
 100,185,Javascript,1604537338000,3550689,xsabi,LU,37517942592314,
 100,185,Javascript,1612147811000,4145435,Atomoxic,GB,58036468209973,
-100,185,Javascript,1615948257000,4156154,issogood,CH,59814183471795,
 100,186,Javascript,1571013056000,3286691,Miisteur974,FR,46637543592264,
 100,186,Javascript,1571013056000,2851992,musatag,FR,34415881686866,
 100,186,Javascript,1571533607000,3526028,severrabaen,JP,35440701241251,
@@ -497,6 +497,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,372,Javascript,1567946837000,2373953,Dridriun,FR,64609504937617,
 100,374,Javascript,1587953085000,1932031,Tricatel,FR,83353245236605,
 100,378,Javascript,1575333166000,2591473,ListsOfArrays,US,19150776457506,
+100,378,Javascript,1616035431000,4035257,MeSeet,,,
 100,387,Javascript,1610512073000,2911075,ArlandWilliams,CA,68193487996822,
 100,392,Javascript,1593650943000,1483410,GiulneverFergett,GR,64162085944079,
 100,394,Javascript,1571013056000,2048433,Naferla,RE,22925688348029,

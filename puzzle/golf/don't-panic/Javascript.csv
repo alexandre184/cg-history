@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1244|time=2021-03-19T03:01:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1246|time=2021-03-20T02:46:05
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -254,6 +254,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1567946817000,893177,Rebelwillow,US,20738672717048,
 100,155,Javascript,1567946817000,704875,XaY,FR,1746313875354,
 100,155,Javascript,1596501967000,3513265,DaNinja,IE,35022107863170,
+100,155,Javascript,1616208365000,4115416,miejs,CH,57895125402057,
 100,156,Javascript,1567946817000,1600940,ProPuke,GB,6813033823843,
 100,156,Javascript,1567946817000,389786,menu,DE,,
 100,156,Javascript,1570408227000,1535449,Kisioj,PL,5855157999885,
@@ -955,6 +956,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,428,Javascript,1567946817000,994344,Momopouccino,FR,1989352055938,
 100,428,Javascript,1600919078000,3659917,Fa_Hae,DE,50954062333126,
 100,431,Javascript,1603593227000,4018751,thibaud_at,FR,,
+100,431,Javascript,1616208365000,4182948,ksic,PF,,
 100,432,Javascript,1567946817000,622674,Strat0,FR,1732644841703,
 100,437,Javascript,1567946817000,847745,Orminot,UA,1785415972907,
 100,438,Javascript,1567946817000,1115325,Blisswoven,US,2492584641224,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,554,Javascript,1567946817000,1139050,BlackFalcon,FR,,
 100,560,Javascript,1567946817000,1314362,Synio,FR,4014597815339,
 100,561,Javascript,1567946817000,1900582,ReverseFlash,FR,13401470906267,
-100,566,Javascript,1567946817000,2656876,Juytorei,FR,,
-100,568,Javascript,1567946817000,984854,DKurilo,US,88784426411869,

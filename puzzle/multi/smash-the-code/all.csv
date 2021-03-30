@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2436|time=2021-03-29T02:47:45
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2437|time=2021-03-30T02:30:14
 5,35.66,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.98,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.28,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -924,7 +924,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.1,Python3,,2622382,3101644,HerrHagner,DE,39056126752805,
 1,23.09,Java,,713892,1603310,yarwest,PL,6905688353357,
 1,23.08,C#,,579377,1220347,Pooky,FR,7320278038278,
-1,23.08,Java,,653121,805896,methodMain,FR,11870779747213,
 1,23.08,Python3,,634685,1012020,Markusha,MD,21117387170051,
 1,23.07,C#,,631709,1503612,Dreagor,DK,5582369908328,
 1,23.07,C,,500447,1077201,Baarg,FR,,
@@ -973,6 +972,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.96,Java,,628892,1116946,marhuero,FR,,
 1,22.96,Java,,689701,1575751,ScarehJew,US,,
 1,22.96,Python3,,599807,1495851,Orsalino,CA,,
+1,22.96,Java,,755489,1648009,Getileino,ES,,
 1,22.96,Java,,736974,1324097,niak75,FR,,
 1,22.96,Python3,,488321,1458472,Platicopter,CA,,
 1,22.96,C++,,943260,1627356,Pelker,PL,10190905973584,
@@ -990,6 +990,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.93,Java,,589398,1494734,Leogelas,FR,,
 1,22.93,C++,,760825,1656386,miszczu,PL,,
 1,22.93,Javascript,,885989,1026791,Alfalfamale,NL,7144185210937,
+1,22.93,Java,,653121,805896,methodMain,FR,11870779747213,
 1,22.93,Lua,,771961,1554944,LuaLuke,NL,6158956687345,
 1,22.92,Python3,,506028,1471739,Kronus,GB,4842018201637,
 1,22.92,Python3,,570330,1471382,Andilutten,SE,4840977361513,
@@ -998,4 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,22.91,Javascript,,702120,1609974,ManosSg,CH,,
 1,22.91,Python3,,3101789,3926522,Denshire,US,98102241022642,
 1,22.9,Javascript,,494294,549396,GoossensPi,BE,4709806764411,
-1,22.9,Java,,755489,1648009,Getileino,ES,,

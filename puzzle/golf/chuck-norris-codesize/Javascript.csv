@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=611|time=2021-03-29T02:48:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=611|time=2021-03-30T02:30:54
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -66,8 +66,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Javascript,1567946837000,1931039,MooMooN,FR,11972180817471,
 100,136,Javascript,1594258254000,1616191,PotcFdk,DE,7181025277310,
 100,136,Javascript,1605062558000,1304841,NitMpez,US,4780977304016,
+100,137,Javascript,1617071454000,4156154,issogood,CH,59814183471795,
 100,138,Javascript,1573692633000,2069141,tomeko,PL,13370027887052,
-100,138,Javascript,1616468021000,4156154,issogood,CH,59814183471795,
 100,139,Javascript,1593737171000,975057,LeoTigers,FR,45776082875495,
 100,139,Javascript,1607303447000,3855258,Starfighter,FR,57681805205585,
 100,139,Javascript,1614569198000,1838549,orangesnowfox,US,17617755701518,
@@ -150,6 +150,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1612492781000,3585167,informathemusic,FR,57452709515182,
 100,154,Javascript,1572395744000,1383959,ebriand,FR,4078625698623,
 100,154,Javascript,1603507647000,2708267,XyoloJR,FR,52279543518143,
+100,154,Javascript,1617071454000,1019883,Pedromdrp,PT,2315578082196,
 100,155,Javascript,1567946837000,1305374,Frankich,FR,4884866560369,
 100,155,Javascript,1567946837000,1390789,Matthieu.L,FR,36482342568862,
 100,155,Javascript,1581641195000,3651809,NicknameRequired,VA,40440567983888,
@@ -191,7 +192,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Javascript,1596099796000,2688381,willf80,FR,70802160683965,
 100,159,Javascript,1608513249000,4100825,ablin42,FR,55479060101488,
 100,159,Javascript,1615689160000,2438514,davi_bart,IT,16905477283014,
-100,159,Javascript,1616986105000,1019883,Pedromdrp,PT,2315578082196,
 100,160,Javascript,1567946837000,893541,wala,FR,97577641170180,
 100,160,Javascript,1571013056000,2093490,paul.cabanes,FR,13963535448576,
 100,160,Javascript,1584894198000,3657944,xyz-1,PL,40019042861680,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1250|time=2021-03-31T02:35:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1251|time=2021-04-01T02:53:57
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -35,6 +35,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1599273771000,1045485,Jessie,FR,9025608819920,
 100,101,Javascript,1607995141000,2923506,darkhorse64,FR,23496414257567,
 100,101,Javascript,1615604494000,3298988,PotatoCoder,FI,101491804514502,
+100,101,Javascript,1617245637000,4060994,3030,FI,,
 100,103,Javascript,1567946817000,1759335,metahom,AE,40546489176319,
 100,103,Javascript,1612924245000,2928146,LolCat,MU,22538133010433,
 100,104,Javascript,1567946817000,1026791,Alfalfamale,NL,7144185210937,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,547,Javascript,1567946817000,1008564,kbo,BG,3237974323613,
 100,550,Javascript,1567946817000,1095900,sacrophyte,US,,
 100,551,Javascript,1567946817000,949477,Athomas,HU,4475315848713,
-100,554,Javascript,1567946817000,1139050,BlackFalcon,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1254|time=2021-04-09T03:13:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1256|time=2021-04-10T02:34:37
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -527,6 +527,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Javascript,1605144560000,304126,kami,FR,10057081063920,
 100,198,Javascript,1606528147000,4041267,Looney1300,US,52852249934671,
 100,198,Javascript,1607393929000,4058636,HMMD,MA,82997865263742,
+100,198,Javascript,1618022077000,3335896,_martynas,LT,92914406769053,
 100,199,Javascript,1567946817000,221573,TiTi,FR,63573243211328,
 100,199,Javascript,1567946817000,3349783,glm9637,DE,29214528162212,
 100,199,Javascript,1567946817000,1095446,tarbomb,FR,83100206722923,
@@ -837,6 +838,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,308,Javascript,1608598074000,3983017,TLbuis,NL,50598324428631,
 100,308,Javascript,1609900246000,3524397,NesteruS,RU,56903866376059,
 100,308,Javascript,1611024413000,3882504,Gauravsingh,IN,58719143004677,
+100,308,Javascript,1618022077000,4254274,MS.Monster,IN,61155647835600,
 100,309,Javascript,1567946817000,1210325,Scotow,US,12067616215145,
 100,309,Javascript,1567946817000,964290,madcap99,UA,1844546026764,
 100,310,Javascript,1567946817000,976635,,GB,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,531,Javascript,1567946817000,816736,SimoRML,MA,2155445217356,
 100,531,Javascript,1567946817000,513559,fignoline,FR,,
 100,536,Javascript,1567946817000,833144,Armageddon,FR,45763228023628,
-100,537,Javascript,1567946817000,2023260,NinJavascript,FR,,
-100,539,Javascript,1567946817000,1131528,Owl,DE,2597918639865,

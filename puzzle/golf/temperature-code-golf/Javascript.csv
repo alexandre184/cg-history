@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2327|time=2021-04-10T02:34:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2330|time=2021-04-11T04:39:44
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -388,6 +388,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,72,Javascript,1585444520000,3531488,Dryadim,FR,35488801936304,
 100,72,Javascript,1606352050000,4036826,Feust,FR,52969508387999,
 100,72,Javascript,1617938018000,4239971,Swabahadine,FR,61945106533132,
+100,72,Javascript,1618115984000,1050421,geppoz,IT,4030238757816,
 100,73,Javascript,1567946828000,1026791,Alfalfamale,NL,7144185210937,
 100,73,Javascript,1567946828000,859767,H0v3,NO,20431443705247,
 100,73,Javascript,1567946828000,1235673,Lirkin,FR,13380771600138,
@@ -703,7 +704,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,95,Javascript,1567946828000,1688894,pihomeserver,LU,8656983651526,
 100,95,Javascript,1567946828000,1113627,sanyatuning,HU,2480098849585,
 100,95,Javascript,1576552573000,3590773,FrankDiehl,DE,,
-100,95,Javascript,1600050797000,1050421,geppoz,IT,4030238757816,
 100,95,Javascript,1601260251000,3967226,lingesan,IN,,
 100,95,Javascript,1601606638000,389473,BigBart,CH,4922026050684,
 100,95,Javascript,1603939006000,2708267,XyoloJR,FR,52279543518143,
@@ -870,6 +870,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1610336544000,3236708,Gaetsd,FR,,
 100,109,Javascript,1615948251000,1910916,VivienBillot,FR,53165247393812,
 100,109,Javascript,1617676873000,3167968,Master_Zain,GB,25059813489079,
+100,109,Javascript,1618115984000,3973359,KAbel,HU,58683122994198,
 100,110,Javascript,1567946828000,1842440,07734willy,US,10984521090532,
 100,110,Javascript,1567946828000,1748381,Aruche,SG,9789828010283,
 100,110,Javascript,1567946828000,2144901,Gezellig,NL,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Javascript,1600138073000,3581677,msanchez-eutech,FR,,
 100,121,Javascript,1601530044000,942392,Metanoob,IE,81480427823239,
 100,121,Javascript,1605921607000,3687035,EmericC,FR,,
-100,121,Javascript,1606352050000,820541,Johnstyle,FR,2889199792751,

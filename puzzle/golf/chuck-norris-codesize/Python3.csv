@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1584|time=2021-04-11T04:39:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1587|time=2021-04-12T02:34:54
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
 100,75,Python3,1600483627000,2288263,dbdr,UA,43448306132121,
@@ -813,6 +813,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,173,Python3,1601866250000,3819654,Ragloph,HU,88238701295841,
 100,173,Python3,1614222141000,1394491,RGAM,PY,4169124211320,
 100,173,Python3,1615343643000,4224601,casparmkerr,NO,,
+100,173,Python3,1618194894000,3913897,_emV_,FR,47445545403219,
 100,174,Python3,1567946837000,2573885,Deathekirl,FR,18232548279469,
 100,174,Python3,1567946837000,2979126,Tuschin,FR,53020249472874,
 100,174,Python3,1571273995000,2988115,Ansters,TH,35445262787925,
@@ -848,7 +849,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,178,Python3,1593218111000,1158772,Daniel_Leidenheimer,DE,45903963399756,
 100,178,Python3,1606180772000,1893989,Rosstherock,NZ,11624409080172,
 100,178,Python3,1611552811000,4156437,komiamiko,CA,57964628749480,
-100,178,Python3,1618115987000,3913897,_emV_,FR,47445545403219,
 100,179,Python3,1567946837000,3333885,Jean111111111,FR,31388780220418,
 100,179,Python3,1571013058000,954221,Ruyj,PT,38546082349528,
 100,179,Python3,1598142648000,3535408,Astrolopitheque,FR,,
@@ -908,6 +908,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,186,Python3,1613443651000,4181682,Addman,IT,,
 100,186,Python3,1613703181000,4124688,Murat_Eroglu,TR,91676687994670,
 100,186,Python3,1615172788000,3982472,Cousnouf,CH,54190580543812,
+100,186,Python3,1618194894000,1649195,ShannonNorris97,GB,12029921307622,
 100,187,Python3,1571013058000,1388912,KristjanKica,AL,,
 100,187,Python3,1574123872000,2497595,touatily,FR,17584370889748,
 100,187,Python3,1578272447000,802237,braxxouille,FR,36210226634915,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,203,Python3,1594341683000,3833386,IszakPeter,HU,,
 100,203,Python3,1596155449000,3879622,tho1806,FR,,
 100,204,Python3,1592182478000,3465661,Thiesjoo,NL,45239908478293,
-100,204,Python3,1604284327000,1883289,bthalheim,US,,

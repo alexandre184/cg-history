@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1258|time=2021-04-14T02:31:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1259|time=2021-04-15T02:49:31
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -224,6 +224,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Javascript,1567946817000,1525816,Flodnes,NO,5656265985683,
 100,146,Javascript,1567946817000,1158948,Prowler,DE,41721263222935,
 100,146,Javascript,1567946817000,476478,Silver,US,,
+100,146,Javascript,1618454971000,1819430,Louec,FR,33037142871414,
 100,147,Javascript,1567946817000,952534,Slapstick,HK,1807164990711,
 100,147,Javascript,1567946817000,1712214,_CP,RO,51713368456019,
 100,147,Javascript,1567946817000,1122567,diziaq,RU,5650174828606,
@@ -242,7 +243,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,150,Javascript,1606438651000,4040965,Twistman,FR,,
 100,151,Javascript,1567946817000,1357614,OptiPanda,FR,25029501539760,
 100,151,Javascript,1567946817000,3030808,skps2010,TW,,
-100,151,Javascript,1593218091000,1819430,Louec,FR,33037142871414,
 100,152,Javascript,1567946817000,1070566,Kodnot,LT,20227250201533,
 100,152,Javascript,1567946817000,962569,[K]Gabor,HU,1919640900304,
 100,152,Javascript,1567946817000,740424,vmeurisse,FR,2106597540539,
@@ -841,6 +841,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,308,Javascript,1609900246000,3524397,NesteruS,RU,56903866376059,
 100,308,Javascript,1611024413000,3882504,Gauravsingh,IN,58719143004677,
 100,308,Javascript,1618022077000,4254274,MS.Monster,IN,61155647835600,
+100,308,Javascript,1618454971000,3973359,KAbel,HU,58683122994198,
 100,309,Javascript,1567946817000,1210325,Scotow,US,12067616215145,
 100,309,Javascript,1567946817000,964290,madcap99,UA,1844546026764,
 100,310,Javascript,1567946817000,976635,,GB,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,516,Javascript,1567946817000,1032366,prudywsh,FR,16725555354013,
 100,516,Javascript,1607044918000,2012662,Natalka1122,ME,12834079646398,
 100,522,Javascript,1567946817000,1884709,avid,US,11624700181251,
-100,531,Javascript,1567946817000,513559,fignoline,FR,,

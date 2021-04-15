@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7399|time=2021-04-14T02:30:47
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7400|time=2021-04-15T02:40:28
 5,30.55,C++,,3312396,832306,pb4,FR,10135289026547,
 5,29.7,C++,,3332311,154984,_Royale,FR,17869369984436,
 5,29.05,C++,,3324423,735910,Agade,CH,1997542876524,
@@ -756,7 +756,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,36.58,Python3,,3312974,2484011,withnorush,US,17869273855706,
 3,36.57,TypeScript,,3310859,152913,[HD]ThomasChaf,FR,9252877621636,
 3,36.55,Python3,,3313653,3959326,FutureProgrammer,AU,54037861069470,
-3,36.54,Rust,,3323555,1603088,HyperDec,FR,19948073929165,
 3,36.54,Python3,,3450734,4187024,DooFy,CH,59109207200906,
 3,36.53,C++,,3312985,1334166,xSkyline,RO,95591782381811,
 3,36.52,C++,,3360263,4039328,KleinesAtom93,DE,52763067275141,
@@ -773,6 +772,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,36.41,Python3,,3307690,3353411,andrey-vinokurov,RU,29378066364709,
 3,36.39,C++,,3312867,2242201,Maryan,UA,33999460575859,
 3,36.39,Go,,3314908,317861,lordgun,FR,54327260871836,
+3,36.37,Rust,,3323555,1603088,HyperDec,FR,19948073929165,
 3,36.37,Python3,,3312809,3015376,gaha,PL,42551344685571,
 3,36.37,C++,,3325759,3817758,Feskir,NL,44838860170467,
 3,36.35,C#,,3308196,1811123,Fouk,FR,44106845636175,
@@ -968,8 +968,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,33.67,Javascript,,3309752,2910225,Guytan67,FR,22197098430669,
 3,33.67,C++,,3307693,1288527,Snef,FR,20716524973752,
 3,33.65,C++,,3312856,2837700,jgambard,FR,43757744411388,
+3,33.65,C++,,3441144,1772240,Wazabis,FR,16857705643268,
 3,33.65,C++,,3310301,4058391,salihfc,TR,54137006194451,
-3,33.64,C++,,3441144,1772240,Wazabis,FR,16857705643268,
 3,33.64,C#,,3312983,2482666,Gentiltoutou,FR,17360497597283,
 3,33.6,Python3,,3310382,3603934,Sajori,,,
 3,33.53,Python3,,3307978,4050493,SophiaLegacy,FR,53460868561598,

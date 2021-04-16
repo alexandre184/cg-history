@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=266|time=2021-04-15T02:49:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=266|time=2021-04-16T04:30:05
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,36,Perl,1590887965000,1626273,markasoftware,US,8897186785162,
@@ -228,6 +228,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Perl,1612578665000,311035,leojean890,FR,42398427701382,
 100,109,Perl,1567946831000,1883289,bthalheim,US,,
 100,110,Perl,1567946831000,1490982,PaleBlueZebra,CA,,
+100,110,Perl,1618547405000,2290633,field3,JP,75961127697737,
 100,113,Perl,1567946831000,2526322,fhemsworth,FR,18419958954748,
 100,116,Perl,1567946831000,1319964,Han_V,CH,5044864017527,
 100,117,Perl,1567946831000,257832,BlaiseEbuth,,,
@@ -248,7 +249,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,152,Perl,1604025051000,3305510,TBali,HU,26750785092441,
 100,184,Perl,1567946831000,155920,t2_cyborg,FR,83452360805525,
 100,194,Perl,1567946831000,1544587,explodasaurus,US,,
-100,197,Perl,1567946831000,2290633,field3,JP,75961127697737,
 100,204,Perl,1567946831000,891648,boechiel,FR,2321504736034,
 100,207,Perl,1589767509000,1383054,Oxame,FR,42663626283860,
 100,215,Perl,1567946831000,1029602,Potemkine,FR,3592202416352,

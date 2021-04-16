@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=3604|time=2021-04-15T02:49:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=3607|time=2021-04-16T04:29:41
 100,2509,C++,1567946812000,1327028,FredericBautista,FR,9974192266436,
 100,2507,Bash,1567946812000,154372,Plopx,FR,7959085736890,
 100,2504,C#,1572482927000,1249786,Fededevi,IT,,
@@ -170,6 +170,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2265,C#,1567946812000,919264,Cyril_Jo,FR,,
 100,2265,C#,1580345001000,1606614,Wazaa,FR,10236303768789,
 100,2265,C++,1605062542000,4051110,nan0S___,PL,53421981008748,
+100,2264,C++,1618547381000,4072753,mdstoy,JP,54294744903755,
 100,2262,C,1567946812000,2003902,mploux,FR,57817861127951,
 100,2260,Python3,1567946812000,631323,herve056,FR,11494731136934,
 100,2257,C++,1570324668000,3508811,MisterGuy,GB,,
@@ -205,7 +206,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2229,C++,1567946812000,1497552,clemclem,BE,5233735633681,
 100,2227,PHP,1614482073000,4095128,Voltmachine,BG,56919066754571,
 100,2226,Python3,1613184908000,4081634,Wontonimo,CA,54970169109216,
-100,2226,C++,1614825053000,4072753,mdstoy,JP,54294744903755,
 100,2225,C++,1592270205000,3703510,TheStrojnik,SI,,
 100,2223,C++,1567946812000,3422454,GDYendell,GB,,
 100,2223,Ruby,1567946812000,1005061,drac,SE,2014585116987,

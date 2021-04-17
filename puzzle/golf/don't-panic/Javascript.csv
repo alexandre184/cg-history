@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1261|time=2021-04-16T04:29:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1263|time=2021-04-17T03:01:38
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -151,6 +151,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,128,Javascript,1595983742000,490588,Uljahn,RU,23956705948685,
 100,128,Javascript,1607822417000,4011783,sylbouns,FR,51693040520151,
 100,128,Javascript,1608945286000,3647844,rc95401,US,39486169555819,
+100,128,Javascript,1618628498000,1179950,Patorikkuyatta,FR,94806006573123,
 100,129,Javascript,1567946817000,1142999,Topcina,BA,3333128432444,
 100,129,Javascript,1567946817000,938374,UnmanagedCode,NL,12229437989878,
 100,129,Javascript,1567946817000,1068877,[CPC]Tamno,FR,2254398342499,
@@ -438,6 +439,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,185,Javascript,1567946817000,155723,gfauchart,GB,22030522492096,
 100,185,Javascript,1567946817000,1199533,russellJones,GB,3623323422913,
 100,185,Javascript,1603938994000,2708267,XyoloJR,FR,52279543518143,
+100,185,Javascript,1618628498000,4275624,UnknownException,CA,,
 100,186,Javascript,1567946817000,1049237,darkman,RS,2207549076230,
 100,186,Javascript,1567946817000,1181768,dio_O,BR,9247621527483,
 100,186,Javascript,1567946817000,1334917,lowlighter,FR,29644824263001,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,500,Javascript,1571273977000,1068089,83r53rk_133k,FR,2212876549852,
 100,513,Javascript,1567946817000,1519311,Doran,SK,82529023491718,
 100,515,Javascript,1595464473000,3903970,Avatar_Wan,IN,46886124056178,
-100,516,Javascript,1567946817000,939499,Captain_Jack,FR,1760362784349,
-100,516,Javascript,1567946817000,1032366,prudywsh,FR,16725555354013,

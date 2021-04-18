@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1263|time=2021-04-17T03:01:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1263|time=2021-04-18T03:12:48
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -186,7 +186,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,137,Javascript,1567946817000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
-100,137,Javascript,1610245848000,2998967,K-Gilde,FR,62190109872577,
+100,137,Javascript,1610245848000,2998967,Gilde,FR,62190109872577,
 100,138,Javascript,1567946817000,2386059,Alphik,CY,18409237128382,
 100,138,Javascript,1583957390000,1353795,TheCrucial,PL,18581166493021,
 100,138,Javascript,1594258239000,3808031,_proton,US,44172683522650,
@@ -310,6 +310,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,165,Javascript,1567946817000,936609,dja,FR,1758019632012,
 100,165,Javascript,1573000222000,1383959,ebriand,FR,4078625698623,
 100,165,Javascript,1590626087000,154806,piwai,FR,1956863959967,
+100,165,Javascript,1618715568000,4275624,UnknownException,CA,,
 100,166,Javascript,1580430626000,1645228,mnahkies,NZ,10476884301264,
 100,167,Javascript,1567946817000,1656351,Castosaurus,YT,21643540184535,
 100,167,Javascript,1567946817000,1441239,Dyd,IT,71707560017158,
@@ -439,7 +440,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,185,Javascript,1567946817000,155723,gfauchart,GB,22030522492096,
 100,185,Javascript,1567946817000,1199533,russellJones,GB,3623323422913,
 100,185,Javascript,1603938994000,2708267,XyoloJR,FR,52279543518143,
-100,185,Javascript,1618628498000,4275624,UnknownException,CA,,
 100,186,Javascript,1567946817000,1049237,darkman,RS,2207549076230,
 100,186,Javascript,1567946817000,1181768,dio_O,BR,9247621527483,
 100,186,Javascript,1567946817000,1334917,lowlighter,FR,29644824263001,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3918|time=2021-04-17T03:01:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3920|time=2021-04-18T03:12:52
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -230,7 +230,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,112,Javascript,1598810514000,2644772,Airwaito,FR,35481509328406,
 100,112,Javascript,1600397757000,3976762,droooney,RU,,
 100,112,Javascript,1601094670000,1355842,slaghn,FR,9497958714123,
-100,112,Javascript,1611382410000,2998967,K-Gilde,FR,62190109872577,
+100,112,Javascript,1611382410000,2998967,Gilde,FR,62190109872577,
 100,112,Javascript,1616553053000,2230279,TheXeos,FR,60412386282074,
 100,113,Javascript,1567946825000,1211965,B0b,FR,,
 100,113,Javascript,1567946825000,2418857,MathiasSpanhove,BE,16745962145656,
@@ -448,6 +448,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Javascript,1611205070000,3783481,Yatech,PL,43596228434099,
 100,126,Javascript,1613616177000,4190119,Charlie2698,GT,59066642881683,
 100,126,Javascript,1613876724000,4160659,Phi-001,US,88924442605510,
+100,126,Javascript,1618715572000,4275624,UnknownException,CA,,
 100,127,Javascript,1567946825000,1579263,Antimony,CA,6421603564944,
 100,127,Javascript,1567946825000,2380259,JIo6cTep,RU,16163772419705,
 100,127,Javascript,1567946825000,1357612,Maisnborg,DE,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1606702334000,1111798,lifetimeLearner007,IN,91231063773599,
 100,155,Javascript,1613616177000,1693448,KoenduBuf,NL,65025161404567,
 100,155,Javascript,1614138708000,4168646,RaccoonWithSpork,US,59168085376989,
-100,156,Javascript,1594946584000,809683,Frogger,FR,,

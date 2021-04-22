@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1266|time=2021-04-21T04:57:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1268|time=2021-04-22T02:39:05
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -76,6 +76,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Javascript,1567946817000,1509627,puma17,IL,5549923172040,
 100,115,Javascript,1567946817000,1211531,ciaojian,IT,3126381962847,
 100,116,Javascript,1567946817000,407550,McHail,US,,
+100,116,Javascript,1619059145000,3721214,jrke,IN,68983084061211,
 100,117,Javascript,1567946817000,2043908,AntiSquid,,,
 100,117,Javascript,1567946817000,1195992,NickJammer,FR,,
 100,117,Javascript,1567946817000,1049881,TheDudeGuySomeone,PT,,
@@ -717,6 +718,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,247,Javascript,1609203924000,2419811,Valbou,FR,37231983233550,
 100,248,Javascript,1567946817000,1712706,O.M.,UA,28550884025391,
 100,248,Javascript,1567946817000,1216415,dukhanov,RU,,
+100,248,Javascript,1619059145000,4252924,mike82,PL,64505363411607,
 100,249,Javascript,1567946817000,3203702,Gturyz,FR,25448594863791,
 100,249,Javascript,1567946817000,2762653,RAAAT,FR,20523458481719,
 100,249,Javascript,1567946817000,2315411,cejonio,VE,15624450307485,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,491,Javascript,1567946817000,2742674,JacobGreenslade,GB,20297969658214,
 100,497,Javascript,1567946817000,2146462,Kronos062,FR,14058683948404,
 100,497,Javascript,1567946817000,938156,Roman460,CZ,1757166467833,
-100,499,Javascript,1567946817000,1042244,ToTo,FR,2129670311203,
-100,500,Javascript,1567946817000,809484,VisionElf,FR,20061606098737,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9042|time=2021-04-21T04:57:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9046|time=2021-04-22T02:39:06
 100,56,C,1616296036000,3845610,pardouin,FR,60364063762936,
 100,56,ObjectiveC,1616380774000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -259,6 +259,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1591144988000,940791,Kris117,FR,16280535626899,
 100,105,Javascript,1603077430000,1515891,ndc,RU,57247748477088,
 100,105,C,1616296036000,4095128,Voltmachine,BG,56919066754571,
+100,105,Python3,1619059142000,4110073,souta_1326,JP,57746784258907,
 100,106,Javascript,1567946817000,2084583,,SG,,
 100,106,Python3,1567946818000,553938,MagAlex,RU,3292063463360,
 100,106,ObjectiveC,1567946819000,1629259,Marchete,ES,61997162908277,
@@ -272,7 +273,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,TypeScript,1586138427000,1845617,Shingyx,AU,26010702723839,
 100,107,Ruby,1605227944000,3982709,lukasjapan,JP,51562467085693,
 100,107,TypeScript,1614997856000,4166845,HugeMissedSteak,NL,59373221969418,
-100,107,Python3,1618981078000,4110073,souta_1326,JP,57746784258907,
 100,108,C,1567946816000,1853956,yoannk,FR,108956788280248,
 100,108,Javascript,1567946817000,1675034,francois,FR,15464459859531,
 100,108,Javascript,1567946817000,513549,y0p,FR,,
@@ -362,6 +362,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Lua,1600483610000,3354337,Westicles,CX,79146641399080,
 100,116,PHP,1608083733000,1848459,Velcoro,CZ,48538649860014,
 100,116,Python3,1614738635000,3647844,rc95401,US,39486169555819,
+100,116,Javascript,1619059145000,3721214,jrke,IN,68983084061211,
 100,117,Javascript,1567946817000,2043908,AntiSquid,,,
 100,117,Javascript,1567946817000,1195992,NickJammer,FR,,
 100,117,Javascript,1567946817000,1049881,TheDudeGuySomeone,PT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,165,Javascript,1573000222000,1383959,ebriand,FR,4078625698623,
 100,165,C,1586307005000,3722889,Lafytt,ID,,
 100,165,TypeScript,1590108760000,2438514,davi_bart,IT,16905477283014,
-100,165,Javascript,1590626087000,154806,piwai,FR,1956863959967,

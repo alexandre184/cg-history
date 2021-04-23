@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=100|time=2021-04-22T02:39:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=100|time=2021-04-23T02:40:21
 100,121,Rust,1617158170000,1654818,tarapitha,EE,79401682508715,
 100,148,Rust,1595637197000,1483723,d-s-x,RU,4980051025170,
 100,152,Rust,1584355741000,709490,Sinlepuissant,FR,2102604527472,
@@ -31,6 +31,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,428,Rust,1601866234000,3308199,ChadThundercode,RU,26870541968187,
 100,429,Rust,1567946821000,996696,XO-Splicer,DE,1972462911848,
 100,433,Rust,1611890678000,3677175,ToadLump,US,57598169196097,
+100,435,Rust,1619145621000,2290633,field3,JP,75961127697737,
 100,443,Rust,1567946821000,1689362,TaylorSwift,FR,11169375377722,
 100,449,Rust,1610772685000,3305510,TBali,HU,26750785092441,
 100,451,Rust,1567946821000,1740037,ereiam,FR,12669494111004,
@@ -38,7 +39,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,457,Rust,1567946821000,3325474,Bobbadillio,US,53857963585019,
 100,461,Rust,1567946821000,1532100,imperio,FR,,
 100,464,Rust,1612414253000,1754295,SF,US,9886764510417,
-100,470,Rust,1595205035000,2290633,field3,JP,75961127697737,
 100,478,Rust,1588816812000,3800501,wescande,FR,54236487598844,
 100,485,Rust,1596415473000,862919,Astrobytes,GB,60413902297900,
 100,492,Rust,1567946821000,2870113,Reeeeeeeee,DE,29430122930956,

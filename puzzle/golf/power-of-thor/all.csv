@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29031|time=2021-04-22T02:39:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29050|time=2021-04-23T02:40:23
 100,45,Ruby,1596760232000,3845610,pardouin,FR,60364063762936,
 100,46,Perl,1595464478000,1483723,d-s-x,RU,4980051025170,
 100,47,C,1616035423000,3845610,pardouin,FR,60364063762936,
@@ -109,6 +109,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Ruby,1605753247000,1848459,Velcoro,CZ,48538649860014,
 100,82,PHP,1608083740000,1848459,Velcoro,CZ,48538649860014,
 100,82,Python3,1614911446000,806416,awnion,RS,59791745647170,
+100,82,Python3,1619145622000,1179950,Patorikkuyatta,FR,94806006573123,
 100,83,Ruby,1567946826000,2021126,FPSCUBE,FR,12916810121106,
 100,83,Python3,1593737159000,3663409,giosds,IT,,
 100,83,ObjectiveC,1597192272000,1436776,BrainSolver,FR,10099178983053,
@@ -369,6 +370,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Javascript,1612147798000,3421059,Threenplusone,AU,31653244193472,
 100,98,TypeScript,1615084990000,3918583,mikmak,FR,48134583112917,
 100,98,Perl,1616641263000,4095128,Voltmachine,BG,56919066754571,
+100,98,Javascript,1619145624000,1179950,Patorikkuyatta,FR,94806006573123,
 100,99,Bash,1567946822000,1740037,ereiam,FR,12669494111004,
 100,99,Ruby,1579221113000,154996,shashwat986,IN,39427621192030,
 100,99,Javascript,1595032234000,3808031,_proton,US,44172683522650,
@@ -750,7 +752,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1616035422000,311035,leojean890,FR,42398427701382,
 100,109,PHP,1616468012000,4095128,Voltmachine,BG,56919066754571,
 100,109,Python3,1616468013000,4086233,qwertz73355a,CH,,
-100,109,Javascript,1618547399000,1179950,Patorikkuyatta,FR,94806006573123,
 100,110,Bash,1567946822000,366305,Mgayar,EG,5691231749425,
 100,110,Javascript,1567946825000,2050543,Cherubael,DK,13150128776541,
 100,110,Javascript,1567946825000,2471054,Goldcott,BE,24540565061023,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,114,Javascript,1567946825000,964290,madcap99,UA,1844546026764,
 100,114,Javascript,1567946825000,3332506,mle-moni,FR,54261507719745,
 100,114,Javascript,1567946825000,1889170,mvujas,RS,,
-100,114,Python3,1567946825000,1097422,David_5.1,FR,,

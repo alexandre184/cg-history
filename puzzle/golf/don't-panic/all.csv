@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9049|time=2021-04-23T02:40:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9054|time=2021-04-24T03:08:57
 100,56,C,1616296036000,3845610,pardouin,FR,60364063762936,
 100,56,ObjectiveC,1616380774000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -622,6 +622,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Javascript,1587259062000,2837454,Inc_,DE,22024624258996,
 100,136,Javascript,1594258239000,3774500,zakariamouhid,MA,46244702989556,
 100,136,Bash,1605574795000,4011783,sylbouns,FR,51693040520151,
+100,136,Bash,1619233737000,1179950,Patorikkuyatta,FR,94806006573123,
 100,137,Javascript,1567946817000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
@@ -916,6 +917,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Python3,1612578653000,4037601,Jelafo,DE,,
 100,160,Python3,1613529141000,3998980,bamax,FR,55292626245560,
 100,160,Javascript,1615689144000,2916446,Imsure1200q,PH,45527340374232,
+100,160,Python3,1619233736000,4199011,MarTiaNe,GE,60356707757448,
 100,161,Javascript,1567946817000,1692362,IRobot,BG,8793951079706,
 100,161,Javascript,1567946817000,566573,Matj,FR,2513895785064,
 100,161,Javascript,1567946817000,1408492,Ptit-g,FR,4317392237915,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,165,Python3,1567946818000,2555066,dyc3,US,25499900954838,
 100,165,Python3,1567946818000,389632,ma,DE,4401140998452,
 100,165,Python3,1567946818000,1638833,patrickk,NL,,
-100,165,Ruby,1567946820000,1555765,DewJunkie,US,8729317793732,
-100,165,Javascript,1573000222000,1383959,ebriand,FR,4078625698623,

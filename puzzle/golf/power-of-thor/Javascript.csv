@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3947|time=2021-05-02T04:51:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3950|time=2021-05-03T03:01:53
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -20,7 +20,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,95,Javascript,1606878444000,3918583,mikmak,FR,48134583112917,
 100,95,Javascript,1607393935000,1348600,erodataM,FR,15560295582514,
 100,95,Javascript,1619665333000,814685,AthosPyte,NO,5617445240242,
-100,97,Javascript,1616812241000,4156154,issogood,CH,59814183471795,
+100,95,Javascript,1620010913000,4156154,issogood,CH,59814183471795,
 100,98,Javascript,1596760236000,155774,dwarfie,FR,17785582865119,
 100,98,Javascript,1612147798000,3421059,Threenplusone,AU,31653244193472,
 100,98,Javascript,1619145624000,1179950,Patorikkuyatta,FR,94806006573123,
@@ -832,6 +832,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Javascript,1609203929000,1845235,N2R,FR,,
 100,146,Javascript,1614311723000,4007298,ShadiestEwe,GB,,
 100,146,Javascript,1618115972000,981878,nicolasD,FR,22576267267565,
+100,146,Javascript,1620010913000,3335896,_martynas,LT,92914406769053,
 100,147,Javascript,1594946584000,199711,Apolo,FR,2301349496065,
 100,147,Javascript,1594946584000,630050,Chulepa,DE,3648993972565,
 100,147,Javascript,1594946584000,3531488,Dryadim,FR,35488801936304,
@@ -993,7 +994,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1594946584000,1326434,SimooVanov,BG,9265068276981,
 100,155,Javascript,1594946584000,1158068,SylvainFourny,FR,,
 100,155,Javascript,1594946584000,389000,WasaStar,GB,2615693807304,
-100,155,Javascript,1594946584000,1775115,constantv,CA,15696908344080,
 100,155,Javascript,1594946584000,1728074,dkb,FI,,
 100,155,Javascript,1594946584000,388604,ekanS,FR,,
 100,155,Javascript,1594946584000,1432947,empathy87,RU,,

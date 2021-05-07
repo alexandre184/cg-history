@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=631|time=2021-05-06T04:44:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=632|time=2021-05-07T04:33:26
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -83,6 +83,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,142,Javascript,1611119615000,1688826,statox,FR,8974250883551,
 100,142,Javascript,1613012371000,1330431,TzeKin,SG,68707161253272,
 100,142,Javascript,1619495558000,3847872,psychedelic68,FR,45599449537807,
+100,142,Javascript,1620362006000,4285437,t3st1,SE,,
 100,143,Javascript,1567946837000,1534317,Zwloki,PL,5841199758813,
 100,143,Javascript,1568248245000,3430435,DocteurWong,FR,34776645119766,
 100,143,Javascript,1569285045000,1923902,gkalpak,GR,33993501409918,
@@ -125,6 +126,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Javascript,1603507647000,3752460,goeyj,US,45838922834630,
 100,149,Javascript,1609203940000,4119552,cazka,DE,56438384178223,
 100,149,Javascript,1613184936000,4178284,andrei0x309,US,,
+100,149,Javascript,1620362006000,1179950,Patorikkuyatta,FR,94806006573123,
 100,150,Javascript,1574042140000,2452543,Maznek,FR,19088417820828,
 100,150,Javascript,1581294644000,3660819,BloodyTurtles,US,39803283840838,
 100,150,Javascript,1586138445000,1751832,buikikaesu,RU,24659390839366,
@@ -184,7 +186,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,157,Javascript,1590713147000,154806,piwai,FR,1956863959967,
 100,157,Javascript,1591921847000,3569691,KndrSrprizzz,FR,46021287537442,
 100,157,Javascript,1615343644000,3970263,VasanthanPT,IN,60068927898784,
-100,157,Javascript,1620101796000,4285437,t3st1,SE,,
 100,158,Javascript,1567946837000,2786666,TetraktysPhi,FR,20818693590142,
 100,158,Javascript,1580430645000,3407364,personAlex,BY,33008880931371,
 100,158,Javascript,1600483627000,3354337,Westicles,CX,79146641399080,

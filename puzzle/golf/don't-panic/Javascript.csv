@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1283|time=2021-05-09T02:56:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1284|time=2021-05-10T02:32:53
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -36,7 +36,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1607995141000,2923506,darkhorse64,FR,23496414257567,
 100,101,Javascript,1615604494000,3298988,PotatoCoder,FI,101491804514502,
 100,101,Javascript,1617245637000,4060994,3030,FI,,
-100,102,Javascript,1620529016000,1003752,Skayo,AT,60612660937974,
+100,101,Javascript,1620613973000,1003752,Skayo,AT,60612660937974,
 100,103,Javascript,1567946817000,1759335,metahom,AE,40546489176319,
 100,103,Javascript,1612924245000,2928146,LolCat,MU,22538133010433,
 100,104,Javascript,1567946817000,1026791,Alfalfamale,NL,7144185210937,
@@ -421,6 +421,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,181,Javascript,1567946817000,1072328,soba,UA,,
 100,181,Javascript,1567946817000,2069141,tomeko,PL,13370027887052,
 100,181,Javascript,1572828108000,3380514,DFrese,DE,30555045908186,
+100,181,Javascript,1620613973000,3965752,SpiderSeb,FR,57959420643587,
 100,182,Javascript,1567946817000,630050,Chulepa,DE,3648993972565,
 100,182,Javascript,1567946817000,1414873,Volcomix,FR,9274241205710,
 100,182,Javascript,1567946817000,1275607,ghitier,FR,18434835896752,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,446,Javascript,1567946817000,699115,sjozsef,HU,44342600729906,
 100,450,Javascript,1567946817000,175533,zarsky,UA,3821166929444,
 100,452,Javascript,1604797969000,3305510,TBali,HU,26750785092441,
-100,453,Javascript,1567946817000,1704616,Faktoreal,RU,9000530273672,

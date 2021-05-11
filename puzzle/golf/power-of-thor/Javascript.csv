@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3963|time=2021-05-10T02:33:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3964|time=2021-05-11T02:45:21
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -220,6 +220,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Javascript,1611119603000,3647844,rc95401,US,39486169555819,
 100,111,Javascript,1615516531000,3752460,goeyj,US,45838922834630,
 100,111,Javascript,1618628500000,4122400,yukulele,FR,103367021074089,
+100,111,Javascript,1620701121000,2371389,Franta,CZ,16642908084028,
 100,112,Javascript,1567946825000,1229859,DiegoMGar,ES,85579105162380,
 100,112,Javascript,1567946825000,1386529,Gortax,PL,8207245226624,
 100,112,Javascript,1567946825000,1061482,Ph470u,FR,64062648057012,
@@ -377,6 +378,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Javascript,1598810514000,3855753,tuan91,SG,82558900731482,
 100,121,Javascript,1605664492000,1624708,lifran,US,54053746330759,
 100,121,Javascript,1618890345000,1406822,JBeen,UA,20440902196127,
+100,121,Javascript,1620701121000,3645174,Oscarglo,FR,39421402504435,
 100,122,Javascript,1567946825000,1047454,Kiloapt,PT,,
 100,122,Javascript,1567946825000,1485462,LamSonFei,FR,4992683759913,
 100,122,Javascript,1567946825000,157377,McKelian,FR,63490429201814,
@@ -994,8 +996,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1594946584000,1186007,PeterParnes,SE,5277591771372,
 100,155,Javascript,1594946584000,1326434,SimooVanov,BG,9265068276981,
 100,155,Javascript,1594946584000,1158068,SylvainFourny,FR,,
-100,155,Javascript,1594946584000,1728074,dkb,FI,,
 100,155,Javascript,1594946584000,388604,ekanS,FR,,
 100,155,Javascript,1594946584000,1432947,empathy87,RU,,
 100,155,Javascript,1594946584000,1475038,koc,BG,,
-100,155,Javascript,1594946584000,1140027,theBee,CZ,10678217899980,

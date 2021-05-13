@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1683|time=2021-05-12T03:01:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1685|time=2021-05-13T03:09:25
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
 100,75,Python3,1600483627000,2288263,dbdr,UA,43448306132121,
@@ -92,6 +92,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Python3,1574042138000,3436443,Mazelcop,FR,32793283199584,
 100,108,Python3,1585788275000,3727174,Crazy_Remi,FR,42091389678583,
 100,108,Python3,1610598670000,3524000,depthzer0,RU,35297063516556,
+100,108,Python3,1620875365000,3999695,ShaxoLudo,FR,107626168988312,
 100,109,Python3,1567946837000,2669104,KBurov,US,19292152791924,
 100,109,Python3,1567946837000,1473017,justhalf,SG,5020626234049,
 100,109,Python3,1570324697000,1520032,Hydrophob,DE,,
@@ -922,6 +923,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,182,Python3,1610772699000,3091791,DaniilChizhesvkij,RU,77344662575435,
 100,182,Python3,1613703181000,299716,Intuiste,BM,8327567004229,
 100,182,Python3,1618628517000,4134943,vinc-r,FR,57340707535268,
+100,182,Python3,1620875365000,321209,ikkebr,BR,2269363834005,
 100,183,Python3,1567946837000,2533793,frosqh,FR,18067034410293,
 100,183,Python3,1587777076000,2577929,Drazyen,FR,41780423246925,
 100,183,Python3,1588726382000,2310861,Ilovepie,CA,34825369392996,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,193,Python3,1582332477000,1795128,e.kram,CA,35932920366882,
 100,193,Python3,1603507646000,1335230,jft63,FR,24907820247515,
 100,193,Python3,1604284327000,165671,cyppan,FR,64028666285629,
-100,193,Python3,1605753259000,4039524,Shifter_pro,FR,53868303169985,
-100,193,Python3,1615604512000,4228968,fyrebrand,AE,,

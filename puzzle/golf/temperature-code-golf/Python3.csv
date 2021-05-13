@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4827|time=2021-05-12T03:01:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4832|time=2021-05-13T03:08:37
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,57,Python3,1613443648000,3483490,rak1507,GB,,
@@ -95,6 +95,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,66,Python3,1619408303000,1939915,Fanfoue,JP,,
 100,66,Python3,1620010922000,3919068,14598366,FR,54333787971719,
 100,66,Python3,1620101788000,4026557,azriel1rf,JP,71508687029103,
+100,66,Python3,1620875317000,2671038,1one,RU,19327450927528,
 100,67,Python3,1567946832000,1312473,StealthEye,NL,,
 100,67,Python3,1595464485000,2942240,John404,FR,22625480043076,
 100,67,Python3,1595983759000,1808211,Zjarr,CH,29680669400909,
@@ -288,7 +289,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,69,Python3,1617071450000,1763706,asterius,PL,,
 100,69,Python3,1618806651000,1519989,a5kin,RU,5511054769141,
 100,69,Python3,1619321193000,3657275,jujurocking,FR,,
-100,70,Python3,1567946832000,2671038,1one,RU,19327450927528,
 100,70,Python3,1567946832000,868896,Arn,BE,19508493305134,
 100,70,Python3,1567946832000,3047355,ArtyMaury,FR,44066043404736,
 100,70,Python3,1567946832000,233734,Delgan,FR,2425294393314,
@@ -770,6 +770,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1614997873000,153119,loick,FR,1719001703601,
 100,76,Python3,1620448261000,1588583,dANNs,GB,9401676737311,
 100,76,Python3,1620788468000,321209,ikkebr,BR,2269363834005,
+100,76,Python3,1620875317000,4185673,GeorgiD,BG,,
 100,77,Python3,1567946832000,1329079,Aengus,CH,9983363899985,
 100,77,Python3,1567946832000,2045063,DaanP,GB,,
 100,77,Python3,1567946832000,1684066,Dade,IL,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Python3,1614652489000,3980597,Kraizix,FR,,
 100,80,Python3,1616641276000,3846244,JLukeSkywalker,US,46282060365828,
 100,80,Python3,1616725846000,1649061,Astropilot,FR,60631124730306,
-100,80,Python3,1618890348000,4283797,neihousaigaai,VN,,

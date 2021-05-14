@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2387|time=2021-05-13T03:09:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2388|time=2021-05-14T03:25:32
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -838,6 +838,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1592527274000,3820903,HexaDonut,US,44685727284033,
 100,105,Javascript,1597020336000,1282856,ErikBrendel,DE,41207148765120,
 100,105,Javascript,1606180769000,958227,LantarSidonis,FR,23940037830772,
+100,105,Javascript,1620962732000,4300969,thomasgonda3,US,63048681225268,
 100,106,Javascript,1567946828000,1250571,ChrisJeamme,FR,44090843307907,
 100,106,Javascript,1567946828000,1706784,Garryton,FR,,
 100,106,Javascript,1567946828000,1386529,Gortax,PL,8207245226624,
@@ -853,7 +854,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,Javascript,1569458162000,3463334,MonsieurTa,FR,,
 100,107,Javascript,1579399367000,957775,Sutat,FR,39056485466494,
 100,107,Javascript,1601353881000,1390789,Matthieu.L,FR,36482342568862,
-100,107,Javascript,1620875347000,4300969,thomasgonda3,US,63048681225268,
 100,108,Javascript,1567946828000,1955780,HiDoc,FR,93392206642419,
 100,108,Javascript,1567946828000,1949689,NineSun-Minus,DE,27381503354488,
 100,108,Javascript,1567946828000,1760206,Vepok,CA,14294014212145,
@@ -947,7 +947,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,115,Javascript,1567946828000,1036455,UMOPOMRACHITELQ,BG,,
 100,115,Javascript,1567946828000,1578986,fpoppinga,DE,,
 100,115,Javascript,1567946828000,1634195,k.ab,ID,13042180236760,
-100,115,Javascript,1606878451000,199887,sanpas83,FR,75068025487655,
+100,115,Javascript,1606878451000,199887,Sanpas,FR,75068025487655,
 100,116,Javascript,1567946828000,3389343,Judhyr,FR,31482164310375,
 100,116,Javascript,1567946828000,1429219,MikeTR2000,US,35075668152594,
 100,116,Javascript,1567946828000,1756347,Tonioyoyo,FR,10177160871686,

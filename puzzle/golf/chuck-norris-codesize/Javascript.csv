@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=642|time=2021-05-13T03:09:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=642|time=2021-05-14T03:26:05
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -207,6 +207,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Javascript,1588903194000,3622757,anid,,,
 100,160,Javascript,1593305188000,3774500,zakariamouhid,MA,46244702989556,
 100,160,Javascript,1604206731000,3817970,RossMcMillan,GB,,
+100,160,Javascript,1620962765000,4300969,thomasgonda3,US,63048681225268,
 100,161,Javascript,1567946837000,1328758,GottZ,DE,3811962815765,
 100,161,Javascript,1592182476000,1198181,lapostoj,,,
 100,161,Javascript,1598142646000,224325,TidyMaze,FR,2654133392410,
@@ -273,6 +274,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,173,Javascript,1567946837000,2525899,ClemDz,FR,28175200830632,
 100,173,Javascript,1571704870000,2897325,CAEZAR,FR,22044095600520,
 100,173,Javascript,1611632871000,155881,Hevey,CH,104405127658237,
+100,173,Javascript,1620962765000,2371389,Franta,CZ,16642908084028,
 100,174,Javascript,1567946837000,3187336,C6PO,FR,25489077903191,
 100,174,Javascript,1567946837000,2242201,Maryan,UA,33999460575859,
 100,174,Javascript,1567946837000,3035808,PinpinLeLapin,FR,23953753038336,
@@ -383,10 +385,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,207,Javascript,1597365048000,3909948,thenchained,IN,47182386842122,
 100,207,Javascript,1615429855000,3565821,Mihidari,FR,55506328326733,
 100,207,Javascript,1616812255000,4230660,uam_killer,MX,,
-100,207,Javascript,1620875369000,2371389,Franta,CZ,16642908084028,
 100,208,Javascript,1567946837000,1949657,yannd,FR,31364485254790,
 100,208,Javascript,1618194893000,3993179,17steen,BE,51020246258415,
-100,208,Javascript,1620875369000,4300969,thomasgonda3,US,63048681225268,
 100,209,Javascript,1576027228000,3005622,tuomatz,FI,29245506856691,
 100,210,Javascript,1604797980000,1984345,CedricHerzog,FR,35678327855863,
 100,210,Javascript,1609289629000,3775049,CyrusTheCurator,US,52541786633881,

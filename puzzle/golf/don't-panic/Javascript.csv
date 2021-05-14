@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1287|time=2021-05-13T03:07:00
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1287|time=2021-05-14T03:23:32
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -91,6 +91,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Javascript,1567946817000,935802,Jerhyn,FR,109463964266798,
 100,120,Javascript,1610944262000,3546420,ZackGabri,TD,35924043313662,
 100,120,Javascript,1619495422000,3847872,psychedelic68,FR,45599449537807,
+100,120,Javascript,1620962612000,4300969,thomasgonda3,US,63048681225268,
 100,121,Javascript,1567946817000,1383636,atsikov,LV,8154551476699,
 100,121,Javascript,1590799159000,1701936,Chatterton,FR,9000293426040,
 100,121,Javascript,1613962181000,762642,Wonyoung,KR,4963742317694,
@@ -98,7 +99,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Javascript,1567946817000,1290799,froyer,FR,3533893014839,
 100,122,Javascript,1580345011000,3162821,Discourage,RU,38928080534385,
 100,122,Javascript,1616899831000,1019883,Pedromdrp,PT,2315578082196,
-100,122,Javascript,1620448248000,4300969,thomasgonda3,US,63048681225268,
 100,123,Javascript,1567946817000,1245243,Clement134,FR,4593373580939,
 100,123,Javascript,1567946817000,1861852,Cramer,DE,13289802969874,
 100,123,Javascript,1567946817000,1388660,Maeevick,FR,72284526964436,
@@ -834,7 +834,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,300,Javascript,1567946817000,532706,MaximKarpinskiy,RU,13044187532888,
 100,300,Javascript,1567946817000,556254,Yoann,FR,,
 100,300,Javascript,1581641176000,323895,HannesRammer,DE,8056200862286,
-100,300,Javascript,1607477440000,199887,sanpas83,FR,75068025487655,
+100,300,Javascript,1607477440000,199887,Sanpas,FR,75068025487655,
 100,301,Javascript,1567946817000,1538896,Suraklin,CA,5909744820249,
 100,302,Javascript,1567946817000,999109,otacke,DE,1993259866838,
 100,302,Javascript,1567946817000,591238,wolfnether,FR,,

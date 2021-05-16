@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9190|time=2021-05-15T06:33:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9197|time=2021-05-16T04:34:25
 100,56,C,1616296036000,3845610,pardouin,FR,60364063762936,
 100,56,ObjectiveC,1616380774000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -360,6 +360,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,115,Groovy,1602469952000,1515891,ndc,RU,57247748477088,
 100,115,TypeScript,1603077429000,1515891,ndc,RU,57247748477088,
 100,115,Python3,1619321126000,4199011,MarTiaNe,GE,60356707757448,
+100,115,Python3,1621139668000,3362964,a314,FR,29420685530427,
 100,116,Pascal,1567946816000,1629259,Marchete,ES,61997162908277,
 100,116,Javascript,1567946817000,407550,McHail,US,,
 100,116,Groovy,1567946820000,553938,MagAlex,RU,3292063463360,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,164,C,1567946816000,1272564,Raspberry4all,FR,,
 100,164,Python3,1567946818000,1193679,Icebox,DE,28987786895120,
 100,164,Python3,1567946818000,1378506,MattGately,US,,
-100,164,Python3,1567946818000,879928,Vinze7,FR,,

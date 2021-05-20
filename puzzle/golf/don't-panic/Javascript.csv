@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1293|time=2021-05-19T02:33:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1294|time=2021-05-20T03:05:13
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -289,6 +289,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Javascript,1567946817000,314027,CrazyTuna,NZ,2474116480252,
 100,159,Javascript,1567946817000,1809405,Ginkyu,BR,,
 100,159,Javascript,1567946817000,1202933,NullOps,AU,13683198089751,
+100,159,Javascript,1621479913000,2589340,Zource,NL,,
 100,160,Javascript,1582505933000,717196,NWDD,ES,,
 100,160,Javascript,1600919078000,1396761,RyMe,FR,14810807945145,
 100,160,Javascript,1601697586000,2644772,Airwaito,FR,35481509328406,
@@ -297,7 +298,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1567946817000,566573,Matj,FR,2513895785064,
 100,161,Javascript,1567946817000,1408492,Ptit-g,FR,4317392237915,
 100,161,Javascript,1567946817000,664646,asteriskman,US,7574747425019,
-100,161,Javascript,1618806638000,2589340,Zource,NL,,
 100,162,Javascript,1567946817000,1012619,HenJi,FR,,
 100,162,Javascript,1567946817000,1158405,KolbasniyVeter,RU,12152414905102,
 100,162,Javascript,1609555251000,2135916,Oioi,FR,20262005724221,
@@ -521,6 +521,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,195,Javascript,1599878373000,3965076,Hecatolith,FR,,
 100,195,Javascript,1599878373000,3954613,kellda,CH,,
 100,195,Javascript,1604119360000,3957413,Rk_,FR,49589447652283,
+100,195,Javascript,1621479913000,4333899,Rahcid,MA,64294200000829,
 100,196,Javascript,1567946817000,3336923,XelX,DE,,
 100,196,Javascript,1567946817000,1169499,naab,FR,21217854473439,
 100,196,Javascript,1596155432000,1627246,katutaistelija,FI,7347457369867,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,423,Javascript,1567946817000,1144810,Shankscript,IN,2666058213563,
 100,428,Javascript,1567946817000,994344,Momopouccino,FR,1989352055938,
 100,428,Javascript,1600919078000,3659917,Fa_Hae,DE,50954062333126,
-100,431,Javascript,1603593227000,4018751,thibaud_at,FR,,

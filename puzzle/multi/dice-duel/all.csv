@@ -1,9 +1,11 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8|time=2021-05-20T00:30:04
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=10|time=2021-05-21T00:30:14
 1,38.95,C,,3673377,2924895,trictrac,FR,23056996012330,
 1,33.9,C#,,3673914,1500515,eulerscheZahl,DE,43135502422075,
 1,25.88,Java,,3677146,3525167,fgsdt,ES,45694548031394,
 1,19.53,Python3,,3672546,2290633,field3,JP,75961127697737,
-0,12.65,C++,,3672552,3136787,jacek,PL,75369242083208,
-0,1.46,VB.NET,,3675906,2043908,AntiSquid,,,
-0,0.48,Javascript,,3674788,3354337,Westicles,CX,79146641399080,
-0,-1.61,Perl,,3675049,2325449,otpv,CA,36646766447960,
+0,13.45,C++,,3672552,3136787,jacek,PL,75369242083208,
+0,2.95,Bash,,3677590,3569066,derjack,MC,64869146225502,
+0,2.4,VB.NET,,3675906,2043908,AntiSquid,,,
+0,2.12,C++,,3677365,354788,Lexer31,FR,60198468830213,
+0,2.04,Javascript,,3674788,3354337,Westicles,CX,79146641399080,
+0,-1.2,Perl,,3675049,2325449,otpv,CA,36646766447960,

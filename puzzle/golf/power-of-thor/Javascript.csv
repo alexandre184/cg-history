@@ -1,10 +1,11 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3991|time=2021-05-21T02:34:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3992|time=2021-05-22T02:35:34
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
 100,75,Javascript,1596242448000,1436776,BrainSolver,FR,10099178983053,
 100,79,Javascript,1595032234000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,81,Javascript,1607477443000,1675034,francois,FR,15464459859531,
+100,83,Javascript,1621650934000,3700629,serialgg,FR,41086567019728,
 100,85,Javascript,1596099788000,3896228,Boruwaka,FR,46695808602989,
 100,85,Javascript,1596099788000,978875,sokki,DE,47220967041687,
 100,87,Javascript,1604206721000,2910225,Guytan67,FR,22197098430669,
@@ -337,6 +338,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,118,Javascript,1615172774000,1129777,Velvacaine,CA,59727663468173,
 100,118,Javascript,1619931112000,1861852,Cramer,DE,13289802969874,
 100,118,Javascript,1620101778000,3304110,MathieuSoysal,FR,29374123419027,
+100,118,Javascript,1621650934000,3504573,ChrisOz,AU,35540929862328,
 100,119,Javascript,1567946825000,1169220,Indobiany,RU,2849621315733,
 100,119,Javascript,1567946825000,981349,MaciejS,PL,,
 100,119,Javascript,1567946825000,1738090,MrMoove,FR,10076698240417,
@@ -527,7 +529,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,Javascript,1606352060000,2652085,JeremDy,FR,,
 100,129,Javascript,1610772687000,549583,malko,FR,9358834015904,
 100,129,Javascript,1614997861000,4166845,HugeMissedSteak,NL,59373221969418,
-100,129,Javascript,1621564473000,3504573,ChrisOz,AU,35540929862328,
 100,130,Javascript,1567946825000,2678454,Malinvern,FR,19661873237479,
 100,130,Javascript,1567946825000,2867477,MichaelKommandant,UA,,
 100,130,Javascript,1567946825000,1585205,Sinescape,DE,6665143083658,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,154,Javascript,1594946584000,3730720,jdedev-fr,FR,41850529930879,
 100,154,Javascript,1596099788000,3136097,Cl00e9ment,FR,47574606569858,
 100,154,Javascript,1596760236000,3924897,takeshi_kovacs,HU,48303405432389,
-100,154,Javascript,1598927441000,3939954,vivescere,FR,48795145307927,

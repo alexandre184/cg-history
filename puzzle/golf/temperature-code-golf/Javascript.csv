@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2407|time=2021-05-21T02:34:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2409|time=2021-05-22T02:36:23
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
@@ -671,6 +671,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,91,Javascript,1609203936000,3626280,Fillan,FR,42980628832290,
 100,91,Javascript,1615172785000,1129777,Velvacaine,CA,59727663468173,
 100,91,Javascript,1619495527000,4238841,Anonymous12345678910,US,,
+100,91,Javascript,1621650983000,3700629,serialgg,FR,41086567019728,
 100,92,Javascript,1567946828000,3035837,,US,,
 100,92,Javascript,1567946828000,2029767,Dyomba,RU,,
 100,92,Javascript,1567946828000,1904154,HinaKaze,CN,11661433033891,
@@ -741,6 +742,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,96,Javascript,1605921607000,2641712,Scarlatine,SE,19128425061644,
 100,96,Javascript,1606438653000,745612,bloublou,FR,,
 100,96,Javascript,1616122922000,2888341,InCog,SG,23758221518192,
+100,96,Javascript,1621650983000,1471155,JHouhou,FR,63849084192403,
 100,97,Javascript,1567946828000,1809405,Ginkyu,BR,,
 100,97,Javascript,1567946828000,1357612,Maisnborg,DE,,
 100,97,Javascript,1567946828000,420785,Max52,RU,7207083347396,
@@ -897,7 +899,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1618115984000,3973359,KAbel,HU,58683122994198,
 100,109,Javascript,1620788445000,3999695,ShaxoLudo,FR,107626168988312,
 100,109,Javascript,1621480018000,3626782,ItsNotABug,AU,54404666418987,
-100,109,Javascript,1621480018000,1471155,JHouhou,FR,63849084192403,
 100,110,Javascript,1567946828000,1842440,07734willy,US,10984521090532,
 100,110,Javascript,1567946828000,1748381,Aruche,SG,9789828010283,
 100,110,Javascript,1567946828000,2144901,Gezellig,NL,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Javascript,1567946828000,556254,Yoann,FR,,
 100,119,Javascript,1567946828000,1883289,bthalheim,US,,
 100,119,Javascript,1567946828000,2175488,romanticlove,UA,,
-100,119,Javascript,1578702638000,1757792,oreshnik,RU,12260270601490,

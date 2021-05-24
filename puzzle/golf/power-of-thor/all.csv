@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29577|time=2021-05-23T04:43:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29593|time=2021-05-24T02:47:57
 100,45,Ruby,1596760232000,3845610,pardouin,FR,60364063762936,
 100,46,Perl,1595464478000,1483723,d-s-x,RU,4980051025170,
 100,47,C,1616035423000,3845610,pardouin,FR,60364063762936,
@@ -407,6 +407,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Javascript,1614652485000,3883981,mauguignard,AR,59651720258546,
 100,99,Ruby,1614825064000,1838549,orangesnowfox,US,17617755701518,
 100,99,Python3,1620276238000,2802293,KarimGehad,MA,110740303513666,
+100,99,Ruby,1621824476000,4095799,circular17,FR,55329921778165,
 100,100,Ruby,1567946826000,1613006,Genezys,FR,7316036854308,
 100,100,Ruby,1567946826000,663913,SandorHerms,DE,,
 100,100,Ruby,1567946826000,1889170,mvujas,RS,,
@@ -789,6 +790,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1621479981000,3427517,csysja,GB,101375763422273,
 100,109,Python3,1621650945000,3614203,TrivialDev,FR,63572984872987,
 100,109,Python3,1621745065000,936271,Chkoupinator,FR,63680800481745,
+100,109,Python3,1621824471000,4095799,circular17,FR,55329921778165,
 100,110,Bash,1567946822000,366305,Mgayar,EG,5691231749425,
 100,110,Javascript,1567946825000,2050543,Cherubael,DK,13150128776541,
 100,110,Javascript,1567946825000,2471054,Goldcott,BE,24540565061023,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Python3,1600919086000,270881,Maurice_Moss,FR,30069480173944,
 100,113,Python3,1600919086000,3984852,Single,KZ,50558801986580,
 100,113,Javascript,1601530038000,2698637,CorentinFoucault,FR,26497120301720,
-100,113,Python3,1603077439000,2832217,Hadry,FR,105176684223271,
-100,113,Python3,1603161745000,831195,samgiz,LT,,

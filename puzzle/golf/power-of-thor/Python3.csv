@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6480|time=2021-05-23T04:44:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6486|time=2021-05-24T02:47:51
 100,51,Python3,1596329053000,3845610,pardouin,FR,60364063762936,
 100,55,Python3,1596329053000,2288263,dbdr,UA,43448306132121,
 100,64,Python3,1615516527000,3774062,delpieron-hash,HU,,
@@ -180,6 +180,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1621305586000,4311593,2neuronitalpa,RO,64331207291748,
 100,109,Python3,1621650945000,3614203,TrivialDev,FR,63572984872987,
 100,109,Python3,1621745065000,936271,Chkoupinator,FR,63680800481745,
+100,109,Python3,1621824471000,4095799,circular17,FR,55329921778165,
 100,110,Python3,1567946825000,2486642,JeeXian,RU,17891646499215,
 100,110,Python3,1567946825000,1269717,MitchellKotler,US,,
 100,110,Python3,1567946825000,2370151,derlin,CH,,
@@ -598,7 +599,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Python3,1601353871000,3965571,Smekarn,SE,50557362213985,
 100,122,Python3,1602642638000,4005770,AmauryButaux,FR,51472806390661,
 100,122,Python3,1605227946000,1343510,Bartmaniaque,FR,4664231970702,
-100,122,Python3,1607649867000,4095799,circular17,FR,55329921778165,
 100,122,Python3,1613012359000,4174550,BlizzardTech,US,58695625028825,
 100,122,Python3,1615343629000,4115124,bitAlb,CH,59254584102273,
 100,122,Python3,1619321147000,1330431,TzeKin,SG,68707161253272,
@@ -913,6 +913,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,135,Python3,1620010917000,2478222,N4th,NC,18347644972305,
 100,135,Python3,1620190012000,4302355,schmetter,FR,,
 100,135,Python3,1620788390000,3268028,AVM.Martin,ID,95487961566801,
+100,135,Python3,1621824471000,4319724,Findiggle,US,63460700170722,
 100,136,Python3,1567946825000,1275981,ADescartes,DE,,
 100,136,Python3,1567946825000,272329,Arglanir,FR,3884009540055,
 100,136,Python3,1567946825000,1057079,ArvinCheung,HK,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,137,Python3,1620701141000,3598201,LiudasStaniulis,LT,58937704207171,
 100,137,Python3,1620788390000,3954213,FrederickOr,DE,63579523677317,
 100,137,Python3,1621479991000,2662847,maherdu91,FR,64566221057009,
-100,138,Python3,1594946581000,647884,G-Teck,FR,5518843149464,

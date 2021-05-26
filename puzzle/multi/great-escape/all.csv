@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3784|time=2021-05-25T02:31:00
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3785|time=2021-05-26T02:30:59
 5,35.59,C++,,2238218,1629259,Marchete,ES,61997162908277,
 5,33.03,C++,,960105,494104,Recar,GB,4953953776940,
 5,32.53,C++,,960075,818534,Ixanezis,BY,7456538515845,
@@ -945,7 +945,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.43,C#,,1633429,1655199,Kobzar,UA,,
 3,23.42,Python3,,2152759,835511,roi-infini,FR,,
 3,23.42,Java,,937623,870035,nefobu,IT,,
-3,23.37,Java,,937880,586906,tetonator,FR,,
 3,23.36,Python3,,3081554,972917,norbi97,HU,11002681149601,
 3,23.33,C#,,1311985,483847,filar,PL,,
 3,23.3,C#,,1427158,827757,swoog,FR,1844604857916,
@@ -954,6 +953,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.26,C++,,937420,1437352,lextase,FR,,
 3,23.24,Java,,1170121,1914302,Pallina,IT,11766560315393,
 3,23.21,C#,,2087715,987165,KaitoKid,CA,21825978717380,
+3,23.17,Java,,937880,586906,tetonator,FR,,
 3,23.16,Javascript,,937799,783337,Dewey,FR,,
 3,23.16,Javascript,,2128722,2891206,conrisc,PL,,
 3,23.15,Python3,,937583,652032,SkyDream,FR,20179445735442,
@@ -986,6 +986,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.76,C++,,1495510,2218781,tysia2512,PL,,
 3,22.76,Java,,938132,300874,PeturIngiEgilsson,DK,2319636868041,
 3,22.75,Java,,1319941,2006559,tomaszkk,PL,,
+3,22.74,Java,,937908,811050,fightermv,DE,,
 3,22.73,Python,,1393683,893027,R.Janvier,FR,13207862339896,
 3,22.72,Java,,958621,1268618,Barnou,FR,92681383121065,
 3,22.72,C,,937425,811979,DaniTunes,US,2881175065847,
@@ -995,7 +996,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.68,C#,,937830,858034,Ksilys,FR,,
 3,22.68,C#,,937481,267148,d3dave,IL,1751313952331,
 3,22.66,Java,,1212793,1926245,AnonymousUnical,IT,,
-3,22.66,Java,,937908,811050,fightermv,DE,,
 3,22.65,C#,,937969,995896,Ro9,NO,1966483935754,
 3,22.65,C++,,937676,203779,guille1304,FR,,
 3,22.64,C++,,937901,590230,REEPER,FR,,

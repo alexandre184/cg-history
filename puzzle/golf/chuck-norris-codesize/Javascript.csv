@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=657|time=2021-05-26T02:38:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=658|time=2021-05-27T02:39:10
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -91,6 +91,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1569285045000,1923902,gkalpak,GR,33993501409918,
 100,143,Javascript,1609727460000,4027771,AndreMarasca,BR,52647904853809,
 100,143,Javascript,1620701186000,894599,DidierC,FR,1756298465824,
+100,143,Javascript,1622083150000,4334077,Paul_Demanze,GB,89645400922966,
 100,144,Javascript,1567946837000,2050195,eklore,FR,16153418043649,
 100,144,Javascript,1621480061000,2589340,Zource,NL,,
 100,145,Javascript,1567946837000,3448473,massizero,FR,32732461348671,
@@ -183,6 +184,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Javascript,1600483627000,3862589,anha,DE,50482388140800,
 100,156,Javascript,1610944283000,4124401,emrah_akc,TR,57057103925818,
 100,156,Javascript,1614138704000,3740142,EliteDaMyth,IN,71621844864426,
+100,156,Javascript,1622083150000,2298036,3x1t,CZ,15502931839193,
 100,157,Javascript,1567946837000,1060181,Dabou,FR,3798025078627,
 100,157,Javascript,1567946837000,1166150,Rivy33,FR,30719547346752,
 100,157,Javascript,1567946837000,303948,ZZSolo,FR,,
@@ -364,7 +366,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,194,Javascript,1590108781000,3825077,Kolberg,GR,,
 100,195,Javascript,1574728247000,1063294,Chaya,FR,5516488637538,
 100,195,Javascript,1607822434000,1309948,Runner87,IT,6963904733897,
-100,195,Javascript,1616468021000,2298036,3x1t,CZ,15502931839193,
 100,196,Javascript,1567946837000,3286802,JonasS,DE,,
 100,196,Javascript,1582159738000,1250571,ChrisJeamme,FR,44090843307907,
 100,197,Javascript,1569285045000,187572,Shomz,RS,12902457819085,

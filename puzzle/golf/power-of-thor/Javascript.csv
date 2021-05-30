@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4003|time=2021-05-29T02:35:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4006|time=2021-05-30T02:30:49
 100,58,Javascript,1597192273000,3845610,pardouin,FR,60364063762936,
 100,58,Javascript,1597278634000,2288263,dbdr,UA,43448306132121,
 100,59,Javascript,1595464476000,1483723,d-s-x,RU,4980051025170,
@@ -18,6 +18,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Javascript,1592354921000,2603249,JeC,FR,18501353407912,
 100,92,Javascript,1606957960000,4052722,ClockSort,US,53561120333886,
 100,93,Javascript,1599618864000,3238300,WarTey,CA,25776702601011,
+100,93,Javascript,1622341849000,3672271,Namysh,FR,65285481149637,
 100,94,Javascript,1614652485000,3884999,YGoulu,AR,59600900293386,
 100,95,Javascript,1606878444000,3918583,mikmak,FR,48134583112917,
 100,95,Javascript,1607393935000,1348600,erodataM,FR,15560295582514,
@@ -30,7 +31,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Javascript,1607131073000,2635907,lopidav,UA,18844623817442,
 100,99,Javascript,1611205070000,4060994,3030,FI,,
 100,99,Javascript,1614652485000,3883981,mauguignard,AR,59651720258546,
-100,99,Javascript,1622255740000,3672271,Namysh,FR,65285481149637,
 100,100,Javascript,1595118634000,3726978,VirtualAtom,FR,41848346565993,
 100,100,Javascript,1596674083000,912633,Poviliukas,LT,,
 100,100,Javascript,1598810514000,1045485,Jessie,FR,9025608819920,
@@ -361,6 +361,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Javascript,1610245856000,1688466,geoffroy,FR,8641960561768,
 100,119,Javascript,1614738639000,1782005,AlexW,FR,47883185026219,
 100,119,Javascript,1620276244000,3847872,psychedelic68,FR,45599449537807,
+100,119,Javascript,1622341849000,1960325,Bladx,FR,62741900403874,
 100,120,Javascript,1567946825000,441578,C_Minor,GB,20079810974992,
 100,120,Javascript,1567946825000,1876059,Knagis,LV,,
 100,120,Javascript,1567946825000,961270,imel,MA,41803607670982,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1609989623000,4131463,handisb,US,,
 100,153,Javascript,1610082029000,1767224,Dagonin,PL,30215289398829,
 100,153,Javascript,1615257537000,2868392,marwane.ka,FR,58834580937610,
-100,153,Javascript,1615343627000,3970263,VasanthanPT,IN,60068927898784,

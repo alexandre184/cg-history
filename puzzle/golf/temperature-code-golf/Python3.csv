@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4933|time=2021-05-31T02:35:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4940|time=2021-06-01T02:33:50
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,56,Python3,1620962719000,2315623,Lydxn,CA,,
@@ -252,6 +252,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Python3,1620788468000,2066683,padobranac,AU,13293593325804,
 100,68,Python3,1622176558000,4319426,Schnegge,DE,63560223050141,
 100,68,Python3,1622176558000,4318702,itzluku,DE,63410985893944,
+100,68,Python3,1622514830000,4367489,sherfman,US,,
+100,68,Python3,1622514830000,1306813,sprkrd,ES,3876179544657,
 100,69,Python3,1567946832000,1128268,DubZzz,FR,4053201483190,
 100,69,Python3,1567946832000,1467559,Guillaumelale,FR,10814233323574,
 100,69,Python3,1567946832000,569247,LaurentBouvier,FR,16324240302815,
@@ -390,7 +392,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,71,Python3,1567946832000,1539833,pax0r,PL,,
 100,71,Python3,1567946832000,1701433,ratm,PL,,
 100,71,Python3,1567946832000,1599292,shinesoul,ID,,
-100,71,Python3,1567946832000,1306813,sprkrd,ES,3876179544657,
 100,71,Python3,1569458166000,1538472,Pana-Kota,IE,33897663113096,
 100,71,Python3,1570235461000,2411860,Aurelien-Quillet,FR,66460061394511,
 100,71,Python3,1573692629000,3421806,Raminou,FR,31684407265500,
@@ -987,7 +988,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Python3,1567946832000,1695819,Dumpsta_baby,AU,12952420389892,
 100,80,Python3,1567946832000,858978,Gauss,FR,,
 100,80,Python3,1567946832000,2594360,Nataris,FR,18415326978932,
-100,80,Python3,1567946832000,383410,NewbiZ,HK,2030096348685,
 100,80,Python3,1567946832000,1569823,Niako,FR,11911528647474,
 100,80,Python3,1567946832000,1704251,Olmagzar,FR,92948286763144,
 100,80,Python3,1567946832000,1481353,SKS,IN,4961603042996,

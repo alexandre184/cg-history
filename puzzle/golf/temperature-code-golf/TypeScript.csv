@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=127|time=2021-06-07T02:31:09
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=128|time=2021-06-10T03:03:12
 100,64,TypeScript,1598142641000,3845610,pardouin,FR,60364063762936,
 100,64,TypeScript,1600310344000,2288263,dbdr,UA,43448306132121,
 100,68,TypeScript,1615084997000,3918583,mikmak,FR,48134583112917,
@@ -19,6 +19,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,TypeScript,1610245858000,2928146,LolCat,MU,22538133010433,
 100,79,TypeScript,1616296048000,4095128,Voltmachine,BG,56919066754571,
 100,79,TypeScript,1621391641000,2371389,Franta,CZ,16642908084028,
+100,79,TypeScript,1623294192000,2320995,Photon_,LT,,
 100,80,TypeScript,1576631480000,1845617,Shingyx,AU,26010702723839,
 100,80,TypeScript,1583461915000,1353795,TheCrucial,PL,18581166493021,
 100,80,TypeScript,1585010931000,481564,mihei,RU,4454400756022,
@@ -39,7 +40,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,TypeScript,1572828122000,3380514,DFrese,DE,30555045908186,
 100,90,TypeScript,1610159864000,2998967,Gilde,FR,62190109872577,
 100,91,TypeScript,1595032243000,829018,alchemsti,DE,39208827785278,
-100,92,TypeScript,1622946662000,2320995,Photon_,LT,,
 100,93,TypeScript,1582245050000,2622559,Gripnil,FR,19024435956137,
 100,93,TypeScript,1619931151000,1861852,Cramer,DE,13289802969874,
 100,94,TypeScript,1572568239000,2786666,TetraktysPhi,FR,20818693590142,
@@ -120,6 +120,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,746,TypeScript,1611974667000,3881333,TintinMilou,FR,,
 100,781,TypeScript,1603679461000,3967220,ArturSkrobisz,PL,,
 100,785,TypeScript,1604624200000,4041803,Kardinale,FR,,
+100,835,TypeScript,1623294192000,4377701,LouisCasillas,,,
 100,838,TypeScript,1610685076000,4143761,importCoffeeFromCup,GB,,
 100,864,TypeScript,1603507637000,4026628,,US,,
 100,914,TypeScript,1595727366000,3365489,annnoo,DE,,

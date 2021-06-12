@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2472|time=2021-06-11T03:31:28
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2473|time=2021-06-12T02:30:33
 5,35.67,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,31.98,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.3,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -877,6 +877,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.3,C,,570996,1405775,Yiminjune,KR,,
 1,23.3,C#,,562536,1472964,fnudd,SE,,
 1,23.3,Python,,912652,1753121,Fumo201,TW,10114797599106,
+1,23.29,C++,,484310,1443075,Wolfy82,HU,4574349418639,
 1,23.29,C++,,1669704,2203927,MohamedAlmograby_2nd_year_2018,EG,14637075858380,
 1,23.29,Javascript,,494417,1463575,Kittenschnitzel,FI,,
 1,23.29,Javascript,,498595,1412502,falsidge,US,,
@@ -899,7 +900,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.23,Python3,,493497,1455173,DrSpock,NL,4677392520182,
 1,23.23,C#,,969744,609811,Atesz,CA,5001858462202,
 1,23.22,Javascript,,1505940,2285360,Tatyana,UA,,
-1,23.22,C++,,484310,1443075,Wolfy82,HU,4574349418639,
 1,23.21,C,,486102,1280770,John_Black,RU,,
 1,23.21,C#,,512115,1377467,GeorgeClooney,CA,5097084386601,
 1,23.21,Python,,504765,1081818,Indispira,FR,2268356777933,
@@ -952,6 +952,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.1,Go,,685362,1547430,softclone,US,6893546461299,
 1,23.1,C++,,1390550,2085746,JacobNoga,US,,
 1,23.09,Python3,,490592,1354742,torxx,SE,,
+1,23.09,Java,,589398,1494734,Leogelas,FR,,
 1,23.08,Go,,751000,1640431,Automatico,NO,,
 1,23.08,Javascript,,885989,1026791,Alfalfamale,NL,7144185210937,
 1,23.08,C#,,579377,1220347,Pooky,FR,7320278038278,
@@ -970,7 +971,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.03,Javascript,,3483268,4256701,DenysRozhyk,UA,,
 1,23.03,Java,,628892,1116946,marhuero,FR,,
 1,23.03,Rust,,1854587,1595013,thebarbershopper,US,,
-1,23.03,Java,,589398,1494734,Leogelas,FR,,
 1,23.03,C++,,488791,1456040,RaphaelM,FR,,
 1,23.03,C++,,590307,1491359,MurfDude,US,,
 1,23.02,PHP,,591678,1495350,Wranorn,US,,

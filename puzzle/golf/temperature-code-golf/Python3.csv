@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5017|time=2021-06-15T02:59:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5023|time=2021-06-16T02:30:59
 100,52,Python3,1598810520000,3845610,pardouin,FR,60364063762936,
 100,56,Python3,1586393333000,334009,abouvier,FR,4681436111242,
 100,56,Python3,1620962719000,2315623,Lydxn,CA,,
@@ -310,6 +310,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,69,Python3,1618806651000,1519989,a5kin,RU,5511054769141,
 100,69,Python3,1619321193000,3657275,jujurocking,FR,,
 100,69,Python3,1621996709000,3965571,Smekarn,SE,50557362213985,
+100,69,Python3,1623810659000,3792309,schachmatt,DE,58313205988826,
 100,70,Python3,1567946832000,868896,Arn,BE,19508493305134,
 100,70,Python3,1567946832000,3047355,ArtyMaury,FR,44066043404736,
 100,70,Python3,1567946832000,233734,Delgan,FR,2425294393314,
@@ -461,7 +462,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,72,Python3,1611974665000,2340294,deviluc,DE,15818944269214,
 100,72,Python3,1612492777000,3962693,Kamoun,TN,,
 100,72,Python3,1612665668000,2796157,nikhil.k,IN,64021163998790,
-100,72,Python3,1614569193000,3792309,schachmatt,DE,58313205988826,
 100,72,Python3,1615516534000,3230794,tutubalin,RU,25714480415254,
 100,72,Python3,1617938021000,1883740,kermo,FR,37540400644388,
 100,72,Python3,1618284762000,759147,kisszots,HU,57262007331411,
@@ -996,6 +996,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Python3,1621391643000,2877229,klforthwind,US,21798046152500,
 100,79,Python3,1621480036000,1753384,zampoz,FR,25481698507443,
 100,79,Python3,1621650967000,1755542,loowie,FR,,
-100,80,Python3,1567946832000,999596,Schyrsivochter,DE,,
+100,79,Python3,1623810659000,1124679,Tinaud,CA,2547993227524,
 100,80,Python3,1567946832000,938374,UnmanagedCode,NL,12229437989878,
 100,80,Python3,1567946832000,1362599,semi225599,US,,

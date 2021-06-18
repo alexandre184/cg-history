@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1320|time=2021-06-17T02:30:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1322|time=2021-06-18T02:41:59
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
@@ -399,6 +399,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Javascript,1603938994000,389473,BigBart,CH,4922026050684,
 100,177,Javascript,1604284312000,165671,cyppan,FR,64028666285629,
 100,177,Javascript,1604537319000,4013791,LTNightshade,DE,52126062565051,
+100,177,Javascript,1623984119000,4308802,Ascodran,FR,63699964010463,
 100,178,Javascript,1567946817000,906002,Artur,RU,1816203553637,
 100,178,Javascript,1567946817000,1495642,AtomCrafty,DE,5134929486180,
 100,178,Javascript,1567946817000,1348832,AzatJalilov,DE,,
@@ -875,6 +876,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,307,Javascript,1567946817000,1475038,koc,BG,,
 100,307,Javascript,1607566150000,4075986,Babadude,SG,54463465631228,
 100,307,Javascript,1613529139000,857188,SystemsCheck,US,,
+100,307,Javascript,1623984119000,4090919,antoineok,FR,63965720794345,
 100,308,Javascript,1567946817000,2073179,Biwere,FR,13718696097951,
 100,308,Javascript,1567946817000,1301487,JohanBrunet,FR,13239269794090,
 100,308,Javascript,1567946817000,1990641,P0NE,FR,18954977509228,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,389,Javascript,1613443640000,3959384,DamienCarreau,FR,58945303465785,
 100,390,Javascript,1567946817000,1069640,etto,,,
 100,390,Javascript,1623551913000,391230,Badaboum,FR,65874648050773,
-100,391,Javascript,1606878437000,1348600,erodataM,FR,15560295582514,
-100,393,Javascript,1567946817000,1203306,OcterA,FR,38396527373859,

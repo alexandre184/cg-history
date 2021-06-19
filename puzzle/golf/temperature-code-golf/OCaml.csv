@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=30|time=2021-06-18T02:42:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=31|time=2021-06-19T02:30:58
 100,45,OCaml,1586393336000,334009,abouvier,FR,4681436111242,
 100,48,OCaml,1585444520000,1537792,AsaiYusuke,US,41785380851985,
 100,50,OCaml,1586567511000,1483723,d-s-x,RU,4980051025170,
@@ -6,6 +6,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,58,OCaml,1600483621000,3845610,pardouin,FR,60364063762936,
 100,63,OCaml,1619233751000,1654818,tarapitha,EE,79401682508715,
 100,64,OCaml,1601952012000,1968855,ThePurificator,FR,12329456921169,
+100,71,OCaml,1600397770000,3354337,Westicles,CX,79146641399080,
 100,72,OCaml,1567946831000,1001096,MyIIone,AT,4231449697357,
 100,73,OCaml,1605664507000,1848459,Velcoro,CZ,48538649860014,
 100,108,OCaml,1567946831000,1065222,GuillaumeAub,FR,,

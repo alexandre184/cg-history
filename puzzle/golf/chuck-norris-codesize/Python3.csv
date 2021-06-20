@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1792|time=2021-06-19T02:31:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1795|time=2021-06-20T02:34:14
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -15,6 +15,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Python3,1604797980000,1502908,selujum,FR,,
 100,81,Python3,1607909013000,2923506,darkhorse64,FR,23496414257567,
 100,83,Python3,1623294200000,936271,Chkoupinator,FR,63680800481745,
+100,83,Python3,1624156454000,4333783,Fredsi,FR,,
 100,85,Python3,1593737173000,3663409,giosds,IT,,
 100,85,Python3,1594513848000,1525831,ntsd,TH,86763903852312,
 100,86,Python3,1607909013000,4089683,RedRikudo,FR,94756164332840,
@@ -35,6 +36,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Python3,1621996718000,3965571,Smekarn,SE,50557362213985,
 100,93,Python3,1607995160000,1399382,Regulus136,FR,4335723819637,
 100,93,Python3,1622255831000,3903473,Konstant,PL,47882887732604,
+100,93,Python3,1624156454000,325339,PTank,FR,24870559795174,
 100,96,Python3,1616035430000,311035,leojean890,FR,42398427701382,
 100,96,Python3,1623897056000,2438514,davi_bart,IT,16905477283014,
 100,97,Python3,1594168553000,3885147,cpita,AR,,
@@ -462,7 +464,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Python3,1621391647000,4185673,GeorgiD,BG,,
 100,136,Python3,1621824489000,1001990,dangerworm,GB,2007671049697,
 100,136,Python3,1621910614000,3906946,annaproxy,NL,48265122990384,
-100,136,Python3,1622514836000,325339,PTank,FR,24870559795174,
 100,137,Python3,1567946837000,3372618,pingouinator,FR,29670280878028,
 100,137,Python3,1572742808000,3421806,Raminou,FR,31684407265500,
 100,137,Python3,1584752314000,3214044,ErnestBidouille,FR,25557609590557,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,183,Python3,1588726382000,2310861,Ilovepie,CA,34825369392996,
 100,183,Python3,1592960323000,809484,VisionElf,FR,20061606098737,
 100,183,Python3,1595896346000,788361,Bob,FR,29407964997640,
-100,183,Python3,1598315454000,1010023,Windstorm,DE,,

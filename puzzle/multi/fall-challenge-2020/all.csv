@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7546|time=2021-06-23T07:10:11
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7546|time=2021-06-24T00:30:18
 5,30.54,C++,,3312396,832306,pb4,FR,10135289026547,
 5,29.7,C++,,3332311,154984,_Royale,FR,17869369984436,
 5,28.97,C++,,3339073,668954,Fluxor,FR,1832090086325,
@@ -735,8 +735,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,37.43,C++,,3315499,517890,Altaire,RU,60751364963571,
 3,37.39,C++,,3312537,1913525,Drus_O,UA,11752378171560,
 3,37.37,C#,,3308281,3422694,HK42,FI,33495804820575,
+3,37.36,C#,,3312830,3245819,TomA,JP,25841749199989,
 3,37.36,Rust,,3311604,1192837,davidB,FR,3812849123499,
-3,37.35,C#,,3312830,3245819,TomA,JP,25841749199989,
 3,37.33,C++,,3366821,4117641,MickeyIT_,IT,,
 3,37.25,Java,,3309548,335818,TyraEl,FR,,
 3,37.15,Javascript,,3311140,4056955,Adurmm,GB,53800384369458,
@@ -849,7 +849,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,35.71,Rust,,3309295,2683085,estoev,ES,54097122167239,
 3,35.7,Python3,,3312385,3821027,prd_xxx,JP,44586523215348,
 3,35.69,Python3,,3312668,1467910,iian,FR,53769489547024,
-3,35.69,C++,,3312362,2889948,anoburn,DE,39191346958499,
+3,35.68,C++,,3312362,2889948,anoburn,DE,39191346958499,
 3,35.67,Python3,,3310612,510486,Jorigole,FR,53842008072189,
 3,35.66,Bash,,3310105,334009,abouvier,FR,4681436111242,
 3,35.66,Rust,,3310542,1855932,keigo-brook,JP,44647228827060,
@@ -876,7 +876,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,35.31,C#,,3312611,1301401,Stanax,FR,44495484097566,
 3,35.31,PHP,,3307981,1940223,Eglerion,DE,12235612079552,
 3,35.3,Python3,,3311323,2297753,Warly7692,FR,15501605839682,
-3,35.28,C++,,3310494,4014857,2_1,NL,,
+3,35.29,C++,,3310494,4014857,2_1,NL,,
 3,35.27,C++,,3310014,929662,madxmad,CO,,
 3,35.26,F#,,3498932,4145194,charnel_mouse,GB,57629001495381,
 3,35.26,Java,,3312465,359096,Skyloro,FR,52094321199640,

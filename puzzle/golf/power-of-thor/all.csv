@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=31701|time=2021-06-29T00:40:09
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=31713|time=2021-06-30T00:37:22
 100,45,Ruby,1596760232000,3845610,pardouin,FR,60364063762936,
 100,46,Perl,1595464478000,1483723,d-s-x,RU,4980051025170,
 100,47,C,1616035423000,3845610,pardouin,FR,60364063762936,
@@ -426,6 +426,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Python3,1621996701000,3700629,serialgg,FR,41086567019728,
 100,98,Javascript,1622863711000,2315158,luigi_gelato,DE,,
 100,98,Javascript,1624927213000,1701924,Kethryes,FR,65611961439802,
+100,98,Python3,1625013445000,163666,sapfeer0k,DE,92240260347902,
 100,99,Bash,1567946822000,1740037,ereiam,FR,12669494111004,
 100,99,Ruby,1579221113000,154996,shashwat986,IN,39427621192030,
 100,99,Javascript,1595032234000,3808031,_proton,US,44172683522650,
@@ -830,6 +831,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1621479981000,3427517,csysja,GB,101375763422273,
 100,109,Python3,1621650945000,3614203,TrivialDev,FR,63572984872987,
 100,109,Python3,1621824471000,4095799,circular17,FR,55329921778165,
+100,109,Javascript,1625013447000,3298022,IKEJIME,PH,69091121675111,
+100,109,Javascript,1625013447000,4334077,Paul_Demanze,GB,89645400922966,
 100,110,Bash,1567946822000,366305,Mgayar,EG,5691231749425,
 100,110,Javascript,1567946825000,2050543,Cherubael,DK,13150128776541,
 100,110,Javascript,1567946825000,2471054,Goldcott,BE,24540565061023,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Perl,1567946823000,2238146,stem,RU,,
 100,113,Javascript,1567946825000,1211965,B0b,FR,,
 100,113,Javascript,1567946825000,2418857,MathiasSpanhove,BE,16745962145656,
-100,113,Javascript,1567946825000,1900582,ReverseFlash,FR,13401470906267,
-100,113,Javascript,1567946825000,1883289,bthalheim,US,,
-100,113,Javascript,1567946825000,1476457,gnarf,US,,

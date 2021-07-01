@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=174|time=2021-06-30T00:37:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=175|time=2021-07-01T01:05:14
 100,66,TypeScript,1598315439000,3845610,pardouin,FR,60364063762936,
 100,70,TypeScript,1595464479000,1483723,d-s-x,RU,4980051025170,
 100,81,TypeScript,1596501978000,2288263,dbdr,UA,43448306132121,
@@ -16,6 +16,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,TypeScript,1616035420000,372468,MadBot4577,RU,5203205035445,
 100,121,TypeScript,1608685407000,4100825,ablin42,FR,55479060101488,
 100,121,TypeScript,1616899836000,1019883,Pedromdrp,PT,2315578082196,
+100,121,TypeScript,1625101514000,1845617,Shingyx,AU,26010702723839,
 100,122,TypeScript,1606957957000,4052722,ClockSort,US,53561120333886,
 100,123,TypeScript,1595032234000,3808031,_proton,US,44172683522650,
 100,123,TypeScript,1622083068000,3672271,Namysh,FR,65285481149637,
@@ -127,6 +128,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,553,TypeScript,1611382407000,2998967,Gilde,FR,62190109872577,
 100,554,TypeScript,1602642638000,1723591,Pudi,BE,9371879305292,
 100,576,TypeScript,1593477260000,2921599,Rinoweb,FR,22420100477650,
+100,623,TypeScript,1625101514000,3514975,Phurinat,TH,97597367576293,
 100,750,TypeScript,1615948245000,1910916,VivienBillot,FR,53165247393812,
 100,758,TypeScript,1596933579000,3925531,SickNerd,SG,,
 100,814,TypeScript,1610772689000,4034497,Sorikairo,FR,79198880961122,
@@ -169,7 +171,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 25,96,TypeScript,1584583292000,903179,maksmas,EE,101274743228150,
 25,97,TypeScript,1579739759000,1931039,MooMooN,FR,11972180817471,
 25,110,TypeScript,1570494647000,1629259,Marchete,ES,61997162908277,
-0,85,TypeScript,1576552566000,1845617,Shingyx,AU,26010702723839,
 0,919,TypeScript,1624432227000,4134597,,FR,,
 0,919,TypeScript,1624432227000,4374028,,VN,,
 0,919,TypeScript,1624432227000,1559680,MartinIsaksson,SE,6695415432167,

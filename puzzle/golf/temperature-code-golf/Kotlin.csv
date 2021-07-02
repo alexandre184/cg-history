@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=150|time=2021-07-01T01:05:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=150|time=2021-07-02T00:30:43
 100,89,Kotlin,1567946831000,1483723,d-s-x,RU,4980051025170,
 100,106,Kotlin,1623033069000,397691,TeknighT,DK,65602063830932,
 100,107,Kotlin,1621910606000,4325119,Klimpergeist,DE,63682169998518,
@@ -17,6 +17,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,166,Kotlin,1597537845000,2234888,Daverix,SE,15130043574407,
 100,167,Kotlin,1624582509000,3514975,Phurinat,TH,97597367576293,
 100,169,Kotlin,1609989632000,3235897,Zylo,PL,25779784253696,
+100,171,Kotlin,1625185843000,2490008,ebicochineal,JP,43936521576530,
 100,176,Kotlin,1567946831000,2069141,tomeko,PL,13370027887052,
 100,178,Kotlin,1567946831000,2713608,LostSymphony,FR,19945860182726,
 100,180,Kotlin,1575333159000,925695,Boulet,FR,29121141951376,
@@ -126,7 +127,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,142,Kotlin,1616553061000,2230279,TheXeos,FR,60412386282074,
 0,144,Kotlin,1590626102000,154806,piwai,FR,1956863959967,
 0,144,Kotlin,1605406459000,335335,Eldritch,FR,17685838765251,
-0,148,Kotlin,1582765800000,2490008,ebicochineal,JP,43936521576530,
 0,150,Kotlin,1571533602000,3444208,Anatoli,DE,32592586143834,
 0,154,Kotlin,1567946831000,2307740,r3mi,FR,19248241520450,
 0,154,Kotlin,1596415476000,2387233,SinOfWrath,DK,41207346605394,

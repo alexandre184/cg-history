@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=17990|time=2021-07-03T00:44:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=17998|time=2021-07-04T00:30:48
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -227,6 +227,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,49,Ruby,1624668536000,1324974,ViktorCs,HU,4515823207881,
 100,49,ObjectiveC,1625185838000,3354337,Westicles,CX,79146641399080,
 100,49,C,1625185840000,3354337,Westicles,CX,79146641399080,
+100,49,Ruby,1625358642000,2315158,luigi_gelato,DE,,
 100,50,Perl,1567946831000,1323621,Blablub,DE,,
 100,50,Perl,1567946831000,1202933,NullOps,AU,13683198089751,
 100,50,Perl,1567946831000,2458197,Stack_of_Pancakes,US,17063542094647,
@@ -765,6 +766,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1623897049000,3812486,gitKad,CA,44329387618958,
 100,60,Python3,1624069858000,154388,PonyPonyCodeCode,FR,37335148285737,
 100,60,Python3,1625013450000,163666,sapfeer0k,DE,92240260347902,
+100,60,TypeScript,1625358648000,3354337,Westicles,CX,79146641399080,
 100,61,Javascript,1567946828000,1906719,ArpadDravecz,HU,11710900308045,
 100,61,Javascript,1567946828000,155887,BanBan,FR,8230051407070,
 100,61,Javascript,1567946828000,482445,BogdanSavchenko,UA,9319024256259,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1588816817000,3622757,anid,,,
 100,63,Python3,1593823804000,1481043,Kyrosh,DE,12661250712745,
 100,63,Ruby,1596674091000,3917420,trold,DK,57903946621242,
-100,63,Javascript,1599100994000,3932077,CopperFr,FR,49629049829522,
-100,63,Javascript,1601179857000,2792530,Xanrum,RU,20842908721872,

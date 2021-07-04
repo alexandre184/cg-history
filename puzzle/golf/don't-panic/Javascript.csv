@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1331|time=2021-07-03T00:44:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1331|time=2021-07-04T00:30:31
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,72,Javascript,1600050783000,155774,dwarfie,FR,17785582865119,
@@ -296,6 +296,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Javascript,1578961831000,3612859,Gryzli,PL,41310923057410,
 100,163,Javascript,1604119360000,3076711,Sceurpien,HU,52730426530429,
 100,163,Javascript,1608083733000,1309948,Runner87,IT,6963904733897,
+100,163,Javascript,1625358631000,3337790,gitbeginer,KR,66608941195357,
 100,164,Javascript,1607219856000,4059706,wistler,US,53872864930862,
 100,164,Javascript,1609815165000,1256312,Djoums,FR,3366390627127,
 100,165,Javascript,1567946817000,2299286,Chalarangelo,GR,15517696790023,
@@ -306,7 +307,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,165,Javascript,1573000222000,1383959,ebriand,FR,4078625698623,
 100,165,Javascript,1590626087000,154806,piwai,FR,1956863959967,
 100,165,Javascript,1618715568000,4275624,UnknownException,CA,,
-100,165,Javascript,1625273048000,3337790,gitbeginer,KR,66608941195357,
+100,165,Javascript,1625358631000,4124054,JoshuaRC02,US,57287523607434,
 100,166,Javascript,1580430626000,1645228,mnahkies,NZ,10476884301264,
 100,166,Javascript,1623294160000,3801079,jokovitch,FR,63561229827062,
 100,167,Javascript,1567946817000,1656351,Castosaurus,YT,21643540184535,
@@ -316,7 +317,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,167,Javascript,1569285022000,3430435,DocteurWong,FR,34776645119766,
 100,167,Javascript,1588726356000,2113665,Ar255,FR,43442586596181,
 100,167,Javascript,1598810510000,3667259,LoneWolf-M21,IR,40202549989244,
-100,167,Javascript,1610857851000,4124054,JoshuaRC02,US,57287523607434,
 100,168,Javascript,1567946817000,1048208,MikeDawley,US,,
 100,168,Javascript,1567946817000,818780,bbodin01,FR,110088260228852,
 100,168,Javascript,1567946817000,1825584,differenziale,FR,10844980511367,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=718|time=2021-07-03T00:44:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=719|time=2021-07-04T00:30:52
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -274,6 +274,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Javascript,1601094682000,2644772,Airwaito,FR,35481509328406,
 100,168,Javascript,1609118507000,1567705,noahmay,SE,32310343810810,
 100,168,Javascript,1610857868000,1566335,BeardedWhale,SE,36571449875674,
+100,168,Javascript,1625358652000,3337790,gitbeginer,KR,66608941195357,
 100,169,Javascript,1567946837000,1330843,Brokenmass,GB,4380409503798,
 100,169,Javascript,1585097115000,2438065,iter,FI,60213703884300,
 100,169,Javascript,1586654970000,1406822,JBeen,UA,20440902196127,
@@ -320,7 +321,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,176,Javascript,1567946837000,859523,jukimv1986,ES,7683034960632,
 100,176,Javascript,1591837843000,1017704,Lucasgood,FR,2057355958953,
 100,176,Javascript,1599705055000,3966787,TwilightOwl,RU,,
-100,176,Javascript,1625273067000,3337790,gitbeginer,KR,66608941195357,
 100,177,Javascript,1571273996000,1195856,daifei4321,US,2979089591958,
 100,177,Javascript,1574383151000,1244685,dorion,FR,21623788646587,
 100,177,Javascript,1596674097000,3923490,_John_,IT,,
@@ -686,6 +686,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1665,Javascript,1569803441000,3389567,Neoxence,FR,30442665147997,
 100,1964,Javascript,1601353883000,3993028,EmersonBarbosa,BR,50920044138597,
 100,1964,Javascript,1603939011000,4018351,BugPlant,US,60581720279477,
+100,1971,Javascript,1625358652000,1787719,RustCohle,FR,,
 88,1488,Javascript,1624432245000,1277991,Nheo,FR,,
 77,514,Javascript,1624432245000,4125065,SandipNirmal,IN,56803664541156,
 77,1304,Javascript,1624432245000,3814210,Coll5,FR,44383205184548,

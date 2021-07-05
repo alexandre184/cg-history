@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=66|time=2021-07-04T00:30:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=66|time=2021-07-05T00:48:09
 100,59,ObjectiveC,1567946819000,2288263,dbdr,UA,43448306132121,
 100,63,ObjectiveC,1624329578000,3845610,pardouin,FR,60364063762936,
 100,68,ObjectiveC,1567946819000,334009,abouvier,FR,4681436111242,
@@ -16,6 +16,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,ObjectiveC,1594781455000,1436776,BrainSolver,FR,10099178983053,
 100,132,ObjectiveC,1567946819000,886483,R4N4R4M4,FR,7943435133357,
 100,133,ObjectiveC,1567946819000,1487168,FatIvan,GB,12794968553694,
+100,140,ObjectiveC,1625446089000,2490008,ebicochineal,JP,43936521576530,
 100,142,ObjectiveC,1605664489000,1848459,Velcoro,CZ,48538649860014,
 100,143,ObjectiveC,1577925746000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,150,ObjectiveC,1567946819000,1759335,metahom,AE,40546489176319,
@@ -63,5 +64,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,98,ObjectiveC,1567946819000,1100752,ValNykol,GB,10307803807981,
 0,106,ObjectiveC,1567946819000,1629259,Marchete,ES,61997162908277,
 0,106,ObjectiveC,1582853286000,709490,Sinlepuissant,FR,2102604527472,
-0,160,ObjectiveC,1583542918000,2490008,ebicochineal,JP,43936521576530,
 0,1474,ObjectiveC,1624432223000,1200828,SomParkash,IN,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=906|time=2021-07-05T00:48:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=906|time=2021-07-06T02:00:21
 100,33,Ruby,1583461914000,1537792,AsaiYusuke,US,41785380851985,
 100,33,Ruby,1586393335000,334009,abouvier,FR,4681436111242,
 100,38,Ruby,1620701180000,806416,awnion,RS,59791745647170,
@@ -866,6 +866,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 86,656,Ruby,1624432237000,1862059,kzvdev,FR,11238207418219,
 86,743,Ruby,1624432237000,1534644,Selandir,PL,,
 80,32,Ruby,1624432237000,1853956,yoannk,FR,108956788280248,
+80,58,Ruby,1625536821000,3039504,LesCodeursMasques,FR,,
 80,93,Ruby,1624432237000,1637826,RicFlair,FR,26822704351076,
 80,105,Ruby,1624432237000,2527305,,NL,,
 80,189,Ruby,1624432237000,3937710,vcheloudiakoff,FR,,
@@ -900,7 +901,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 40,3,Ruby,1624432237000,1138333,Qmawio,PL,17149564552242,
 33,47,Ruby,1624432237000,277758,Duffy,FR,1920709753641,
 33,542,Ruby,1624432237000,2442117,VoQuang,VN,,
-26,21,Ruby,1624432237000,3039504,LesCodeursMasques,FR,,
 6,3,Ruby,1624432237000,1068923,rappet,DE,,
 6,61,Ruby,1624432237000,491851,Viral,RU,3493191171625,
 0,0,Ruby,1624432237000,3968399,dormeur2009,FR,49866926833934,

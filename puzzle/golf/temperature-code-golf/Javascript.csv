@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2513|time=2021-07-05T00:48:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2515|time=2021-07-06T02:00:19
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,56,Javascript,1623984133000,334009,abouvier,FR,4681436111242,
@@ -370,6 +370,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Javascript,1622083103000,4358721,Pranav_C,IN,66279900634398,
 100,68,Javascript,1623384835000,1482482,gmolnar,HU,63400889003880,
 100,68,Javascript,1623984133000,4221515,Victorp99,US,,
+100,68,Javascript,1625536819000,4333899,Handala,MA,64294200000829,
 100,69,Javascript,1567946828000,1211965,B0b,FR,,
 100,69,Javascript,1567946828000,3380514,DFrese,DE,30555045908186,
 100,69,Javascript,1567946828000,1537977,LeszekCzarny,PL,5894720247166,
@@ -454,7 +455,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Javascript,1596329060000,3387410,Paolo_Rzf,MG,91658708408744,
 100,75,Javascript,1612924257000,2202771,Kaplone,FR,23792369424472,
 100,75,Javascript,1624668535000,3298022,IKEJIME,PH,69091121675111,
-100,75,Javascript,1624927218000,4333899,Rahcid,MA,64294200000829,
 100,76,Javascript,1567946828000,1639616,Bogdacutu,RO,,
 100,76,Javascript,1567946828000,593873,SmSSysteM,RU,4699140979697,
 100,76,Javascript,1567946828000,512169,Soul_0000,RU,82183200714630,
@@ -885,7 +885,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Javascript,1567946828000,1250571,ChrisJeamme,FR,44090843307907,
 100,106,Javascript,1567946828000,1706784,Garryton,FR,,
 100,106,Javascript,1567946828000,1386529,Gortax,PL,8207245226624,
-100,106,Javascript,1567946828000,1957740,XilinxAndChill,GB,,
+100,106,Javascript,1567946828000,1957740,VHDLAndChill,GB,,
 100,106,Javascript,1567946828000,3028864,lorcQc,CA,,
 100,106,Javascript,1567946828000,317266,mantal,FR,,
 100,106,Javascript,1591921843000,3800387,typingm,US,45632925718771,

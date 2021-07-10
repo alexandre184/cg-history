@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18061|time=2021-07-09T00:54:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18072|time=2021-07-10T02:25:55
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -697,6 +697,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1619233754000,1179950,Patorikkuyatta,FR,94806006573123,
 100,59,Python3,1620448261000,2490008,ebicochineal,JP,43936521576530,
 100,59,Ruby,1625704547000,1709070,platypus999,JP,,
+100,59,Python3,1625883952000,3647844,rc95401,US,39486169555819,
+100,59,Python3,1625883952000,1306813,sprkrd,ES,3876179544657,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -753,7 +755,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Python3,1607995153000,1399382,Regulus136,FR,4335723819637,
 100,60,Javascript,1613012369000,4095128,Voltmachine,BG,56919066754571,
 100,60,Ruby,1613703177000,4124688,Murat_Eroglu,TR,91676687994670,
-100,60,Python3,1614738644000,3647844,rc95401,US,39486169555819,
 100,60,Python3,1614825067000,806416,awnion,RS,59791745647170,
 100,60,Python3,1615516534000,3774062,delpieron-hash,HU,,
 100,60,Javascript,1615516539000,3230794,tutubalin,RU,25714480415254,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,PHP,1582940772000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,63,Javascript,1584894193000,3657944,xyz-1,PL,40019042861680,
 100,63,Ruby,1588121963000,3245819,TomA,JP,25841749199989,
-100,63,Javascript,1588816817000,3622757,anid,,,

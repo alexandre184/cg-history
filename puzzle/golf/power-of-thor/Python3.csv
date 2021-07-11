@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6713|time=2021-07-10T02:25:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6717|time=2021-07-11T01:13:43
 100,51,Python3,1596329053000,3845610,pardouin,FR,60364063762936,
 100,55,Python3,1596329053000,2288263,dbdr,UA,43448306132121,
 100,59,Python3,1624242639000,2197019,caduk,FR,,
@@ -91,6 +91,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Python3,1620276238000,2802293,KarimGehad,MA,110740303513666,
 100,100,Python3,1600828232000,2377428,Neinaps,FR,,
 100,100,Python3,1606783900000,962495,eboot,FR,55086804311206,
+100,100,Python3,1625966023000,4407595,IRegretzU,US,66994482504317,
+100,100,Python3,1625966023000,4308815,nuggetbucket54,CA,65125188704418,
 100,101,Python3,1567946825000,2432403,Teferi,KR,,
 100,101,Python3,1599359446000,865548,Kktus,FR,95659128943351,
 100,101,Python3,1623810654000,1124679,Tinaud,CA,2547993227524,
@@ -258,6 +260,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Python3,1615948250000,4103316,JamesB123,GB,,
 100,111,Python3,1621305586000,2829386,Shaq76,GB,52749040542647,
 100,111,Python3,1622176526000,1782005,AlexW,FR,47883185026219,
+100,111,Python3,1625966023000,4424473,IdempotentPayloadQuine,CA,,
 100,112,Python3,1567946825000,3044280,AminGholizad,BE,23774079662038,
 100,112,Python3,1567946825000,1300254,Escdemon,FR,10836573287384,
 100,112,Python3,1567946825000,1691246,L.,CN,8702145315290,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Python3,1607477443000,956759,anthoxo,FR,105708108533979,
 100,136,Python3,1620529043000,4126738,Spacer,US,63781847839821,
 100,136,Python3,1623033064000,397691,TeknighT,DK,65602063830932,
-100,137,Python3,1567946825000,893598,tjandra,ID,2840845610741,
-100,137,Python3,1567989770000,667567,zcx,AU,,
-100,137,Python3,1594946581000,847578,mamenyaka,HU,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=24|time=2021-07-11T01:13:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=24|time=2021-07-12T00:31:51
 100,139,Dart,1624156451000,155774,dwarfie,FR,17785582865119,
 100,140,Dart,1600224984000,2288263,dbdr,UA,43448306132121,
 100,147,Dart,1624156451000,1654818,tarapitha,EE,79401682508715,
@@ -6,6 +6,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,179,Dart,1625792092000,3354337,Westicles,CX,79146641399080,
 100,236,Dart,1605062560000,1848459,Velcoro,CZ,48538649860014,
 100,238,Dart,1624069865000,4308802,Ascodran,FR,63699964010463,
+100,248,Dart,1626049911000,2202771,Kaplone,FR,23792369424472,
 0,144,Dart,1567946836000,1357614,OptiPanda,FR,25029501539760,
 0,151,Dart,1583112893000,1436776,BrainSolver,FR,10099178983053,
 0,155,Dart,1598810526000,3845610,pardouin,FR,60364063762936,
@@ -15,7 +16,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,232,Dart,1602989383000,3922731,Dartisan,LU,101995908419116,
 0,233,Dart,1619145639000,1179950,Patorikkuyatta,FR,94806006573123,
 0,241,Dart,1614050502000,717413,fritaly,FR,57988445520868,
-0,247,Dart,1604459013000,2202771,Kaplone,FR,23792369424472,
 0,265,Dart,1604624206000,3626280,Fillan,FR,42980628832290,
 0,269,Dart,1609203939000,3305510,TBali,HU,26750785092441,
 0,335,Dart,1606878455000,4028761,CodeWanderer,US,52641689633474,

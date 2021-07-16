@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=726|time=2021-07-15T00:30:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=727|time=2021-07-16T00:50:02
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -290,6 +290,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,170,Javascript,1579399373000,1172385,LuckyMe,NL,5881502329792,
 100,170,Javascript,1589943889000,3819867,Elvis438,CA,,
 100,170,Javascript,1622863728000,4315215,hb68,FR,,
+100,170,Javascript,1626396602000,4325131,chop-chop,RU,63776362626256,
 100,171,Javascript,1567946837000,2762653,RAAAT,FR,20523458481719,
 100,171,Javascript,1588036469000,2043908,AntiSquid,,,
 100,171,Javascript,1606352055000,1600371,MoritzWachter,DE,7064447976077,
@@ -643,7 +644,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,674,Javascript,1599189830000,1621382,Zobee,CA,48954102884608,
 100,684,Javascript,1623294202000,3434647,nono23,FR,,
 100,688,Javascript,1605406465000,1644865,Knogobert,SE,7873987270645,
-100,690,Javascript,1621060573000,4325131,chop-chop,RU,63776362626256,
 100,699,Javascript,1617418561000,3575624,mpoo,GB,37092485159823,
 100,711,Javascript,1602297048000,4006778,itsadeki,FR,,
 100,721,Javascript,1608345429000,4112113,Foadad1,DE,,
@@ -719,6 +719,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,263,Javascript,1624432245000,3986561,failing,IE,,
 0,272,Javascript,1624432245000,3865234,,VN,,
 0,288,Javascript,1624432245000,3258764,Tizizi,FR,25949934523540,
+0,302,Javascript,1626396602000,4406706,emojiboy219,ZA,66820029609618,
 0,320,Javascript,1624432245000,3735745,KareemTheDream,US,41991023799349,
 0,349,Javascript,1624432245000,3214641,Neicul,FR,25566448504624,
 0,354,Javascript,1624432245000,3817354,logdog775,US,,

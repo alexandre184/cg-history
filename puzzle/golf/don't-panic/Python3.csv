@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2357|time=2021-07-15T00:30:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2360|time=2021-07-16T00:49:39
 100,62,Python3,1624329578000,3845610,pardouin,FR,60364063762936,
 100,68,Python3,1615948240000,155774,dwarfie,FR,17785582865119,
 100,68,Python3,1625792069000,3354337,Westicles,CX,79146641399080,
@@ -24,6 +24,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Python3,1567946818000,588783,adwiii,US,1717886703184,
 100,100,Python3,1607995139000,1399382,Regulus136,FR,4335723819637,
 100,100,Python3,1624242630000,1607522,RoboStac,GB,11333369102997,
+100,101,Python3,1626396579000,3337790,gitbeginer,KR,66608941195357,
 100,103,Python3,1613443642000,2928146,LolCat,MU,22538133010433,
 100,104,Python3,1567946818000,2096266,southzz,CN,,
 100,104,Python3,1607477439000,2927320,itectori,CA,22507458161222,
@@ -476,6 +477,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,186,Python3,1610772684000,4135188,jhewlett,US,,
 100,186,Python3,1612837840000,1593340,KopshA,RO,6645222915941,
 100,186,Python3,1621824467000,4095799,circular17,FR,55329921778165,
+100,186,Python3,1626396579000,4065227,Pamplemus,CA,53971529478633,
 100,187,Python3,1567946818000,2160500,JoaoBorges1,BR,,
 100,187,Python3,1567946818000,999596,Schyrsivochter,DE,,
 100,187,Python3,1567946818000,1186121,juloo,FR,,
@@ -996,6 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,230,Python3,1613788248000,4116654,Heartist,IN,60515687319263,
 100,230,Python3,1621229467000,3938500,evanforCodin,NZ,64105948982644,
 100,230,Python3,1621744992000,4251195,Smelty,US,62842162200886,
-100,231,Python3,1567946818000,1145203,Lemps,EE,5035294810209,
 100,231,Python3,1567946818000,918233,Mezilkree,RU,1820235303533,
-100,231,Python3,1567946818000,818780,bbodin01,FR,110088260228852,

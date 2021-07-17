@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=727|time=2021-07-16T00:50:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=728|time=2021-07-17T00:30:49
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,78,Javascript,1596589289000,3845610,pardouin,FR,60364063762936,
 100,87,Javascript,1595550644000,1654818,tarapitha,EE,79401682508715,
@@ -35,6 +35,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Javascript,1608772382000,3989067,pipololo,FR,62995243136577,
 100,117,Javascript,1588726380000,3513265,DaNinja,IE,35022107863170,
 100,117,Javascript,1599791926000,2888129,terazoid,UA,49682242574474,
+100,118,Javascript,1626481849000,2315158,luigi_gelato,DE,,
 100,119,Javascript,1567946837000,351062,Neumann,FR,17173563008577,
 100,119,Javascript,1580171442000,3540338,CAV,FR,,
 100,120,Javascript,1588383520000,814685,AthosPyte,NO,5617445240242,
@@ -44,7 +45,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Javascript,1580000684000,3162821,Discourage,RU,38928080534385,
 100,122,Javascript,1603420562000,3998990,bgotink,BE,51302604328322,
 100,122,Javascript,1611382402000,4138318,dr-awetz,HU,,
-100,122,Javascript,1625704554000,2315158,luigi_gelato,DE,,
 100,123,Javascript,1567946837000,2178794,Unihedron,HK,17500773502453,
 100,123,Javascript,1606878456000,3980409,Fanfouer,ES,53342280146328,
 100,123,Javascript,1607909014000,2923506,darkhorse64,FR,23496414257567,
@@ -451,6 +451,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,222,Javascript,1595032248000,1155071,Khdoop,BG,2942347979654,
 100,223,Javascript,1567946837000,2714204,Jack-Borg,DK,,
 100,223,Javascript,1573173937000,3542176,McHaribo,FR,36421521830975,
+100,223,Javascript,1626481849000,4363476,GregMc,US,65316303166761,
 100,224,Javascript,1602902858000,1673734,pshezgyr,RU,92154583506712,
 100,224,Javascript,1604284329000,165671,cyppan,FR,64028666285629,
 100,225,Javascript,1589509853000,3818428,kalamari,FR,44621789630735,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1871|time=2021-07-17T00:30:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1872|time=2021-07-18T00:48:18
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -23,8 +23,10 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,Python3,1626309049000,1114496,BlasphemousCrossbreed,UA,2486265138222,
 100,85,Python3,1593737173000,3663409,giosds,IT,,
 100,85,Python3,1594513848000,1525831,ntsd,TH,86763903852312,
+100,85,Python3,1626569298000,3337790,gitbeginer,KR,66608941195357,
 100,86,Python3,1607909013000,4089683,RedRikudo,FR,94756164332840,
 100,86,Python3,1626224917000,1500515,eulerscheZahl,DE,43135502422075,
+100,86,Python3,1626569298000,2315158,luigi_gelato,DE,,
 100,87,Python3,1623466583000,841420,RandomVariable,FR,66519841891143,
 100,87,Python3,1624753847000,1874759,seovs,,,
 100,89,Python3,1609989635000,4072223,gnoxo,SK,55721023684814,
@@ -46,7 +48,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,93,Python3,1624156454000,325339,PTank,FR,24870559795174,
 100,94,Python3,1625624348000,4041120,Alxito,PT,54128248910644,
 100,95,Python3,1625013457000,163666,sapfeer0k,DE,92240260347902,
-100,95,Python3,1626309049000,3337790,gitbeginer,KR,66608941195357,
 100,96,Python3,1616035430000,311035,leojean890,FR,42398427701382,
 100,96,Python3,1623897056000,2438514,davi_bart,IT,16905477283014,
 100,96,Python3,1626309049000,4415771,valentino.sm,UA,67208905166190,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Python3,1618806659000,4220057,EvilRed,GB,60077107189235,
 100,177,Python3,1625536824000,4405501,KMStorm,VN,,
 100,178,Python3,1567946837000,1769465,TAAU,FR,,
-100,178,Python3,1567989778000,1803872,happyweary,FR,10689522808579,

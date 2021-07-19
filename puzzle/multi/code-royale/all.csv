@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3480|time=2021-07-18T00:42:11
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3483|time=2021-07-19T00:30:14
 6,30.73,C++,,2653256,1049935,Azkellas,FR,20993257292354,
 6,30.55,C++,,1886979,1607522,RoboStac,GB,11333369102997,
 6,28.69,C++,,1886983,735910,Agade,CH,1997542876524,
@@ -499,7 +499,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.67,C#,,2676155,228904,Regan,FR,4495935742470,
 3,23.67,Python3,,2460519,1855354,KiwiTae,TW,109683640425245,
 3,23.66,C,,3227076,3812273,Jabberwocky733,DK,,
-3,23.65,Swift,,2252993,1588135,bjurner,DE,6543296439441,
+3,23.64,Swift,,2252993,1588135,bjurner,DE,6543296439441,
 3,23.64,C++,,3023302,3760956,GeekNbOne,CA,43391341737460,
 3,23.63,Java,,2250257,3105160,valentinwmtz,FR,77684687083756,
 3,23.63,Java,,1867010,992961,EasyAsPai,US,26061435001966,
@@ -590,8 +590,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.51,Javascript,,2992779,3522147,Gotham,GB,35448846651093,
 3,22.5,Javascript,,2634546,3614084,vseow,MY,,
 3,22.49,Javascript,,2219845,3010654,Taghurei,FR,24688362535926,
+3,22.48,PHP,,2025883,2794529,merdoyant,FR,,
 3,22.47,Python3,,2069946,993630,WVN,BE,23760089298259,
-3,22.47,PHP,,2025883,2794529,merdoyant,FR,,
 3,22.46,Java,,1872163,1185187,gamerOfThrons,MA,18992434667321,
 3,22.45,Python3,,3709967,2475464,ArturSworski,FI,,
 3,22.39,Java,,2432808,3101644,HerrHagner,DE,39056126752805,
@@ -837,7 +837,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,18.57,Java,,3402835,3979353,MrGG,IT,50327502375323,
 3,18.57,Python3,,1901019,1342663,JeromeFavrou,FR,18434720852896,
 3,18.56,C++,,1896183,2176877,pasymows,PL,14333167453890,
-3,18.54,C,,1938136,1568785,Chalzy,CA,10551277510615,
+3,18.55,C,,1938136,1568785,Chalzy,CA,10551277510615,
 3,18.54,Python3,,2737166,1216462,MartinVachovski,BG,,
 3,18.49,Java,,2106295,2375737,j.magalhaes,PT,,
 3,18.46,Python3,,3507435,4205394,hyndruide,FR,59764849953480,

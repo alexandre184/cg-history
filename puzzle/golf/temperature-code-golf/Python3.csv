@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5195|time=2021-07-19T00:32:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5200|time=2021-07-20T00:37:35
 100,53,Python3,1623984129000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,56,Python3,1620962719000,2315623,Lydxn,CA,,
@@ -47,6 +47,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Python3,1619408303000,154408,Pollo_loco,FR,61963962536348,
 100,61,Python3,1619495520000,4208158,Tiouz,FR,72554823729381,
 100,61,Python3,1624668534000,2526465,doritosxxx,RU,17838342424936,
+100,61,Python3,1626741455000,762642,Wonyoung,KR,4963742317694,
 100,62,Python3,1567946832000,2165865,Pandawan,FR,,
 100,62,Python3,1567946832000,2096336,SAINT_LAURENT,FR,13617684447326,
 100,62,Python3,1567946832000,1947771,__Alex__,FR,30648148449823,
@@ -609,7 +610,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,73,Python3,1622255789000,4294044,simsimlafamille,FR,64218049607703,
 100,73,Python3,1622341857000,3494301,CoreyCV,US,,
 100,73,Python3,1622863724000,3712983,shallow_mind,TR,,
-100,73,Python3,1623294189000,3478926,Leptit,FR,50226901621438,
+100,73,Python3,1623294189000,3478926,Leptit_A.D,FR,50226901621438,
 100,73,Python3,1623466578000,2833929,pcourrousse,FR,92388388185960,
 100,73,Python3,1623897051000,1124679,Tinaud,CA,2547993227524,
 100,73,Python3,1623984129000,4277867,About,SM,65816469118906,
@@ -978,7 +979,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Python3,1625185843000,3913241,KevinLi-py,CN,66916307437823,
 100,79,Python3,1567946832000,2445835,AnotherUnnamed,RU,,
 100,79,Python3,1567946832000,1323621,Blablub,DE,,
-100,79,Python3,1567946832000,1378506,MattGately,US,,
 100,79,Python3,1567946832000,1253276,Meleas,CA,67548620394912,
 100,79,Python3,1567946832000,1001096,MyIIone,AT,4231449697357,
 100,79,Python3,1567946832000,1527408,NiXerasse,RU,5690944765234,

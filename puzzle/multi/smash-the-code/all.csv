@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2482|time=2021-07-21T00:30:15
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2482|time=2021-07-22T00:42:28
 5,35.66,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.44,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -845,7 +845,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.4,C++,,906113,754792,Ramdeath,LT,13430148307311,
 1,23.4,Python3,,2688544,153645,Ironc,FR,22685711218947,
 1,23.4,C,,2267027,3143143,TripleCrown,JP,24793026178088,
-1,23.4,Javascript,,3758782,4437261,IBozhko,UA,,
 1,23.4,Python3,,3030518,3477232,AxelVo,FR,,
 1,23.39,Java,,1465277,2168881,bubulle,RE,14443100572406,
 1,23.39,C#,,573090,859508,ger0000,HU,,
@@ -911,7 +910,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.21,Python,,504765,1081818,Indispira,FR,2268356777933,
 1,23.2,C#,,962800,1385626,Wabash9000,US,4206137522309,
 1,23.2,Python3,,648167,1505744,KEKW,FR,90783069225130,
-1,23.2,Python3,,936212,1517028,Nicau,FR,8848906617685,
 1,23.2,Javascript,,720140,1556368,ATA_,FR,6164996580193,
 1,23.19,VB.NET,,576247,1476242,Txiwi,ES,5036284664644,
 1,23.19,C++,,768550,1662602,brenrik,FR,,
@@ -938,6 +936,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.14,Javascript,,609670,1504640,Wicpar,FR,10403081046213,
 1,23.14,Rust,,629719,1379639,Bluesk13s,NO,,
 1,23.14,C++,,493061,1364114,Unforgiven,US,,
+1,23.14,Python3,,936212,1517028,Nicau,FR,8848906617685,
 1,23.13,C++,,599319,1496034,Treb,CA,24513264082230,
 1,23.13,C++,,3433898,1557154,BigToeMan,PL,58492267910206,
 1,23.13,C#,,2085737,1728288,MOLP,FR,25530098163966,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23,Java,,755489,1648009,Getileino,ES,,
 1,23,Python3,,653895,1113415,Lhassa,FR,,
 1,22.99,C#,,503539,1470509,KiRa937,RU,4826056486796,
+1,22.99,C,,582671,1492574,zc,SE,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=74|time=2021-07-26T00:47:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=74|time=2021-07-27T01:00:37
 100,73,F#,1583368734000,1483723,d-s-x,RU,4980051025170,
 100,75,F#,1624242644000,334009,abouvier,FR,4681436111242,
 100,82,F#,1567946830000,2418256,Pobrodilin,FI,,
@@ -31,6 +31,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,F#,1567946830000,1630890,Wld,DE,54135389391511,
 100,149,F#,1567946830000,807709,Michaelmore,DE,,
 100,160,F#,1612414265000,4145194,charnel_mouse,GB,57629001495381,
+100,162,F#,1627347637000,1399382,Regulus136,FR,4335723819637,
 100,168,F#,1567946830000,3360445,undeclared_identifier,DE,29321201399394,
 100,173,F#,1610426811000,3974681,bitchef,FR,,
 100,174,F#,1595983757000,2000540,rombolshak,RU,13688099965449,
@@ -68,7 +69,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 86,705,F#,1624432236000,3978513,featuresnap,US,,
 0,0,F#,1624432236000,996606,Indy,FR,4599658797414,
 0,73,F#,1585444521000,1537792,AsaiYusuke,US,41785380851985,
-0,90,F#,1596242457000,1399382,Regulus136,FR,4335723819637,
 0,95,F#,1567946830000,1001096,MyIIone,AT,4231449697357,
 0,99,F#,1567946830000,973040,papyjo,FR,15696776172839,
 0,165,F#,1582853299000,1629259,Marchete,ES,61997162908277,

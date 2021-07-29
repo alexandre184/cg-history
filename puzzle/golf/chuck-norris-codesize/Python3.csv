@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1898|time=2021-07-28T00:41:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1899|time=2021-07-29T00:42:18
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -30,6 +30,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,86,Python3,1626569298000,2315158,luigi_gelato,DE,,
 100,87,Python3,1623466583000,841420,RandomVariable,FR,66519841891143,
 100,87,Python3,1624753847000,1874759,seovs,,,
+100,87,Python3,1627519338000,3702930,WhaIe,US,107551667753928,
 100,89,Python3,1609989635000,4072223,gnoxo,SK,55721023684814,
 100,89,Python3,1614911460000,3877161,HETHAT,DZ,46368142824396,
 100,89,Python3,1619233760000,4199011,MarTiaNe,GE,60356707757448,
@@ -947,6 +948,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,170,Python3,1617158167000,4218434,Mformento,IT,,
 100,170,Python3,1619145641000,4272137,Linkyu,FR,61815668643127,
 100,170,Python3,1621480090000,2491032,lld,DE,64874843660196,
+100,170,Python3,1627519338000,4362943,Xascoria,MY,,
 100,171,Python3,1567946837000,2107217,Oh-Maley,CA,79905126426607,
 100,171,Python3,1567946837000,2257888,guipe,CA,,
 100,171,Python3,1571704871000,3513543,luftfest,DE,,
@@ -959,7 +961,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,171,Python3,1614050505000,4097526,BugM4ker,FR,56304482032588,
 100,171,Python3,1621229629000,4342913,PoviaEteroSex,IN,64331021257534,
 100,171,Python3,1622176589000,2786692,gjeanner,FR,,
-100,171,Python3,1626654752000,4362943,Xascoria,MY,,
 100,172,Python3,1567946837000,982059,zayin,US,42228783240502,
 100,172,Python3,1591750335000,3818405,gschaden,AT,44519768732548,
 100,172,Python3,1591837842000,3557192,trpaslik,CZ,52548263870450,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,175,Python3,1625536824000,3593941,Spielzeugente,AT,40671324176935,
 100,176,Python3,1567946837000,3397244,LiBa01,DE,41566863418538,
 100,176,Python3,1567946837000,1908091,RedAustin,FR,83000946649049,
-100,176,Python3,1582505953000,2622559,Gripnil,FR,19024435956137,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2010|time=2021-07-31T00:30:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2012|time=2021-08-01T00:30:46
 100,147,Java,1583368731000,1483723,d-s-x,RU,4980051025170,
 100,157,Java,1584894197000,1654818,tarapitha,EE,79401682508715,
 100,173,Java,1623984134000,2480972,d3d3,FR,17399956983229,
@@ -379,6 +379,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,281,Java,1567946832000,1171469,Reblochon,FR,3915935783530,
 100,281,Java,1567946832000,1075260,metwesse,FR,3909082474290,
 100,281,Java,1572395737000,3506456,ValentinPicavet,FR,34869848947602,
+100,281,Java,1627777846000,3923511,Elmoin,FR,68367923090403,
 100,282,Java,1567946832000,3066640,MaherYounsi,FR,25197044359159,
 100,282,Java,1567946832000,1757794,midou007,FR,,
 100,282,Java,1606611599000,4083202,Will_Moss,US,54707860123863,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,686,Java,1567946832000,1759460,ElAmraniSoufiane,MA,,
 100,689,Java,1567946832000,2580241,,DE,,
 100,690,Java,1567946832000,2061047,Panderas,DE,14533886266029,
-100,692,Java,1623897048000,4373509,Saturn13,JP,,

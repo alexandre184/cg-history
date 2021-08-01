@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18368|time=2021-07-31T00:30:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18378|time=2021-08-01T00:30:47
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -50,6 +50,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,44,Perl,1616122922000,4095128,Voltmachine,BG,56919066754571,
 100,44,Ruby,1620362000000,3380184,chouch,FR,,
 100,44,Perl,1626139022000,806416,awnion,RS,59791745647170,
+100,44,Ruby,1627777848000,1061576,Samesamz,CA,91909743102354,
 100,45,Perl,1567946831000,1001096,MyIIone,AT,4231449697357,
 100,45,Perl,1567946831000,240311,Myrthem,FR,,
 100,45,Perl,1567946831000,1336464,magaiti,RU,4034881109815,
@@ -88,7 +89,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,46,Ruby,1619756634000,1515891,ndc,RU,57247748477088,
 100,46,Perl,1621229562000,4216789,Saur2000,SE,59987602214161,
 100,46,Ruby,1626569289000,1390607,Ivan_Derzhylo,UA,67601821029462,
-100,46,Ruby,1627691449000,1061576,Samesamz,CA,91909743102354,
 100,47,Perl,1567946831000,1193408,DoubleZeroSteph,FR,3015400557516,
 100,47,Perl,1567946831000,1307473,Evgenykz,UA,33899861048423,
 100,47,Perl,1567946831000,2451652,code_of_the_dead,FR,18798469788923,
@@ -791,6 +791,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Ruby,1626309042000,4294044,simsimlafamille,FR,64218049607703,
 100,60,Javascript,1626654748000,4334077,Paul_Demanze,GB,89645400922966,
 100,60,Javascript,1627691448000,2552218,Jakque,FR,21307149950021,
+100,60,Ruby,1627777848000,4452418,rorekk,US,,
 100,61,Javascript,1567946828000,1906719,ArpadDravecz,HU,11710900308045,
 100,61,Javascript,1567946828000,155887,BanBan,FR,8230051407070,
 100,61,Javascript,1567946828000,482445,BogdanSavchenko,UA,9319024256259,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1567946828000,2452543,Maznek,FR,19088417820828,
 100,63,Javascript,1567946828000,1382285,Neverever978,AU,28822446519150,
 100,63,Javascript,1567946828000,932973,Pimentero,RU,4231762508856,
-100,63,Javascript,1567946828000,1701043,Qnu,FR,9551310631906,

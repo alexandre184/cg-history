@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9773|time=2021-08-01T00:30:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9783|time=2021-08-02T01:07:06
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
 100,59,C,1567946816000,2288263,dbdr,UA,43448306132121,
@@ -506,6 +506,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,128,Javascript,1622428457000,3973359,KAbel,HU,58683122994198,
 100,128,Javascript,1622946643000,4301050,SamTheSomebody,AU,78256248538247,
 100,128,Javascript,1624329576000,1140253,Garnathus,CH,2648626769923,
+100,128,Javascript,1627866424000,3143948,Divinement_Astucieux,FR,25685082301390,
 100,129,PHP,1567946816000,687234,joseic,ES,2131041990105,
 100,129,Javascript,1567946817000,1142999,Topcina,BA,3333128432444,
 100,129,Javascript,1567946817000,938374,UnmanagedCode,NL,12229437989878,
@@ -787,6 +788,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Python3,1609379276000,2135916,Oioi,FR,20262005724221,
 100,153,Javascript,1617504059000,4256559,pkostua,RU,,
 100,153,Python3,1623810649000,2153101,Bilou06,FR,14368663014319,
+100,153,Javascript,1627866424000,3917724,Marke18,IT,47701103353349,
 100,154,Javascript,1567946817000,1504684,entrpy,DE,5325537976344,
 100,154,Go,1567946818000,371603,martin,CA,1761380964089,
 100,154,Python3,1567946818000,1643849,anton_sh,RU,12241718176557,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,165,Python3,1610512057000,153092,Aurep,FR,80624060148818,
 100,165,Javascript,1618715568000,4275624,UnknownException,CA,,
 100,165,Python3,1621564449000,1880197,bicklil,FR,48428120491412,
-100,165,Ruby,1625013441000,4072753,mdstoy,JP,54294744903755,
-100,166,C,1567946816000,999637,dinobogan,FR,61192341763607,

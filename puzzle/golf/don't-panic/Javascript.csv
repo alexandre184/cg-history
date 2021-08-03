@@ -1,4 +1,5 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1352|time=2021-08-02T01:07:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1352|time=2021-08-03T02:08:27
+100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
 100,70,Javascript,1567946817000,371603,martin,CA,1761380964089,
 100,70,Javascript,1627606952000,155774,dwarfie,FR,17785582865119,
@@ -10,7 +11,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Javascript,1567946817000,1001096,MyIIone,AT,4231449697357,
 100,81,Javascript,1567946817000,600941,mrv,PL,,
 100,82,Javascript,1567946817000,490905,lechium06_,PL,1716926865465,
-100,82,Javascript,1627606952000,1675034,francois,FR,15464459859531,
 100,83,Javascript,1567946817000,155887,BanBan,FR,8230051407070,
 100,83,Javascript,1567946817000,2348615,CedricT,FR,15879363871482,
 100,87,Javascript,1567946817000,557990,Wazemo,PL,1724224108740,
@@ -240,6 +240,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,150,Javascript,1606438651000,4040965,Twistman,FR,,
 100,151,Javascript,1567946817000,1357614,OptiPanda,FR,25029501539760,
 100,151,Javascript,1567946817000,3030808,skps2010,TW,,
+100,151,Javascript,1627956507000,3917724,Marke18,IT,47701103353349,
 100,152,Javascript,1567946817000,1070566,Kodnot,LT,20227250201533,
 100,152,Javascript,1567946817000,962569,[K]Gabor,HU,1919640900304,
 100,152,Javascript,1567946817000,740424,vmeurisse,FR,2106597540539,
@@ -248,7 +249,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1567946817000,1081039,souldreamer,RO,2277265611304,
 100,153,Javascript,1604711070000,1984345,CedricHerzog,FR,35678327855863,
 100,153,Javascript,1617504059000,4256559,pkostua,RU,,
-100,153,Javascript,1627866424000,3917724,Marke18,IT,47701103353349,
 100,154,Javascript,1567946817000,1504684,entrpy,DE,5325537976344,
 100,155,Javascript,1567946817000,2867477,MichaelKommandant,UA,,
 100,155,Javascript,1567946817000,893177,Rebelwillow,US,20738672717048,

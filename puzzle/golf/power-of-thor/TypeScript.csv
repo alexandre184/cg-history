@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=182|time=2021-08-06T00:30:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=183|time=2021-08-07T00:30:32
 100,68,TypeScript,1627956513000,1675034,francois,FR,15464459859531,
 100,91,TypeScript,1627260457000,3354337,Westicles,CX,79146641399080,
 100,98,TypeScript,1615084990000,3918583,mikmak,FR,48134583112917,
@@ -31,6 +31,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,137,TypeScript,1614997861000,4166845,HugeMissedSteak,NL,59373221969418,
 100,137,TypeScript,1627866428000,829018,alchemsti,DE,39208827785278,
 100,138,TypeScript,1603334264000,3998990,bgotink,BE,51302604328322,
+100,139,TypeScript,1628296232000,1436776,BrainSolver,FR,10099178983053,
 100,140,TypeScript,1597192278000,893541,wala,FR,97577641170180,
 100,140,TypeScript,1625273052000,3801079,jokovitch,FR,63561229827062,
 100,140,TypeScript,1627260457000,1845617,Shingy,AU,26010702723839,
@@ -83,6 +84,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,189,TypeScript,1614738639000,4079196,binary-bot,CH,,
 100,191,TypeScript,1572066669000,3504573,ChrisOz,AU,35540929862328,
 100,193,TypeScript,1599705045000,3966434,FredericP,DE,,
+100,196,TypeScript,1628296232000,3902628,Kinhira,FR,,
 100,197,TypeScript,1606702333000,3305510,TBali,HU,26750785092441,
 100,199,TypeScript,1601606628000,3997947,,FR,,
 100,202,TypeScript,1609727448000,936472,Cheecken,US,13041003181527,
@@ -157,7 +159,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1970,TypeScript,1606783905000,548401,ArifBudiman,ID,86585422007575,
 75,70,TypeScript,1595464479000,1483723,d-s-x,RU,4980051025170,
 75,81,TypeScript,1596501978000,2288263,dbdr,UA,43448306132121,
-75,82,TypeScript,1596242448000,1436776,BrainSolver,FR,10099178983053,
 75,99,TypeScript,1621910593000,3700629,serialgg,FR,41086567019728,
 75,106,TypeScript,1620788400000,2371389,Franta,CZ,16642908084028,
 75,109,TypeScript,1604537329000,1485690,Kikoo,FR,4993649967380,

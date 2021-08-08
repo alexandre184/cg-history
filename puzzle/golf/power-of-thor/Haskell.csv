@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=214|time=2021-08-07T00:30:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=214|time=2021-08-08T01:35:09
 100,119,Haskell,1595727359000,154906,JBM,CH,,
 100,120,Haskell,1567946824000,903521,j_hn,GB,,
 100,121,Haskell,1567946824000,1370901,Valdrac,IE,3986102843776,
@@ -17,6 +17,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Haskell,1567946824000,1676432,Barny,CZ,10144291488777,
 100,151,Haskell,1567946824000,663913,SandorHerms,DE,,
 100,152,Haskell,1567946824000,1975116,[BT]Atte,FI,12400468367460,
+100,152,Haskell,1628386509000,1954303,Freidrich,NO,12213509614148,
 100,153,Haskell,1627260453000,155774,dwarfie,FR,17785582865119,
 100,155,Haskell,1567946824000,221648,stephenvk,US,,
 100,156,Haskell,1567946824000,512125,Totoro83,IT,,
@@ -188,7 +189,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,295,Haskell,1567946824000,950332,Migano,DE,,
 75,364,Haskell,1567946824000,1464932,Tiramon,DE,12287237914571,
 75,428,Haskell,1567946824000,1231532,Arnaud_63,FR,3236083680840,
-75,463,Haskell,1567946824000,864071,Basecrosser,,,
 50,86,Haskell,1567946824000,154372,Plopx,FR,7959085736890,
 50,93,Haskell,1567946824000,334009,abouvier,FR,4681436111242,
 50,94,Haskell,1594168537000,154984,_Royale,FR,17869369984436,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1203|time=2021-08-08T01:35:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1204|time=2021-08-09T00:47:20
 100,50,Ruby,1627777839000,3845610,pardouin,FR,60364063762936,
 100,62,Ruby,1628209834000,2288263,dbdr,UA,43448306132121,
 100,69,Ruby,1627347628000,3380184,chouch,FR,,
@@ -18,6 +18,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Ruby,1567946826000,884725,zoty314,HU,,
 100,81,Ruby,1627174076000,2923506,darkhorse64,FR,23496414257567,
 100,82,Ruby,1567946826000,1110112,RShields,US,6141095857669,
+100,82,Ruby,1628470040000,709490,Sinlepuissant,FR,2102604527472,
 100,83,Ruby,1567946826000,2021126,FPSCUBE,FR,12916810121106,
 100,84,Ruby,1567946826000,333934,CrazyMerlyn,IE,20045015439951,
 100,84,Ruby,1627347628000,311035,leojean890,FR,42398427701382,
@@ -139,6 +140,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,Ruby,1618454978000,4034494,GTaf,FR,,
 100,90,Ruby,1619495442000,3335896,_martynas,LT,92914406769053,
 100,90,Ruby,1623294184000,1030709,Cmdr.Shepard,FR,4712656486276,
+100,90,Ruby,1628470040000,4396362,oxydowe,,,
 100,91,Ruby,1567946826000,1887115,botbot,ES,,
 100,91,Ruby,1624927214000,869546,Gizmoooh,FR,,
 100,91,Ruby,1627260456000,155774,dwarfie,FR,17785582865119,
@@ -916,7 +918,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,80,Ruby,1567946826000,1673971,Lanken,UA,8202213472293,
 75,80,Ruby,1567946826000,1348523,Numb_,FR,12609619784224,
 75,80,Ruby,1575941072000,1021946,a_Tom,FR,,
-75,81,Ruby,1567946826000,709490,Sinlepuissant,FR,2102604527472,
 75,81,Ruby,1604711076000,1193679,Icebox,DE,28987786895120,
 75,81,Ruby,1621391633000,2371389,Franta,CZ,16642908084028,
 75,82,Ruby,1567946826000,1234947,kuro,BR,6850950439511,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,103,Ruby,1567946826000,1753077,codingWhale,DE,44660101966182,
 75,103,Ruby,1587603896000,3730057,Maxtreme,DE,42314728539566,
 75,104,Ruby,1567946826000,1094663,JocoM,HU,,
-75,104,Ruby,1567946826000,3403813,davispuh,LV,,

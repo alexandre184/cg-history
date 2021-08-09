@@ -1,4 +1,5 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=333|time=2021-08-08T01:35:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=333|time=2021-08-09T00:47:24
+100,96,Go,1628386511000,3845610,pardouin,FR,60364063762936,
 100,112,Go,1627260454000,3354337,Westicles,CX,79146641399080,
 100,116,Go,1625624338000,1607522,RoboStac,GB,11333369102997,
 100,156,Go,1627260454000,1399382,Regulus136,FR,4335723819637,
@@ -262,7 +263,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1953,Go,1567946823000,875453,Chapel,FR,9636408345593,
 100,2109,Go,1567946823000,1401812,ItWillBeBetter,US,,
 100,2563,Go,1606012350000,4073482,icomelookingforbooty,CA,,
-75,96,Go,1628386511000,3845610,pardouin,FR,60364063762936,
 75,139,Go,1596846630000,1436776,BrainSolver,FR,10099178983053,
 75,142,Go,1567946823000,828213,anst,FR,1734651202684,
 75,142,Go,1612665661000,2928146,LolCat,MU,22538133010433,

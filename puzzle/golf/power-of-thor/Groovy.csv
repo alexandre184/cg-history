@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=177|time=2021-08-08T01:35:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=178|time=2021-08-09T00:47:21
 100,116,Groovy,1567946826000,1339104,Sedo,FR,14750498709174,
 100,116,Groovy,1599448176000,1178276,Jerome_95,FR,19999067509724,
 100,122,Groovy,1596674083000,155774,dwarfie,FR,17785582865119,
@@ -18,6 +18,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,144,Groovy,1567946826000,2786666,TetraktysPhi,FR,20818693590142,
 100,146,Groovy,1567946826000,3308199,ChadThundercode,RU,26870541968187,
 100,146,Groovy,1605227949000,2028876,The4lchemist,FR,12932054867765,
+100,146,Groovy,1628470041000,2315158,luigi_gelato,DE,,
 100,148,Groovy,1567946826000,1120620,Cybermaxke,BE,,
 100,148,Groovy,1597192271000,3917420,trold,DK,57903946621242,
 100,150,Groovy,1567946826000,1129906,PaulEdouard,FR,,
@@ -42,6 +43,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,188,Groovy,1627956509000,3516345,Jp82,FR,63600965075245,
 100,191,Groovy,1567946826000,1170712,Djo0012,CA,8090268414289,
 100,192,Groovy,1567946826000,936356,Tajasch,DE,3375957240885,
+100,192,Groovy,1628470041000,709490,Sinlepuissant,FR,2102604527472,
 100,193,Groovy,1567946826000,1206598,Moradal,DE,,
 100,196,Groovy,1567946826000,414278,oobException,FR,4595241889335,
 100,198,Groovy,1567946826000,1012908,boris2,ME,,
@@ -147,7 +149,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,343,Groovy,1567946826000,199979,VonRickroll,FR,4699081038708,
 75,474,Groovy,1567946826000,1500515,eulerscheZahl,DE,43135502422075,
 75,1051,Groovy,1567946826000,1215408,tle-meur,FR,4526090010842,
-75,1102,Groovy,1601951995000,709490,Sinlepuissant,FR,2102604527472,
 50,73,Groovy,1567946826000,490905,lechium06_,PL,1716926865465,
 50,76,Groovy,1567946826000,371603,martin,CA,1761380964089,
 50,77,Groovy,1567946826000,935802,Jerhyn,FR,109463964266798,

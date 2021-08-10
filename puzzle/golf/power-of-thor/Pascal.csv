@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2021-08-09T00:47:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2021-08-10T01:09:14
 100,122,Pascal,1627260455000,3354337,Westicles,CX,79146641399080,
 100,155,Pascal,1627260455000,4095799,circular17,FR,55329921778165,
 100,165,Pascal,1573864704000,3509975,bneumann,HU,35027463301192,
@@ -11,6 +11,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,225,Pascal,1567946823000,1707377,Colgate-Blancheur,FR,9896613056357,
 100,225,Pascal,1567946823000,1152008,GrigoreDiviza,MD,,
 100,227,Pascal,1567946823000,662291,kexter,HU,82067989677560,
+100,227,Pascal,1628557754000,1436776,BrainSolver,FR,10099178983053,
 100,236,Pascal,1567946823000,3308199,ChadThundercode,RU,26870541968187,
 100,241,Pascal,1567946823000,2525854,AlexRacer,RS,,
 100,241,Pascal,1567946823000,1039983,j0k3r,ME,16068843221679,
@@ -113,7 +114,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,168,Pascal,1567946823000,1128225,AxleShaft,AE,,
 75,180,Pascal,1599705043000,3845610,pardouin,FR,60364063762936,
 75,180,Pascal,1621564475000,2371389,Franta,CZ,16642908084028,
-75,185,Pascal,1597192276000,1436776,BrainSolver,FR,10099178983053,
 75,233,Pascal,1567946823000,2043908,AntiSquid,,,
 75,301,Pascal,1567946823000,2069141,tomeko,PL,13370027887052,
 75,475,Pascal,1567946823000,1231532,Arnaud_63,FR,3236083680840,

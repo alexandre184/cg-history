@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32203|time=2021-08-11T00:58:22
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32215|time=2021-08-12T00:52:57
 100,50,Ruby,1627777839000,3845610,pardouin,FR,60364063762936,
 100,54,C,1627606958000,3845610,pardouin,FR,60364063762936,
 100,54,ObjectiveC,1627606963000,3845610,pardouin,FR,60364063762936,
@@ -42,6 +42,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Python3,1627260454000,3354337,Westicles,CX,79146641399080,
 100,80,Python3,1627432874000,3903473,Konstant,PL,47882887732604,
 100,80,Python3,1628643503000,3337790,gitbeginer,KR,66608941195357,
+100,80,Python3,1628729579000,1567943,LazyMammal,CA,54419089430083,
 100,81,Ruby,1567946826000,1300254,Escdemon,FR,10836573287384,
 100,81,Ruby,1567946826000,1814485,Fluttershy,DE,10675859429606,
 100,81,Ruby,1567946826000,1568093,b0ot,AE,6694372640439,
@@ -71,7 +72,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,Lua,1595637197000,1654818,tarapitha,EE,79401682508715,
 100,84,Python3,1624069856000,1759839,matleg,FR,27938585309756,
 100,84,Ruby,1627347628000,311035,leojean890,FR,42398427701382,
-100,84,Python3,1627956512000,1567943,LazyMammal,CA,54419089430083,
 100,85,Python3,1628123520000,762642,Wonyoung,KR,4963742317694,
 100,85,Ruby,1628643501000,4396362,oxydowe,,,
 100,86,Ruby,1567946826000,2615786,nyiti,HU,,
@@ -802,6 +802,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,110,Javascript,1627956514000,3917724,Marke18,IT,47701103353349,
 100,110,Javascript,1628470041000,4060933,ElPingu,IT,,
 100,110,Ruby,1628643501000,3792309,schachmatt,DE,58313205988826,
+100,110,Javascript,1628729577000,1567943,LazyMammal,CA,54419089430083,
 100,111,Javascript,1567946825000,153327,Ayb.BH,MA,1781871884066,
 100,111,Javascript,1567946825000,1181774,Daminox,FR,,
 100,111,Javascript,1567946825000,2599667,DashBrownies,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Python3,1612665658000,4017027,Lotopi,FR,66499523558365,
 100,113,Python3,1613616176000,4182367,eXCoreX,UA,58740064163233,
 100,113,Python3,1614138710000,299716,Intuiste,BM,8327567004229,
-100,113,Python3,1614138710000,4196642,andysprague44,US,75796903950782,

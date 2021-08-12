@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2489|time=2021-08-11T00:33:00
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2490|time=2021-08-12T00:34:18
 5,35.66,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.44,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -863,9 +863,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.35,Javascript,,507333,1472464,und3fined,PL,,
 1,23.35,C++,,1481109,890335,ttr,NL,15580335029168,
 1,23.35,Javascript,,487289,1409204,Ricco7La,BE,4336117454857,
-1,23.35,C++,,1110328,1866525,charMlessMan,BE,,
 1,23.35,Perl,,725150,1567782,brt,NL,6297278202178,
 1,23.34,Python,,1400468,1891787,Threyeth,US,11740577120638,
+1,23.33,C++,,1110328,1866525,charMlessMan,BE,,
 1,23.33,C#,,573090,859508,ger0000,HU,,
 1,23.32,Python3,,2983464,2740243,Rprades,ES,20624170826703,
 1,23.32,C,,2454349,1397268,RTLB,FR,,
@@ -894,7 +894,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.26,Python,,912652,1753121,Fumo201,TW,10114797599106,
 1,23.26,Java,,628910,359746,Shoohei,FR,1976981425507,
 1,23.26,C++,,1218206,1836084,TaoLu,NO,11029116747275,
-1,23.26,Java,,483910,1062481,MauroSemproni,IT,,
 1,23.25,C#,,875277,1361326,8],US,7053865345385,
 1,23.25,C#,,896454,1251131,ma81xx,IT,9638700030976,
 1,23.25,Javascript,,498595,1412502,falsidge,US,,
@@ -953,6 +952,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.14,Python3,,3569799,4309574,KornDV,CA,63044782408453,
 1,23.14,Javascript,,2346994,3331361,Hikyu,DE,28161006874376,
 1,23.13,C#,,2318409,1509251,OmikoGaming,DE,,
+1,23.12,Java,,483910,1062481,MauroSemproni,IT,,
 1,23.12,PHP,,716503,1052976,MatasR,LT,51797208337996,
 1,23.12,Java,,3342570,831171,Recoding,FR,2203947183303,
 1,23.11,C++,,512500,1470835,Fsk,FR,6948560874163,

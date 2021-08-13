@@ -1,5 +1,6 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4139|time=2021-08-12T00:52:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4139|time=2021-08-13T01:15:47
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
+100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
 100,87,Javascript,1627260458000,3354337,Westicles,CX,79146641399080,
 100,88,Javascript,1567946825000,1589272,darrylyeo,US,6826201774664,
 100,89,Javascript,1628209833000,2288263,dbdr,UA,43448306132121,
@@ -45,6 +46,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Javascript,1619145624000,1179950,Patorikkuyatta,FR,94806006573123,
 100,98,Javascript,1622863711000,2315158,luigi_gelato,DE,,
 100,98,Javascript,1624927213000,1701924,Kethryes,FR,65611961439802,
+100,98,Javascript,1628817347000,1436776,BrainSolver,FR,10099178983053,
 100,99,Javascript,1595032234000,3808031,_proton,US,44172683522650,
 100,99,Javascript,1607131073000,2635907,lopidav,UA,18844623817442,
 100,99,Javascript,1611205070000,4060994,3030,FI,,
@@ -54,7 +56,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,100,Javascript,1598810514000,1045485,Jessie,FR,9025608819920,
 100,100,Javascript,1607393935000,2220824,Aerodactylus,FR,54336008500576,
 100,100,Javascript,1615604504000,3298988,PotatoCoder,FI,101491804514502,
-100,100,Javascript,1628643504000,1436776,BrainSolver,FR,10099178983053,
 100,101,Javascript,1567946825000,1675279,ArnaudBarre,FR,25662301088049,
 100,101,Javascript,1567946825000,1489835,kdex,DE,5041775768798,
 100,101,Javascript,1595810261000,1654818,tarapitha,EE,79401682508715,
@@ -98,7 +99,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1616468011000,4095128,Voltmachine,BG,56919066754571,
 100,105,Javascript,1624432229000,2526465,doritosxxx,RU,17838342424936,
 100,105,Javascript,1627089472000,3840544,wiisportsresort,US,,
-100,105,Javascript,1628643504000,3337790,gitbeginer,KR,66608941195357,
 100,106,Javascript,1567946825000,1144327,Ben_da_Moose,US,,
 100,106,Javascript,1567946825000,825464,gf3741,FR,1961042323379,
 100,106,Javascript,1567946825000,1188192,mandrak3,DE,2953906491344,

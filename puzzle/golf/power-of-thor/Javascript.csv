@@ -1,5 +1,6 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4139|time=2021-08-13T01:15:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4141|time=2021-08-14T00:44:36
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
+100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
 100,87,Javascript,1627260458000,3354337,Westicles,CX,79146641399080,
 100,88,Javascript,1567946825000,1589272,darrylyeo,US,6826201774664,
@@ -44,7 +45,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Javascript,1567946825000,1507224,nagoz,FR,,
 100,98,Javascript,1596760236000,155774,dwarfie,FR,17785582865119,
 100,98,Javascript,1619145624000,1179950,Patorikkuyatta,FR,94806006573123,
-100,98,Javascript,1622863711000,2315158,luigi_gelato,DE,,
 100,98,Javascript,1624927213000,1701924,Kethryes,FR,65611961439802,
 100,98,Javascript,1628817347000,1436776,BrainSolver,FR,10099178983053,
 100,99,Javascript,1595032234000,3808031,_proton,US,44172683522650,
@@ -975,6 +975,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1601697600000,2438514,davi_bart,IT,16905477283014,
 100,147,Javascript,1609555256000,4115282,Deferlis,FR,,
 100,147,Javascript,1622863711000,4363476,GregMc,US,65316303166761,
+100,147,Javascript,1628901876000,1945778,Masthiks,FR,19431348050278,
 100,148,Javascript,1594946584000,2123567,BoutDeBois,FR,28874328851052,
 100,148,Javascript,1594946584000,1923302,Dracco,PL,11868998484454,
 100,148,Javascript,1594946584000,222988,FARV,FR,,
@@ -994,7 +995,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,148,Javascript,1613616177000,4175331,ngdangtu,VN,,
 100,149,Javascript,1594946584000,703271,DrinkingBird,AR,1806409700397,
 100,149,Javascript,1594946584000,1599552,FlyingRatBull,DE,7666783174287,
-100,149,Javascript,1594946584000,1769355,JagerMaster,FR,31059348610353,
 100,149,Javascript,1594946584000,1625417,Keb,FR,,
 100,149,Javascript,1594946584000,1420817,TheMagicShop,FR,4468522326390,
 100,149,Javascript,1594946584000,898773,dngo,FR,,

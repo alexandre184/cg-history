@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2136|time=2021-08-14T00:44:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2138|time=2021-08-15T00:44:14
 100,54,C,1627606958000,3845610,pardouin,FR,60364063762936,
 100,62,C,1616380786000,155774,dwarfie,FR,17785582865119,
 100,70,C,1627260456000,3354337,Westicles,CX,79146641399080,
@@ -92,6 +92,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,C,1580689839000,3660686,Kekkyoku,FR,,
 100,127,C,1623384831000,4380134,Blatnik,NL,,
 100,127,C,1627347625000,311035,leojean890,FR,42398427701382,
+100,127,C,1628988254000,3960770,AndorM,NL,49577721403429,
 100,128,C,1567946827000,2043908,AntiSquid,,,
 100,128,C,1567946827000,3308199,ChadThundercode,RU,26870541968187,
 100,128,C,1567946827000,1512611,Essigautomat,DE,18914605847408,
@@ -436,6 +437,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,173,C,1567946827000,1447675,mithrantor,FR,13125496354300,
 100,173,C,1567946827000,1095256,sdchdl,TN,,
 100,173,C,1623466574000,1421071,Saturne,CH,,
+100,173,C,1628988254000,4330025,wyenat,HK,64051543828661,
 100,174,C,1567946827000,917876,ChickenBall,KR,,
 100,174,C,1567946827000,1220514,Sosopol,BY,,
 100,174,C,1567946827000,1188261,sherwood,US,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,467,C,1594946582000,1364908,Binouz,FR,,
 100,467,C,1594946582000,1909186,astas13,FR,11723229990908,
 100,469,C,1594946582000,215395,Enknable,CA,14488393339187,
-100,470,C,1594946582000,897767,Crazenezz,ID,99044968507951,
-100,471,C,1627089472000,945612,Gandri,US,,

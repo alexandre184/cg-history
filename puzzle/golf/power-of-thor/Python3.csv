@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6860|time=2021-08-14T00:44:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6863|time=2021-08-15T00:44:10
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,70,Python3,1615948250000,155774,dwarfie,FR,17785582865119,
 100,72,Python3,1628386512000,2288263,dbdr,UA,43448306132121,
@@ -7,6 +7,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1620448254000,2490008,ebicochineal,JP,43936521576530,
 100,76,Python3,1627260454000,860754,Actias,FR,18840906045570,
 100,76,Python3,1628296237000,4072223,gnoxo,SK,55721023684814,
+100,76,Python3,1628988250000,4110073,souta_1326,JP,57746784258907,
 100,77,Python3,1613097360000,1525831,ntsd,TH,86763903852312,
 100,77,Python3,1624069856000,154388,PonyPonyCodeCode,FR,37335148285737,
 100,77,Python3,1626224904000,1500515,eulerscheZahl,DE,43135502422075,
@@ -630,6 +631,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Python3,1624668526000,1324974,ViktorCs,HU,4515823207881,
 100,121,Python3,1625704544000,4385398,LordViking,PT,66528705439744,
 100,121,Python3,1626224904000,4294044,simsimlafamille,FR,64218049607703,
+100,121,Python3,1628988250000,2143315,FluffyToaster,NL,14075852675260,
 100,122,Python3,1567946825000,2014053,8ishaam,FR,12790559147332,
 100,122,Python3,1567946825000,1354295,AbdullahKhawer,,,
 100,122,Python3,1567946825000,1665239,MM85,IT,8001608701587,
@@ -996,6 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Python3,1567946825000,1589152,Jastonite,US,6562261616687,
 100,136,Python3,1567946825000,1411343,Jimms,TW,5307068064831,
 100,136,Python3,1567946825000,1044673,LinAGKar,SE,,
-100,136,Python3,1567946825000,1764075,Salga,FR,10052500566878,
-100,136,Python3,1567946825000,1746372,Wens,FR,,
 100,136,Python3,1567946825000,1590466,semicommutative,CA,,

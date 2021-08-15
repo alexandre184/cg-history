@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2583|time=2021-08-14T00:44:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2587|time=2021-08-15T00:44:17
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,56,Javascript,1623984133000,334009,abouvier,FR,4681436111242,
@@ -54,6 +54,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1626654748000,4334077,Paul_Demanze,GB,89645400922966,
 100,60,Javascript,1627691448000,2552218,Jakque,FR,21307149950021,
 100,60,Javascript,1628817356000,3337790,gitbeginer,KR,66608941195357,
+100,60,Javascript,1628988257000,188944,Starbender,FR,95295169754182,
 100,61,Javascript,1567946828000,1906719,ArpadDravecz,HU,11710900308045,
 100,61,Javascript,1567946828000,155887,BanBan,FR,8230051407070,
 100,61,Javascript,1567946828000,482445,BogdanSavchenko,UA,9319024256259,
@@ -378,6 +379,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Javascript,1623384835000,1482482,gmolnar,HU,63400889003880,
 100,68,Javascript,1623984133000,4221515,Victorp99,US,,
 100,68,Javascript,1625704544000,2040449,SalimAmiar,FR,54313542337980,
+100,68,Javascript,1628988257000,4462061,pablo-peris,ES,68642503047901,
 100,69,Javascript,1567946828000,1211965,B0b,FR,,
 100,69,Javascript,1567946828000,3380514,DFrese,DE,30555045908186,
 100,69,Javascript,1567946828000,1537977,LeszekCzarny,PL,5894720247166,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,112,Javascript,1567946828000,1197161,olsh,AM,7264098552514,
 100,112,Javascript,1590369069000,3825077,Kolberg,GR,,
 100,112,Javascript,1599878384000,2048763,Mickev,FR,48745204870870,
-100,112,Javascript,1609029043000,4119552,cazka,DE,56438384178223,
-100,112,Javascript,1609636795000,4027771,AndreMarasca,BR,52647904853809,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=497|time=2021-08-15T00:44:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=497|time=2021-08-16T00:30:32
 100,73,Bash,1595032234000,155774,dwarfie,FR,17785582865119,
 100,74,Bash,1627260455000,512097,Stilgart,FR,69893904259383,
 100,81,Bash,1619059148000,2436448,FrancoisMeme,FR,62658720056908,
@@ -130,6 +130,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,193,Bash,1567946822000,1096883,dlintw,TW,,
 100,194,Bash,1567946822000,1497552,clemclem,BE,5233735633681,
 100,197,Bash,1567946822000,1690417,Adrarung,FR,14097433377057,
+100,197,Bash,1629073832000,792813,VilBoub,FR,72010225615995,
 100,200,Bash,1590369062000,2043512,matijabelec,HR,13060579497474,
 100,201,Bash,1567946822000,256333,Caracole,FR,50954809078419,
 100,202,Bash,1567946822000,905139,Bato,FR,,
@@ -379,7 +380,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,158,Bash,1578272436000,1244685,dorion,FR,21623788646587,
 75,160,Bash,1567946822000,1462449,wackadoodle,BE,5333973696242,
 75,165,Bash,1567946822000,322737,Nangini,FR,24010103249126,
-75,165,Bash,1596933579000,792813,VilBoub,FR,72010225615995,
 75,180,Bash,1567946822000,1490749,UZMeNow,SE,25527762142818,
 75,182,Bash,1567946822000,1042524,UltimaWeapon,HU,2910116534527,
 75,183,Bash,1567946822000,1169499,naab,FR,21217854473439,

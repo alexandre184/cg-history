@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4142|time=2021-08-15T00:44:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4145|time=2021-08-16T00:30:33
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
 100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
@@ -139,6 +139,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Javascript,1603768106000,4022495,Leonidas51,RU,,
 100,108,Javascript,1606268988000,3812486,gitKad,CA,44329387618958,
 100,108,Javascript,1623294181000,1960325,Bladx,FR,62741900403874,
+100,108,Javascript,1629073833000,4471208,rob9315,DE,80224760134810,
 100,109,Javascript,1567946825000,3130133,1Dave,CZ,,
 100,109,Javascript,1567946825000,1144254,8,US,2658024816043,
 100,109,Javascript,1567946825000,666934,93,KR,22498106211390,
@@ -548,6 +549,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,Javascript,1567946825000,1149001,milenvoutchev,DE,2674189036115,
 100,127,Javascript,1595032234000,2972662,Hoyer,DK,23351637278989,
 100,127,Javascript,1619843719000,4274403,Eldograz,BE,,
+100,127,Javascript,1629073833000,188944,Starbender,FR,95295169754182,
 100,128,Javascript,1567946825000,913244,,CH,,
 100,128,Javascript,1567946825000,969168,154,DE,,
 100,128,Javascript,1567946825000,1071463,Arbarwings,NL,2211484565601,
@@ -994,8 +996,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,148,Javascript,1604284315000,165671,cyppan,FR,64028666285629,
 100,148,Javascript,1613616177000,4175331,ngdangtu,VN,,
 100,149,Javascript,1594946584000,703271,DrinkingBird,AR,1806409700397,
-100,149,Javascript,1594946584000,1599552,FlyingRatBull,DE,7666783174287,
-100,149,Javascript,1594946584000,1625417,Keb,FR,,
 100,149,Javascript,1594946584000,1420817,TheMagicShop,FR,4468522326390,
 100,149,Javascript,1594946584000,898773,dngo,FR,,
 100,149,Javascript,1594946584000,1020374,wthit56,GB,2104875465978,

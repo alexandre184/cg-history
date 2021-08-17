@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18592|time=2021-08-16T00:30:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18601|time=2021-08-17T00:39:09
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -374,6 +374,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,51,Ruby,1626569289000,3573554,Tess2662,CZ,,
 100,51,Ruby,1626569289000,4393608,galloj,CZ,,
 100,51,Ruby,1627866437000,4452683,geneccx,CA,68460027649660,
+100,51,Ruby,1629160746000,4095799,circular17,FR,55329921778165,
 100,52,Perl,1567946831000,1086214,bor,UA,2314950405832,
 100,52,Perl,1567946831000,153774,cocoche007,FR,12063678639268,
 100,52,Perl,1567946831000,1176520,coding_duck,PL,3079309856299,
@@ -616,6 +617,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,56,Bash,1628209844000,3509975,bneumann,HU,35027463301192,
 100,56,Python3,1628643512000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1628901880000,2315158,luigi_gelato,DE,,
+100,56,Ruby,1629160746000,1955780,HiDoc,FR,93392206642419,
 100,57,Perl,1567946831000,914105,T6nn,EE,,
 100,57,Ruby,1567946833000,1155071,Khdoop,BG,2942347979654,
 100,57,Ruby,1567946833000,1373701,MartinBruna,CZ,4123025435404,
@@ -643,7 +645,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,57,Python3,1624242643000,1607522,RoboStac,GB,11333369102997,
 100,57,Python3,1624927220000,3354337,Westicles,CX,79146641399080,
 100,57,Python3,1626569288000,3573554,Tess2662,CZ,,
-100,57,Ruby,1626569289000,4095799,circular17,FR,55329921778165,
 100,57,Python3,1626915633000,4169598,kite1002,PL,,
 100,57,Python3,1627260459000,4380587,anp0,RO,,
 100,57,Python3,1627691450000,3792309,schachmatt,DE,58313205988826,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1616553060000,2230279,TheXeos,FR,60412386282074,
 100,62,Javascript,1618715578000,981878,nicolasD,FR,22576267267565,
 100,62,Ruby,1619665417000,3864752,MuddySneakers,US,45990545847301,
-100,62,Javascript,1620614081000,1003752,Skayo,AT,60612660937974,

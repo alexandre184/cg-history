@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32266|time=2021-08-16T00:30:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32284|time=2021-08-17T00:38:55
 100,50,Ruby,1627777839000,3845610,pardouin,FR,60364063762936,
 100,54,C,1627606958000,3845610,pardouin,FR,60364063762936,
 100,54,ObjectiveC,1627606963000,3845610,pardouin,FR,60364063762936,
@@ -221,6 +221,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,89,Python3,1625536807000,4041120,Alxito,PT,54128248910644,
 100,89,Javascript,1628209833000,2288263,dbdr,UA,43448306132121,
 100,89,Ruby,1628988251000,2813793,itsjustfreekie,NL,69079046675702,
+100,89,Ruby,1629160732000,4461635,Tibirius,DE,69039549612230,
 100,90,Javascript,1567946825000,416762,Khao,CA,2035557596161,
 100,90,Ruby,1567946826000,760568,alex_slynko,IE,1961915966528,
 100,90,Ruby,1567946826000,2726969,alokhmutov,RU,20844254865169,
@@ -555,6 +556,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Ruby,1616986090000,4119720,maniekTC,PL,,
 100,106,Ruby,1624927214000,1709070,platypus999,JP,,
 100,106,ObjectiveC,1628817346000,1436776,BrainSolver,FR,10099178983053,
+100,106,Javascript,1629160733000,1945778,Masthiks,FR,19431348050278,
 100,107,Bash,1567946822000,1654458,thirstycrow,CN,9438887574270,
 100,107,Javascript,1567946825000,1022699,Baptistin,CH,8150635789753,
 100,107,Javascript,1567946825000,1703408,GHajba,HU,110156506384802,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Python3,1606352059000,3703485,anter69,HU,41141446684299,
 100,113,Python3,1607477443000,3971358,OldJohn,FR,63565949763225,
 100,113,Python3,1607822424000,1802967,Meruem,FR,31992166318610,
-100,113,Python3,1608685404000,3427526,remi2257,FR,31942928260791,
-100,113,Ruby,1608685406000,848394,schwarzahl,JP,2189519712898,

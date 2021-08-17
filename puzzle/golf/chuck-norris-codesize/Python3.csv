@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1938|time=2021-08-16T00:30:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1939|time=2021-08-17T00:39:10
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -505,6 +505,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,135,Python3,1628038844000,664112,AllYourTrees,US,35047123145003,
 100,135,Python3,1628557766000,3494301,CoreyCV,US,,
 100,135,Python3,1628557766000,3244076,FelipeBavaroskiCosta,BR,,
+100,135,Python3,1629160750000,4286616,Oddrea,FR,83788366979785,
 100,136,Python3,1567946837000,2405694,JeanVonVarr,FR,,
 100,136,Python3,1567946837000,1803865,olinox14,FR,10567248069605,
 100,136,Python3,1567946837000,3201898,rlukin,RU,25443647832500,
@@ -562,7 +563,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,139,Python3,1614482092000,1511645,OleksandrVoytsekhovskyy,UA,5607086540666,
 100,139,Python3,1616208379000,1407104,Maun,FR,5342968576656,
 100,139,Python3,1620010940000,1154129,Mahouss,FR,95257360941708,
-100,139,Python3,1628729590000,4286616,Oddrea,FR,83788366979785,
 100,140,Python3,1567946837000,1660477,kakben,SE,14328066257940,
 100,140,Python3,1580171441000,3382273,hasleron,GB,39607083737997,
 100,140,Python3,1584752314000,3430477,ZakiFellah,DZ,,
@@ -706,6 +706,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Python3,1615257547000,3672281,yoann9344,FR,60116522462012,
 100,149,Python3,1621480090000,2970414,Fangel,FR,23748356777542,
 100,149,Python3,1622687929000,2632447,Andrey135296,RU,65386282583675,
+100,149,Python3,1629160750000,4318254,awsloth,GB,,
 100,150,Python3,1567946837000,1706034,Patricia,DE,19418452448625,
 100,150,Python3,1567946837000,3429080,Tingo,DE,,
 100,150,Python3,1567946837000,295729,webalorn,FR,94438164599211,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,172,Python3,1606352053000,3869618,tsds,RU,46148249699201,
 100,172,Python3,1611024433000,4136747,alopikon,CA,,
 100,172,Python3,1626309049000,3714972,fmca,BR,,
-100,173,Python3,1567946837000,2171231,Suprema_Lex,UA,14306017993018,

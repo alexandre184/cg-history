@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1942|time=2021-08-20T00:53:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1947|time=2021-08-21T00:30:52
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -476,6 +476,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Python3,1608513248000,4039884,mzbear,FI,52739542369007,
 100,133,Python3,1621305674000,3847872,psychedelic68,FR,45599449537807,
 100,133,Python3,1628901889000,4330025,wyenat,HK,64051543828661,
+100,133,Python3,1629505852000,4459243,CodeNick,GR,68584425657426,
 100,134,Python3,1567946837000,3410351,Deltaspace,RU,31254101171655,
 100,134,Python3,1567946837000,481988,DevKirill,RU,26384102822076,
 100,134,Python3,1567946837000,2328351,DominicCrutchley,GB,,
@@ -549,6 +550,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Python3,1621824489000,4011898,BlueskyFR,FR,51690827640674,
 100,138,Python3,1625013457000,4312118,BenRoecker,FR,63138009863540,
 100,138,Python3,1627174087000,4385175,RndmBOT,LV,65927246387779,
+100,138,Python3,1629505852000,3779295,xxd,US,68885807866035,
 100,139,Python3,1567946837000,2216956,TimDarcet,FR,17559631530097,
 100,139,Python3,1567946837000,1712483,nexxon,CH,,
 100,139,Python3,1567946837000,1411933,seawolf,US,4793897665214,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,172,Python3,1591750335000,3818405,gschaden,AT,44519768732548,
 100,172,Python3,1591837842000,3557192,trpaslik,CZ,52548263870450,
 100,172,Python3,1597886064000,1967852,Dogeek,FR,12321758299413,
-100,172,Python3,1606352053000,1129740,HackingHues,CA,54660001005641,
-100,172,Python3,1606352053000,3869618,tsds,RU,46148249699201,

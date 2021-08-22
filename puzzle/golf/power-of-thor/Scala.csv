@@ -1,4 +1,5 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=252|time=2021-08-21T00:30:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=252|time=2021-08-22T00:42:13
+100,173,Scala,1629592933000,3516345,Jp82,FR,63600965075245,
 100,179,Scala,1627347625000,1399382,Regulus136,FR,4335723819637,
 100,185,Scala,1627260453000,3354337,Westicles,CX,79146641399080,
 100,188,Scala,1628817347000,1436776,BrainSolver,FR,10099178983053,
@@ -239,7 +240,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,1408,Scala,1567946824000,1065845,Oli8,FR,2986082369890,
 0,1408,Scala,1567946824000,1068877,[CPC]Tamno,FR,2254398342499,
 0,1408,Scala,1567946824000,828213,anst,FR,1734651202684,
-0,1408,Scala,1624432226000,4112733,SGE-GamingWarrior,,,
 0,1431,Scala,1567946824000,200434,ilustr,FR,,
 0,1442,Scala,1624432226000,1083435,,FR,,
 0,1493,Scala,1567946824000,2463922,flo.g,FR,17130468080881,

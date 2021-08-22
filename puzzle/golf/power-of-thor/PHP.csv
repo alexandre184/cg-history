@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1442|time=2021-08-21T00:30:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1442|time=2021-08-22T00:42:12
 100,90,PHP,1627777843000,1675034,francois,FR,15464459859531,
 100,91,PHP,1628817351000,1436776,BrainSolver,FR,10099178983053,
 100,99,PHP,1567946822000,153057,PierralF,FR,1762452918913,
@@ -890,6 +890,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,558,PHP,1612147802000,4164838,laink,FR,,
 100,559,PHP,1567946822000,3308481,Bruno_Gabriel,BR,26881400988715,
 100,565,PHP,1567946822000,1132719,FriendlyGhost,RU,,
+100,566,PHP,1629592932000,4114204,JimmyLabuche,FR,,
 100,570,PHP,1567946822000,329204,l4stic0t,FR,,
 100,574,PHP,1567946822000,1612583,frank-sons,DE,,
 100,585,PHP,1567946822000,1200225,AymericDdeBf,FR,3009826379069,
@@ -899,7 +900,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,618,PHP,1567946822000,996552,Brainbooly,FR,,
 100,618,PHP,1567946822000,950027,Enleur,UA,10796070091852,
 100,619,PHP,1567946822000,1134709,adrienco88,RO,,
-100,626,PHP,1567946822000,2285744,Greenwax,FR,15514342142605,
+100,626,PHP,1567946822000,2285744,Lebibi,FR,15514342142605,
 100,627,PHP,1567946822000,1850935,AlexisAllieri,FR,,
 100,636,PHP,1567946822000,809976,Spiritous,CA,,
 100,638,PHP,1567946822000,968755,,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1120,PHP,1594946580000,1169499,naab,FR,21217854473439,
 100,1120,PHP,1594946580000,1215408,tle-meur,FR,4526090010842,
 100,1122,PHP,1594946580000,1966226,yanb,FR,,
-100,1124,PHP,1594946580000,1694935,mutiara,ID,,

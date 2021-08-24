@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1212|time=2021-08-23T00:30:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1212|time=2021-08-24T00:36:03
 100,50,Ruby,1627777839000,3845610,pardouin,FR,60364063762936,
 100,62,Ruby,1628209834000,2288263,dbdr,UA,43448306132121,
 100,69,Ruby,1627347628000,3380184,chouch,FR,,
@@ -210,6 +210,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,Ruby,1567946826000,717675,someone9999,CA,,
 100,103,Ruby,1593477259000,2832716,BlueGone,FR,46306665869487,
 100,103,Ruby,1607566154000,4076210,magurofly,JP,55724524275324,
+100,103,Ruby,1629765363000,4393608,galloj,CZ,,
 100,104,Ruby,1571360344000,586074,Nakilon,UA,35496743399713,
 100,104,Ruby,1592960312000,1016562,wRadion,FR,45933146146820,
 100,104,Ruby,1595727356000,1140177,yckmciaiy,UA,11569519603976,
@@ -276,7 +277,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,115,Ruby,1567946826000,776882,Ersimi,NL,2085116970424,
 100,115,Ruby,1619931104000,4268887,XeroOl,US,61677668562388,
 100,115,Ruby,1625013445000,2532837,fauresebast,FR,43340205355577,
-100,115,Ruby,1626569280000,4393608,galloj,CZ,,
 100,116,Ruby,1567946826000,1472747,GrSpirit,RU,8676157706088,
 100,116,Ruby,1567946826000,1735156,abriel,CZ,,
 100,116,Ruby,1567946826000,1840946,zazaboon,JP,13380112545351,
@@ -905,6 +905,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,56,Ruby,1568890134000,2067432,erickael,FR,,
 75,56,Ruby,1597278634000,1483723,d-s-x,RU,4980051025170,
 75,56,Ruby,1617158172000,1654818,tarapitha,EE,79401682508715,
+75,63,Ruby,1567946826000,334009,abouvier,FR,4681436111242,
 75,66,Ruby,1567946826000,735910,Agade,CH,1997542876524,
 75,67,Ruby,1596155437000,1537792,AsaiYusuke,US,41785380851985,
 75,68,Ruby,1567946826000,371603,martin,CA,1761380964089,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,100,Ruby,1606352058000,3238300,WarTey,CA,25776702601011,
 75,101,Ruby,1567946826000,2476480,ProloEnPunto,FR,17865335064682,
 75,101,Ruby,1567946826000,971177,davidlepilote,FR,6070694888534,
-75,102,Ruby,1567946826000,1000893,TristanBrismontier,CA,1996520259989,

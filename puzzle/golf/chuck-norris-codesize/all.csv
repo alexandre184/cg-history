@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5218|time=2021-08-23T00:30:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5224|time=2021-08-24T00:36:20
 100,55,C,1567946836000,2288263,dbdr,UA,43448306132121,
 100,55,ObjectiveC,1567946836000,2288263,dbdr,UA,43448306132121,
 100,55,ObjectiveC,1616035431000,155774,dwarfie,FR,17785582865119,
@@ -239,6 +239,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,95,Ruby,1626915640000,884874,Zauberer,JP,,
 100,95,Ruby,1628470054000,4452683,geneccx,CA,68460027649660,
 100,95,Python3,1629592945000,3431280,luukhf,NL,,
+100,95,Python3,1629765381000,4433166,PiFlavour,DE,67769686869974,
 100,96,Ruby,1569803441000,893541,wala,FR,97577641170180,
 100,96,C,1571013054000,3489712,VIS81,US,35179628684114,
 100,96,Perl,1590713147000,154806,piwai,FR,1956863959967,
@@ -745,6 +746,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Python3,1616641279000,3534078,chabes,FR,64752446682490,
 100,121,Python3,1620276257000,3770880,Yu_212,JP,73269088975024,
 100,121,Python3,1627691454000,4450383,,AR,,
+100,121,Python3,1629765381000,4393608,galloj,CZ,,
 100,122,C++,1567946834000,1436776,BrainSolver,FR,10099178983053,
 100,122,C++,1567946834000,1001096,MyIIone,AT,4231449697357,
 100,122,C++,1567946834000,1341520,egaetan,FR,21055353954161,
@@ -913,7 +915,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,Python3,1626741465000,4197539,Heirel,FR,65236260033378,
 100,127,Javascript,1628470055000,4124688,Murat_Eroglu,TR,91676687994670,
 100,127,Python3,1628643516000,2668649,pawito,DE,,
-100,127,Python3,1629592945000,4393608,galloj,CZ,,
 100,128,Kotlin,1567946835000,3351131,osmedile,FR,,
 100,128,Javascript,1567946837000,3413276,Piemert,NL,31359182987164,
 100,128,Python3,1567946837000,3018110,MechLizardThing,US,39968464527481,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,131,Python3,1593909044000,3884225,msolcuadrado,AR,,
 100,131,Python3,1594600247000,1470053,eaglecode,HU,,
 100,131,Javascript,1594781480000,3199548,yonder83,FI,26322476080161,
-100,131,C,1596155446000,186179,Nagrarok,FR,95596601515650,

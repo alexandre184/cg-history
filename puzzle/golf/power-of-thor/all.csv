@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32333|time=2021-08-23T00:30:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32340|time=2021-08-24T00:36:11
 100,50,Ruby,1627777839000,3845610,pardouin,FR,60364063762936,
 100,54,C,1627606958000,3845610,pardouin,FR,60364063762936,
 100,54,ObjectiveC,1627606963000,3845610,pardouin,FR,60364063762936,
@@ -488,6 +488,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,Python3,1626827930000,1058333,Aro,FR,67454285496015,
 100,103,Lua,1627260458000,3354337,Westicles,CX,79146641399080,
 100,103,Javascript,1627432875000,820000,ValGrowth,JP,95440985747208,
+100,103,Ruby,1629765363000,4393608,galloj,CZ,,
 100,104,Perl,1567946823000,943556,DollarAkshay,IN,18256210360824,
 100,104,Javascript,1567946825000,1048348,Disciple.of.Ada,US,4750606204700,
 100,104,Javascript,1567946825000,1706476,Maboul95,FR,9338051370545,
@@ -772,6 +773,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Bash,1625624335000,1607522,RoboStac,GB,11333369102997,
 100,109,Javascript,1627606959000,2068632,PedroMMPereira,PT,67852266738441,
 100,109,C,1628386513000,257832,BlaiseEbuth,,,
+100,109,Perl,1629765373000,4477724,Mitarano,DE,69546202548195,
 100,110,Bash,1567946822000,366305,Mgayar,EG,5691231749425,
 100,110,Javascript,1567946825000,2050543,Cherubael,DK,13150128776541,
 100,110,Javascript,1567946825000,2471054,Goldcott,BE,24540565061023,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Python3,1600919086000,270881,Maurice_Moss,FR,30069480173944,
 100,113,Python3,1600919086000,3984852,Single,KZ,50558801986580,
 100,113,Javascript,1601530038000,2698637,CorentinFoucault,FR,26497120301720,
-100,113,Python3,1603077439000,2832217,Hadry,FR,105176684223271,
-100,113,Python3,1603161745000,831195,samgiz,LT,,

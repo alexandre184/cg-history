@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=415|time=2021-08-24T00:36:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=415|time=2021-08-25T00:35:59
 100,56,Perl,1628643505000,3845610,pardouin,FR,60364063762936,
 100,79,Perl,1628901877000,1436776,BrainSolver,FR,10099178983053,
 100,93,Perl,1595291437000,1854246,Counterbalance,NL,26367790351026,
@@ -30,6 +30,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Perl,1567946823000,1518602,norcas,SK,12252484684558,
 100,109,Perl,1629765373000,4477724,Mitarano,DE,69546202548195,
 100,110,Perl,1595896336000,973040,papyjo,FR,15696776172839,
+100,111,Perl,1629851759000,1848459,Velcoro,CZ,48538649860014,
 100,112,Perl,1567946823000,1145203,Lemps,EE,5035294810209,
 100,112,Perl,1567946823000,888816,pdave,HU,2330803350762,
 100,113,Perl,1567946823000,2238146,stem,RU,,
@@ -112,7 +113,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Perl,1567946823000,903499,tauli,DE,,
 100,157,Perl,1567946823000,1021689,Nemesmarci,HU,5654945773136,
 100,157,Perl,1567946823000,1329429,TwistedBeatle88,US,,
-100,157,Perl,1629247914000,1848459,Velcoro,CZ,48538649860014,
 100,158,Perl,1567946823000,1181465,r57shell,RU,10192382088864,
 100,158,Perl,1567946823000,1065495,xseris,IT,,
 100,158,Perl,1594168541000,1069082,Lenqth,JP,2202750660136,

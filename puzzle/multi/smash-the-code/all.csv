@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2494|time=2021-08-27T00:30:11
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2494|time=2021-08-28T00:30:17
 5,35.67,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.5,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -927,6 +927,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.19,Python,,506945,224988,DerPferd,US,2806202774501,
 1,23.18,Javascript,,622142,1308136,AsZ,HU,,
 1,23.18,Python3,,1122658,162982,Dami-e,MA,1957175104038,
+1,23.18,Perl,,484831,1411423,Wyllyam,FR,11464394269084,
 1,23.18,C#,,1581890,2257079,MartinVN,NO,,
 1,23.18,C,,653520,1297591,BigHead,FR,5809301643641,
 1,23.18,C++,,579789,1490531,pedrofr,CH,,
@@ -934,7 +935,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.18,Javascript,,614967,1439710,Buesto,FR,5055564669623,
 1,23.18,C#,,897004,1690967,protone911,IT,,
 1,23.18,C++,,1390550,2085746,JacobNoga,US,,
-1,23.17,Perl,,484831,1411423,Wyllyam,FR,11464394269084,
 1,23.17,Python3,,936212,1517028,Nicau,FR,8848906617685,
 1,23.17,Python3,,486540,1446587,Cooch,DE,4700517429198,
 1,23.17,Python3,,582666,1458250,Epsilonmajorquezero,ES,4699928930103,
@@ -971,6 +971,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.08,C++,,551752,1478742,Archimist,FR,,
 1,23.08,Java,,672682,1563880,Patrick8675,NL,,
 1,23.07,Python3,,741435,1550152,flaks314,NL,,
+1,23.07,C,,500221,1467976,NickDominov,DE,,
 1,23.07,Java,,2257842,1811179,Tetarus,FR,17864799271929,
 1,23.06,Python3,,749681,1631676,timoransky,SK,7544279671890,
 1,23.06,Python3,,646541,1263862,Palermo,PT,18258512631714,
@@ -989,7 +990,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.03,C++,,583908,869320,Draggoon,CH,1995359796614,
 1,23.03,C#,,493848,433065,Knafle,AR,,
 1,23.03,C++,,2321414,3274211,SLJesus,FR,26218661737693,
-1,23.02,C,,500221,1467976,NickDominov,DE,,
 1,23.02,Go,,685362,1547430,softclone,US,6893546461299,
 1,23.02,Python3,,1947601,1896128,Vhanire,FR,11579664978229,
 1,23.02,PHP,,591678,1495350,Wranorn,US,,

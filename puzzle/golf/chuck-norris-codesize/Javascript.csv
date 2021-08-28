@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=763|time=2021-08-27T00:31:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=763|time=2021-08-28T00:30:53
 100,75,Javascript,1629073844000,3380184,chouch,FR,,
 100,76,Javascript,1628901888000,3337790,gitbeginer,KR,66608941195357,
 100,77,Javascript,1629333050000,1675034,francois,FR,15464459859531,
@@ -38,6 +38,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,115,Javascript,1628038842000,3647844,rc95401,US,39486169555819,
 100,116,Javascript,1608772382000,3989067,pipololo,FR,62995243136577,
 100,116,Javascript,1628296246000,1567943,LazyMammal,CA,54419089430083,
+100,116,Javascript,1630110653000,376701,Shiwa,FR,,
 100,117,Javascript,1588726380000,3513265,DaNinja,IE,35022107863170,
 100,117,Javascript,1599791926000,2888129,terazoid,UA,49682242574474,
 100,119,Javascript,1567946837000,351062,Neumann,FR,17173563008577,
@@ -83,6 +84,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Javascript,1605062558000,1304841,NitMpez,US,4780977304016,
 100,136,Javascript,1625966038000,4410658,airoman,MX,,
 100,137,Javascript,1617071454000,4156154,issogood,CH,59814183471795,
+100,137,Javascript,1630110653000,3774500,zakariamouhid,MA,46244702989556,
 100,138,Javascript,1573692633000,2069141,tomeko,PL,13370027887052,
 100,138,Javascript,1623466585000,2371389,Franta,CZ,16642908084028,
 100,139,Javascript,1593737171000,975057,LeoTigers,FR,45776082875495,
@@ -100,7 +102,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,142,Javascript,1613012371000,1330431,TzeKin,SG,68707161253272,
 100,142,Javascript,1619495558000,3847872,psychedelic68,FR,45599449537807,
 100,142,Javascript,1620362006000,4285437,t3st1,SE,,
-100,142,Javascript,1629937855000,376701,Shiwa,FR,,
 100,143,Javascript,1567946837000,1534317,Zwloki,PL,5841199758813,
 100,143,Javascript,1568248245000,3430435,DocteurWong,FR,34776645119766,
 100,143,Javascript,1569285045000,1923902,gkalpak,GR,33993501409918,
@@ -246,7 +247,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Javascript,1571013056000,2093490,paul.cabanes,FR,13963535448576,
 100,160,Javascript,1584894198000,3657944,xyz-1,PL,40019042861680,
 100,160,Javascript,1588903194000,3622757,anid,,,
-100,160,Javascript,1593305188000,3774500,zakariamouhid,MA,46244702989556,
 100,160,Javascript,1604206731000,3817970,RossMcMillan,GB,,
 100,161,Javascript,1567946837000,1328758,GottZ,DE,3811962815765,
 100,161,Javascript,1592182476000,1198181,lapostoj,,,

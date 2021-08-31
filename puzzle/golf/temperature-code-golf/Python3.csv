@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5353|time=2021-08-30T00:58:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5358|time=2021-08-31T00:40:55
 100,53,Python3,1623984129000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,56,Python3,1620962719000,2315623,Lydxn,CA,,
@@ -28,6 +28,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,58,Python3,1623466578000,841420,RandomVariable,FR,66519841891143,
 100,58,Python3,1626481845000,3977316,Ponoran,FR,62576589346688,
 100,58,Python3,1629765376000,4393608,galloj,CZ,,
+100,58,Python3,1630370455000,4395513,IndecisionTree,US,69450709935774,
 100,59,Python3,1607393941000,2927320,itectori,CA,22507458161222,
 100,59,Python3,1615948252000,311035,leojean890,FR,42398427701382,
 100,59,Python3,1619233754000,4199011,MarTiaNe,GE,60356707757448,
@@ -175,6 +176,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,67,Python3,1625624341000,1469666,alenic,IT,46060125344133,
 100,67,Python3,1626654749000,4299910,Avshein,IL,,
 100,67,Python3,1627691450000,4449306,,FR,,
+100,67,Python3,1630370455000,2796157,nikhil.k,IN,64021163998790,
 100,68,Python3,1567946832000,2049979,130N35,FR,13111365905174,
 100,68,Python3,1567946832000,2196209,Actium,RU,21530584816019,
 100,68,Python3,1567946832000,3044280,AminGholizad,BE,23774079662038,
@@ -518,7 +520,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,72,Python3,1611714664000,3625469,Crimson_King,TR,56016089557697,
 100,72,Python3,1611974665000,2340294,deviluc,DE,15818944269214,
 100,72,Python3,1612492777000,3962693,Kamoun,TN,,
-100,72,Python3,1612665668000,2796157,nikhil.k,IN,64021163998790,
 100,72,Python3,1615516534000,3230794,tutubalin,RU,25714480415254,
 100,72,Python3,1617938021000,1883740,kermo,FR,37540400644388,
 100,72,Python3,1618284762000,759147,kisszots,HU,57262007331411,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Python3,1591496095000,2337529,detonavomek,UA,45533788182845,
 100,78,Python3,1596099792000,3549098,alexandre.lavoie,CA,47579621054792,
 100,78,Python3,1600310343000,2161156,Cry82,FR,,
-100,78,Python3,1602469965000,1359547,Transat,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9950|time=2021-09-04T01:02:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9953|time=2021-09-05T00:52:20
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -317,6 +317,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Bash,1605406446000,1848459,Velcoro,CZ,48538649860014,
 100,113,Python3,1626224896000,1500515,eulerscheZahl,DE,43135502422075,
 100,113,Python3,1628817343000,4070745,MiyamuraIzumi,TO,83179788895310,
+100,113,Python3,1630803137000,1086050,aandrukhovich,BY,71788385164933,
 100,114,Python3,1567946818000,2096336,SAINT_LAURENT,FR,13617684447326,
 100,114,Ruby,1567946820000,965650,abrl,FR,1847796010109,
 100,114,Ruby,1588293032000,273876,SirSushi,FR,78452887015207,
@@ -401,6 +402,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Python3,1622428454000,3973359,KAbel,HU,58683122994198,
 100,121,Python3,1624069847000,154388,PonyPonyCodeCode,FR,37335148285737,
 100,121,Python3,1628470037000,860404,Vitruvius,US,85783605555957,
+100,121,Ruby,1630803135000,1030709,Cmdr.Shepard,FR,4712656486276,
 100,122,F#,1567946816000,1654818,tarapitha,EE,79401682508715,
 100,122,Javascript,1567946817000,1530199,DarkDefender,LV,5782383455241,
 100,122,Javascript,1567946817000,1290799,froyer,FR,3533893014839,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,164,Python3,1567946818000,1378506,MattGately,US,,
 100,164,Python3,1567946818000,879928,Vinze7,FR,,
 100,164,Python3,1567946818000,821152,dianhenglau,MY,5654614166010,
-100,164,Python3,1567946818000,2241559,eskeln,UA,16149555164631,
-100,164,Python3,1599878373000,3545248,amkad,RU,49202166474180,

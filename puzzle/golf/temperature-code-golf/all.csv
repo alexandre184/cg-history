@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18877|time=2021-09-10T00:39:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18889|time=2021-09-11T00:30:40
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -660,6 +660,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,57,Bash,1628296239000,1436776,BrainSolver,FR,10099178983053,
 100,57,Bash,1629247923000,3514975,Phurinat,TH,97597367576293,
 100,57,Ruby,1630717385000,1410483,mithrandier,BY,69547302180245,
+100,57,Ruby,1631320239000,4117624,Thibb1,FR,69516644428743,
 100,58,Perl,1567946831000,1596751,RatTub,CA,6722861257385,
 100,58,Perl,1567946831000,1464932,Tiramon,DE,12287237914571,
 100,58,Perl,1567946831000,1548666,goblin,PL,6759806456781,
@@ -745,6 +746,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1626309045000,1114496,BlasphemousCrossbreed,UA,2486265138222,
 100,59,Python3,1628296241000,1567943,LazyMammal,CA,54419089430083,
 100,59,Python3,1629592940000,3913241,KevinLi-py,CN,66916307437823,
+100,59,Perl,1631320241000,4117624,Thibb1,FR,69516644428743,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1591750326000,3569691,KndrSrprizzz,FR,46021287537442,
 100,62,Javascript,1593563439000,3868172,Desjardins,DE,46161242090337,
 100,62,Javascript,1596242455000,3889406,MFogleman,US,,
-100,62,Javascript,1596760245000,2453008,Crypticsy,NP,91135821533111,
-100,62,Javascript,1596760245000,912633,Poviliukas,LT,,

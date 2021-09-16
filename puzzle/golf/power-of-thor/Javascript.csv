@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4186|time=2021-09-15T00:38:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4187|time=2021-09-16T00:39:52
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
 100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
@@ -553,6 +553,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Javascript,1613876724000,4160659,Phi-001,US,88924442605510,
 100,126,Javascript,1618715572000,4275624,UnknownException,CA,,
 100,126,Javascript,1624927213000,4286679,fungi_star,HK,66789048913950,
+100,126,Javascript,1631752792000,3785996,bitwiseio,DE,43390907176636,
 100,127,Javascript,1567946825000,1579263,Antimony,CA,6421603564944,
 100,127,Javascript,1567946825000,2380259,JIo6cTep,RU,16163772419705,
 100,127,Javascript,1567946825000,1357612,Maisnborg,DE,,
@@ -697,6 +698,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Javascript,1597970158000,3345888,JeffGe,CN,28798687402085,
 100,133,Javascript,1609815170000,4038295,RamanShakya,NP,71844144198887,
 100,133,Javascript,1622083074000,4300969,thomasgonda3,US,63048681225268,
+100,133,Javascript,1631752792000,4500165,Snigafurt,HK,72365028091966,
 100,134,Javascript,1594859431000,906107,Eiknheimer,DE,,
 100,134,Javascript,1594859431000,3753445,Fluffeh,AU,42468206837378,
 100,134,Javascript,1594859431000,2003396,PercicNenad,RS,17850988603774,
@@ -981,7 +983,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Javascript,1629851762000,3874022,0xsigurd,FR,,
 100,147,Javascript,1594946584000,199711,Apolo,FR,2301349496065,
 100,147,Javascript,1594946584000,630050,Chulepa,DE,3648993972565,
-100,147,Javascript,1594946584000,3531488,Dryadim,FR,35488801936304,
 100,147,Javascript,1594946584000,2122869,JaPNaA,CA,13854773877514,
 100,147,Javascript,1594946584000,3331888,LuizChagas,US,33178145755088,
 100,147,Javascript,1594946584000,2168021,Marcel256,AT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1594946584000,1612918,palluau,FR,,
 100,147,Javascript,1594946584000,1240334,richardlt,FR,3419865860528,
 100,147,Javascript,1594946584000,3270198,simbst,FR,90556189912787,
-100,147,Javascript,1601697600000,2438514,davi_bart,IT,16905477283014,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18938|time=2021-09-16T00:39:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18953|time=2021-09-17T01:08:12
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -751,6 +751,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1628296241000,1567943,LazyMammal,CA,54419089430083,
 100,59,Python3,1629592940000,3913241,KevinLi-py,CN,66916307437823,
 100,59,Perl,1631320241000,4117624,Thibb1,FR,69516644428743,
+100,59,Python3,1631840893000,2049979,130N35,FR,13111365905174,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -916,6 +917,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1629333046000,3561475,pthebaul,FR,36518828980023,
 100,61,Javascript,1630542640000,4138318,dr-awetz,HU,,
 100,61,Python3,1631234392000,3340586,Ran_42,IL,28594288121290,
+100,61,Python3,1631840893000,962495,eboot,FR,55086804311206,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,2043908,AntiSquid,,,
 100,62,Javascript,1567946828000,814685,AthosPyte,NO,5617445240242,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1583283102000,2931967,KPlanas,FR,37296962333541,
 100,62,Javascript,1586138443000,3035070,Ipso,FR,25682160338718,
 100,62,Python3,1588121964000,2552218,Jakque,FR,21307149950021,
-100,62,Python3,1588469672000,1566335,BeardedWhale,SE,36571449875674,
-100,62,Ruby,1590108777000,3361894,Retired,IM,45407247052843,

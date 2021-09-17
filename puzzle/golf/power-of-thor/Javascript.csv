@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4187|time=2021-09-16T00:39:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4189|time=2021-09-17T01:08:06
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
 100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
@@ -104,6 +104,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1616468011000,4095128,Voltmachine,BG,56919066754571,
 100,105,Javascript,1624432229000,2526465,doritosxxx,RU,17838342424936,
 100,105,Javascript,1627089472000,3840544,wiisportsresort,US,,
+100,105,Javascript,1631840886000,4131357,Remi-B,,,
 100,106,Javascript,1567946825000,1144327,Ben_da_Moose,US,,
 100,106,Javascript,1567946825000,825464,gf3741,FR,1961042323379,
 100,106,Javascript,1567946825000,1188192,mandrak3,DE,2953906491344,
@@ -681,6 +682,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Javascript,1616296042000,3489223,KarloHubai,RS,88425880005143,
 100,132,Javascript,1625273053000,3801079,jokovitch,FR,63561229827062,
 100,132,Javascript,1627956514000,4454355,dariusz.cieslak,US,,
+100,132,Javascript,1631840886000,924425,poney,FR,4382318176417,
 100,133,Javascript,1594859431000,679101,Dazzle,CY,32305181598666,
 100,133,Javascript,1594859431000,2191051,DennisHenze,DE,,
 100,133,Javascript,1594859431000,2455639,GomoryCut,CA,17236107353922,
@@ -802,7 +804,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Javascript,1609379281000,4120316,kishkumen,BE,56517809323442,
 100,138,Javascript,1623551918000,4072753,mdstoy,JP,54294744903755,
 100,138,Javascript,1627691443000,3766289,Neycho,BG,,
-100,138,Javascript,1631148473000,924425,poney,FR,4382318176417,
 100,139,Javascript,1594946584000,1808019,Aelexe,NZ,15610840171173,
 100,139,Javascript,1594946584000,947565,Albatar,FR,22046364066060,
 100,139,Javascript,1594946584000,1283478,Amilor7,FR,17670201731833,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1594946584000,1775340,ommadawn,JP,10425401671611,
 100,147,Javascript,1594946584000,1612918,palluau,FR,,
 100,147,Javascript,1594946584000,1240334,richardlt,FR,3419865860528,
-100,147,Javascript,1594946584000,3270198,simbst,FR,90556189912787,

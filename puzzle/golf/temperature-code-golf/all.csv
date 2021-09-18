@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18953|time=2021-09-17T01:08:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=18967|time=2021-09-18T00:30:42
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -710,6 +710,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,58,Bash,1628123524000,3143948,Divinement_Astucieux,FR,25685082301390,
 100,58,Python3,1629765376000,4393608,galloj,CZ,,
 100,58,Python3,1630370455000,4395513,IndecisionTree,US,69450709935774,
+100,58,Python3,1631925045000,2813793,itsjustfreekie,NL,69079046675702,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,59,Perl,1567946831000,1608197,Luun,US,10152388325189,
 100,59,Ruby,1567946833000,1022925,Adrien.,FR,17725389981317,
@@ -752,6 +753,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1629592940000,3913241,KevinLi-py,CN,66916307437823,
 100,59,Perl,1631320241000,4117624,Thibb1,FR,69516644428743,
 100,59,Python3,1631840893000,2049979,130N35,FR,13111365905174,
+100,59,Python3,1631925045000,992329,BeeGee,NL,5817423526804,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1581213050000,3407364,personAlex,BY,33008880931371,
 100,62,Bash,1582853300000,1905733,artOfHack,FR,21631011251941,
 100,62,Javascript,1583283102000,2931967,KPlanas,FR,37296962333541,
-100,62,Javascript,1586138443000,3035070,Ipso,FR,25682160338718,
-100,62,Python3,1588121964000,2552218,Jakque,FR,21307149950021,

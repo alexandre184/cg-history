@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5323|time=2021-09-19T00:31:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5330|time=2021-09-20T00:42:28
 100,55,C,1567946836000,2288263,dbdr,UA,43448306132121,
 100,55,ObjectiveC,1567946836000,2288263,dbdr,UA,43448306132121,
 100,55,ObjectiveC,1616035431000,155774,dwarfie,FR,17785582865119,
@@ -613,6 +613,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,114,Ruby,1618806657000,4062203,soraie,JP,61090083488718,
 100,114,Python3,1621564499000,1880197,bicklil,FR,48428120491412,
 100,114,Python3,1622341861000,3337117,timbersson,GB,31946722637374,
+100,114,Python3,1632098549000,1079586,debot,IN,,
+100,114,Python3,1632098549000,4165137,tactile,RU,,
 100,115,ObjectiveC,1567946836000,925695,Boulet,FR,29121141951376,
 100,115,Python3,1567946837000,3132353,Paor,SE,24725750420770,
 100,115,Javascript,1574642110000,3555948,NegativeHoro,FR,95752981213366,
@@ -742,6 +744,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Python3,1621824489000,2488317,Morcifer,NL,17597466270749,
 100,120,Python3,1625883959000,4410658,airoman,MX,,
 100,120,Ruby,1628988264000,2813793,itsjustfreekie,NL,69079046675702,
+100,120,Python3,1632098549000,3214641,Neicul,FR,25566448504624,
 100,121,Javascript,1567946837000,1485690,Kikoo,FR,4993649967380,
 100,121,Javascript,1567946837000,1001096,MyIIone,AT,4231449697357,
 100,121,Javascript,1567946837000,1759335,metahom,AE,40546489176319,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,130,Python3,1604537339000,2377428,Neinaps,FR,,
 100,130,C,1607044931000,4089683,RedRikudo,FR,94756164332840,
 100,130,Python3,1611024433000,4055466,7ossam,QA,,
-100,130,Python3,1612235877000,3463165,VidUrh,SI,54292481815561,
-100,130,C,1616208379000,4154326,montplusa,JP,60315000863420,
-100,130,Haskell,1617245660000,1654818,tarapitha,EE,79401682508715,

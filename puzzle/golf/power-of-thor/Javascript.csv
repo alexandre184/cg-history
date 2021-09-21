@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4192|time=2021-09-20T00:42:17
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4194|time=2021-09-21T00:34:24
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
 100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
@@ -513,6 +513,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,124,Javascript,1624432229000,3864521,PPRB,FR,45977985235143,
 100,124,Javascript,1625101519000,1527403,Di_Masta,BG,5689020242575,
 100,124,Javascript,1626481837000,4085274,JeZzElLutin,FR,54795484589960,
+100,124,Javascript,1632184464000,4194335,crvn,DE,68574186037443,
 100,125,Javascript,1567946825000,1349769,EltonCosmonote,FR,,
 100,125,Javascript,1567946825000,954763,InTheGround,FR,,
 100,125,Javascript,1567946825000,1731041,PitouleMan,FR,,
@@ -865,6 +866,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,141,Javascript,1627174073000,3916357,BenCo_,AU,97597441028415,
 100,141,Javascript,1627174073000,976999,Munzuk,FR,2066674126132,
 100,141,Javascript,1629160733000,4461635,Tibirius,DE,69039549612230,
+100,141,Javascript,1632184464000,4471510,TimothyAlexisVass,SE,90632500258664,
 100,142,Javascript,1594946584000,545004,Aleus,RU,39492369637219,
 100,142,Javascript,1594946584000,1192524,Alexander_Ts,UA,2988179515490,
 100,142,Javascript,1594946584000,1158957,ChaseCarver,FR,2832067067488,
@@ -985,8 +987,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Javascript,1629678639000,3516345,Jp82,FR,63600965075245,
 100,146,Javascript,1629851762000,3874022,0xsigurd,FR,,
 100,147,Javascript,1594946584000,199711,Apolo,FR,2301349496065,
-100,147,Javascript,1594946584000,630050,Chulepa,DE,3648993972565,
-100,147,Javascript,1594946584000,2122869,JaPNaA,CA,13854773877514,
 100,147,Javascript,1594946584000,2168021,Marcel256,AT,,
 100,147,Javascript,1594946584000,1968935,MicCode,FR,102062609102113,
 100,147,Javascript,1594946584000,2390135,Mjol22,CA,16319402413484,

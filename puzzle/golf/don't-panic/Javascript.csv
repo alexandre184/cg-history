@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1380|time=2021-09-20T00:42:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1381|time=2021-09-21T00:34:17
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -241,11 +241,11 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Javascript,1567946817000,1793952,hamham,FR,10972058024009,
 100,149,Javascript,1567946817000,1599292,shinesoul,ID,,
 100,149,Javascript,1575333150000,1250593,Ellama,FR,3675088014038,
+100,149,Javascript,1632184457000,3917724,Marke18,IT,47701103353349,
 100,150,Javascript,1567946817000,999484,Paturages,FR,1991319539637,
 100,150,Javascript,1567946817000,2176877,pasymows,PL,14333167453890,
 100,150,Javascript,1567946817000,1652988,wardialer,IT,7801345180157,
 100,150,Javascript,1606438651000,4040965,Twistman,FR,,
-100,150,Javascript,1628209831000,3917724,Marke18,IT,47701103353349,
 100,151,Javascript,1567946817000,1357614,OptiPanda,FR,25029501539760,
 100,151,Javascript,1567946817000,3030808,skps2010,TW,,
 100,152,Javascript,1567946817000,1070566,Kodnot,LT,20227250201533,
@@ -483,6 +483,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,187,Javascript,1619321096000,4255489,VonPawel,FR,,
 100,187,Javascript,1624668523000,3298022,IKEJIME,PH,69091121675111,
 100,187,Javascript,1625792071000,4239399,b18a9n,DE,69147906614519,
+100,187,Javascript,1632184457000,1685538,NoctalIvan,FR,18191684827813,
 100,188,Javascript,1567946817000,1197161,olsh,AM,7264098552514,
 100,189,Javascript,1567946817000,2688693,Catagami,NL,19560525429680,
 100,189,Javascript,1567946817000,3438209,IdiomSavant,GB,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,370,Javascript,1599967634000,2048763,Mickev,FR,48745204870870,
 100,370,Javascript,1605489913000,3691491,icecream17,US,42082469656497,
 100,371,Javascript,1567946817000,1700271,DaB,FR,8909065571953,
-100,372,Javascript,1567946817000,1528237,Lizzie4044,US,,

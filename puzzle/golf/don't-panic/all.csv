@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10005|time=2021-09-21T00:34:19
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10006|time=2021-09-22T00:35:17
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -101,6 +101,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,83,Ruby,1579399354000,2923506,darkhorse64,FR,23496414257567,
 100,83,C++,1624329574000,3845610,pardouin,FR,60364063762936,
 100,83,TypeScript,1627606956000,155774,dwarfie,FR,17785582865119,
+100,83,Ruby,1632270920000,1073247,_NikJ,RS,2509638482149,
 100,84,Bash,1567946818000,1001096,MyIIone,AT,4231449697357,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Python3,1618284752000,3621947,vrabosh,RU,59738664564322,
 100,163,F#,1619408287000,3845610,pardouin,FR,60364063762936,
 100,163,Python3,1624329578000,224988,DerPferd,US,2806202774501,
-100,163,Dart,1625792069000,3354337,Westicles,CX,79146641399080,

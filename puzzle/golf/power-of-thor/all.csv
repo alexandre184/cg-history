@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32651|time=2021-09-24T00:59:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32658|time=2021-09-25T00:30:42
 100,47,Ruby,1631752787000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,48,Ruby,1631666306000,3845610,pardouin,FR,60364063762936,
 100,53,Bash,1631493036000,3845610,pardouin,FR,60364063762936,
@@ -81,6 +81,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Ruby,1628470040000,709490,Sinlepuissant,FR,2102604527472,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
 100,82,Python3,1628817350000,3431280,luukhf,NL,,
+100,82,Python3,1632529843000,1470927,ClementAvenel,FR,89056262115378,
 100,83,Ruby,1567946826000,2021126,FPSCUBE,FR,12916810121106,
 100,83,Python3,1593737159000,3663409,giosds,IT,,
 100,83,Python3,1614738642000,3647844,rc95401,US,39486169555819,
@@ -97,6 +98,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,Python3,1629592925000,3913241,KevinLi-py,CN,66916307437823,
 100,85,Python3,1628123520000,762642,Wonyoung,KR,4963742317694,
 100,85,Ruby,1628643501000,4396362,oxydowe,,,
+100,85,Javascript,1632529838000,233627,SlipOne,HU,4994821803578,
 100,86,Ruby,1567946826000,2615786,nyiti,HU,,
 100,86,Python3,1607995144000,1393802,amzh,RU,81786846913810,
 100,86,Ruby,1613962197000,2991446,Haksell,VC,23218663624022,
@@ -107,7 +109,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,87,Bash,1607649872000,2422378,C2H5OH,UA,19226708700974,
 100,87,Bash,1627260455000,3354337,Westicles,CX,79146641399080,
 100,87,Javascript,1627260458000,3354337,Westicles,CX,79146641399080,
-100,87,Javascript,1630456247000,233627,SlipOne,HU,4994821803578,
 100,87,Python3,1630629406000,4433166,PiFlavour,DE,67769686869974,
 100,87,Perl,1630717381000,1968855,ThePurificator,FR,12329456921169,
 100,88,Javascript,1567946825000,1589272,darrylyeo,US,6826201774664,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Python3,1567946825000,1496013,Burk,US,,
 100,113,Python3,1567946825000,1850560,Djuls,FR,,
 100,113,Python3,1567946825000,1788945,FabienDaniel,FR,10404689396473,
-100,113,Python3,1567946825000,1395140,FabienPL,GB,4451145109718,

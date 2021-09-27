@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5459|time=2021-09-26T00:33:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5461|time=2021-09-27T00:47:05
 100,53,Python3,1623984129000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,56,Python3,1620962719000,2315623,Lydxn,CA,,
@@ -13,7 +13,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,57,Python3,1624069858000,1518044,Vikka,FR,5469273294310,
 100,57,Python3,1624242643000,1607522,RoboStac,GB,11333369102997,
 100,57,Python3,1624927220000,3354337,Westicles,CX,79146641399080,
-100,57,Python3,1626569288000,3573554,Tess2662,CZ,,
+100,57,Python3,1626569288000,3573554,Furetani,CZ,,
 100,57,Python3,1626915633000,4169598,kite1002,PL,,
 100,57,Python3,1627260459000,4380587,anp0,RO,,
 100,57,Python3,1627691450000,3792309,schachmatt,DE,58313205988826,
@@ -901,6 +901,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1628557763000,818644,macrojames,DE,,
 100,76,Python3,1631148482000,1653524,quatre1,FR,,
 100,76,Python3,1632270934000,4505065,Mbarek,FR,,
+100,76,Python3,1632703625000,4487490,cnk_gr,GR,69672501862552,
 100,77,Python3,1567946832000,1329079,Aengus,CH,9983363899985,
 100,77,Python3,1567946832000,2045063,DaanP,GB,,
 100,77,Python3,1567946832000,1684066,Dade,IL,,
@@ -978,7 +979,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,77,Python3,1630456254000,4155929,SowmyaGowda,IN,,
 100,78,Python3,1567946832000,1279172,Alphaloc,BE,23634984069202,
 100,78,Python3,1567946832000,935500,Brewir,FR,2864631216806,
-100,78,Python3,1567946832000,481988,DevKirill,RU,26384102822076,
 100,78,Python3,1567946832000,2683322,Goosterhof,NL,20204504739516,
 100,78,Python3,1567946832000,1501244,Idik,IL,5345004619549,
 100,78,Python3,1567946832000,1879802,John86,FR,11415855787770,

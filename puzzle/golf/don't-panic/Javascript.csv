@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1384|time=2021-09-29T00:32:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1385|time=2021-09-30T00:35:52
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -162,6 +162,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,130,Javascript,1567946817000,1212198,kernel78,IT,3343880905136,
 100,130,Javascript,1626139007000,1309948,Runner87,IT,6963904733897,
 100,131,Javascript,1567946817000,1607251,baboulaf,FR,18176849207993,
+100,131,Javascript,1632962152000,4482820,Jake40,FR,69738545516043,
+100,131,Javascript,1632962152000,342365,arthh,FR,,
 100,132,Javascript,1567946817000,1193408,DoubleZeroSteph,FR,3015400557516,
 100,132,Javascript,1567946817000,1145658,Fusilli,US,,
 100,132,Javascript,1567946817000,961481,Henrique,BR,1887635791770,
@@ -327,7 +329,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,166,Javascript,1580430626000,1645228,mnahkies,NZ,10476884301264,
 100,166,Javascript,1623294160000,3801079,jokovitch,FR,63561229827062,
 100,166,Javascript,1631752781000,924425,poney,FR,4382318176417,
-100,166,Javascript,1632789659000,4482820,Jake40,FR,69738545516043,
 100,167,Javascript,1567946817000,1656351,Castosaurus,YT,21643540184535,
 100,167,Javascript,1567946817000,1577127,Nash171,LK,14283595721301,
 100,167,Javascript,1567946817000,779449,THoVer,LT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,370,Javascript,1567946817000,1057822,BenjaminV,FR,,
 100,370,Javascript,1567946817000,1143184,MarcoGodoy,CL,6844557166581,
 100,370,Javascript,1567946817000,1016299,RicardoNunes,PT,3672394129984,
-100,370,Javascript,1567946817000,3164476,karimmedusa,IR,,

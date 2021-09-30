@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=190|time=2021-09-29T00:32:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=189|time=2021-09-30T00:35:56
 100,68,TypeScript,1627956513000,1675034,francois,FR,15464459859531,
 100,79,TypeScript,1628988252000,2315158,luigi_gelato,DE,,
 100,91,TypeScript,1627260457000,3354337,Westicles,CX,79146641399080,
@@ -25,6 +25,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,128,TypeScript,1612492773000,389786,menu,DE,,
 100,129,TypeScript,1607044925000,4090007,Pepsite,FR,55260109465701,
 100,129,TypeScript,1627347625000,311035,leojean890,FR,42398427701382,
+100,131,TypeScript,1632962156000,2622559,Gripnil,FR,19024435956137,
 100,132,TypeScript,1619931075000,1861852,Cramer,DE,13289802969874,
 100,133,TypeScript,1618367464000,4156154,issogood,CH,59814183471795,
 100,135,TypeScript,1605144578000,3660819,BloodyTurtles,US,39803283840838,
@@ -136,7 +137,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,750,TypeScript,1615948245000,1910916,VivienBillot,FR,53165247393812,
 100,758,TypeScript,1596933579000,3925531,SickNerd,SG,,
 100,814,TypeScript,1610772689000,4034497,Sorikairo,FR,79198880961122,
-100,816,TypeScript,1622341848000,257832,BlaiseEbuth,,,
 100,853,TypeScript,1632011500000,4518392,Marmi,HU,,
 100,890,TypeScript,1595637194000,1500515,eulerscheZahl,DE,43135502422075,
 100,958,TypeScript,1604458999000,1496025,czearing,US,52781705979289,
@@ -172,7 +172,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,114,TypeScript,1593305175000,3774500,zakariamouhid,MA,46244702989556,
 75,114,TypeScript,1618284758000,940791,Kris117,FR,16280535626899,
 75,117,TypeScript,1572828115000,3380514,DFrese,DE,30555045908186,
-75,117,TypeScript,1581986246000,2622559,Gripnil,FR,19024435956137,
 75,121,TypeScript,1608685407000,4100825,ablin42,FR,55479060101488,
 75,122,TypeScript,1606957957000,4052722,ClockSort,US,53561120333886,
 75,126,TypeScript,1611552815000,2025868,sumoru,JP,54337824080031,

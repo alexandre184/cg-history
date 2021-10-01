@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1092|time=2021-09-30T00:36:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1093|time=2021-10-01T00:45:07
 100,36,C,1586393334000,334009,abouvier,FR,4681436111242,
 100,39,C,1616380794000,155774,dwarfie,FR,17785582865119,
 100,42,C,1615948253000,3845610,pardouin,FR,60364063762936,
@@ -60,6 +60,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,C,1589943886000,3726978,VirtualAtom,FR,41848346565993,
 100,80,C,1630717389000,3516345,Jp82,FR,63600965075245,
 100,80,C,1631148479000,3647844,rc95401,US,39486169555819,
+100,80,C,1633049107000,4534872,TheBlueBias,,,
 100,81,C,1567946831000,2466496,Alucard2,ES,23956763745232,
 100,81,C,1567946831000,1070566,Kodnot,LT,20227250201533,
 100,81,C,1567946831000,1375991,emacsil,ES,25513585613812,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 66,979,C,1624432233000,4037448,yogamani,IN,,
 66,1158,C,1624432233000,2259002,Spectre_.,TR,15309537324105,
 66,1158,C,1624432233000,3802971,prabhu_2005316,IN,,
-66,1504,C,1624432233000,1376931,Artimael,CL,4081627924095,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2506|time=2021-09-30T00:35:36
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2507|time=2021-10-01T00:30:32
 5,35.67,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.5,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -897,6 +897,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.26,C#,,969744,609811,Atesz,CA,5001858462202,
 1,23.26,Python,,912652,1753121,Fumo201,TW,10114797599106,
 1,23.26,C++,,1218206,1836084,TaoLu,NO,11029116747275,
+1,23.26,C,,570241,1273475,Charles-Elie.Taupin,FR,8381843216701,
 1,23.25,C,,570996,1405775,Yiminjune,KR,,
 1,23.25,Python3,,493497,1455173,DrSpock,NL,4677392520182,
 1,23.25,C#,,896454,1251131,ma81xx,IT,9638700030976,
@@ -949,7 +950,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.17,Python3,,582666,1458250,Epsilonmajorquezero,ES,4699928930103,
 1,23.17,C++,,1533555,1633040,ChristopheSauge,FR,7469447139553,
 1,23.16,C#,,675167,1520716,Haskeer,CZ,5527962940413,
-1,23.16,C,,570241,1273475,Charles-Elie.Taupin,FR,8381843216701,
 1,23.16,Python3,,502717,215395,Enknable,CA,14488393339187,
 1,23.16,C++,,590307,1491359,MurfDude,US,,
 1,23.15,Java,,713892,1603310,yarwest,PL,6905688353357,
@@ -969,6 +969,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.11,Rust,,1854587,1595013,thebarbershopper,US,,
 1,23.11,Python3,,495760,386279,Amikum,US,14209805263751,
 1,23.1,Python,,504765,1081818,Indispira,FR,2268356777933,
+1,23.1,C#,,512115,1377467,GeorgeClooney,CA,5097084386601,
 1,23.1,Python3,,979378,1519601,Jagang,DE,5549575557415,
 1,23.1,Python3,,635281,1515544,Toka,DE,,
 1,23.09,Python3,,3835550,4508271,Thorcode,US,88691646410654,
@@ -984,7 +985,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.08,C++,,551752,1478742,Archimist,FR,,
 1,23.07,Python3,,1876408,2582643,DJrafou,FR,18333930218681,
 1,23.07,Java,,2257842,1811179,Tetarus,FR,17864799271929,
-1,23.06,C#,,512115,1377467,GeorgeClooney,CA,5097084386601,
 1,23.05,Go,,685362,1547430,softclone,US,6893546461299,
 1,23.04,Python3,,481682,1317750,zizouvb,FR,,
 1,23.04,C,,582671,1492574,zc,SE,,

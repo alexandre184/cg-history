@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1076|time=2021-09-30T00:35:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1077|time=2021-10-01T00:44:51
 100,11920,C++,1629678623000,2077805,bamilan,HU,,
 100,11902,Rust,1582245024000,2288263,dbdr,UA,43448306132121,
 100,11787,C++,1623384810000,2500089,Fantomat75,FR,54280860198856,
@@ -319,6 +319,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,3622,Javascript,1632270914000,4261456,zachmae,FR,65480448221177,
 100,3621,Javascript,1624841955000,4286679,fungi_star,HK,66789048913950,
 100,3612,Javascript,1590799150000,1354295,AbdullahKhawer,,,
+100,3606,Java,1633049091000,389786,menu,DE,,
 100,3602,Python3,1567946811000,2644772,Airwaito,FR,35481509328406,
 100,3602,Python3,1567946811000,1390789,Matthieu.L,FR,36482342568862,
 100,3602,Python3,1567946811000,2006324,SihardeOussama,MA,75224840468195,
@@ -359,7 +360,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,3465,Javascript,1624582491000,4377648,Salguero,AR,65675820073329,
 100,3460,Javascript,1630110629000,4285295,Ceereals,IT,,
 100,3454,Javascript,1603593218000,4018953,zTTK,BH,99798786084209,
-100,3440,Java,1622341835000,389786,menu,DE,,
 100,3424,C,1567946811000,1759839,matleg,FR,27938585309756,
 100,3423,Javascript,1630456228000,3768412,calebharrison,US,77138061844747,
 100,3422,Javascript,1567946811000,2889262,gheath,US,21953455155837,
@@ -959,6 +959,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1045,Java,1632529826000,3106766,Jufo,SK,106533223127047,
 100,1045,Python3,1632529826000,4158692,All2u,FR,75021362166230,
 100,1045,Python3,1632962148000,3723101,Lilac_Tsuki,FR,77850421945397,
+100,1045,Python3,1633049091000,4003567,foxalfabravo,FR,58959080146419,
 100,1041,Java,1567946811000,1074744,GwenGlSoft,FR,20534955192391,
 100,1039,Python3,1571273969000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,1031,Java,1567946811000,3197410,Zydos,DE,25385499841527,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1010,TypeScript,1593045942000,2921599,Rinoweb,FR,22420100477650,
 100,1010,Javascript,1600656614000,1099996,ZealousApathet,US,,
 100,1010,Python3,1601260227000,3439872,xdcomrade,DE,34769864720767,
-100,1010,Python3,1607303427000,3518657,Obelix,SK,,

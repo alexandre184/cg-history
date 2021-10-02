@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2024|time=2021-10-01T00:45:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2029|time=2021-10-02T00:30:56
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -26,6 +26,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Python3,1628729590000,1567943,LazyMammal,CA,54419089430083,
 100,81,Python3,1604797980000,1502908,selujum,FR,,
 100,81,Python3,1607909013000,2923506,darkhorse64,FR,23496414257567,
+100,81,Python3,1633134656000,2977626,Sandell0,FR,39015900221115,
 100,83,Python3,1623294200000,936271,Chkoupinator,FR,63680800481745,
 100,83,Python3,1624156454000,4333783,Fredsi,FR,,
 100,83,Python3,1627606972000,4081634,Wontonimo,CA,54970169109216,
@@ -169,7 +170,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1621651019000,4237199,imperosol,FR,60493783528976,
 100,109,Python3,1626139029000,4396510,Plantchant,US,89668541027014,
 100,109,Python3,1628817362000,1186250,Gabbek,PL,3084076624888,
-100,110,Python3,1567946837000,2977626,Sandell0,FR,39015900221115,
 100,110,Python3,1567946837000,1114834,k4ng0u,FR,26037223936643,
 100,110,Python3,1567946837000,3030808,skps2010,TW,,
 100,110,Python3,1567946837000,3230794,tutubalin,RU,25714480415254,
@@ -679,6 +679,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,Python3,1628123531000,4292379,Chairman_of_the_Borg,US,65369007071182,
 100,145,Python3,1632098549000,4496623,npkt,JP,,
 100,145,Python3,1632358368000,4029745,,US,,
+100,145,Python3,1633134656000,1409837,Meepophobia,AM,10971156445796,
 100,146,Python3,1567946837000,3397174,DexTrail,RU,30894429509078,
 100,146,Python3,1567946837000,1488793,kerloic,FR,,
 100,146,Python3,1569025950000,3125495,Ezzou,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,169,Python3,1567946837000,1293284,NaraJeamfry,ES,43821565327057,
 100,169,Python3,1567946837000,956638,Pi-Geometry,FR,50157040295797,
 100,169,Python3,1567946837000,1162999,Vaekor,US,29431665535923,
-100,169,Python3,1571971792000,2976964,BenjaminUrquhart,US,26083283518959,

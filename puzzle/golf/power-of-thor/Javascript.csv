@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4206|time=2021-10-06T00:32:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4206|time=2021-10-07T00:30:36
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
 100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
@@ -388,6 +388,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,117,Javascript,1619596911000,3717379,bobbieX,FR,58305824159084,
 100,117,Javascript,1623033062000,508085,CoachPRGM,FR,,
 100,117,Javascript,1629678639000,2765000,Nowan,BE,88026624631087,
+100,117,Javascript,1633566636000,903179,maksmas,EE,101274743228150,
 100,118,Javascript,1567946825000,2210541,HumbleHominid,US,14704763303445,
 100,118,Javascript,1567946825000,1577127,Nash171,LK,14283595721301,
 100,118,Javascript,1567946825000,1600940,ProPuke,GB,6813033823843,
@@ -683,7 +684,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Javascript,1608083737000,155881,Hevey,CH,104405127658237,
 100,132,Javascript,1611119603000,3855258,Starfighter,FR,57681805205585,
 100,132,Javascript,1614311723000,4047152,Willard21,US,53068420450889,
-100,132,Javascript,1614997861000,3507302,PTLC,FR,37888184512260,
+100,132,Javascript,1614997861000,3507302,Ambi8,FR,37888184512260,
 100,132,Javascript,1616296042000,3489223,KarloHubai,RS,88425880005143,
 100,132,Javascript,1625273053000,3801079,jokovitch,FR,63561229827062,
 100,132,Javascript,1627956514000,4454355,dariusz.cieslak,US,,
@@ -994,7 +995,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Javascript,1594946584000,199711,Apolo,FR,2301349496065,
 100,147,Javascript,1594946584000,1347681,Olivempa,BY,,
 100,147,Javascript,1594946584000,1498889,Roger_Roger,US,,
-100,147,Javascript,1594946584000,1145122,Turturul,BE,14028174172338,
 100,147,Javascript,1594946584000,1490749,UZMeNow,SE,25527762142818,
 100,147,Javascript,1594946584000,1406718,cgame-isaac,BA,,
 100,147,Javascript,1594946584000,1612918,palluau,FR,,

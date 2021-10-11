@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32810|time=2021-10-10T00:45:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=32820|time=2021-10-11T00:30:42
 100,47,Ruby,1631752787000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,48,Ruby,1631666306000,3845610,pardouin,FR,60364063762936,
 100,53,Bash,1631493036000,3845610,pardouin,FR,60364063762936,
@@ -6,9 +6,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,54,ObjectiveC,1627606963000,3845610,pardouin,FR,60364063762936,
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,54,Ruby,1633480357000,1100752,ValNykol,GB,10307803807981,
+100,54,Ruby,1633912243000,1436776,BrainSolver,FR,10099178983053,
 100,56,Perl,1628643505000,3845610,pardouin,FR,60364063762936,
 100,57,Ruby,1631666306000,4241722,Dr.K1nzell,FR,101280462753684,
-100,57,Ruby,1632011504000,1436776,BrainSolver,FR,10099178983053,
 100,57,Ruby,1632789663000,3380184,chouch,FR,,
 100,58,Ruby,1631408080000,1073247,_NikJ,RS,2509638482149,
 100,60,PHP,1632789671000,3380184,chouch,FR,,
@@ -817,6 +817,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1627606959000,2068632,PedroMMPereira,PT,67852266738441,
 100,109,Perl,1629765373000,4477724,Mitarano,DE,69546202548195,
 100,109,C,1633049100000,4534872,TheBlueBias,,,
+100,109,Python3,1633912244000,4509119,PhysicistBot,BR,70330007936452,
 100,110,Bash,1567946822000,366305,Mgayar,EG,5691231749425,
 100,110,Javascript,1567946825000,2050543,Cherubael,DK,13150128776541,
 100,110,Javascript,1567946825000,2471054,Goldcott,BE,24540565061023,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,112,Javascript,1628557753000,2206075,Jon...,CA,75211762898926,
 100,112,Javascript,1629420795000,3514975,Phurinat,TH,97597367576293,
 100,112,C,1630717378000,1968855,ThePurificator,FR,12329456921169,
-100,112,PHP,1633049104000,328782,lorky,FR,36765822585838,

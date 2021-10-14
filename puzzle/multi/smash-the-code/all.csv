@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2511|time=2021-10-13T00:56:40
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2512|time=2021-10-14T00:30:16
 5,35.47,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.32,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -892,6 +892,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.28,C++,,576064,973155,Namal,FR,,
 1,23.27,PHP,,493584,1014924,TommyP,PT,,
 1,23.27,Ruby,,577663,1477028,CbIC,RU,13717872806680,
+1,23.27,C#,,2335906,912971,Amousy,FR,4498392759233,
 1,23.27,C++,,1669704,2203927,MohamedAlmograby_2nd_year_2018,EG,14637075858380,
 1,23.26,C++,,781283,1526032,AdamBadura,PL,5659489683423,
 1,23.26,C#,,969744,609811,Atesz,CA,5001858462202,
@@ -907,7 +908,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.23,Java,,1295886,1304340,AntoineLatour,FR,,
 1,23.23,Javascript,,614967,1439710,Buesto,FR,5055564669623,
 1,23.23,Python,,628546,810902,bouletta,US,,
-1,23.23,C#,,2335906,912971,Amousy,FR,4498392759233,
 1,23.23,Java,,789328,1676969,Louenes,ES,8285015742833,
 1,23.23,C++,,493061,1364114,Unforgiven,US,,
 1,23.22,C,,647661,1527782,zad,FR,,
@@ -930,6 +930,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.19,VB.NET,,576247,1476242,Txiwi,ES,5036284664644,
 1,23.19,Javascript,,672424,889640,Kaljuk,EE,15473756993353,
 1,23.19,C++,,579789,1490531,pedrofr,CH,,
+1,23.19,PHP,,491822,1051649,Elektordi,FR,4037715643345,
 1,23.19,C++,,768550,1662602,brenrik,FR,,
 1,23.19,Javascript,,885989,1026791,Alfalfamale,NL,7144185210937,
 1,23.19,Python,,506945,224988,DerPferd,US,2806202774501,
@@ -963,7 +964,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.14,Java,,3342570,831171,Recoding,FR,2203947183303,
 1,23.13,C,,500221,1467976,NickDominov,DE,,
 1,23.13,C#,,2318409,1509251,OmikoGaming,DE,,
-1,23.13,PHP,,491822,1051649,Elektordi,FR,4037715643345,
 1,23.12,Java,,672682,1563880,Patrick8675,NL,,
 1,23.11,C++,,512500,1470835,Fsk,FR,6948560874163,
 1,23.11,Rust,,1854587,1595013,thebarbershopper,US,,

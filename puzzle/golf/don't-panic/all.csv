@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10126|time=2021-10-14T00:35:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10127|time=2021-10-15T00:37:05
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -865,6 +865,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1624753828000,4333899,Handala,MA,64294200000829,
 100,155,Javascript,1626569275000,4283515,FrancoisBaveye,FR,104716760268246,
 100,155,Ruby,1628470036000,4124688,Murat_Eroglu,TR,91676687994670,
+100,155,Python3,1634258224000,1178401,mizzHuarta,FR,,
 100,156,C,1567946816000,512097,Stilgart,FR,69893904259383,
 100,156,Javascript,1567946817000,1600940,ProPuke,GB,6813033823843,
 100,156,Javascript,1567946817000,389786,menu,DE,,
@@ -884,6 +885,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Perl,1624841960000,1324974,ViktorCs,HU,4515823207881,
 100,156,Javascript,1625446087000,4124054,JoshuaRC02,US,57287523607434,
 100,156,Haskell,1627174071000,709490,Sinlepuissant,FR,2102604527472,
+100,156,Python3,1634258224000,4526264,cly,FR,,
 100,157,Javascript,1567946817000,1528929,Blackfich,FR,95780209684968,
 100,157,Javascript,1567946817000,1363282,Dantevgp,FR,,
 100,157,Javascript,1567946817000,1161211,Greaby,CH,61874564272423,
@@ -945,7 +947,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,159,Python3,1624668524000,3711954,kpjl,FR,,
 100,159,Python3,1626481834000,4065227,Pamplemus,CA,53971529478633,
 100,159,PHP,1626741440000,4283515,FrancoisBaveye,FR,104716760268246,
-100,159,Python3,1633566628000,4526264,cly,FR,,
 100,160,C,1567946816000,351062,Neumann,FR,17173563008577,
 100,160,C#,1567946816000,1039809,Azziliz,FR,2174385385699,
 100,160,Bash,1567946818000,964087,xflr6,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Javascript,1567946817000,1305374,Frankich,FR,4884866560369,
 100,163,Javascript,1567946817000,1068125,Irvineflon,ES,2466895670942,
 100,163,Javascript,1567946817000,705079,Perazzo,BR,,
-100,163,Javascript,1567946817000,961785,Vick,DE,,

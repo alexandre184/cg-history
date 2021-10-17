@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=445|time=2021-10-16T01:15:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=445|time=2021-10-17T01:05:50
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -193,6 +193,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,186,Ruby,1567946820000,2854802,Hmm...,RU,21753625415898,
 100,186,Ruby,1567946820000,1903031,hard-coded,KR,27487549921318,
 100,186,Ruby,1567946820000,311823,hettomei,FR,3356147074607,
+100,186,Ruby,1634432750000,2874091,5DN1L,GB,79633423380001,
 100,187,Ruby,1567946820000,735910,Agade,CH,1997542876524,
 100,187,Ruby,1567946820000,2867477,MichaelKommandant,UA,,
 100,187,Ruby,1598810509000,3369525,LunEyx,HK,49175401858251,
@@ -361,7 +362,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,276,Ruby,1567946820000,988113,ExtremeBrise,FR,,
 100,277,Ruby,1602219136000,2510517,Turtlefight,DE,17686753344865,
 100,283,Ruby,1567946820000,1244277,qwertimus,AU,,
-100,289,Ruby,1633134637000,2874091,5DN1L,GB,79633423380001,
 100,293,Ruby,1567946820000,1255693,Noxilex,FR,3359297518185,
 100,297,Ruby,1567946820000,774387,DrunkenMonkey,GB,,
 100,298,Ruby,1567946820000,1471584,DoomedFlo,FR,5027280404195,
@@ -418,7 +418,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1694,Ruby,1581467424000,3677612,HoangKien,VN,,
 100,1748,Ruby,1567946820000,1983397,snvl1993,UA,,
 100,1758,Ruby,1567946820000,887337,RubySamurai,FR,,
-100,1780,Ruby,1634000363000,818736,AirGee,FR,,
+100,1780,Ruby,1634000363000,818736,jlfr,FR,,
 100,1794,Ruby,1567946820000,914086,matthewd,AU,2180619521943,
 100,1904,Ruby,1567946820000,227781,marvin,UA,16631151377943,
 100,1943,Ruby,1567946820000,775824,yumyum,JP,,

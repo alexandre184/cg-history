@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=804|time=2021-10-19T00:48:14
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=805|time=2021-10-20T00:30:55
 100,75,Javascript,1629073844000,3380184,chouch,FR,,
 100,76,Javascript,1628901888000,3337790,gitbeginer,KR,66608941195357,
 100,77,Javascript,1629333050000,1675034,francois,FR,15464459859531,
@@ -43,6 +43,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Javascript,1630110653000,376701,Shiwa,FR,,
 100,117,Javascript,1588726380000,3513265,DaNinja,IE,35022107863170,
 100,117,Javascript,1599791926000,2888129,terazoid,UA,49682242574474,
+100,117,Javascript,1634689855000,3917724,Marke18,IT,47701103353349,
 100,119,Javascript,1567946837000,351062,Neumann,FR,17173563008577,
 100,119,Javascript,1580171442000,3540338,CAV,FR,,
 100,120,Javascript,1588383520000,814685,AthosPyte,NO,5617445240242,
@@ -125,7 +126,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,Javascript,1621996724000,4358721,Pranav_C,IN,66279900634398,
 100,145,Javascript,1629333050000,3514975,Phurinat,TH,97597367576293,
 100,145,Javascript,1630370464000,165671,cyppan,FR,64028666285629,
-100,145,Javascript,1634604494000,3917724,Marke18,IT,47701103353349,
+100,145,Javascript,1634689855000,1607251,baboulaf,FR,18176849207993,
 100,146,Javascript,1567946837000,482445,BogdanSavchenko,UA,9319024256259,
 100,146,Javascript,1567946837000,2077458,Ragi,PL,13710770531146,
 100,146,Javascript,1567946837000,587769,infusion,DE,2936450004591,
@@ -231,6 +232,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Javascript,1610944283000,4124401,emrah_akc,TR,57057103925818,
 100,156,Javascript,1622083150000,2298036,3x1t,CZ,15502931839193,
 100,156,Javascript,1631061903000,1475413,AlucardDH,FR,4898493641535,
+100,156,Javascript,1634689855000,1169835,soleraeus,FR,93352102510872,
 100,157,Javascript,1567946837000,1060181,Dabou,FR,3798025078627,
 100,157,Javascript,1567946837000,1166150,Rivy33,FR,30719547346752,
 100,157,Javascript,1567946837000,303948,ZZSolo,FR,,
@@ -296,7 +298,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,165,Javascript,1578790355000,1213850,Rativel,PL,3108976562691,
 100,165,Javascript,1608513249000,3887131,cpilko,US,,
 100,165,Javascript,1622428610000,4335231,ash3rz,US,64449340528605,
-100,165,Javascript,1622946666000,1607251,baboulaf,FR,18176849207993,
 100,166,Javascript,1567946837000,158495,Cr3aHal0,FR,11235124705354,
 100,166,Javascript,1572222643000,1588777,ClemC,FR,35766566727043,
 100,166,Javascript,1588903194000,3761566,Arnav-S,US,46459284452691,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2516|time=2021-10-21T00:30:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2516|time=2021-10-22T00:30:16
 5,35.47,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.32,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -907,7 +907,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.25,Javascript,,498595,1412502,falsidge,US,,
 1,23.25,OCaml,,3485184,3938495,o11s,NZ,52644949220387,
 1,23.24,Javascript,,494417,1463575,Kittenschnitzel,FI,,
-1,23.24,C++,,512500,1470835,Fsk,FR,6948560874163,
 1,23.23,Java,,789328,1676969,Louenes,ES,8285015742833,
 1,23.23,Java,,1295886,1304340,AntoineLatour,FR,,
 1,23.23,Python,,628546,810902,bouletta,US,,
@@ -916,6 +915,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.22,Python3,,2622382,3101644,HerrHagner,DE,39056126752805,
 1,23.22,C#,,505533,1250606,ERROR,TN,3433859158534,
 1,23.22,C#,,962800,1385626,Wabash9000,US,4206137522309,
+1,23.22,Python,,506945,224988,DerPferd,US,2806202774501,
 1,23.22,PHP,,493584,1014924,TommyP,PT,,
 1,23.22,C#,,768314,1596346,LaurisJansons,LV,7768245836879,
 1,23.21,C++,,534250,1479835,skill,JP,,
@@ -937,7 +937,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.19,C++,,768550,1662602,brenrik,FR,,
 1,23.19,C,,570996,1405775,Yiminjune,KR,,
 1,23.19,Javascript,,885989,1026791,Alfalfamale,NL,7144185210937,
-1,23.19,Python,,506945,224988,DerPferd,US,2806202774501,
 1,23.18,Javascript,,622142,1308136,AsZ,HU,,
 1,23.18,Python3,,1122658,162982,Dami-e,MA,1957175104038,
 1,23.18,Go,,751000,1640431,Automatico,NO,,
@@ -968,6 +967,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.13,C,,500221,1467976,NickDominov,DE,,
 1,23.13,C#,,2318409,1509251,OmikoGaming,DE,,
 1,23.12,Java,,672682,1563880,Patrick8675,NL,,
+1,23.12,C++,,512500,1470835,Fsk,FR,6948560874163,
 1,23.11,Rust,,1854587,1595013,thebarbershopper,US,,
 1,23.11,Python3,,495760,386279,Amikum,US,14209805263751,
 1,23.1,Python,,504765,1081818,Indispira,FR,2268356777933,

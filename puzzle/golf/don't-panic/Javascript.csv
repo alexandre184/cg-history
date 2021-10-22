@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1399|time=2021-10-21T00:57:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1399|time=2021-10-22T00:30:33
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -42,6 +42,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1621996695000,2589340,Zource,NL,,
 100,103,Javascript,1567946817000,1759335,metahom,AE,40546489176319,
 100,103,Javascript,1612924245000,2928146,LolCat,MU,22538133010433,
+100,103,Javascript,1634862633000,3917724,Marke18,IT,47701103353349,
 100,104,Javascript,1567946817000,1026791,Alfalfamale,NL,7144185210937,
 100,104,Javascript,1567946817000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,104,Javascript,1567946817000,943558,Johanhq,SE,2015039196515,
@@ -60,7 +61,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Javascript,1567946817000,2084583,,SG,,
 100,108,Javascript,1567946817000,513549,y0p,FR,,
 100,108,Javascript,1631148466000,3647844,rc95401,US,39486169555819,
-100,108,Javascript,1634689836000,3917724,Marke18,IT,47701103353349,
 100,109,Javascript,1567946817000,1130993,Azaria,FR,5570211139396,
 100,109,Javascript,1567946817000,1442344,PavelRaskin,GE,,
 100,109,Javascript,1634689836000,4487490,cnk_gr,GR,69672501862552,
@@ -524,7 +524,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,192,Javascript,1618981077000,2084610,cheesysteak,US,18470841598515,
 100,192,Javascript,1622601053000,3896228,Boruwaka,FR,46695808602989,
 100,192,Javascript,1623384824000,3767954,frie321984,DE,63246628993257,
-100,192,Javascript,1628901869000,4229382,ClarkLawlor,US,72627768501723,
+100,192,Javascript,1628901869000,4229382,ClawLegend,US,72627768501723,
 100,193,Javascript,1567946817000,1675720,AxFab,FR,15422957143535,
 100,193,Javascript,1567946817000,1854246,Counterbalance,NL,26367790351026,
 100,193,Javascript,1567946817000,1061482,Ph470u,FR,64062648057012,

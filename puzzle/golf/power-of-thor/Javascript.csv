@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4233|time=2021-10-22T00:30:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4235|time=2021-10-23T01:39:47
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
 100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
@@ -865,6 +865,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Javascript,1623294181000,4378525,,PT,,
 100,140,Javascript,1624156442000,1787026,xurei,BE,10364774608887,
 100,140,Javascript,1634604486000,153965,Keelhaul,FR,4367050238110,
+100,140,Javascript,1634953187000,3366686,FAngelo94,IT,29722105819534,
 100,141,Javascript,1594946584000,1022925,Adrien.,FR,17725389981317,
 100,141,Javascript,1594946584000,2021361,Albard,FR,16959394076245,
 100,141,Javascript,1594946584000,1120964,DeltaEvo,FR,53458964321716,
@@ -911,7 +912,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,142,Javascript,1627089472000,1885745,CodeSprut,RU,25870000641177,
 100,142,Javascript,1627174073000,1109738,CodesandTags,CO,2444492054991,
 100,142,Javascript,1629592933000,2202771,Kaplone,FR,23792369424472,
-100,142,Javascript,1634689838000,3366686,FAngelo94,IT,29722105819534,
 100,143,Javascript,1594946584000,1186009,Bellian,DE,,
 100,143,Javascript,1594946584000,1118531,Darmo,FR,68614044187891,
 100,143,Javascript,1594946584000,1281193,DavidNivot,FR,,
@@ -937,6 +937,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1594946584000,2410595,weblp,FR,,
 100,143,Javascript,1596760236000,2453008,Crypticsy,NP,91135821533111,
 100,143,Javascript,1627866432000,4439900,mistakenn,BR,82133588396810,
+100,143,Javascript,1634953187000,981878,nicolasD,FR,22576267267565,
 100,144,Javascript,1594946584000,1173260,Erasmus,GB,4620396396797,
 100,144,Javascript,1594946584000,2500089,Fantomat75,FR,54280860198856,
 100,144,Javascript,1594946584000,1197534,FranciscoAriJosinoJunior,CA,3201487382260,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Javascript,1594946584000,591238,wolfnether,FR,,
 100,146,Javascript,1599013847000,3581819,Tikiwinkie,FR,40916800797498,
 100,146,Javascript,1604537330000,4013791,LTNightshade,DE,52126062565051,
-100,146,Javascript,1604882642000,1834129,oPOCCOMAXAo,UA,52715622633189,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=449|time=2021-10-24T00:47:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=450|time=2021-10-25T01:01:44
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -94,6 +94,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Ruby,1628988245000,2813793,itsjustfreekie,NL,69079046675702,
 100,122,Ruby,1629333033000,3514975,Phurinat,TH,97597367576293,
 100,122,Ruby,1634518026000,4341304,Remi.,FR,97662026388574,
+100,122,Ruby,1635123704000,1579042,Hulous,FR,72120208833937,
 100,124,Ruby,1567946820000,271034,6pi,FR,3403647713500,
 100,124,Ruby,1567946820000,1001167,ASd-,FR,17524259740348,
 100,125,Ruby,1583542921000,2490008,ebicochineal,JP,43936521576530,
@@ -376,7 +377,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,320,Ruby,1567946820000,922457,Kristallseele,DE,,
 100,325,Ruby,1567946820000,1037197,EyeOfTheBeholder,US,2099730579845,
 100,326,Ruby,1567946820000,903745,paperfake,US,,
-100,330,Ruby,1634953181000,1579042,Hulous,FR,72120208833937,
 100,331,Ruby,1567946820000,806137,Aghazord,FR,1859861191580,
 100,343,Ruby,1567946820000,1032107,floventu,FR,,
 100,348,Ruby,1567946820000,1083946,Lomig,FR,2283663342197,
@@ -429,6 +429,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2432,Ruby,1567946820000,612707,IvanKukobko,UA,,
 100,2743,Ruby,1567946820000,1323814,Wildcat-SC,FR,70979840035465,
 100,3110,Ruby,1567946820000,1359829,,IT,,
+85,443,Ruby,1635123704000,3662753,XcimjV,FR,63771109452480,
 85,2540,Ruby,1624432223000,3063957,ruru,JP,23958684033082,
 71,1353,Ruby,1624432223000,832172,,FR,,
 42,2359,Ruby,1624432223000,3443821,mougi,EG,,

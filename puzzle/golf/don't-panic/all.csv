@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10173|time=2021-10-26T00:30:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10178|time=2021-10-27T00:38:04
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -197,6 +197,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,100,Javascript,1615257531000,4155983,o0lit3,US,58386742395102,
 100,100,Javascript,1615948243000,4095128,Voltmachine,BG,56919066754571,
 100,100,Python3,1624242630000,1607522,RoboStac,GB,11333369102997,
+100,100,Javascript,1635295086000,3917724,Marke18,IT,47701103353349,
+100,100,Javascript,1635295086000,1020626,PiterYeh,IT,4411407433686,
 100,101,Javascript,1567946817000,1701924,Kethryes,FR,65611961439802,
 100,101,Javascript,1567946817000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,101,Javascript,1567946817000,848989,revever,FR,3260982337452,
@@ -209,7 +211,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1617245637000,4060994,3030,FI,,
 100,101,Javascript,1620613973000,1003752,Skayo,AT,60612660937974,
 100,101,Javascript,1621996695000,2589340,Zource,NL,,
-100,101,Javascript,1635208233000,1020626,PiterYeh,IT,4411407433686,
 100,102,C,1567946816000,553938,MagAlex,RU,3292063463360,
 100,102,Bash,1567946818000,512097,Stilgart,FR,69893904259383,
 100,102,Perl,1567946818000,1582256,Pedro69,PL,,
@@ -222,7 +223,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,C++,1602902840000,1654818,tarapitha,EE,79401682508715,
 100,103,Javascript,1612924245000,2928146,LolCat,MU,22538133010433,
 100,103,Python3,1613443642000,2928146,LolCat,MU,22538133010433,
-100,103,Javascript,1634862633000,3917724,Marke18,IT,47701103353349,
 100,104,Javascript,1567946817000,1026791,Alfalfamale,NL,7144185210937,
 100,104,Javascript,1567946817000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,104,Javascript,1567946817000,943558,Johanhq,SE,2015039196515,

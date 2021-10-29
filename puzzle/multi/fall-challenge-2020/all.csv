@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7909|time=2021-10-28T00:30:25
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7910|time=2021-10-29T00:39:32
 5,29.95,C++,,3312396,832306,pb4,FR,10135289026547,
 5,29.28,C++,,3332311,154984,_Royale,FR,17869369984436,
 5,29.02,C++,,3339073,668954,Fluxor,FR,1832090086325,
@@ -871,6 +871,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,35.45,Java,,3312719,3814766,0blomovian,FI,81697885558230,
 3,35.45,Python3,,3311323,2297753,Warly7692,FR,15501605839682,
 3,35.45,F#,,3498932,4145194,charnel_mouse,GB,57629001495381,
+3,35.45,Java,,3797603,3675819,Zvoov,VG,,
 3,35.44,C++,,3312462,1282856,ErikBrendel,DE,41207148765120,
 3,35.44,Python3,,3312385,3821027,prd_xxx,JP,44586523215348,
 3,35.43,C,,3312614,1310206,bdudek,PL,23336454022948,
@@ -879,7 +880,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,35.43,Java,,3308595,2681776,Klepus,US,53796928795229,
 3,35.42,Javascript,,3312499,940791,Kris117,FR,16280535626899,
 3,35.42,Python3,,3310213,4028762,mebusy,CN,64109428114689,
-3,35.41,Java,,3797603,3675819,Zvoov,VG,,
 3,35.4,TypeScript,,3312588,1353795,TheCrucial,PL,18581166493021,
 3,35.39,Python3,,3777005,4392313,dongkey,KR,,
 3,35.39,C++,,3311598,1438036,Bubbly_Bee,CZ,7393862367094,
@@ -968,7 +968,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,33.78,Go,,3315620,1646504,fil090302,PT,52053102712570,
 3,33.77,Python3,,3877131,980147,kingmoshe,IL,,
 3,33.77,Javascript,,3309752,2910225,Guytan67,FR,22197098430669,
-3,33.76,Python3,,3482209,3922992,abcdefg_123,SE,52874600873928,
+3,33.77,Python3,,3482209,3922992,abcdefg_123,SE,52874600873928,
 3,33.75,Python3,,3311595,276533,Liad,FR,4402100619629,
 3,33.75,C++,,3310682,599497,codybumba,IN,20517704819076,
 3,33.75,Java,,3772084,4398603,BonoBono_Sexy,KR,66496507173770,

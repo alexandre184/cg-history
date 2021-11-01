@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=19565|time=2021-10-31T00:56:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=19571|time=2021-11-01T00:47:51
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -249,6 +249,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,49,Ruby,1629247926000,3514975,Phurinat,TH,97597367576293,
 100,49,Ruby,1630629414000,4395513,IndecisionTree,US,69450709935774,
 100,49,Ruby,1634086857000,1467794,FabJunior,FR,71526866977023,
+100,49,Ruby,1635727672000,3516345,Jp82,FR,63600965075245,
 100,50,Perl,1567946831000,1323621,Blablub,DE,,
 100,50,Perl,1567946831000,1202933,NullOps,AU,13683198089751,
 100,50,Perl,1567946831000,2458197,Stack_of_Pancakes,US,17063542094647,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Perl,1567946831000,2096336,SAINT_LAURENT,FR,13617684447326,
 100,62,Python3,1567946832000,2165865,Pandawan,FR,,
 100,62,Python3,1567946832000,2096336,SAINT_LAURENT,FR,13617684447326,
-100,62,Python3,1567946832000,1947771,__Alex__,FR,30648148449823,

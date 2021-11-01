@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=199|time=2021-10-31T00:55:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=199|time=2021-11-01T00:47:47
 100,68,TypeScript,1627956513000,1675034,francois,FR,15464459859531,
 100,79,TypeScript,1628988252000,2315158,luigi_gelato,DE,,
 100,91,TypeScript,1627260457000,3354337,Westicles,CX,79146641399080,
@@ -44,6 +44,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,141,TypeScript,1604797990000,4045062,ChaosCat,DE,,
 100,141,TypeScript,1606352059000,481564,mihei,RU,4454400756022,
 100,141,TypeScript,1612578656000,1306429,Neckers,IT,73429625249924,
+100,142,TypeScript,1635727667000,4341304,Remi.,FR,97662026388574,
 100,143,TypeScript,1596099788000,2387233,SinOfWrath,DK,41207346605394,
 100,145,TypeScript,1634518027000,3533314,skotz,US,97334021748803,
 100,146,TypeScript,1596501978000,862919,Astrobytes,GB,60413902297900,
@@ -55,7 +56,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,TypeScript,1633480364000,4009347,JaworWr,PL,,
 100,147,TypeScript,1633826720000,3717379,bobbieX,FR,58305824159084,
 100,149,TypeScript,1631752787000,4500165,Snigafurt,HK,72365028091966,
-100,150,TypeScript,1632358353000,4341304,Remi.,FR,97662026388574,
 100,151,TypeScript,1620101777000,3304110,MathieuSoysal,FR,29374123419027,
 100,151,TypeScript,1620101777000,4212608,fheerdegen,DE,,
 100,152,TypeScript,1623551919000,4072753,mdstoy,JP,54294744903755,
@@ -88,8 +88,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,175,TypeScript,1572568234000,2786666,TetraktysPhi,FR,20818693590142,
 100,175,TypeScript,1621305547000,1034690,Wazzard34,FR,62280446530931,
 100,176,TypeScript,1606528153000,1393802,amzh,RU,81786846913810,
+100,179,TypeScript,1635727667000,4562004,Doritanh,FR,72088742196684,
 100,182,TypeScript,1620190011000,1278100,Schneu,FR,,
-100,182,TypeScript,1635123715000,4562004,Doritanh,FR,72088742196684,
 100,183,TypeScript,1620190011000,3236864,adrien2p,FR,25790071394745,
 100,184,TypeScript,1603334264000,2538615,eyev,US,,
 100,185,TypeScript,1593132398000,1518504,bohuss,SK,5792284370171,

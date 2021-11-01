@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10192|time=2021-10-31T00:55:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10196|time=2021-11-01T00:47:36
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -400,7 +400,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Javascript,1600138058000,3933828,cesmunoz,AR,50035301207099,
 100,119,Ruby,1616122908000,4154326,montplusa,JP,60315000863420,
 100,119,Javascript,1620788331000,3189631,Arkless,DE,,
-100,119,Javascript,1623466567000,3847872,psychedelic68,FR,45599449537807,
+100,119,Javascript,1623466567000,3847872,Gaspar-Cdv,FR,45599449537807,
 100,119,Bash,1625446089000,2490008,ebicochineal,JP,43936521576530,
 100,119,Python3,1628988247000,3431280,luukhf,NL,,
 100,119,Python3,1634171739000,3121767,Lorg,RU,72802726819527,
@@ -660,6 +660,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Bash,1622863707000,3844625,surgutti,PL,62360203928049,
 100,136,Bash,1625966020000,2508635,hemhel,FR,17633818881669,
 100,136,Bash,1629333032000,3514975,Phurinat,TH,97597367576293,
+100,136,Python3,1635727657000,811622,Scarfield,DK,73294709815061,
 100,137,Javascript,1567946817000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1633740382000,903179,maksmas,EE,101274743228150,
 100,162,Javascript,1567946817000,1012619,HenJi,FR,,
 100,162,Javascript,1567946817000,1158405,KolbasniyVeter,RU,12152414905102,
-100,162,Python3,1567946818000,2163375,Yomgui,CA,,

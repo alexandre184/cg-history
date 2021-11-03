@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2520|time=2021-11-02T00:36:48
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2520|time=2021-11-03T00:33:39
 5,35.47,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.32,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -908,10 +908,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.25,Python3,,493497,1455173,DrSpock,NL,4677392520182,
 1,23.25,C#,,896454,1251131,ma81xx,IT,9638700030976,
 1,23.25,Javascript,,498595,1412502,falsidge,US,,
+1,23.24,C#,,512253,1472234,Filip.Lada,PL,,
 1,23.24,Javascript,,494417,1463575,Kittenschnitzel,FI,,
 1,23.23,Java,,789328,1676969,Louenes,ES,8285015742833,
 1,23.23,Java,,1295886,1304340,AntoineLatour,FR,,
-1,23.23,C#,,512253,1472234,Filip.Lada,PL,,
 1,23.23,C++,,493061,1364114,Unforgiven,US,,
 1,23.22,C,,647661,1527782,zad,FR,,
 1,23.22,Python3,,2622382,3101644,HerrHagner,DE,39056126752805,
@@ -984,6 +984,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.08,C#,,508856,1448599,MdNght,RO,,
 1,23.07,C++,,943260,1627356,Pelker,PL,10190905973584,
 1,23.07,Python3,,2682749,3688456,Sebi19,AT,,
+1,23.07,Python3,,495760,386279,Amikum,US,14209805263751,
 1,23.07,Python3,,1876408,2582643,DJrafou,FR,18333930218681,
 1,23.07,Java,,2257842,1811179,Tetarus,FR,17864799271929,
 1,23.06,C++,,495973,1132217,Syhnnn,FR,2593727986798,
@@ -991,7 +992,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.06,C++,,668296,1078446,[CPC]Madgic,FR,2255383980863,
 1,23.05,Javascript,,780683,819776,Maregas,FR,16281688992477,
 1,23.05,Go,,685362,1547430,softclone,US,6893546461299,
-1,23.04,Python3,,495760,386279,Amikum,US,14209805263751,
 1,23.04,Python3,,481682,1317750,zizouvb,FR,,
 1,23.04,C,,582671,1492574,zc,SE,,
 1,23.04,C++,,551752,1478742,Archimist,FR,,

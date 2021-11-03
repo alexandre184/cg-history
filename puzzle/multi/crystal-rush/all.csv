@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2648|time=2021-11-02T00:36:42
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2648|time=2021-11-03T00:33:36
 4,35.16,C++,,2708375,3193653,karliso,LV,54368321987353,
 4,32.63,C++,,2707285,3502867,The_Duck,US,34740708743362,
 4,31.95,Python3,,2709863,2970414,Fangel,FR,23748356777542,
@@ -213,7 +213,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.87,Java,,2708838,3472279,DataWasTaken,FR,34961222715656,
 3,24.86,Python3,,2707721,2551407,SmellyPickle,US,95197962594425,
 3,24.85,Python3,,2708569,3101644,HerrHagner,DE,39056126752805,
-3,24.82,Python3,,3879640,2924895,trictrac,FR,23056996012330,
+3,24.82,C#,,3879640,2924895,trictrac,FR,23056996012330,
 3,24.81,Java,,3163372,1066745,DepartmentOfRedundancy,FR,107574148016271,
 3,24.8,Javascript,,2707121,3278261,alexeysinko,RU,26208568157922,
 3,24.77,Java,,2707101,614215,Jo,FR,25861427746726,
@@ -416,7 +416,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,21.75,C++,,2709040,1896309,Xenoob,FR,34904427011348,
 3,21.72,Javascript,,2707469,3427659,Joe-OTAGI,FR,53698186556302,
 3,21.7,Python3,,2708612,3428110,hugoa,FR,31963963365615,
-3,21.66,Python3,,3880992,4584723,babaaurhum,FR,,
+3,21.66,C,,3880992,4584723,babaaurhum,FR,,
 3,21.63,C#,,2708696,1798477,mnivet,FR,35003769540182,
 3,21.63,C#,,3682308,4318086,NinjaDev,CA,64265841337817,
 3,21.63,C++,,2708767,1966319,0x6E0FF,FR,14292040030510,
@@ -431,7 +431,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,21.49,C++,,2708548,996279,BOBKA,DE,95301225927568,
 3,21.48,C#,,2707550,2558094,Jozim,PH,53606326892735,
 3,21.45,Python3,,2707493,2184856,MichalOp,PL,43118806784965,
-3,21.43,Python3,,3879775,3443015,Wozniak,FR,,
+3,21.43,C++,,3879775,3443015,Wozniak,FR,,
 3,21.41,Python3,,2707967,226528,Manwe,FR,4426392032279,
 3,21.4,C#,,2707131,1382590,Cristiano,ES,7128351616620,
 3,21.38,Kotlin,,2707334,3253838,Bozzio,FR,100633483135953,

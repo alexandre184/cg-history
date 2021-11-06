@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1412|time=2021-11-05T00:36:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1413|time=2021-11-06T00:39:38
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -746,6 +746,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,235,Javascript,1567946817000,808652,Tarnation,GB,,
 100,235,Javascript,1567946817000,1076245,hermanf,US,20898253863585,
 100,236,Javascript,1567946817000,1252380,Glopp,NC,3980880581126,
+100,236,Javascript,1636159178000,4184379,romain.wg,FR,62225442503286,
 100,237,Javascript,1567946817000,949492,,DE,,
 100,238,Javascript,1567946817000,1774018,ModernShogun,CA,10218654357749,
 100,238,Javascript,1593218091000,3829638,Notantoine,DK,44839102640732,
@@ -812,6 +813,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,252,Javascript,1567946817000,1843194,rasler,FR,10985846898683,
 100,252,Javascript,1567946817000,1003478,yavshush,BR,,
 100,252,Javascript,1623810641000,2322241,coca44,FR,,
+100,252,Javascript,1636159178000,4483097,Manerr,FR,91857486302123,
 100,253,Javascript,1567946817000,1470284,,PT,,
 100,256,Javascript,1635986015000,3953686,psparsa,DE,106340627389209,
 100,258,Javascript,1567946817000,1748381,Aruche,SG,9789828010283,
@@ -942,7 +944,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,308,Javascript,1628296229000,2515515,Bobliu,CA,45374665101204,
 100,308,Javascript,1630456232000,3768412,calebharrison,US,77138061844747,
 100,308,Javascript,1632789659000,4316320,pcruz,PT,65709927889214,
-100,308,Javascript,1635727656000,4184379,romain.wg,FR,62225442503286,
 100,309,Javascript,1567946817000,1210325,Scotow,US,12067616215145,
 100,309,Javascript,1567946817000,964290,madcap99,UA,1844546026764,
 100,310,Javascript,1567946817000,976635,,GB,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,345,Javascript,1567946817000,1494823,duburlan,RU,5435587138590,
 100,346,Javascript,1567946817000,1873370,Doppelganger9,FR,11352491980896,
 100,346,Javascript,1567946817000,942888,jojoss,FR,,
-100,346,Javascript,1567946817000,2382054,jsimoes,PT,18422571317300,

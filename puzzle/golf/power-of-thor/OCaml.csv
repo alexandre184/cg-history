@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=91|time=2021-11-05T00:36:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=91|time=2021-11-06T00:39:46
 100,73,OCaml,1631493037000,3845610,pardouin,FR,60364063762936,
 100,102,OCaml,1627260452000,3354337,Westicles,CX,79146641399080,
 100,102,OCaml,1628901878000,1436776,BrainSolver,FR,10099178983053,
@@ -25,6 +25,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,287,OCaml,1567946822000,1433365,npstar,FR,16477139746925,
 100,291,OCaml,1567946822000,329048,Eniwilan,FR,83502421528333,
 100,296,OCaml,1567946822000,1169166,Quinaz,PT,15274261858590,
+100,311,OCaml,1636159186000,2290633,field3,JP,75961127697737,
 100,329,OCaml,1567946822000,333568,uso,FR,,
 100,329,OCaml,1567946822000,2402965,zapashcanon,FR,16453864413392,
 100,345,OCaml,1567946822000,826372,skyyker,RE,54542165670172,
@@ -75,7 +76,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 50,76,OCaml,1567946822000,154984,_Royale,FR,17869369984436,
 50,98,OCaml,1567946822000,154372,Plopx,FR,7959085736890,
 50,139,OCaml,1567946822000,278863,fquarp,FR,,
-50,265,OCaml,1624432230000,2290633,field3,JP,75961127697737,
 25,86,OCaml,1624432230000,848604,Sablier,FR,5344362713317,
 0,84,OCaml,1567946822000,1629259,Marchete,ES,61997162908277,
 0,115,OCaml,1567946822000,1001096,MyIIone,AT,4231449697357,

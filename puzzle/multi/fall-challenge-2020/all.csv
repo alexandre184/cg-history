@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7925|time=2021-11-09T00:30:25
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7928|time=2021-11-10T00:30:21
 5,29.95,C++,,3312396,832306,pb4,FR,10135289026547,
 5,29.28,C++,,3332311,154984,_Royale,FR,17869369984436,
 5,29.02,C++,,3339073,668954,Fluxor,FR,1832090086325,
@@ -694,7 +694,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,19.06,C#,,3485081,3824113,SpeedSPTest,FR,,
 4,19.04,C#,,3329502,3783481,Yatech,PL,43596228434099,
 4,19.03,C++,,3880690,3113573,yoshiniko,FR,,
-4,19.02,C++,,3754533,3586671,Uemu-yazid,MA,74132744222665,
+4,19.02,C++,,3754533,3586671,Yihssan,MA,74132744222665,
 4,18.98,C++,,3736025,3244527,Piols,PL,53692423923475,
 4,18.88,Python3,,3312781,2156363,Tintoune,FR,46027686436720,
 4,18.87,C#,,3424081,873395,Vitaliy_Kamalin,RU,1786917248165,
@@ -925,7 +925,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,35.01,C++,,3312857,3273528,RavenKZP,PL,26177331725623,
 3,35,C,,3317705,3641244,celomary99,MA,80861688231987,
 3,34.92,Java,,3312538,1035630,Vestiaz,FR,8121133110363,
-3,34.89,Java,,3310668,4059513,DrDaleks,FR,53764622136407,
+3,34.9,Java,,3310668,4059513,DrDaleks,FR,53764622136407,
 3,34.89,C#,,3312446,2592027,ParticleBeam,ZA,18577946915595,
 3,34.77,Java,,3317365,2065521,igolus,FR,39913769766376,
 3,34.75,Rust,,3312838,1675026,Austine,CA,22552016836199,
@@ -935,8 +935,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,34.61,TypeScript,,3310968,3808031,_proton,US,44172683522650,
 3,34.57,Javascript,,3312659,2828412,fermeaux,FR,23471531115369,
 3,34.56,Python3,,3309001,2104758,Danifae,PL,21216870771383,
+3,34.55,C,,3309838,2536538,Pduhard-,FR,24093275149635,
 3,34.54,Java,,3783671,4308802,Ascodran,FR,63699964010463,
-3,34.53,C,,3309838,2536538,Pduhard-,FR,24093275149635,
 3,34.51,Rust,,3312924,2310615,Str4ngeL00p,CA,15602837800222,
 3,34.48,Python3,,3308496,2962429,Daneon,FR,35186328031839,
 3,34.32,Python3,,3308185,3173494,WKDE,DE,42945140741359,

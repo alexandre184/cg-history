@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2753|time=2021-11-09T00:30:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2755|time=2021-11-10T00:41:08
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,56,Javascript,1623984133000,334009,abouvier,FR,4681436111242,
@@ -653,6 +653,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Javascript,1621996708000,3700629,serialgg,FR,41086567019728,
 100,85,Javascript,1628470048000,3585167,informathemusic,FR,57452709515182,
 100,85,Javascript,1629333046000,4436072,DogOfDiana,CN,67810547000577,
+100,85,Javascript,1636504868000,4457527,KerbalNo15,US,89812284852682,
 100,86,Javascript,1567946828000,1975116,AtteLynx,FI,12400468367460,
 100,86,Javascript,1567946828000,1707377,Colgate-Blancheur,FR,9896613056357,
 100,86,Javascript,1567946828000,1390503,IQuick,CZ,,
@@ -689,7 +690,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,87,Javascript,1609636795000,3606971,LordVonAdel,DE,56200446449919,
 100,87,Javascript,1618628511000,948764,Katie,GB,2150180090592,
 100,87,Javascript,1623294188000,1960325,Bladx,FR,62741900403874,
-100,87,Javascript,1629851768000,4457527,KerbalNo15,US,89812284852682,
 100,88,Javascript,1567946828000,2744095,ArSeNiK,TH,,
 100,88,Javascript,1567946828000,1218719,BLUB,DE,,
 100,88,Javascript,1567946828000,1876059,Knagis,LV,,
@@ -774,6 +774,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Javascript,1626224909000,2641712,Scarlatine,SE,19128425061644,
 100,92,Javascript,1631752793000,924425,poney,FR,4382318176417,
 100,92,Javascript,1635381052000,3045714,David.Moreaux,FR,71821522411543,
+100,92,Javascript,1636504868000,2536589,mjfcolas,FR,70963468927001,
 100,93,Javascript,1567946828000,2777684,Fabiouch,BE,104390384564461,
 100,93,Javascript,1567946828000,1525923,Milihhard,FR,5657929468911,
 100,93,Javascript,1567946828000,971801,Samuel_,FR,13194088443369,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1567946828000,1942818,wopian,GB,12087335207442,
 100,109,Javascript,1578443891000,3628112,JannesCarpentier,BE,,
 100,109,Javascript,1582765800000,490588,Uljahn,RU,23956705948685,
-100,109,Javascript,1590713146000,3431759,ngxingyu,SG,,

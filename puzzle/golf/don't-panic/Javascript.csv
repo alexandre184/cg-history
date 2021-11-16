@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1423|time=2021-11-15T00:44:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1425|time=2021-11-16T00:40:38
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -205,6 +205,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Javascript,1567946817000,1532586,Kruemel,DE,9300803752471,
 100,140,Javascript,1567946817000,1512912,RichardZ,DE,9435459461890,
 100,140,Javascript,1567946817000,893541,wala,FR,97577641170180,
+100,140,Javascript,1637023238000,1205108,jval,KZ,73581028678836,
 100,141,Javascript,1567946817000,186179,Nagrarok,FR,95596601515650,
 100,141,Javascript,1567946817000,199243,[CG]Nonofr,FR,1715936252943,
 100,141,Javascript,1567946817000,1619220,aliai,SE,7778393618334,
@@ -823,6 +824,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,252,Javascript,1623810641000,2322241,coca44,FR,,
 100,252,Javascript,1636159178000,4483097,Manerr,FR,91857486302123,
 100,253,Javascript,1567946817000,1470284,,PT,,
+100,255,Javascript,1637023238000,4471038,nguyen.lam.fr,FR,69117605615692,
 100,256,Javascript,1635986015000,3953686,psparsa,DE,106340627389209,
 100,258,Javascript,1567946817000,1748381,Aruche,SG,9789828010283,
 100,258,Javascript,1567946817000,1195856,daifei4321,US,2979089591958,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,331,Javascript,1622083023000,4233955,Hujing,DE,105720321114252,
 100,334,Javascript,1567946817000,809683,Frogger,FR,,
 100,334,Javascript,1636677885000,3313645,tcr,FR,28970347821773,
-100,335,Javascript,1567946817000,946121,Nanoflops,FR,,
-100,335,Javascript,1567946817000,2145478,TheNose,DE,,

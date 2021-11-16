@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10279|time=2021-11-15T00:44:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10286|time=2021-11-16T00:40:40
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -722,6 +722,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,C,1625446089000,2490008,ebicochineal,JP,43936521576530,
 100,140,ObjectiveC,1625446089000,2490008,ebicochineal,JP,43936521576530,
 100,140,Python3,1629592923000,1971865,Nanosplitter,US,43968389502423,
+100,140,Javascript,1637023238000,1205108,jval,KZ,73581028678836,
 100,141,PHP,1567946816000,886483,R4N4R4M4,FR,7943435133357,
 100,141,Javascript,1567946817000,186179,Nagrarok,FR,95596601515650,
 100,141,Javascript,1567946817000,199243,[CG]Nonofr,FR,1715936252943,
@@ -923,6 +924,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Haskell,1627174071000,709490,Sinlepuissant,FR,2102604527472,
 100,156,Python3,1634258224000,4526264,cly,FR,,
 100,156,PHP,1636334041000,2874091,5DN1L,GB,79633423380001,
+100,156,Perl,1637023239000,2874091,5DN1L,GB,79633423380001,
 100,157,Javascript,1567946817000,1528929,Blackfich,FR,95780209684968,
 100,157,Javascript,1567946817000,1363282,Dantevgp,FR,,
 100,157,Javascript,1567946817000,1161211,Greaby,CH,61874564272423,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Python3,1610598657000,1652969,Berci79,HU,,
 100,160,Python3,1612578653000,4037601,Jelafo,DE,,
 100,160,Javascript,1615689144000,2916446,Imsure1200q,PH,45527340374232,
-100,160,Python3,1631666300000,3064190,Sinnanodelta,FR,25438843673927,
-100,161,Javascript,1567946817000,1692362,IRobot,BG,8793951079706,

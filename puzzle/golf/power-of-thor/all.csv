@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=33296|time=2021-11-16T00:40:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=33304|time=2021-11-17T00:42:42
 100,47,Ruby,1631752787000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,48,Ruby,1631666306000,3845610,pardouin,FR,60364063762936,
 100,53,Bash,1631493036000,3845610,pardouin,FR,60364063762936,
@@ -11,6 +11,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,57,Ruby,1631666306000,4241722,Dr.K1nzell,FR,101280462753684,
 100,57,Ruby,1632789663000,3380184,chouch,FR,,
 100,58,Ruby,1631408080000,1073247,_NikJ,RS,2509638482149,
+100,59,PHP,1637109760000,3845610,pardouin,FR,60364063762936,
 100,60,PHP,1632789671000,3380184,chouch,FR,,
 100,62,C,1616380786000,155774,dwarfie,FR,17785582865119,
 100,62,ObjectiveC,1616380788000,155774,dwarfie,FR,17785582865119,
@@ -19,7 +20,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,67,Python3,1631234385000,3340586,Ran_42,IL,28594288121290,
 100,67,Javascript,1636159181000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,68,TypeScript,1627956513000,1675034,francois,FR,15464459859531,
-100,68,PHP,1631493041000,3845610,pardouin,FR,60364063762936,
 100,70,Python3,1615948250000,155774,dwarfie,FR,17785582865119,
 100,70,ObjectiveC,1627260455000,3354337,Westicles,CX,79146641399080,
 100,70,C,1627260456000,3354337,Westicles,CX,79146641399080,
@@ -453,6 +453,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Ruby,1628988251000,4110073,souta_1326,JP,57746784258907,
 100,99,Python3,1630197841000,860404,Vitruvius,US,85783605555957,
 100,99,Python3,1632358352000,3214641,Neicul,FR,25566448504624,
+100,99,Python3,1637109759000,4203944,BenSch1337,DE,59710163450083,
 100,100,Javascript,1567946825000,1463005,goffreder,IT,4735465165069,
 100,100,Ruby,1567946826000,1613006,Genezys,FR,7316036854308,
 100,100,Ruby,1567946826000,663913,SandorHerms,DE,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Python3,1634171752000,1545616,Vaaty,BE,6090241503437,
 100,111,Python3,1634258231000,4526264,cly,FR,,
 100,111,Javascript,1634862644000,1485690,Kikoo,FR,4993649967380,
-100,112,Bash,1567946822000,1349769,EltonCosmonote,FR,,

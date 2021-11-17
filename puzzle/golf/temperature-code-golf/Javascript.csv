@@ -1,4 +1,5 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2767|time=2021-11-16T00:40:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2769|time=2021-11-17T00:42:44
+100,55,Javascript,1637109764000,1483723,d-s-x,RU,4980051025170,
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
 100,56,Javascript,1623984133000,334009,abouvier,FR,4681436111242,
@@ -6,7 +7,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,56,Javascript,1624753841000,3354337,Westicles,CX,79146641399080,
 100,56,Javascript,1627956519000,1675034,francois,FR,15464459859531,
 100,56,Javascript,1628901880000,2315158,luigi_gelato,DE,,
-100,58,Javascript,1583368730000,1483723,d-s-x,RU,4980051025170,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,59,Javascript,1596674090000,3913849,kingKong,FR,,
 100,59,Javascript,1607303443000,2565497,vladislao,RU,18197468031147,
@@ -201,6 +201,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1631493048000,3090918,Yabbal,FR,24312372040211,
 100,62,Javascript,1633134652000,3516345,Jp82,FR,63600965075245,
 100,62,Javascript,1635381052000,4341304,Remi.,FR,97662026388574,
+100,62,Javascript,1637109764000,3740142,Bedstorm,IN,71621844864426,
 100,63,Javascript,1567946828000,3352676,3t0n,RU,29140567952302,
 100,63,Javascript,1567946828000,1744223,Bissel,DE,9713102708582,
 100,63,Javascript,1567946828000,1070566,Kodnot,LT,20227250201533,
@@ -229,7 +230,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Javascript,1605838411000,3916357,AshCo,AU,97597441028415,
 100,63,Javascript,1618547407000,3847872,Gaspar-Cdv,FR,45599449537807,
 100,63,Javascript,1619843746000,840826,PiMastah,NL,7507827552360,
-100,63,Javascript,1624753841000,3740142,Bedstorm,IN,71621844864426,
 100,63,Javascript,1628038837000,4081047,Rezhay,FR,54568080107073,
 100,63,Javascript,1635727670000,4487490,cnk_gr,GR,69672501862552,
 100,64,Javascript,1567946828000,2067176,0bug,FR,13297732398460,

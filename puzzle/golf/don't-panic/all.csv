@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10290|time=2021-11-17T00:42:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10296|time=2021-11-18T00:30:36
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -702,6 +702,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Python3,1615516525000,3774062,delpieron-hash,HU,,
 100,138,C,1623638929000,4380134,Blatnik,NL,,
 100,138,Python3,1632098531000,3214641,Neicul,FR,25566448504624,
+100,138,Javascript,1637195436000,1205108,jval,KZ,73581028678836,
 100,139,PHP,1567946816000,1660602,SemChumboPT,PT,7989357804396,
 100,139,Javascript,1567946817000,2178794,Unihedron,HK,17500773502453,
 100,139,Python3,1567946818000,877628,mortido,RU,7667866907178,
@@ -722,7 +723,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,C,1625446089000,2490008,ebicochineal,JP,43936521576530,
 100,140,ObjectiveC,1625446089000,2490008,ebicochineal,JP,43936521576530,
 100,140,Python3,1629592923000,1971865,Nanosplitter,US,43968389502423,
-100,140,Javascript,1637023238000,1205108,jval,KZ,73581028678836,
 100,141,PHP,1567946816000,886483,R4N4R4M4,FR,7943435133357,
 100,141,Javascript,1567946817000,186179,Nagrarok,FR,95596601515650,
 100,141,Javascript,1567946817000,199243,[CG]Nonofr,FR,1715936252943,
@@ -946,6 +946,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,157,Ruby,1628386506000,1156852,CoolStoryBro,GB,5702298127915,
 100,157,Ruby,1630197833000,4166555,Natanalel,SE,65894864102793,
 100,157,Python3,1632011498000,4165137,tactile,RU,,
+100,157,Python3,1637195432000,4039794,Codeab,SG,52846966412662,
 100,158,C,1567946816000,153716,kp,FR,7917145304863,
 100,158,PHP,1567946816000,1486776,nrdxn,DE,,
 100,158,Javascript,1567946817000,2323725,GMartigny,FR,24456305576601,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,160,Javascript,1600919078000,1396761,RyMe,FR,14810807945145,
 100,160,Python3,1610598657000,1652969,Berci79,HU,,
 100,160,Python3,1612578653000,4037601,Jelafo,DE,,
-100,160,Javascript,1615689144000,2916446,Imsure1200q,PH,45527340374232,

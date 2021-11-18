@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2530|time=2021-11-17T00:30:20
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2531|time=2021-11-18T00:30:17
 5,35.47,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.04,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.32,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -854,6 +854,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.41,C#,,610550,1502298,skargg,GB,,
 1,23.41,Java,,500812,390965,Aikyos,FR,11358910482676,
 1,23.41,C#,,573090,859508,ger0000,HU,,
+1,23.41,Python3,,593115,1195394,Larnak,US,47238684938933,
 1,23.4,Javascript,,484869,1446679,Janus,DE,6889910437018,
 1,23.4,PHP,,3739118,4410463,kipow,SE,71328663499719,
 1,23.39,Python,,1332702,2047039,Loufis,GB,,
@@ -891,7 +892,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.29,C++,,3433898,1557154,BigToeMan,PL,58492267910206,
 1,23.29,Java,,576535,1195663,TimberLefief,BE,81896889572439,
 1,23.29,VB.NET,,2194001,3028864,lorcQc,CA,,
-1,23.29,Python3,,593115,1195394,Larnak,US,47238684938933,
 1,23.28,Java,,628910,359746,Shoohei,FR,1976981425507,
 1,23.28,Javascript,,614967,1439710,Buesto,FR,5055564669623,
 1,23.28,C#,,1581890,2257079,MartinVN,NO,,
@@ -977,6 +977,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.11,C++,,1533555,1633040,ChristopheSauge,FR,7469447139553,
 1,23.11,Rust,,1854587,1595013,thebarbershopper,US,,
 1,23.1,C#,,512115,1377467,GeorgeClooney,CA,5097084386601,
+1,23.09,Lua,,1468455,2187656,RanXerox,US,14431414813461,
 1,23.09,Python3,,3835550,4508271,Thorcode,US,88691646410654,
 1,23.09,Java,,591477,647346,CondeZurara,FR,,
 1,23.09,Python3,,741435,1550152,flaks314,NL,,
@@ -998,4 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.06,C++,,495973,1132217,Syhnnn,FR,2593727986798,
 1,23.06,C++,,668296,1078446,[CPC]Madgic,FR,2255383980863,
 1,23.04,Python3,,481682,1317750,zizouvb,FR,,
-1,23.04,C++,,551752,1478742,Archimist,FR,,

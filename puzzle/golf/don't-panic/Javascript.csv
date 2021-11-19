@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1427|time=2021-11-18T00:30:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1428|time=2021-11-19T01:27:52
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -721,6 +721,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,230,Javascript,1567946817000,1483445,Vodier,RU,12198771534184,
 100,230,Javascript,1586393319000,3622757,anid,,,
 100,230,Javascript,1618115969000,4182948,ksic,PF,,
+100,230,Javascript,1637285272000,4564296,E_Mantix,AT,73084385420383,
 100,231,Javascript,1567946817000,569478,Guish29,FR,1727487549887,
 100,231,Javascript,1567946817000,2335007,THEtheChad,US,18423575400256,
 100,231,Javascript,1567946817000,1251381,ZepHead,CA,4296470051610,
@@ -774,7 +775,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,241,Javascript,1567946817000,512169,Soul_0000,RU,82183200714630,
 100,241,Javascript,1567946817000,1437677,efxzsh,FR,,
 100,241,Javascript,1636677885000,1861258,Nazdhun,DE,11477900555178,
-100,241,Javascript,1636764230000,4564296,E_Mantix,AT,73084385420383,
 100,242,Javascript,1567946817000,1863849,Peglo,FR,12316126417980,
 100,242,Javascript,1567946817000,1695141,sbsbessa,PT,24874664192666,
 100,242,Javascript,1619665299000,1258422,memelo1,MX,52668104528577,
@@ -867,6 +867,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,274,Javascript,1567946817000,1123660,Oliver,CH,,
 100,275,Javascript,1567946817000,906107,Eiknheimer,DE,,
 100,275,Javascript,1567946817000,1403307,mikko.viitala,FI,12559444952589,
+100,275,Javascript,1637285272000,3494517,Rigelrain,FI,34395040112640,
 100,276,Javascript,1567946817000,1898857,Tono,FR,11631783950134,
 100,276,Javascript,1567946817000,1590473,WesT,US,,
 100,276,Javascript,1567946817000,899076,brandoncc,US,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,330,Javascript,1567946817000,1285876,Captain.Org_Meritis.best_company,FR,53878769394478,
 100,330,Javascript,1567946817000,1440262,DeafGecko,GB,4606373769108,
 100,331,Javascript,1567946817000,154001,PoneyTruand,FR,1889878541003,
-100,331,Javascript,1622083023000,4233955,Hujing,DE,105720321114252,

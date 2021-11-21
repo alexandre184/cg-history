@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1248|time=2021-11-20T00:51:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1249|time=2021-11-21T00:36:49
 100,47,Ruby,1631752787000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,48,Ruby,1631666306000,3845610,pardouin,FR,60364063762936,
 100,54,Ruby,1633480357000,1100752,ValNykol,GB,10307803807981,
@@ -158,6 +158,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,91,Ruby,1567946826000,1887115,botbot,ES,,
 100,91,Ruby,1624927214000,869546,Gizmoooh,FR,,
 100,91,Ruby,1627260456000,155774,dwarfie,FR,17785582865119,
+100,91,Ruby,1637455009000,557990,Wazemo,PL,1724224108740,
 100,92,Ruby,1567946826000,936495,LittleCrow,US,1852341854082,
 100,92,Ruby,1567946826000,1410353,SwagColoredKitteh,BE,13267194518543,
 100,92,Ruby,1567946826000,1870653,jeanregisser,FR,11416424431274,
@@ -183,7 +184,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Ruby,1623725930000,3061989,Dr.Mic,FR,49677365261534,
 100,94,Ruby,1632616419000,3899502,JustCarpinThemDiems,DE,95968402830109,
 100,95,Ruby,1567946826000,888439,ysharc,IN,98330464228370,
-100,95,Ruby,1621060488000,557990,Wazemo,PL,1724224108740,
 100,96,Ruby,1567946826000,1027100,arke,DE,,
 100,96,Ruby,1606180778000,1442344,PavelRaskin,GE,,
 100,97,Ruby,1567946826000,1102626,Janfred,DE,,
@@ -400,6 +400,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,134,Ruby,1567946826000,2600186,kjorg50,US,,
 100,134,Ruby,1636159183000,4184379,romain.wg,FR,62225442503286,
 100,135,Ruby,1630285081000,3275951,MeBen,AT,,
+100,135,Ruby,1637455009000,659107,Clery,FR,73713523894724,
 100,136,Ruby,1567946826000,806137,Aghazord,FR,1859861191580,
 100,136,Ruby,1567946826000,1014762,Bashark,FR,9845875051274,
 100,136,Ruby,1584355738000,3714012,Cyphomax,GP,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,90,Ruby,1624432230000,864308,plewanda,PL,,
 75,91,Ruby,1567946826000,1323621,Blablub,DE,,
 75,91,Ruby,1567946826000,1081960,ninja,UA,,
-75,92,Ruby,1567946826000,1579653,zweedeend,NL,17837515509499,

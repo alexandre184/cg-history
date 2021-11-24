@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=511|time=2021-11-23T00:48:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=511|time=2021-11-24T00:36:01
 100,53,Bash,1631493036000,3845610,pardouin,FR,60364063762936,
 100,72,Bash,1631752789000,962495,eboot,FR,55086804311206,
 100,73,Bash,1595032234000,155774,dwarfie,FR,17785582865119,
@@ -9,6 +9,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,88,Bash,1598810513000,334009,abouvier,FR,4681436111242,
 100,88,Bash,1602041453000,2923506,darkhorse64,FR,23496414257567,
 100,88,Bash,1628901871000,1436776,BrainSolver,FR,10099178983053,
+100,88,Bash,1637714161000,1441239,Dyd,IT,71707560017158,
 100,89,Bash,1567946822000,2315411,cejonio,VE,15624450307485,
 100,89,Bash,1571273982000,1077559,PhOeNyX,FR,2248934338554,
 100,89,Bash,1586481798000,2870503,Bucket,FR,42171205793406,
@@ -52,7 +53,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,118,Bash,1567946822000,1000231,geraud,FR,12117218046072,
 100,118,Bash,1567946822000,897027,mars49,FR,1837481886283,
 100,118,Bash,1626396592000,2315158,luigi_gelato,DE,,
-100,120,Bash,1628209834000,1441239,Dyd,IT,71707560017158,
 100,121,Bash,1567946822000,2096266,southzz,CN,,
 100,123,Bash,1610159857000,4125518,Invitor,DE,56812960401856,
 100,123,Bash,1615172782000,329200,BlitzProg,FR,7407206403800,

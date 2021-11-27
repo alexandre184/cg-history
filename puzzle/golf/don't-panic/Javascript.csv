@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1432|time=2021-11-26T00:49:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1432|time=2021-11-27T00:51:59
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -112,7 +112,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Javascript,1619145617000,2451652,code_of_the_dead,FR,18798469788923,
 100,124,Javascript,1567946817000,1325359,BIG_DUDE_210,FR,13078594157455,
 100,124,Javascript,1567946817000,1071140,BeberLeNewbie,FR,9528729029244,
-100,124,Javascript,1567946817000,1096618,F6CF,RU,2875470378553,
+100,124,Javascript,1567946817000,1096618,CertainLach,RU,2875470378553,
 100,124,Javascript,1567946817000,1175343,Hankerspace,FR,2890003854966,
 100,124,Javascript,1567946817000,951974,Kynarth,FR,1818640573423,
 100,124,Javascript,1567946817000,1144979,MatteoSpreafico,IT,,
@@ -397,6 +397,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,175,Javascript,1595032232000,3899778,Mappator,FR,46783789684213,
 100,175,Javascript,1597365024000,3869618,tsds,RU,46148249699201,
 100,175,Javascript,1636591222000,4504049,AlanPegeot,FR,70557381983991,
+100,175,Javascript,1637974319000,4559916,Karne,FR,71854946860727,
 100,176,Javascript,1567946817000,952026,Kahsius,FR,,
 100,176,Javascript,1567946817000,706692,alexhap,UA,12742258885909,
 100,176,Javascript,1567946817000,1843383,oluigenuma,DE,11135757890308,
@@ -440,7 +441,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,181,Javascript,1567946817000,2069141,tomeko,PL,13370027887052,
 100,181,Javascript,1572828108000,3380514,DFrese,DE,30555045908186,
 100,181,Javascript,1620613973000,3965752,SpiderSeb,FR,57959420643587,
-100,181,Javascript,1637800805000,4559916,Karne,FR,71854946860727,
 100,182,Javascript,1567946817000,630050,Chulepa,DE,3648993972565,
 100,182,Javascript,1567946817000,1414873,Volcomix,FR,9274241205710,
 100,182,Javascript,1567946817000,1275607,ghitier,FR,18434835896752,

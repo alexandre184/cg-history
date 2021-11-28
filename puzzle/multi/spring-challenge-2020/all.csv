@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6329|time=2021-11-27T00:51:45
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6329|time=2021-11-28T00:55:01
 5,32.37,C++,,3004019,3193653,karliso,LV,54368321987353,
 5,31.27,C++,,2975979,880353,zasmu,FR,22237226756102,
 5,31.04,C++,,2982332,1082988,Saelyos,FR,6965824947540,
@@ -766,8 +766,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.95,Python3,,2976855,303151,MoOT.Cube,FR,14950711588437,
 3,24.91,TypeScript,,2979626,2990918,Dingodino,FR,23216166624189,
 3,24.9,Python3,,2977764,3806286,St7,NL,53529903798072,
+3,24.84,C++,,2975822,3819467,bin101,JP,44547865955473,
 3,24.83,C++,,2976014,1549145,Mealc,SI,,
-3,24.82,C++,,2975822,3819467,bin101,JP,44547865955473,
 3,24.81,Java,,2977875,1178251,Briag,FR,53730781013315,
 3,24.79,Rust,,2978403,3039012,matsu7874,JP,35349142191786,
 3,24.59,Python3,,2977776,2919814,YifengLin,SE,44228665411615,
@@ -899,7 +899,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.18,Java,,2977613,3041715,hlin,CA,43043400840484,
 3,23.17,Java,,3807799,4284674,GuruLeo,KR,64117247459978,
 3,23.15,Javascript,,2977204,2675308,vkochev,RU,19449986593644,
-3,23.09,Python3,,2977642,3102977,Aprillion,CZ,44092349286588,
+3,23.13,Python3,,2977642,3102977,Aprillion,CZ,44092349286588,
 3,23.06,C#,,2978389,3733716,Bastett,GB,43590302176514,
 3,23.04,Python3,,2979622,3329545,stylemanguy,SE,28141086178498,
 3,23.03,C++,,2976652,3511049,Nacho_Vigi,AR,35389987728675,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1251|time=2021-11-27T00:52:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1253|time=2021-11-28T01:08:38
 100,47,Ruby,1631752787000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,48,Ruby,1631666306000,3845610,pardouin,FR,60364063762936,
 100,54,Ruby,1633480357000,1100752,ValNykol,GB,10307803807981,
@@ -23,6 +23,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Ruby,1567946826000,2096064,xiao.sha,CN,13778309629915,
 100,81,Ruby,1567946826000,884725,zoty314,HU,,
 100,81,Ruby,1627174076000,2923506,darkhorse64,FR,23496414257567,
+100,81,Ruby,1638061718000,4395513,IndecisionTree,US,69450709935774,
 100,82,Ruby,1567946826000,1110112,RShields,US,6141095857669,
 100,82,Ruby,1628470040000,709490,Sinlepuissant,FR,2102604527472,
 100,83,Ruby,1567946826000,2021126,FPSCUBE,FR,12916810121106,
@@ -325,6 +326,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Ruby,1567946826000,847866,a10n,AM,87517425710833,
 100,120,Ruby,1567946826000,1124587,icesar,HR,16280034766757,
 100,120,Ruby,1567946826000,1163464,memtest,IT,,
+100,120,Ruby,1638061718000,1173306,zogstrip,FR,63385206776224,
 100,121,Ruby,1567946826000,2771065,JHBonarius,NL,23912859208348,
 100,121,Ruby,1567946826000,2327967,Karocyt,FR,22556497986508,
 100,121,Ruby,1567946826000,972917,norbi97,HU,11002681149601,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,88,Ruby,1569458156000,1920520,brady,DE,12243350869311,
 75,90,Ruby,1567946826000,1013757,RikyM,IT,,
 75,90,Ruby,1567946826000,342048,fixme,FR,,
-75,90,Ruby,1567946826000,1256515,vsaijan4,IN,23951094802362,
-75,90,Ruby,1624432230000,864308,plewanda,PL,,

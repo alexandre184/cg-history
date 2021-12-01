@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2165|time=2021-11-30T00:36:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2166|time=2021-12-01T00:47:48
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -252,6 +252,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,114,Python3,1632098549000,4165137,tactile,RU,,
 100,114,Python3,1637714176000,1586077,Woomb,FR,35982366490263,
 100,114,Python3,1637887791000,4508271,Thorcode,US,88691646410654,
+100,114,Python3,1638319668000,4039794,Codeab,SG,52846966412662,
+100,114,Python3,1638319668000,4612235,DialFrost,,,
 100,115,Python3,1567946837000,3132353,Paor,SE,24725750420770,
 100,115,Python3,1604025061000,4029261,pascscha,CH,55154180517744,
 100,115,Python3,1614050505000,1539999,mon,CZ,,
@@ -417,7 +419,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Python3,1623551928000,2320995,Photon_,LT,,
 100,126,Python3,1631579453000,855824,VoxMortem,FR,5525991865489,
 100,126,Python3,1634518047000,1243876,Hi-Low_World,CZ,3367230283196,
-100,126,Python3,1637195455000,4039794,Codeab,SG,52846966412662,
+100,126,Python3,1638319668000,3731945,clham,FR,93777485620816,
 100,127,Python3,1567946837000,3440999,C0deDuck,NL,53687009914279,
 100,127,Python3,1567946837000,783555,Colin88,NL,34373466836767,
 100,127,Python3,1567946837000,1876212,PFischbeck,DE,14113662061799,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,163,Python3,1583112892000,397691,TeknighT,DK,65602063830932,
 100,163,Python3,1583461918000,3533119,wlesavo,RU,44695284080274,
 100,163,Python3,1586654968000,3749987,SaintPlaysThings,BE,70587025971534,
-100,163,Python3,1589070654000,3641888,Potofmininiac,FR,,
-100,163,Python3,1593823808000,3881129,Danif,AR,,

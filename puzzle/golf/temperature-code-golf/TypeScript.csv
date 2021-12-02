@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=187|time=2021-12-01T00:47:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=188|time=2021-12-02T00:39:25
 100,59,TypeScript,1637109766000,1483723,d-s-x,RU,4980051025170,
 100,60,TypeScript,1625358648000,3354337,Westicles,CX,79146641399080,
 100,60,TypeScript,1627866437000,3845610,pardouin,FR,60364063762936,
@@ -17,6 +17,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,77,TypeScript,1571620209000,1654818,tarapitha,EE,79401682508715,
 100,77,TypeScript,1600919092000,1045485,Jessie,FR,9025608819920,
 100,77,TypeScript,1620361993000,4156154,issogood,CH,59814183471795,
+100,77,TypeScript,1638405565000,4341304,Remi.,FR,97662026388574,
 100,78,TypeScript,1608685410000,4100825,ablin42,FR,55479060101488,
 100,78,TypeScript,1615084997000,4166845,HugeMissedSteak,NL,59373221969418,
 100,79,TypeScript,1588554788000,1114834,k4ng0u,FR,26037223936643,
@@ -28,7 +29,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,TypeScript,1583461915000,1353795,TheCrucial,PL,18581166493021,
 100,80,TypeScript,1585010931000,481564,mihei,RU,4454400756022,
 100,80,TypeScript,1621564487000,1179950,Patorikkuyatta,FR,94806006573123,
-100,80,TypeScript,1637195449000,4341304,Remi.,FR,97662026388574,
 100,81,TypeScript,1604459008000,893541,wala,FR,97577641170180,
 100,82,TypeScript,1618115980000,1050421,geppoz,IT,4030238757816,
 100,82,TypeScript,1620101791000,3565821,Mihidari,FR,55506328326733,
@@ -46,6 +46,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,87,TypeScript,1606438653000,4036826,Feust,FR,52969508387999,
 100,87,TypeScript,1634518041000,3533314,skotz,US,97334021748803,
 100,88,TypeScript,1635123719000,4487490,cnk_gr,GR,69672501862552,
+100,88,TypeScript,1638405565000,3792309,schachmatt,DE,58313205988826,
 100,89,TypeScript,1634000378000,2622559,Gripnil,FR,19024435956137,
 100,90,TypeScript,1572828122000,3380514,DFrese,DE,30555045908186,
 100,90,TypeScript,1610159864000,2998967,Gilde,FR,62190109872577,

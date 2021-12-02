@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=178|time=2021-12-01T00:47:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=179|time=2021-12-02T00:39:27
 100,64,Haskell,1586393334000,334009,abouvier,FR,4681436111242,
 100,66,Haskell,1585616975000,1537792,AsaiYusuke,US,41785380851985,
 100,66,Haskell,1616812251000,3996096,Sakisan,BE,51025781973491,
@@ -6,6 +6,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,69,Haskell,1567946829000,934381,PolyB,FR,,
 100,71,Haskell,1567946829000,512097,Stilgart,FR,69893904259383,
 100,73,Haskell,1567946829000,2176877,pasymows,PL,14333167453890,
+100,74,Haskell,1638405567000,4395513,IndecisionTree,US,69450709935774,
 100,75,Haskell,1604025054000,3033786,Camto,PR,23665267504721,
 100,75,Haskell,1609555263000,2928146,LolCat,MU,22538133010433,
 100,76,Haskell,1567946829000,1250366,Ookami,TR,9293970212210,
@@ -18,7 +19,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Haskell,1567946829000,155774,dwarfie,FR,17785582865119,
 100,82,Haskell,1567946829000,2396845,matheus23,DE,,
 100,82,Haskell,1625624345000,3354337,Westicles,CX,79146641399080,
-100,82,Haskell,1630717387000,4395513,IndecisionTree,US,69450709935774,
 100,82,Haskell,1632962165000,3516345,Jp82,FR,63600965075245,
 100,82,Haskell,1638319660000,4595779,wmarkham,US,,
 100,84,Haskell,1600310348000,3845610,pardouin,FR,60364063762936,
@@ -107,6 +107,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Haskell,1567946829000,1477618,thunderk,FR,,
 100,123,Haskell,1567946829000,1793595,Xiyng,FI,10452359452424,
 100,124,Haskell,1628123522000,4124688,Murat_Eroglu,TR,91676687994670,
+100,124,Haskell,1638405567000,4596822,Zwii,FI,73274706985121,
 100,126,Haskell,1567946829000,908664,zilahia,HU,,
 100,127,Haskell,1618194887000,1050421,geppoz,IT,4030238757816,
 100,128,Haskell,1567946829000,2458209,Drakkoniz,FR,20701891091061,

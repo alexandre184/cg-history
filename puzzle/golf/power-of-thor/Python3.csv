@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7278|time=2021-12-05T00:34:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7281|time=2021-12-06T00:35:05
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,64,Python3,1638147736000,4395513,IndecisionTree,US,69450709935774,
 100,67,Python3,1631234385000,3340586,Ran_42,IL,28594288121290,
@@ -79,6 +79,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,89,Python3,1636249297000,4299910,Avshein,IL,,
 100,90,Python3,1625273056000,325339,PTank,FR,24870559795174,
 100,90,Python3,1625883946000,1306813,sprkrd,ES,3876179544657,
+100,92,Python3,1638750905000,3909694,GoogleJeff,US,47145921123490,
 100,93,Python3,1626224904000,862919,Astrobytes,GB,60413902297900,
 100,93,Python3,1635468977000,1073247,_NikJ,RS,2509638482149,
 100,94,Python3,1621139706000,844968,MoMaT,PL,4417545799180,
@@ -412,6 +413,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,113,Python3,1637542254000,4037601,Jelafo,DE,,
 100,113,Python3,1637800813000,3625469,Crimson_King,TR,56016089557697,
 100,113,Python3,1638405560000,3420134,KelvinAndHubbles,US,59798349421381,
+100,113,Python3,1638750905000,1950948,tssw,SK,,
 100,114,Python3,1567946825000,1097422,David_5.1,FR,,
 100,114,Python3,1567946825000,1374100,IcEEyE,IS,,
 100,114,Python3,1567946825000,1584704,Posydon,NL,10076756835700,
@@ -617,7 +619,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,117,Python3,1631148477000,3035808,PinpinLeLapin,FR,23953753038336,
 100,117,Python3,1634000370000,3493230,sgalasso,FR,34359181686532,
 100,117,Python3,1634604487000,4037117,bodbod,FR,52745329177959,
-100,117,Python3,1635123710000,4573573,AnthonioNetto,,,
 100,117,Python3,1636249297000,4574813,tib-lp,FR,82898781906545,
 100,117,Python3,1637023246000,1129777,Velvacaine,CA,59727663468173,
 100,118,Python3,1567946825000,1658238,Dagon,DE,7892990777280,
@@ -997,5 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Python3,1567946825000,1755656,GenesisQ,CA,25220162270361,
 100,133,Python3,1567946825000,1113415,Lhassa,FR,,
 100,133,Python3,1567946825000,1574356,Tontiwisk,CA,7255839585027,
-100,133,Python3,1567946825000,894260,breizhGeek,FR,,
 100,133,Python3,1567946825000,896625,quickndirty,DE,,

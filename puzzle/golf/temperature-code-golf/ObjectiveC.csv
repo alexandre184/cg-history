@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=103|time=2021-12-06T00:35:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=103|time=2021-12-07T00:37:37
 100,36,ObjectiveC,1586393333000,334009,abouvier,FR,4681436111242,
 100,39,ObjectiveC,1616380790000,155774,dwarfie,FR,17785582865119,
 100,42,ObjectiveC,1615948255000,3845610,pardouin,FR,60364063762936,
@@ -40,6 +40,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,ObjectiveC,1567946831000,2096266,southzz,CN,,
 100,90,ObjectiveC,1605144569000,1506280,TwoLate,NO,15807210568002,
 100,92,ObjectiveC,1567946831000,218189,[CG]Maxime,FR,2925297592678,
+100,92,ObjectiveC,1638837457000,734401,b0n5a1,FR,1848632360793,
 100,93,ObjectiveC,1567946831000,1411649,Levatol,RU,5762600339559,
 100,93,ObjectiveC,1567946831000,829472,andris,CH,,
 100,94,ObjectiveC,1630888244000,3516345,Jp82,FR,63600965075245,
@@ -50,7 +51,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,96,ObjectiveC,1567946831000,706692,alexhap,UA,12742258885909,
 100,100,ObjectiveC,1576802431000,3611465,FooBat,FI,,
 100,103,ObjectiveC,1567946831000,2713608,LostSymphony,FR,19945860182726,
-100,103,ObjectiveC,1583542934000,734401,b0n5a1,FR,1848632360793,
 100,109,ObjectiveC,1567946831000,893598,tjandra,ID,2840845610741,
 100,109,ObjectiveC,1625273058000,2490008,ebicochineal,JP,43936521576530,
 100,109,ObjectiveC,1627866436000,3750700,VulpesCorsac,RU,42453281242210,

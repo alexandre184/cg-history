@@ -1,4 +1,5 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=513|time=2021-12-08T00:35:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=512|time=2021-12-09T01:22:58
+100,50,Bash,1595464475000,1483723,d-s-x,RU,4980051025170,
 100,53,Bash,1631493036000,3845610,pardouin,FR,60364063762936,
 100,72,Bash,1631752789000,962495,eboot,FR,55086804311206,
 100,73,Bash,1595032234000,155774,dwarfie,FR,17785582865119,
@@ -285,7 +286,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1781,Bash,1567946822000,1928916,schir03,DE,,
 100,2220,Bash,1567946822000,1835579,seky,ES,10896258888503,
 75,49,Bash,1617071441000,1654818,tarapitha,EE,79401682508715,
-75,50,Bash,1595464475000,1483723,d-s-x,RU,4980051025170,
 75,51,Bash,1596674084000,1537792,AsaiYusuke,US,41785380851985,
 75,57,Bash,1567946822000,1620803,Lyapunov,HU,8098302957147,
 75,61,Bash,1593132398000,1857171,AdamB,PL,11687390029916,
@@ -323,7 +323,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75,90,Bash,1567946822000,276480,Karang,FR,10618014804519,
 75,90,Bash,1567946822000,937933,Richmond,FR,,
 75,91,Bash,1567946822000,1389029,MrTwelve,FR,,
-75,91,Bash,1585788257000,3622757,anid,,,
 75,92,Bash,1583801654000,3238300,WarTey,CA,25776702601011,
 75,92,Bash,1585703671000,2867436,CyrilleGruszka,FR,21731996055720,
 75,93,Bash,1567946822000,536400,Atmel,CZ,,
@@ -487,7 +486,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,690,Bash,1624432227000,1435994,valica92,RO,,
 0,695,Bash,1624432227000,4147832,,HR,,
 0,695,Bash,1624432227000,4024171,SidhuSid,IN,,
-0,695,Bash,1627519327000,4419356,NotGoodatall,US,74698766115203,
+0,695,Bash,1627519327000,4419356,Tourd-bot,US,74698766115203,
 0,695,Bash,1629592933000,4452094,masongtxr,VN,68351848802888,
 0,696,Bash,1624432227000,4020259,,IN,,
 0,696,Bash,1624432227000,4024698,,US,,

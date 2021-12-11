@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1436|time=2021-12-10T00:47:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1436|time=2021-12-11T01:05:49
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -363,6 +363,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,170,Javascript,1604025037000,3264049,Pierrot_fr,FR,44252806987455,
 100,170,Javascript,1622176470000,4038295,rmnShk,NP,71844144198887,
 100,170,Javascript,1622946643000,3987513,Element118,SG,,
+100,170,Javascript,1639184749000,4229382,ClawLegend,US,72627768501723,
 100,171,Javascript,1567946817000,1171965,.,FR,,
 100,171,Javascript,1567946817000,1847117,Jabi,PL,12666107256228,
 100,171,Javascript,1567946817000,1793445,Kr,TH,20573924373807,
@@ -537,7 +538,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,192,Javascript,1618981077000,2084610,cheesysteak,US,18470841598515,
 100,192,Javascript,1622601053000,3896228,Boruwaka,FR,46695808602989,
 100,192,Javascript,1623384824000,3767954,frie321984,DE,63246628993257,
-100,192,Javascript,1628901869000,4229382,ClawLegend,US,72627768501723,
 100,192,Javascript,1638491777000,1475413,AlucardDH,FR,4898493641535,
 100,193,Javascript,1567946817000,1675720,AxFab,FR,15422957143535,
 100,193,Javascript,1567946817000,1854246,Counterbalance,NL,26367790351026,
@@ -934,7 +934,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,306,Javascript,1567946817000,2250452,Isac,PT,15287816336604,
 100,306,Javascript,1567946817000,2699203,MarktheShark,NL,19995458347662,
 100,306,Javascript,1567946817000,930614,PinchPointer,PS,1737565012106,
-100,306,Javascript,1595983742000,1337394,--cha--,FR,43441965271155,
+100,306,Javascript,1595983742000,1337394,--CC--,FR,43441965271155,
 100,306,Javascript,1637887766000,4596822,Zwii,FI,73274706985121,
 100,307,Javascript,1567946817000,954561,Pieg,FR,,
 100,307,Javascript,1567946817000,1475038,koc,BG,,

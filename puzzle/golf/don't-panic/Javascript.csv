@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1436|time=2021-12-12T00:42:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1437|time=2021-12-13T00:33:36
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -193,10 +193,10 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Javascript,1567946817000,552776,player_one,US,52487021619351,
 100,136,Javascript,1587259062000,2837454,Inc_,DE,22024624258996,
 100,136,Javascript,1594258239000,3774500,zakariamouhid,MA,46244702989556,
+100,136,Javascript,1639355616000,4341304,Remi.,FR,97662026388574,
 100,137,Javascript,1567946817000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
-100,137,Javascript,1639097247000,4341304,Remi.,FR,97662026388574,
 100,138,Javascript,1567946817000,2386059,Alphik,CY,18409237128382,
 100,138,Javascript,1583957390000,1353795,TheCrucial,PL,18581166493021,
 100,138,Javascript,1594258239000,3808031,_proton,US,44172683522650,
@@ -627,6 +627,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,202,Javascript,1611024413000,4027771,AndreMarasca,BR,52647904853809,
 100,203,Javascript,1603852571000,3864938,dbut2,AU,,
 100,203,Javascript,1636851159000,2924895,trictrac,FR,23056996012330,
+100,203,Javascript,1639355616000,3187336,C6PO,FR,25489077903191,
 100,204,Javascript,1567946817000,981531,,PL,,
 100,204,Javascript,1567946817000,1420817,TheMagicShop,FR,4468522326390,
 100,204,Javascript,1567946817000,1434793,ntsrt,FR,4450494353061,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,325,Javascript,1567946817000,2527624,MathieuLan,FR,18791474961758,
 100,325,Javascript,1567946817000,1867912,hackerontherun,US,,
 100,327,Javascript,1579739755000,3321380,Kebree,FR,,
-100,327,Javascript,1580776935000,3648050,CocoCouq,FR,39490627918112,

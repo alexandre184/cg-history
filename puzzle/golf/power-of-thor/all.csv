@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=33553|time=2021-12-13T00:33:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=33565|time=2021-12-14T00:30:47
 100,45,Ruby,1639097258000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,46,Perl,1595464478000,1483723,d-s-x,RU,4980051025170,
 100,48,Ruby,1631666306000,3845610,pardouin,FR,60364063762936,
@@ -135,6 +135,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,Ruby,1635727663000,4341304,Remi.,FR,97662026388574,
 100,84,Python3,1637195443000,4508271,Thorcode,US,88691646410654,
 100,84,Ruby,1637542256000,4037601,Jelafo,DE,,
+100,84,Python3,1639441848000,3897897,ZXC01,SG,75575425513677,
 100,85,Python3,1628123520000,762642,Wonyoung,KR,4963742317694,
 100,85,Ruby,1628643501000,4396362,oxydowe,,,
 100,85,Javascript,1632529838000,233627,SlipOne,HU,4994821803578,
@@ -386,6 +387,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Javascript,1630717381000,1525816,Flodnes,NO,5656265985683,
 100,94,Ruby,1632616419000,3899502,JustCarpinThemDiems,DE,95968402830109,
 100,94,Python3,1637714158000,4378731,_Pauk_,FR,66142720779560,
+100,94,Python3,1639441848000,4612235,DialFrost,,,
 100,95,Perl,1567946823000,1702117,nullie,RU,,
 100,95,Javascript,1567946825000,944576,,NL,,
 100,95,Javascript,1567946825000,1060181,Dabou,FR,3798025078627,
@@ -466,7 +468,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Javascript,1635554242000,903179,maksmas,EE,101274743228150,
 100,98,Python3,1637714158000,1399382,Regulus136,FR,4335723819637,
 100,98,Python3,1637800813000,4039794,Codeab,SG,52846966412662,
-100,98,Python3,1637800813000,4612235,DialFrost,,,
 100,98,Python3,1637974322000,3344383,Czejoo,PL,,
 100,99,Bash,1567946822000,1740037,ereiam,FR,12669494111004,
 100,99,PHP,1567946822000,153057,PierralF,FR,1762452918913,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Ruby,1567946826000,1585709,Nevsor,DE,,
 100,111,Ruby,1567946826000,1299110,koger,HU,10011446591748,
 100,111,Ruby,1567946826000,172771,pudov.maxim,RU,2140150964761,
-100,111,C,1567946827000,1109301,McKenneii,FR,,

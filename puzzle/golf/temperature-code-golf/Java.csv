@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2183|time=2021-12-15T00:57:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2184|time=2021-12-16T00:30:48
 100,147,Java,1583368731000,1483723,d-s-x,RU,4980051025170,
 100,157,Java,1584894197000,1654818,tarapitha,EE,79401682508715,
 100,167,Java,1631234389000,3380184,chouch,FR,,
@@ -96,6 +96,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,213,Java,1573442933000,1845697,enday,UA,,
 100,214,Java,1567946832000,1012020,Markusha,MD,21117387170051,
 100,214,Java,1601785863000,3531261,Patatatarte,FR,48916883849044,
+100,214,Java,1639614648000,4270882,[ron],GB,,
 100,215,Java,1567946832000,351062,Neumann,FR,17173563008577,
 100,215,Java,1567946832000,2921162,ZestyPoop,US,22513831308026,
 100,215,Java,1567946832000,1760921,[Leonardone]-[-_-]-[NEETSDKASU],JP,10001057268421,
@@ -182,7 +183,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,232,Java,1567946832000,2459839,Ahmed_khaldi,FR,17102615625977,
 100,232,Java,1583112886000,3691253,rey13,RU,,
 100,232,Java,1603939006000,3073020,_francois_,FR,,
-100,232,Java,1638923756000,4270882,[ron],GB,,
 100,233,Java,1567946832000,1001266,Chamel,PL,3202310175320,
 100,233,Java,1567946832000,2382054,jsimoes,PT,18422571317300,
 100,233,Java,1578357657000,1757792,oreshnik,RU,12260270601490,
@@ -913,6 +913,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,497,Java,1567946832000,2097626,Sky123456,MY,,
 100,497,Java,1568766783000,1223843,uizz,IT,9088538954453,
 100,499,Java,1630370457000,4331541,GabeHarper,US,63899504877102,
+100,499,Java,1639614648000,4460654,PatoisJovenelMoise,DO,69597262220343,
 100,500,Java,1567946832000,1119362,SaOS,FR,,
 100,500,Java,1569112505000,3448401,TaoPro,VN,,
 100,502,Java,1567946832000,1625379,Wafaa.Elsaeed,EG,7722606504430,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,593,Java,1567946832000,1766832,thePaperBoy,VA,,
 100,593,Java,1622601116000,4228000,NokiOnFleek,FR,106688908642372,
 100,594,Java,1567946832000,1525923,Milihhard,FR,5657929468911,
-100,594,Java,1567946832000,3262311,anosantino,MA,25981316049270,

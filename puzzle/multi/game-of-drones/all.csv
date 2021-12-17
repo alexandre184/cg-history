@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3682|time=2021-12-16T00:30:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3681|time=2021-12-17T00:30:09
 5,29.29,Java,,3390078,893541,wala,FR,97577641170180,
 5,28.32,C#,,1511817,271873,lionel_fr,FR,19441365909881,
 5,27.47,C++,,1612265,1100752,ValNykol,GB,10307803807981,
@@ -102,7 +102,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,17.73,Java,,1445823,2114863,QWERTy,RU,13881182782356,
 5,17.66,Python3,,2332589,1734105,Bibou,FR,13195589819771,
 5,17.64,Java,,1445814,810181,Talrog,FR,1960976022871,
-5,17.64,Java,,1668092,2006324,SihardeOussama,MA,75224840468195,
+5,17.64,Java,,1668092,2006324,[Cheater]SihardeOussama,MA,75224840468195,
 5,17.63,Java,,1445818,1327028,FredericBautista,FR,9974192266436,
 5,17.57,Java,,3081678,3755755,AAhmed9,,,
 5,17.56,Java,,2194774,2584558,roc_GhostyManiakk,FR,,
@@ -938,7 +938,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,9.96,Python3,,3920653,2973831,Golfand,IL,42777600542674,
 4,9.96,Python3,,2130082,2942465,ViorelRoman,RU,,
 4,9.83,Go,,1578339,1470031,gandalf,US,4874850029695,
-4,9.61,Go,,2996021,1354295,AbdullahKhawer,,,
 4,9.48,Go,,1547372,1592706,HuynhThienThach,VN,7475382629555,
 4,9.46,Go,,3048731,3363565,BloodRayne,IN,39882160214224,
 4,9.31,C#,,2446124,1717962,Angryshark,,,
@@ -997,5 +996,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,4.48,C++,,1441277,1506280,TwoLate,NO,15807210568002,
 3,18.25,C++,,1431888,1407621,Taohbi,FR,21763386165958,
 3,18.16,C#,,1432272,1545670,Ellume,CA,6337087589366,
-3,18.08,Python3,,3929879,4136008,jerry_laevis,FR,,
+3,18.13,Python3,,3929879,4136008,jerry_laevis,FR,,
 3,16.74,C++,,2814125,3733416,40547049S,TW,,
+3,16.66,C++,,1433731,817573,Antmsu,RU,44199784770664,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1276|time=2021-12-16T00:30:15
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1275|time=2021-12-17T00:30:15
 6,29.54,Python3,,2334271,3243532,teccles,GB,25962751692516,
 6,28.5,C++,,3748493,1629259,Marchete,ES,61997162908277,
 6,27.25,Python3,,2334229,880353,zasmu,FR,22237226756102,
@@ -342,7 +342,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,16.06,Javascript,,2357047,1330431,TzeKin,SG,68707161253272,
 5,16.01,Javascript,,2634302,3074711,LeoLet,FR,34061300841679,
 5,16.01,Python3,,3672831,4264690,hofangman,KR,61906241957165,
-5,15.97,Python3,,2464544,2006324,SihardeOussama,MA,75224840468195,
+5,15.97,Python3,,2464544,2006324,[Cheater]SihardeOussama,MA,75224840468195,
 5,15.96,PHP,,3868209,155920,t2_cyborg,FR,83452360805525,
 5,15.96,TypeScript,,3439810,4166845,HugeMissedSteak,NL,59373221969418,
 5,15.95,Java,,2632945,2819160,Sallaire,FR,25924969789613,
@@ -358,7 +358,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,15.74,Java,,3686590,1598470,WolfDarrigan,US,6763412959636,
 5,15.72,C#,,2589936,2387233,SinOfWrath,DK,41207346605394,
 5,15.69,Javascript,,2332803,1420817,TheMagicShop,FR,4468522326390,
-5,15.68,Python3,,3087005,1354295,AbdullahKhawer,,,
 5,15.64,Java,,2406523,1194069,Redstrike,DE,57293561455683,
 5,15.62,C#,,3041336,2924672,LesShadocks,FR,22429181644053,
 5,15.55,Python3,,2608802,218189,[CG]Maxime,FR,2925297592678,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,10.8,Javascript,,3688187,4022724,RChopi,FR,83259363299388,
 3,10.44,Java,,3689430,1857912,NONONOexe,JP,11189627263945,
 3,10.37,Lua,,3689927,2889053,Anderium,NL,97207001907945,
+3,10.35,C++,,3689413,1059313,_SERGE_,FR,,

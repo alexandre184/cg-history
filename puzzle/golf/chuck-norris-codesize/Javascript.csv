@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=843|time=2021-12-18T01:07:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=843|time=2021-12-19T01:13:53
 100,75,Javascript,1629073844000,3380184,chouch,FR,,
 100,76,Javascript,1628901888000,3337790,gitbeginer,KR,66608941195357,
 100,77,Javascript,1629333050000,1675034,francois,FR,15464459859531,
@@ -278,6 +278,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1598142646000,224325,TidyMaze,FR,2654133392410,
 100,161,Javascript,1609029049000,4013791,LTNightshade,DE,52126062565051,
 100,161,Javascript,1625704554000,4283515,FrancoisBaveye,FR,104716760268246,
+100,161,Javascript,1639876433000,4537924,ArtesScytale,BE,,
+100,161,Javascript,1639876433000,3123327,Cordy,FR,70516484727323,
 100,162,Javascript,1589157425000,2422063,vikingviolinist,NO,,
 100,162,Javascript,1593563444000,3868172,Desjardins,DE,46161242090337,
 100,162,Javascript,1600656638000,1050421,geppoz,IT,4030238757816,
@@ -350,7 +352,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,171,Javascript,1616380795000,3136787,jacek,PL,75369242083208,
 100,171,Javascript,1631579455000,4194335,crvn,DE,68574186037443,
 100,171,Javascript,1636851185000,4065736,Frizyok,FR,77453621868621,
-100,171,Javascript,1638750918000,4537924,ArtesScytale,BE,,
 100,172,Javascript,1567946837000,478137,Z_Dante,UA,11970641956778,
 100,172,Javascript,1590542045000,1202933,NullOps,AU,13683198089751,
 100,172,Javascript,1592095992000,693553,test999,FR,43108349356854,
@@ -404,7 +405,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,179,Javascript,1626224916000,2769452,TheBjB,FR,73758443006748,
 100,180,Javascript,1567946837000,1686456,Sir2B,DE,8601310304557,
 100,180,Javascript,1631061903000,1234947,kuro,BR,6850950439511,
-100,180,Javascript,1637109770000,3123327,Cordy,FR,70516484727323,
 100,181,Javascript,1567946837000,3229071,megawarrior,UA,25970334501033,
 100,181,Javascript,1581553846000,155723,gfauchart,GB,22030522492096,
 100,181,Javascript,1623384843000,3331745,XeraFiu,FR,64907143198907,

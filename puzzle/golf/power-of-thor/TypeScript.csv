@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=213|time=2021-12-19T01:13:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=213|time=2021-12-20T01:03:51
 100,59,TypeScript,1638750905000,1483723,d-s-x,RU,4980051025170,
 100,68,TypeScript,1627956513000,1675034,francois,FR,15464459859531,
 100,79,TypeScript,1628988252000,2315158,luigi_gelato,DE,,
@@ -50,6 +50,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,141,TypeScript,1604797990000,4045062,ChaosCat,DE,,
 100,141,TypeScript,1606352059000,481564,mihei,RU,4454400756022,
 100,141,TypeScript,1612578656000,1306429,Neckers,IT,73429625249924,
+100,141,TypeScript,1639962231000,4537924,ArtesScytale,BE,,
 100,143,TypeScript,1596099788000,2387233,SinOfWrath,DK,41207346605394,
 100,145,TypeScript,1634518027000,3533314,skotz,US,97334021748803,
 100,146,TypeScript,1596501978000,862919,Astrobytes,GB,60413902297900,
@@ -114,7 +115,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,202,TypeScript,1609727448000,936472,Cheecken,US,13041003181527,
 100,202,TypeScript,1621391636000,3184844,Jojordinateur,FR,54796462606401,
 100,204,TypeScript,1573000237000,3531488,Dryadim,FR,35488801936304,
-100,208,TypeScript,1639876424000,4537924,ArtesScytale,BE,,
 100,209,TypeScript,1593305175000,3411563,myStick,BG,46246327942419,
 100,209,TypeScript,1595205035000,2290633,field3,JP,75961127697737,
 100,209,TypeScript,1614825064000,3922731,Dartisan,LU,101995908419116,

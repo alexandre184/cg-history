@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=846|time=2021-12-21T00:30:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=845|time=2021-12-22T00:39:33
 100,75,Javascript,1629073844000,3380184,chouch,FR,,
 100,76,Javascript,1628901888000,3337790,gitbeginer,KR,66608941195357,
 100,77,Javascript,1629333050000,1675034,francois,FR,15464459859531,
@@ -102,6 +102,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,139,Javascript,1593737171000,975057,LeoTigers,FR,45776082875495,
 100,139,Javascript,1607303447000,3855258,Starfighter,FR,57681805205585,
 100,139,Javascript,1614569198000,1838549,orangesnowfox,US,17617755701518,
+100,139,Javascript,1640133573000,4348548,justchris,SE,77172125036226,
 100,140,Javascript,1583973561000,1353795,TheCrucial,PL,18581166493021,
 100,140,Javascript,1584355756000,3035070,Ipso,FR,25682160338718,
 100,140,Javascript,1600483627000,3971654,EDumdum,BE,,
@@ -122,7 +123,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1609727460000,4027771,AndreMarasca,BR,52647904853809,
 100,143,Javascript,1620701186000,894599,DidierC,FR,1756298465824,
 100,143,Javascript,1622083150000,4334077,Paul_Demanze,GB,89645400922966,
-100,143,Javascript,1640046658000,4348548,justchris,SE,77172125036226,
 100,144,Javascript,1567946837000,2050195,eklore,FR,16153418043649,
 100,144,Javascript,1621480061000,2589340,Zource,NL,,
 100,144,Javascript,1624329595000,1424148,manychois,AU,63401108439350,
@@ -451,7 +451,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,190,Javascript,1590025593000,1681589,NoGoodBox,DE,8602324243582,
 100,190,Javascript,1605921613000,3687035,EmericC,FR,,
 100,190,Javascript,1628729589000,1470927,ClementAvenel,FR,89056262115378,
-100,190,Javascript,1640046658000,4612235,DialFrost,,,
 100,191,Javascript,1567946837000,1695141,sbsbessa,PT,24874664192666,
 100,191,Javascript,1614738650000,1782005,AlexW,FR,47883185026219,
 100,192,Javascript,1567946837000,2049979,130N35,FR,13111365905174,

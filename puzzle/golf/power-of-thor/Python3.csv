@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7357|time=2021-12-23T00:33:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7359|time=2021-12-24T00:49:02
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,64,Python3,1638147736000,4395513,IndecisionTree,US,69450709935774,
 100,67,Python3,1631234385000,3340586,Ran_42,IL,28594288121290,
@@ -100,6 +100,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Python3,1627174072000,3719826,iTeuch,FR,41622925394147,
 100,94,Python3,1637714158000,4378731,_Pauk_,FR,66142720779560,
 100,94,Python3,1640133561000,4663659,DialFrost,,,
+100,94,Python3,1640306942000,4060624,leonardoSu,BR,74949465275158,
 100,95,Python3,1608167605000,3315341,Yoyoda,FR,27163947902081,
 100,95,Python3,1623294184000,936271,Chkoupinator,FR,63680800481745,
 100,95,Python3,1627260454000,2241559,eskeln,UA,16149555164631,
@@ -283,6 +284,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1633912244000,4509119,PhysicistBot,BR,70330007936452,
 100,109,Python3,1638061720000,2765655,El_Mono_Sin_Sombra,NZ,20437983620152,
 100,109,Python3,1639097253000,2874091,5DN1L,GB,79633423380001,
+100,109,Python3,1640306942000,4136008,jerry_laevis,FR,,
 100,110,Python3,1567946825000,2486642,JeeXian,RU,17891646499215,
 100,110,Python3,1567946825000,1269717,MitchellKotler,US,,
 100,110,Python3,1567946825000,2370151,derlin,CH,,
@@ -361,7 +363,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,112,Python3,1624841970000,3791366,Artygo8,BE,59710426906111,
 100,112,Python3,1624927211000,2369368,BugKiller_328,UA,66074328130585,
 100,112,Python3,1634953189000,975057,LeoTigers,FR,45776082875495,
-100,112,Python3,1638491783000,4136008,jerry_laevis,FR,,
 100,112,Python3,1639184753000,3937043,Jaek,DZ,48656186648228,
 100,113,Python3,1567946825000,1921687,Black-Born,FR,16371842685976,
 100,113,Python3,1567946825000,1496013,Burk,US,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Python3,1567946825000,715319,poksh,NL,1750588470839,
 100,132,Python3,1567946825000,221648,stephenvk,US,,
 100,132,Python3,1568684363000,1439233,RasPi,RU,,
-100,132,Python3,1594859434000,3740208,Dinca,RO,85060742927619,

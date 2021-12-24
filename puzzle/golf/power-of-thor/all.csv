@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=33656|time=2021-12-23T00:33:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=33665|time=2021-12-24T00:48:59
 100,45,Ruby,1639097258000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,45,ObjectiveC,1639962230000,1483723,d-s-x,RU,4980051025170,
 100,45,C,1639962231000,1483723,d-s-x,RU,4980051025170,
@@ -397,6 +397,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Ruby,1632616419000,3899502,JustCarpinThemDiems,DE,95968402830109,
 100,94,Python3,1637714158000,4378731,_Pauk_,FR,66142720779560,
 100,94,Python3,1640133561000,4663659,DialFrost,,,
+100,94,Python3,1640306942000,4060624,leonardoSu,BR,74949465275158,
 100,95,Perl,1567946823000,1702117,nullie,RU,,
 100,95,Javascript,1567946825000,944576,,NL,,
 100,95,Javascript,1567946825000,1060181,Dabou,FR,3798025078627,
@@ -938,6 +939,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1638061720000,2765655,El_Mono_Sin_Sombra,NZ,20437983620152,
 100,109,Python3,1639097253000,2874091,5DN1L,GB,79633423380001,
 100,109,Javascript,1639529841000,359096,Skyloro,FR,52094321199640,
+100,109,Python3,1640306942000,4136008,jerry_laevis,FR,,
 100,110,Bash,1567946822000,366305,Mgayar,EG,5691231749425,
 100,110,Javascript,1567946825000,2050543,Cherubael,DK,13150128776541,
 100,110,Javascript,1567946825000,2471054,Goldcott,BE,24540565061023,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Javascript,1567946825000,226600,[STG][2016]gori_j,FR,9144237677255,
 100,111,Javascript,1567946825000,1607251,baboulaf,FR,18176849207993,
 100,111,Javascript,1567946825000,155723,gfauchart,GB,22030522492096,
-100,111,Javascript,1567946825000,2598688,yshing,HK,19100347855293,
-100,111,Python3,1567946825000,973948,Amnesix,FR,2053378634664,

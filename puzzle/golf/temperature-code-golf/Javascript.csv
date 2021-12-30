@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2824|time=2021-12-29T00:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2826|time=2021-12-30T00:49:39
 100,55,Javascript,1637109764000,1483723,d-s-x,RU,4980051025170,
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
@@ -929,6 +929,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1607219869000,4084902,dark_vidor,FR,54857464514345,
 100,101,Javascript,1616035429000,311035,leojean890,FR,42398427701382,
 100,101,Javascript,1616725844000,4224082,Taubeth,PL,,
+100,101,Javascript,1640825379000,3077492,psyclops,FR,,
 100,102,Javascript,1567946828000,1628102,AzariasB,FR,7372071224277,
 100,102,Javascript,1567946828000,200925,Filozofer,FR,31111166980842,
 100,102,Javascript,1567946828000,1411433,Mahe,EE,5884521074380,
@@ -946,6 +947,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,102,Javascript,1623984133000,2470538,methusela,US,,
 100,102,Javascript,1624927218000,3904675,ggolfz,TH,48215366976020,
 100,102,Javascript,1634346943000,4116084,grahamcracker1234,US,56223045071058,
+100,102,Javascript,1640825379000,1802967,Meruem,FR,31992166318610,
 100,103,Javascript,1567946828000,1171965,.,FR,,
 100,103,Javascript,1567946828000,158495,Cr3aHal0,FR,11235124705354,
 100,103,Javascript,1567946828000,1298152,Malito,DO,15707245390835,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Javascript,1591921843000,3800387,typingm,US,45632925718771,
 100,106,Javascript,1600483619000,3862589,anha,DE,50482388140800,
 100,106,Javascript,1611382399000,4144393,Nmnnm,FR,103088586197735,
-100,106,Javascript,1623294188000,4312135,Tomy7698,FR,,
-100,107,Javascript,1567946828000,1049264,onitsuka,FR,,

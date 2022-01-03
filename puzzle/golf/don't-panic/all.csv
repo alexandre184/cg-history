@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10436|time=2022-01-02T05:06:17
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10436|time=2022-01-03T00:52:28
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -366,6 +366,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,114,Ruby,1635208233000,4077723,co_test,GB,,
 100,114,Python3,1638750901000,3909694,GoogleJeff,US,47145921123490,
 100,114,Python3,1640219623000,2043908,AntiSquid,,,
+100,114,Ruby,1641171144000,1201783,qsantos,FR,3181778176261,
 100,115,C,1567946816000,2096336,SAINT_LAURENT,FR,13617684447326,
 100,115,Javascript,1567946817000,1211531,ciaojian,IT,3126381962847,
 100,115,Perl,1567946818000,1854246,Counterbalance,NL,26367790351026,
@@ -383,7 +384,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Javascript,1567946817000,407550,moto_mikez,US,,
 100,116,Groovy,1567946820000,553938,MagAlex,RU,3292063463360,
 100,116,Ruby,1567946820000,1186273,knacky,FR,,
-100,116,Ruby,1567946820000,1201783,qsantos,FR,3181778176261,
 100,116,Haskell,1585616956000,1537792,AsaiYusuke,US,41785380851985,
 100,116,PHP,1608083733000,1848459,Velcoro,CZ,48538649860014,
 100,116,Python3,1614738635000,3647844,rc95401,US,39486169555819,
@@ -707,6 +707,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Python3,1635727657000,811622,Scarfield,DK,73294709815061,
 100,136,Bash,1637800809000,1441239,Dyd,IT,71707560017158,
 100,136,Javascript,1639962228000,1205108,jval,KZ,73581028678836,
+100,136,Python3,1641171147000,3625469,Crimson_King,TR,56016089557697,
 100,137,Javascript,1567946817000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Python3,1579311209000,1178276,Jerome_95,FR,19999067509724,
 100,158,Javascript,1582418748000,2622559,Gripnil,FR,19024435956137,
 100,158,Python3,1585703663000,865280,batin,FR,,
-100,158,Javascript,1588903088000,1706476,Maboul95,FR,9338051370545,

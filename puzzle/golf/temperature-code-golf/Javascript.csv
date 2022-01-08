@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2837|time=2022-01-07T03:22:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2839|time=2022-01-08T00:54:51
 100,55,Javascript,1637109764000,1483723,d-s-x,RU,4980051025170,
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
@@ -7,6 +7,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,56,Javascript,1624753841000,3354337,Mrs.GloriaZindlebocker,CX,79146641399080,
 100,56,Javascript,1627956519000,1675034,francois,FR,15464459859531,
 100,56,Javascript,1628901880000,2315158,luigi_gelato,DE,,
+100,56,Javascript,1641603291000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,59,Javascript,1596674090000,3913849,kingKong,FR,,
 100,59,Javascript,1607303443000,2565497,vladislao,RU,18197468031147,
@@ -57,7 +58,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Javascript,1628988257000,188944,Starbender,FR,95295169754182,
 100,60,Javascript,1634432766000,1020626,PiterYeh,IT,4411407433686,
 100,60,Javascript,1635295099000,3917724,Marke18,IT,47701103353349,
-100,60,Javascript,1638405567000,4341304,Remi.,FR,97662026388574,
 100,60,Javascript,1640393893000,2874091,5DN1L,GB,79633423380001,
 100,61,Javascript,1567946828000,1906719,ArpadDravecz,HU,11710900308045,
 100,61,Javascript,1567946828000,155887,BanBan,FR,8230051407070,
@@ -672,6 +672,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Javascript,1628470048000,3585167,informathemusic,FR,57452709515182,
 100,85,Javascript,1629333046000,4436072,DogOfDiana,CN,67810547000577,
 100,85,Javascript,1639441852000,4558116,Alexiza,ES,71836669048596,
+100,85,Javascript,1641603291000,3431280,luukhf,NL,,
 100,86,Javascript,1567946828000,1975116,AtteLynx,FI,12400468367460,
 100,86,Javascript,1567946828000,1707377,Colgate-Blancheur,FR,9896613056357,
 100,86,Javascript,1567946828000,1390503,IQuick,CZ,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Javascript,1567946828000,3028864,lorcQc,CA,,
 100,106,Javascript,1567946828000,317266,mantal,FR,,
 100,106,Javascript,1591921843000,3800387,typingm,US,45632925718771,
-100,106,Javascript,1600483619000,3862589,anha,DE,50482388140800,

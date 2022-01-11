@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2654|time=2022-01-10T02:09:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2655|time=2022-01-11T01:17:28
 100,62,Python3,1624329578000,3845610,pardouin,FR,60364063762936,
 100,68,Python3,1615948240000,155774,dwarfie,FR,17785582865119,
 100,68,Python3,1625792069000,3354337,Mrs.GloriaZindlebocker,CX,79146641399080,
@@ -45,6 +45,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,Python3,1626309032000,4415771,valentino.sm,UA,67208905166190,
 100,107,Python3,1640219623000,3561474,Blokops,MX,37684462080100,
 100,107,Python3,1640825364000,4663659,DialFrost,,,
+100,107,Python3,1641863848000,4685008,DialFrostV,SG,76560783280922,
 100,108,Python3,1622176479000,3903473,Konstant,PL,47882887732604,
 100,108,Python3,1626309032000,1114496,BlasphemousCrossbreed,UA,2486265138222,
 100,108,Python3,1628296227000,1567943,LazyMammal,CA,54419089430083,
@@ -927,6 +928,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,200,Python3,1637800804000,1194057,Altivar,FR,18777412767587,
 100,200,Python3,1639529832000,4568069,Perithia,FR,,
 100,200,Python3,1641267321000,4259902,Nalisco,FR,110149381017411,
+100,200,Python3,1641863848000,2217572,Ben9,FR,15350623426649,
 100,201,Python3,1567946818000,1496013,Burk,US,,
 100,201,Python3,1567946818000,1913525,Drus_O,UA,11752378171560,
 100,201,Python3,1567946818000,1634607,Taraxacum,US,7506783108472,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,210,Python3,1579739751000,3643604,mathieubrglt,FR,,
 100,210,Python3,1607737226000,1807733,NoZ-,FR,14066071779905,
 100,210,Python3,1625446087000,3246683,AnishShobithPS,IN,67191728371963,
-100,210,Python3,1626049893000,4230724,SefioR13,FR,60411344362349,
-100,210,Python3,1627002642000,4176076,2134512,FR,,

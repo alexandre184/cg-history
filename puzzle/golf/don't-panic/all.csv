@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10471|time=2022-01-10T02:09:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10472|time=2022-01-11T01:17:27
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -85,6 +85,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,ObjectiveC,1601260239000,155774,dwarfie,FR,17785582865119,
 100,80,Bash,1625792072000,3354337,Mrs.GloriaZindlebocker,CX,79146641399080,
 100,80,Javascript,1628817344000,3337790,gitbeginer,KR,66608941195357,
+100,80,TypeScript,1641863852000,4341304,Remi.,FR,97662026388574,
 100,81,Javascript,1567946817000,1001096,MyIIone,AT,4231449697357,
 100,81,Javascript,1567946817000,600941,mrv,PL,,
 100,81,Lua,1567946817000,1654818,tarapitha,EE,79401682508715,
@@ -283,6 +284,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,Javascript,1639962228000,893541,wala,FR,97577641170180,
 100,107,Python3,1640219623000,3561474,Blokops,MX,37684462080100,
 100,107,Python3,1640825364000,4663659,DialFrost,,,
+100,107,Python3,1641863848000,4685008,DialFrostV,SG,76560783280922,
 100,108,Javascript,1567946817000,513549,y0p,FR,,
 100,108,Perl,1567946818000,586565,Dedoo,RU,54341422072227,
 100,108,Bash,1571971772000,155774,dwarfie,FR,17785582865119,
@@ -504,7 +506,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,C++,1628901867000,2315158,luigi_gelato,DE,,
 100,123,Python3,1630285077000,3340586,Ran_42,IL,28594288121290,
 100,123,C++,1636591223000,2923506,darkhorse64,FR,23496414257567,
-100,123,TypeScript,1639789656000,4341304,Remi.,FR,97662026388574,
 100,123,TypeScript,1641603274000,4672487,inem,RU,75989745808206,
 100,124,C,1567946816000,199767,sam,FR,,
 100,124,Javascript,1567946817000,1325359,BIG_DUDE_210,FR,13078594157455,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Ruby,1567946820000,952597,Tojba,NL,,
 100,158,Ruby,1567946820000,452641,masakt,JP,14163585005061,
 100,158,Ruby,1567946820000,223893,r0ots,FR,5389578227190,
-100,158,Python3,1579311209000,1178276,Jerome_95,FR,19999067509724,

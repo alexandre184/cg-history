@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10478|time=2022-01-14T01:51:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10482|time=2022-01-15T00:30:35
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -863,6 +863,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,TypeScript,1628470037000,4124688,Murat_Eroglu,TR,91676687994670,
 100,149,Javascript,1635814591000,903179,maksmas,EE,101274743228150,
 100,149,Perl,1641099977000,2874091,5DN1L,GB,79633423380001,
+100,149,Python3,1642206638000,4181567,antohka151,UA,58746222766172,
 100,150,Javascript,1567946817000,999484,Paturages,FR,1991319539637,
 100,150,Javascript,1567946817000,2176877,pasymows,PL,14333167453890,
 100,150,Javascript,1567946817000,1652988,wardialer,IT,7801345180157,
@@ -946,6 +947,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Ruby,1628470036000,4124688,Murat_Eroglu,TR,91676687994670,
 100,155,Python3,1634258224000,1178401,mizzHuarta,FR,,
 100,155,Groovy,1640572059000,2874091,5DN1L,GB,79633423380001,
+100,155,Python3,1642206638000,3046779,Kathrin,DE,23869551387688,
 100,156,C,1567946816000,512097,Stilgart,FR,69893904259383,
 100,156,Javascript,1567946817000,1600940,ProPuke,GB,6813033823843,
 100,156,Javascript,1567946817000,389786,menu,DE,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Javascript,1567946817000,1540478,struct,PT,61418101984360,
 100,158,OCaml,1567946818000,925695,Boulet,FR,29121141951376,
 100,158,Perl,1567946818000,1193408,DoubleZeroSteph,FR,3015400557516,
-100,158,Python3,1567946818000,1327273,softice,RU,7675955145947,
-100,158,Ruby,1567946820000,1166600,Gill153,CA,3702759276181,

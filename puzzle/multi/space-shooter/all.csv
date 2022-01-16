@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=293|time=2022-01-15T00:30:05
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=294|time=2022-01-16T00:30:04
 2,43.83,C++,,3849492,1457162,JFB,PL,12110108490250,
 2,39.8,Python3,,3959360,4270882,[ron],GB,,
 2,39.69,Java,,3960268,893541,wala,FR,97577641170180,
@@ -287,8 +287,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,7.59,C++,,3814382,3438915,notaname,US,,
 1,3.35,Python3,,3808741,4445099,Boubou_cmoi,FR,73389524490779,
 1,3.28,Python3,,3811006,4463201,Travaglia,PT,69415287840153,
-0,11.97,PHP,,3955787,4626700,JohnyDarecek,CZ,74185100725077,
-0,11.78,Go,,3851483,4541700,CyPhaThEdeStRoYeR,GB,,
-0,11.23,Python3,,3935032,4653921,Natsuhiko,US,,
-0,11.02,Perl,,3845784,2325449,otpv,CA,36646766447960,
-0,-9.72,Python3,,3813551,4493689,Djomnik,DE,,
+0,12.16,PHP,,3955787,4626700,JohnyDarecek,CZ,74185100725077,
+0,11.99,Go,,3851483,4541700,CyPhaThEdeStRoYeR,GB,,
+0,11.86,Python3,,3971738,4692618,Gaetan_LEROY,FR,,
+0,11.61,Python3,,3935032,4653921,Natsuhiko,US,,
+0,11.3,Perl,,3845784,2325449,otpv,CA,36646766447960,
+0,-9.78,Python3,,3813551,4493689,Djomnik,DE,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5972|time=2022-01-17T00:51:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5973|time=2022-01-18T00:34:33
 100,53,Python3,1623984129000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,54,Python3,1640393894000,1483723,d-s-x,RU,4980051025170,
@@ -167,6 +167,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,65,Python3,1635208254000,3965571,Smekarn,SE,50557362213985,
 100,65,Python3,1635468982000,1073247,_NikJ,RS,2509638482149,
 100,65,Python3,1636072605000,4341304,Remi.,FR,97662026388574,
+100,65,Python3,1642466073000,1124679,Tinaud,CA,2547993227524,
 100,66,Python3,1567946832000,3410351,Deltaspace,RU,31254101171655,
 100,66,Python3,1567946832000,2046649,Eithan,IL,,
 100,66,Python3,1567946832000,2046604,Error200,IL,18541957021622,
@@ -232,7 +233,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,67,Python3,1630370455000,2796157,nikhil.k,IN,64021163998790,
 100,67,Python3,1631148482000,4446080,EdwinJagger,CA,69005086831723,
 100,67,Python3,1631666312000,1421071,Saturne,CH,,
-100,67,Python3,1634258242000,1124679,Tinaud,CA,2547993227524,
 100,67,Python3,1635986028000,2017372,Lannys,FR,,
 100,67,Python3,1636072605000,4581215,exokortex,AT,,
 100,67,Python3,1636677900000,4344872,Calvin_Schwarz,AT,67090642354097,
@@ -994,8 +994,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1638061725000,4599964,_-_pascal_-_,CH,,
 100,76,Python3,1638491792000,2845540,themerlingilb,DE,21411189801621,
 100,76,Python3,1639789664000,4158940,nacho_cheesefries,US,64634805543723,
+100,76,Python3,1642466073000,4694243,kr8gz,AT,76866005670685,
 100,77,Python3,1567946832000,1329079,Aengus,CH,9983363899985,
 100,77,Python3,1567946832000,893915,DeVoTeD,CA,38313085096688,
-100,77,Python3,1567946832000,1514394,LevitatingLion,DE,,
 100,77,Python3,1567946832000,1042243,Ynoht,FR,81686067301130,
 100,77,Python3,1567946832000,1499050,danielw,US,,

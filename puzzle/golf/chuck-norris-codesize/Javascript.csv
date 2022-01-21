@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=858|time=2022-01-20T00:30:55
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=860|time=2022-01-21T00:42:28
 100,75,Javascript,1629073844000,3380184,chouch,FR,,
 100,75,Javascript,1641603294000,4341304,Remi.,FR,97662026388574,
 100,75,Javascript,1641863869000,3845610,pardouin,FR,60364063762936,
@@ -397,6 +397,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,176,Javascript,1567946837000,859523,jukimv1986,ES,7683034960632,
 100,176,Javascript,1591837843000,1017704,Lucasgood,FR,2057355958953,
 100,176,Javascript,1599705055000,3966787,TwilightOwl,RU,,
+100,176,Javascript,1642725748000,3863256,Deuzwood,FR,100467869589956,
 100,177,Javascript,1571273996000,1195856,daifei4321,US,2979089591958,
 100,177,Javascript,1574383151000,1244685,dorion,FR,21623788646587,
 100,177,Javascript,1596674097000,3923490,_John_,IT,,
@@ -481,6 +482,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,Javascript,1609379300000,1787026,xurei,BE,10364774608887,
 100,199,Javascript,1637887791000,3245233,Flasssh_,CH,72955569323559,
 100,200,Javascript,1633049120000,4207978,Pythagus,FR,60162464869884,
+100,200,Javascript,1642725748000,4697789,Nwam,FR,,
 100,201,Javascript,1567946837000,3276579,Az-steak,FR,,
 100,201,Javascript,1567946837000,3375799,Baril,FR,103954586459434,
 100,201,Javascript,1571360355000,3519268,Thammus,DE,35188500512043,
@@ -495,6 +497,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,206,Javascript,1598057928000,414278,oobException,FR,4595241889335,
 100,206,Javascript,1606352055000,4075735,caldrjir,CZ,,
 100,206,Javascript,1626224916000,4425484,movrax,US,67553021096171,
+100,206,Javascript,1642725748000,3898747,MABCKRY,FR,75752924659195,
 100,207,Javascript,1580171442000,3220562,alex_cbt,FR,47632462605578,
 100,207,Javascript,1592443212000,770524,Baart,FR,35575321308685,
 100,207,Javascript,1597365048000,3909948,thenchained,IN,47182386842122,
@@ -507,7 +510,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,209,Javascript,1642125095000,4038111,INF-Zenyth,FR,77308969894265,
 100,210,Javascript,1604797980000,1984345,CedricHerzog,FR,35678327855863,
 100,210,Javascript,1609289629000,3775049,CyrusTheCurator,US,52541786633881,
-100,210,Javascript,1642552924000,3898747,MABCKRY,FR,75752924659195,
 100,211,Javascript,1573607681000,3530476,kitofers,LV,35503406232989,
 100,211,Javascript,1588903194000,1706476,Maboul95,FR,9338051370545,
 100,211,Javascript,1596155448000,3629200,ZeroDoc,IT,41388647907683,

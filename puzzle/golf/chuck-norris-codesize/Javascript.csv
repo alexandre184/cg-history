@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=860|time=2022-01-21T00:42:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=862|time=2022-01-22T00:46:11
 100,75,Javascript,1629073844000,3380184,chouch,FR,,
 100,75,Javascript,1641603294000,4341304,Remi.,FR,97662026388574,
 100,75,Javascript,1641863869000,3845610,pardouin,FR,60364063762936,
@@ -309,6 +309,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,164,Javascript,1633740403000,3785996,bitwiseio,DE,43390907176636,
 100,164,Javascript,1634171766000,4499077,blarglebottoms,US,,
 100,164,Javascript,1634346951000,3842971,kalsowerus,CH,,
+100,164,Javascript,1642812371000,3863256,Deuzwood,FR,100467869589956,
 100,165,Javascript,1567946837000,1854246,Counterbalance,NL,26367790351026,
 100,165,Javascript,1567946837000,3313645,tcr,FR,28970347821773,
 100,165,Javascript,1578790355000,1213850,Rativel,PL,3108976562691,
@@ -357,6 +358,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,171,Javascript,1616380795000,3136787,jacek,PL,75369242083208,
 100,171,Javascript,1631579455000,4194335,crvn,DE,68574186037443,
 100,171,Javascript,1636851185000,4065736,Frizyok,FR,77453621868621,
+100,171,Javascript,1642812371000,2147014,ArthurPilate,FR,,
 100,172,Javascript,1567946837000,478137,Z_Dante,UA,11970641956778,
 100,172,Javascript,1590542045000,1202933,NullOps,AU,13683198089751,
 100,172,Javascript,1592095992000,693553,test999,FR,43108349356854,
@@ -397,7 +399,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,176,Javascript,1567946837000,859523,jukimv1986,ES,7683034960632,
 100,176,Javascript,1591837843000,1017704,Lucasgood,FR,2057355958953,
 100,176,Javascript,1599705055000,3966787,TwilightOwl,RU,,
-100,176,Javascript,1642725748000,3863256,Deuzwood,FR,100467869589956,
 100,177,Javascript,1571273996000,1195856,daifei4321,US,2979089591958,
 100,177,Javascript,1574383151000,1244685,dorion,FR,21623788646587,
 100,177,Javascript,1596674097000,3923490,_John_,IT,,
@@ -847,6 +848,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,263,Javascript,1624432245000,2412888,TonySirico,IT,,
 0,263,Javascript,1624432245000,3986561,failing,IE,,
 0,263,Javascript,1627347639000,4445964,Scott10,BR,,
+0,263,Javascript,1642812371000,4611783,Junhan,FR,,
 0,272,Javascript,1624432245000,3865234,,VN,,
 0,288,Javascript,1624432245000,3258764,Tizizi,FR,25949934523540,
 0,295,Javascript,1640219642000,4342793,,AM,,

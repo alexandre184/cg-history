@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5991|time=2022-01-22T00:46:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5997|time=2022-01-23T01:11:07
 100,53,Python3,1623984129000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,54,Python3,1640393894000,1483723,d-s-x,RU,4980051025170,
@@ -212,6 +212,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,66,Python3,1638061725000,2164798,Mihai-Boicu,US,53425429511545,
 100,66,Python3,1639097259000,4576463,Didelabedeli,FR,72531584423078,
 100,66,Python3,1641099997000,2874091,5DN1L,GB,79633423380001,
+100,66,Python3,1642900267000,1684020,tom_,FR,68400349015363,
 100,67,Python3,1567946832000,1312473,StealthEye,NL,,
 100,67,Python3,1595464485000,2942240,John404,FR,22625480043076,
 100,67,Python3,1595983759000,1808211,Zjarr,CH,29680669400909,
@@ -484,7 +485,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,70,Python3,1621996709000,4356930,kundalinigoesrogue,LT,,
 100,70,Python3,1624432236000,4390014,yfe42,FR,68117760980737,
 100,70,Python3,1627866435000,4453161,TerraNorm,DE,,
-100,70,Python3,1629160748000,1684020,tom_,FR,68400349015363,
 100,70,Python3,1632358358000,3214641,Neicul,FR,25566448504624,
 100,70,Python3,1633134649000,1784266,Harmaguedon,FR,10328445690157,
 100,70,Python3,1634953198000,4526264,cly,FR,,
@@ -621,6 +621,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,72,Python3,1635986028000,2408418,Syrihus,FR,33008421157553,
 100,72,Python3,1639529843000,4318766,jschoedl,DE,77542620885476,
 100,72,Python3,1639962242000,4270882,[ron],GB,,
+100,72,Python3,1642900267000,4149818,ET_BB-8,GB,57894749237710,
 100,73,Python3,1567946832000,1842440,07734willy,US,10984521090532,
 100,73,Python3,1567946832000,1841051,0xbeefed,GB,17119043174583,
 100,73,Python3,1567946832000,2933084,Adrades,FR,22545589972040,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1635381056000,4557451,LikeDuh,FR,,
 100,76,Python3,1635986028000,1579042,Hulous,FR,72120208833937,
 100,76,Python3,1638061725000,4599964,_-_pascal_-_,CH,,
-100,76,Python3,1638491792000,2845540,themerlingilb,DE,21411189801621,

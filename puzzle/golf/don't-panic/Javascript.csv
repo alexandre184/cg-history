@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1455|time=2022-01-23T01:10:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1455|time=2022-01-24T00:31:15
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -61,6 +61,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1591144988000,940791,Kris117,FR,16280535626899,
 100,105,Javascript,1603077430000,1515891,ndc,RU,57247748477088,
 100,105,Javascript,1630888233000,1474519,Sny_de_Treves,FR,59444303531011,
+100,105,Javascript,1642984275000,4672487,inem,RU,75989745808206,
 100,106,Javascript,1567946817000,2084583,,SG,,
 100,107,Javascript,1639962228000,893541,wala,FR,97577641170180,
 100,108,Javascript,1567946817000,513549,y0p,FR,,
@@ -74,7 +75,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,110,Javascript,1567946817000,2487077,simon-pham,FR,30502400985151,
 100,110,Javascript,1599532389000,1178276,Jerome_95,FR,19999067509724,
 100,110,Javascript,1629247912000,3514975,Phurinat,TH,97597367576293,
-100,110,Javascript,1641698430000,4672487,inem,RU,75989745808206,
 100,111,Javascript,1567946817000,952284,Copro,FR,2300779354891,
 100,111,Javascript,1615343623000,4180659,abrman,SK,74762185405103,
 100,112,Javascript,1567946817000,735910,Agade,CH,1997542876524,
@@ -217,9 +217,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,142,Javascript,1567946817000,1655250,Bibo,SK,7869611725328,
 100,142,Javascript,1567946817000,411110,KhanKhan,US,,
 100,142,Javascript,1567946817000,2643222,Voschuk,RU,18932834440917,
+100,142,Javascript,1642984275000,3487645,hypers,UA,34243548996636,
 100,143,Javascript,1567946817000,844863,Magnasilvar,FR,16814034335695,
 100,143,Javascript,1567946817000,2870586,MattZ,US,21782473296749,
-100,143,Javascript,1601951994000,3487645,hypers,UA,34243548996636,
 100,143,Javascript,1610944262000,4084120,jake11,GR,55390961783376,
 100,143,Javascript,1622863709000,2910225,Guytan67,FR,22197098430669,
 100,144,Javascript,1567946817000,930869,Meidor,NL,,

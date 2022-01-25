@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=12235|time=2022-01-24T00:31:10
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=12242|time=2022-01-25T00:33:33
 100,1684640,C++,1635295079000,1470017,BeBopping,US,45275804889924,
 100,1469740,C#,1567946813000,1399382,Regulus136,FR,4335723819637,
 100,1455190,C++,1567946813000,351062,Neumann,FR,17173563008577,
@@ -768,6 +768,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,67900,Scala,1567946813000,1740037,ereiam,FR,12669494111004,
 100,67780,Javascript,1567946813000,3387053,best-team,,,
 100,67720,Javascript,1607908992000,250352,Dorkside,FR,26384258696042,
+100,67710,Rust,1643070813000,4537924,ArtesScytale,BE,,
 100,67660,C++,1622601036000,3826720,Noppo,JP,44839947432797,
 100,67400,Python3,1599967628000,3393535,LuckyJ.,FR,42540162041167,
 100,67370,C#,1569976222000,2711016,Manuel0814,AT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64260,C++,1618284745000,4263831,MrFruit,US,,
 100,64260,C++,1618890330000,3425476,SteachTheTurtle,FR,31844922434400,
 100,64260,C++,1619321053000,4184195,Patrick0,BR,58792342310490,
-100,64260,C++,1619495350000,3973359,KAbel,HU,58683122994198,

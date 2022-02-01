@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10540|time=2022-01-31T00:54:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10550|time=2022-02-01T00:30:29
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -942,6 +942,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,154,Python3,1616122907000,1569273,AnEsotericMan,US,63533086583271,
 100,154,VB.NET,1625792072000,3354337,Mrs.GloriaZindlebocker,CX,79146641399080,
 100,154,Perl,1639184748000,1324974,ViktorCs,HU,4515823207881,
+100,154,Ruby,1643675428000,3532429,Skyf0l,FR,67386567920151,
+100,154,Perl,1643675432000,3532429,Skyf0l,FR,67386567920151,
 100,155,Javascript,1567946817000,2867477,MichaelKommandant,UA,,
 100,155,Javascript,1567946817000,893177,Rebelwillow,US,20738672717048,
 100,155,Javascript,1567946817000,704875,XaY,FR,1746313875354,
@@ -979,6 +981,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Python3,1634258224000,4526264,cly,FR,,
 100,156,Javascript,1639789653000,3035070,Ipso,FR,25682160338718,
 100,156,Python3,1640306934000,4060624,System.out.println_Hello,BR,74949465275158,
+100,156,PHP,1643675428000,3532429,Skyf0l,FR,67386567920151,
 100,157,Javascript,1567946817000,1528929,Blackfich,FR,95780209684968,
 100,157,Javascript,1567946817000,1363282,Dantevgp,FR,,
 100,157,Javascript,1567946817000,1161211,Greaby,CH,61874564272423,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,157,Ruby,1567946820000,155928,pk,FR,1720918958539,
 100,157,Ruby,1623294162000,806416,awnion,RS,59791745647170,
 100,157,C++,1625446086000,2490008,ebicochineal,JP,43936521576530,
-100,157,Python3,1628296227000,4095128,Voltmachine,BG,56919066754571,
-100,157,Ruby,1628386506000,1156852,CoolStoryBro,GB,5702298127915,
-100,157,Ruby,1630197833000,4166555,Natanalel,SE,65894864102793,

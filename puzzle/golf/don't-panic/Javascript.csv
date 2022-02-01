@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1463|time=2022-01-31T00:54:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1463|time=2022-02-01T00:30:31
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
 100,70,Javascript,1567946817000,154372,Plopx,FR,7959085736890,
@@ -377,6 +377,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,171,Javascript,1567946817000,1250366,Ookami,TR,9293970212210,
 100,171,Javascript,1567946817000,155929,[CG]jupoulton,GB,9399538004630,
 100,171,Javascript,1631666297000,4194335,crvn,DE,68574186037443,
+100,171,Javascript,1643675431000,2924895,trictrac,FR,23056996012330,
 100,172,Javascript,1567946817000,1243582,Daugone,BE,19854187179229,
 100,172,Javascript,1567946817000,939136,Froggy,FR,,
 100,172,Javascript,1567946817000,1372843,djjeck,US,5407978094654,
@@ -499,7 +500,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,186,Javascript,1611119600000,3855258,Starfighter,FR,57681805205585,
 100,186,Javascript,1617504059000,2298036,3x1t,CZ,15502931839193,
 100,186,Javascript,1634171740000,4211756,Seb-D,FR,67359065681154,
-100,186,Javascript,1643511138000,2924895,trictrac,FR,23056996012330,
 100,187,Javascript,1567946817000,153057,PierralF,FR,1762452918913,
 100,187,Javascript,1567946817000,765907,edejin,RU,3603704124914,
 100,187,Javascript,1567946817000,1898883,edoudou,FR,11631757928306,
@@ -579,7 +579,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,195,Javascript,1637542251000,4587646,Alex.js,FR,,
 100,196,Javascript,1567946817000,3336923,XelX,DE,,
 100,196,Javascript,1567946817000,1169499,naab,FR,21217854473439,
-100,196,Javascript,1596155432000,1627246,katutaistelija,FI,7347457369867,
+100,196,Javascript,1596155432000,1627246,jkumara,FI,7347457369867,
 100,196,Javascript,1596329048000,3387410,Paolo_Rzf,MG,91658708408744,
 100,196,Javascript,1598810510000,2106901,Kyoshiro10500,CH,13673088159635,
 100,196,Javascript,1607477440000,3998772,zefogm,FR,,

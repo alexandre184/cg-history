@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=872|time=2022-02-04T00:42:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=873|time=2022-02-05T01:25:54
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,75,Javascript,1641603294000,4341304,Remi.,FR,97662026388574,
 100,75,Javascript,1641863869000,3845610,pardouin,FR,60364063762936,
@@ -115,6 +115,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Javascript,1635554256000,4558116,Alexiza,ES,71836669048596,
 100,141,Javascript,1568161847000,3465335,nQ,DE,33460668324556,
 100,141,Javascript,1623294202000,1688826,statox,FR,8974250883551,
+100,141,Javascript,1644024354000,2924895,trictrac,FR,23056996012330,
 100,142,Javascript,1590971918000,1205152,cfoll,FR,44547348311154,
 100,142,Javascript,1613012371000,1330431,TzeKin,SG,68707161253272,
 100,142,Javascript,1619495558000,3847872,Gaspar-Cdv,FR,45599449537807,
@@ -126,7 +127,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Javascript,1609727460000,4027771,AndreMarasca,BR,52647904853809,
 100,143,Javascript,1620701186000,894599,DidierC,FR,1756298465824,
 100,143,Javascript,1622083150000,4334077,Paul_Demanze,GB,89645400922966,
-100,143,Javascript,1643761854000,2924895,trictrac,FR,23056996012330,
 100,144,Javascript,1567946837000,2050195,eklore,FR,16153418043649,
 100,144,Javascript,1621480061000,2589340,Zource,NL,,
 100,144,Javascript,1624329595000,1424148,manychois,AU,63401108439350,
@@ -806,6 +806,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,954,Javascript,1569890703000,2936179,bobmcaleavey,US,,
 100,967,Javascript,1618367475000,3975846,KarlHolt,DK,,
 100,973,Javascript,1578443895000,3132397,YoanN,FR,38825488091694,
+100,975,Javascript,1644024354000,1932872,LeRoiLion,FR,11975896332682,
 100,994,Javascript,1567946837000,1704093,Pishnagray,IN,8990705998925,
 100,1001,Javascript,1606352055000,4079686,majidT,CA,54540004773899,
 100,1014,Javascript,1617418561000,1312442,Surya5954,IN,,

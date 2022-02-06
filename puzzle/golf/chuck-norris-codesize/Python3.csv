@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2296|time=2022-02-05T01:25:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2298|time=2022-02-06T00:32:42
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -715,6 +715,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,141,Python3,1622341861000,609734,belag,FR,,
 100,141,Python3,1634086861000,3638738,Winux_Ifrikya,FR,69788226128908,
 100,141,Python3,1635208267000,4177594,unexpectedError,DE,58839722699800,
+100,141,Python3,1644107562000,4648805,LordOfElements,US,,
 100,142,Python3,1567946837000,3338806,Hindrek,EE,,
 100,142,Python3,1567946837000,3121445,tf423,DE,,
 100,142,Python3,1583112892000,3657937,elderlybeginner,PL,39723186977905,
@@ -879,6 +880,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,151,Python3,1621996718000,4326761,MaverickFr,FR,63713781134619,
 100,151,Python3,1625446108000,4385398,LordViking,PT,66528705439744,
 100,151,Python3,1626827942000,4191122,ManonCodd,FR,59910320915338,
+100,151,Python3,1644107562000,4719725,esah,DE,77913024417418,
 100,152,Python3,1567946837000,995238,Pyvain,FR,2284808483065,
 100,152,Python3,1571877047000,3477294,risteon,DE,39050965930429,
 100,152,Python3,1580949123000,1201118,Til,FR,,
@@ -995,7 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,158,Python3,1640825386000,4044949,Exanc,FR,75434945111960,
 100,158,Python3,1643329858000,3504879,SRobot,DE,34805684802838,
 100,159,Python3,1567946837000,528262,Niii,FR,4372311141722,
-100,159,Python3,1567946837000,1473549,Qubies,CA,5423162916740,
 100,159,Python3,1567946837000,1478761,hartfelt,DK,4939122356462,
 100,159,Python3,1567946837000,3345589,zaphodef,FR,28792483581945,
-100,159,Python3,1572395743000,2061690,LordQwertion,UA,15379460911136,

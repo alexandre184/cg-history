@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7545|time=2022-02-09T00:40:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7548|time=2022-02-10T00:33:03
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,59,Python3,1641357393000,1483723,d-s-x,RU,4980051025170,
 100,62,Python3,1643935305000,792813,VilBoub,FR,72010225615995,
@@ -304,7 +304,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1619233747000,3657275,jujurocking,FR,,
 100,109,Python3,1620788390000,4185673,GeorgiD,BG,,
 100,109,Python3,1620788390000,4207930,go6o12344,BG,59732320393089,
-100,109,Python3,1621305586000,4311593,2neuronitalpa,RO,64331207291748,
+100,109,Python3,1621305586000,4311593,james7b2,RO,64331207291748,
 100,109,Python3,1621650945000,3614203,TrivialDev,FR,63572984872987,
 100,109,Python3,1621824471000,4095799,circular17,FR,55329921778165,
 100,109,Python3,1633912244000,4509119,PhysicistBot,BR,70330007936452,
@@ -598,6 +598,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Python3,1638319656000,530441,Prime541,FR,75513904859150,
 100,116,Python3,1642725735000,1673394,Lours,FR,8604009560009,
 100,116,Python3,1643848529000,4679476,Walpha,FR,76014360101593,
+100,116,Python3,1644453183000,4044949,Exanc,FR,75434945111960,
 100,117,Python3,1567946825000,1841051,0xbeefed,GB,17119043174583,
 100,117,Python3,1567946825000,807958,AaronTwitchell,US,,
 100,117,Python3,1567946825000,3307612,Apparhum,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,130,Python3,1629765365000,664112,AllYourTrees,US,35047123145003,
 100,130,Python3,1636764241000,3550732,Guitariout,FR,54368465908649,
 100,130,Python3,1639012978000,3563934,ChuckTheNinja,US,50520780935948,
-100,130,Python3,1640219634000,4546358,Rayghun,BE,,

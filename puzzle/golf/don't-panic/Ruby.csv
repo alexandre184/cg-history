@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=467|time=2022-02-09T00:40:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=467|time=2022-02-10T00:32:56
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -54,7 +54,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Ruby,1567946820000,1818596,wec,FR,11019766097430,
 100,112,Ruby,1599359440000,1178276,Jerome_95,FR,19999067509724,
 100,114,Ruby,1567946820000,965650,abrl,FR,1847796010109,
-100,114,Ruby,1588293032000,273876,SirSushi,FR,78452887015207,
+100,114,Ruby,1588293032000,273876,JeremyLefevre,FR,78452887015207,
 100,114,Ruby,1624753829000,1324974,ViktorCs,HU,4515823207881,
 100,114,Ruby,1635208233000,4077723,co_test,GB,,
 100,114,Ruby,1641171144000,1201783,qsantos,FR,3181778176261,
@@ -263,6 +263,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,200,Ruby,1619665323000,2119660,Galbraith,US,13832970026209,
 100,200,Ruby,1627002643000,3705601,ido_the_pro,IL,60403028988195,
 100,200,Ruby,1632445189000,4050016,CharlesSenemaud,FR,70436660917123,
+100,200,Ruby,1644453176000,4165433,ChristianPR,GB,,
 100,201,Ruby,1567946820000,1752419,Arin112,RU,9976470663487,
 100,203,Ruby,1567946820000,2141506,Jamesscn,MX,18889088943331,
 100,203,Ruby,1567946820000,994034,Jazzcript,TR,2157829775470,
@@ -416,7 +417,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,528,Ruby,1567946820000,1139050,BlackFalcon,FR,,
 100,532,Ruby,1567946820000,1606744,Fridx,GB,,
 100,537,Ruby,1595291428000,3904226,namdang-exe,US,,
-100,547,Ruby,1644367238000,4165433,ChristianPR,GB,,
 100,603,Ruby,1567946820000,1267630,Nirina,FR,10494820775771,
 100,604,Ruby,1567946820000,856678,,BG,,
 100,686,Ruby,1567946820000,1781128,tomsoft1,FR,10668232865918,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1016|time=2022-02-12T01:37:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1016|time=2022-02-13T00:36:38
 100,33,Ruby,1583461914000,1537792,AsaiYusuke,US,41785380851985,
 100,33,Ruby,1586393335000,334009,abouvier,FR,4681436111242,
 100,34,Ruby,1639614646000,1483723,d-s-x,RU,4980051025170,
@@ -829,7 +829,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Ruby,1567946833000,930869,Meidor,NL,,
 100,111,Ruby,1567946833000,2137236,VanTech,CH,13984389018118,
 100,111,Ruby,1567946833000,2453091,Vanna,DE,,
-100,111,Ruby,1601260253000,2015072,MartinCervenka,CZ,78639085291247,
+100,111,Ruby,1601260253000,2015072,cervemar,CZ,78639085291247,
 100,112,Ruby,1567946833000,922457,Kristallseele,DE,,
 100,112,Ruby,1576552575000,3604953,Bomadeno,FI,39075541858325,
 100,112,Ruby,1584493476000,3373604,racamsi,FR,,
@@ -865,6 +865,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Ruby,1567946833000,891648,boechiel,FR,2321504736034,
 100,133,Ruby,1589943882000,3821478,Dikzak4life,NL,,
 100,134,Ruby,1567946833000,153721,Xolen,FR,19182983410539,
+100,134,Ruby,1644712598000,3227561,Exortix,BH,78411942735372,
 100,135,Ruby,1567946833000,1564179,SES,DK,7836814489783,
 100,135,Ruby,1567946833000,1693992,predek,PL,,
 100,135,Ruby,1633480368000,4003601,Mathieu1988,FR,,
@@ -940,7 +941,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,507,Ruby,1567946833000,869020,M.M.,US,1787510294915,
 100,515,Ruby,1576027220000,2007221,lIlIlIlIl,PL,,
 100,532,Ruby,1602129892000,4004502,DavidPulgarin,CO,,
-100,537,Ruby,1644541333000,3227561,Exortix,BH,78411942735372,
 100,554,Ruby,1605753256000,2063592,Gbaud,FR,44607323321167,
 100,579,Ruby,1567946833000,3347243,tb_beerus,IN,,
 100,597,Ruby,1588036467000,377622,jonatasteixeira,BR,43429502365635,

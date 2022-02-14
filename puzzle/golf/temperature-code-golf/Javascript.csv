@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2902|time=2022-02-13T00:36:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2904|time=2022-02-14T00:30:48
 100,55,Javascript,1637109764000,1483723,d-s-x,RU,4980051025170,
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
@@ -8,6 +8,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,56,Javascript,1627956519000,1675034,francois,FR,15464459859531,
 100,56,Javascript,1628901880000,2315158,luigi_gelato,DE,,
 100,56,Javascript,1641603291000,4341304,Remi.,FR,97662026388574,
+100,56,Javascript,1644798648000,2928146,LolCat,MU,22538133010433,
 100,59,Javascript,1567946828000,154372,Plopx,FR,7959085736890,
 100,59,Javascript,1596674090000,3913849,kingKong,FR,,
 100,59,Javascript,1607303443000,2565497,vladislao,RU,18197468031147,
@@ -109,7 +110,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1606783908000,2220824,Aerodactylus,FR,54336008500576,
 100,61,Javascript,1606783908000,1348600,erodataM,FR,15560295582514,
 100,61,Javascript,1607131079000,2635907,lopidav,UA,18844623817442,
-100,61,Javascript,1610245860000,2928146,LolCat,MU,22538133010433,
 100,61,Javascript,1610685072000,4060994,3030,FI,,
 100,61,Javascript,1611024428000,3647844,rc95401,US,39486169555819,
 100,61,Javascript,1612147804000,3421059,Threenplusone,AU,31653244193472,
@@ -678,7 +678,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Javascript,1618454984000,1819430,Louec,FR,33037142871414,
 100,85,Javascript,1619756656000,4056731,Luj8n,LT,65401962792306,
 100,85,Javascript,1621996708000,3700629,serialgg,FR,41086567019728,
-100,85,Javascript,1628470048000,3585167,informathemusic,FR,57452709515182,
+100,85,Javascript,1628470048000,3585167,immjs,FR,57452709515182,
 100,85,Javascript,1629333046000,4436072,DogOfDiana,CN,67810547000577,
 100,85,Javascript,1639441852000,4558116,Alexiza,ES,71836669048596,
 100,86,Javascript,1567946828000,1975116,AtteLynx,FI,12400468367460,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=179|time=2022-02-14T00:30:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=180|time=2022-02-15T00:42:48
 100,64,Haskell,1586393334000,334009,abouvier,FR,4681436111242,
 100,66,Haskell,1585616975000,1537792,AsaiYusuke,US,41785380851985,
 100,66,Haskell,1616812251000,3996096,Sakisan,BE,51025781973491,
@@ -14,6 +14,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Haskell,1619233755000,1654818,tarapitha,EE,79401682508715,
 100,78,Haskell,1638147748000,2874091,5DN1L,GB,79633423380001,
 100,80,Haskell,1567946829000,1630178,ulrikdem,ZA,,
+100,80,Haskell,1644885768000,4688439,Angs,FI,77351661394461,
 100,81,Haskell,1609118502000,4015951,TiborKotosz-Inviqa,HU,,
 100,82,Haskell,1567946829000,280898,Syllo,FR,20531209560804,
 100,82,Haskell,1567946829000,155774,dwarfie,FR,17785582865119,
@@ -82,6 +83,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Haskell,1629420803000,3514975,Phurinat,TH,97597367576293,
 100,94,Haskell,1638491790000,4596822,Zwii,FI,73274706985121,
 100,94,Haskell,1638923753000,734401,b0n5a1,FR,1848632360793,
+100,94,Haskell,1644885768000,4341304,Remi.,FR,97662026388574,
 100,95,Haskell,1567946829000,1167096,exfalso,HU,,
 100,96,Haskell,1567946829000,1342745,Catiminie,FR,5639908914832,
 100,96,Haskell,1605574806000,1848459,Velcoro,CZ,48538649860014,
@@ -91,7 +93,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Haskell,1628643509000,1436776,BrainSolver,FR,10099178983053,
 100,99,Haskell,1631148478000,2043502,Acodon,GB,68688668576263,
 100,105,Haskell,1596846641000,3438426,mingmingrr,US,,
-100,106,Haskell,1642812368000,4688439,Angs,FI,77351661394461,
 100,107,Haskell,1567946829000,815677,icetonic,DE,,
 100,107,Haskell,1567946829000,841814,kdridi,FR,3360688669846,
 100,107,Haskell,1567946829000,1990491,obreitwi,DE,15653875836459,

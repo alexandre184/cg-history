@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=576|time=2022-02-14T00:30:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=576|time=2022-02-15T00:42:31
 100,58,C,1637887765000,3845610,pardouin,FR,60364063762936,
 100,59,C,1567946816000,2288263,dbdr,UA,43448306132121,
 100,60,C,1643243817000,4341304,Remi.,FR,97662026388574,
@@ -350,6 +350,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,339,C,1567946816000,860101,benjibigg,FR,,
 100,341,C,1567946816000,795798,LP21,HU,,
 100,349,C,1567946816000,1046924,,DE,,
+100,356,C,1644885751000,3338191,C_breeze,GB,61183647505459,
 100,359,C,1643590456000,1344197,CsAdamK,HU,,
 100,360,C,1573607660000,3478377,Ironsolaris,FR,34190748410857,
 100,366,C,1567946816000,878168,Czaporka,PL,10675277194417,
@@ -389,7 +390,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,484,C,1567946816000,524398,gadic,FR,57429342761228,
 100,488,C,1567946816000,1267881,Pyrate,,,
 100,488,C,1567946816000,991102,kirvia,FR,,
-100,488,C,1644798638000,3338191,C_breeze,GB,61183647505459,
 100,489,C,1567946816000,1128253,mosti,DZ,,
 100,509,C,1567946816000,2354299,checkam,FR,38158420702797,
 100,525,C,1567946816000,1030639,ViktorSimko,HU,2091816552084,

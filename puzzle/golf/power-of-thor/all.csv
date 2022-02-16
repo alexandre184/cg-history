@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=34199|time=2022-02-15T00:42:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=34212|time=2022-02-16T00:47:46
 100,41,Bash,1640825375000,1483723,d-s-x,RU,4980051025170,
 100,45,Ruby,1639097258000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,45,ObjectiveC,1639962230000,1483723,d-s-x,RU,4980051025170,
@@ -95,6 +95,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1637714158000,2923506,darkhorse64,FR,23496414257567,
 100,76,Pascal,1640825374000,1483723,d-s-x,RU,4980051025170,
 100,76,Python3,1641357393000,3465209,portpass,RU,,
+100,76,Python3,1644972471000,1654818,tarapitha,EE,79401682508715,
 100,77,Python3,1613097360000,1525831,ntsd,TH,86763903852312,
 100,77,Python3,1624069856000,154388,PonyPonyCodeCode,FR,37335148285737,
 100,77,Ruby,1624432230000,735487,amurushkin,RU,2111605585777,
@@ -102,7 +103,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,77,Python3,1634862640000,1874759,seovs,,,
 100,77,Python3,1639355620000,4257588,WhoTho,US,73384865831537,
 100,77,Python3,1641435155000,3431280,luukhf,NL,,
-100,77,Python3,1644194828000,1654818,tarapitha,EE,79401682508715,
 100,78,Ruby,1567946826000,1348635,ferbos,FR,96159860267051,
 100,78,Ruby,1621391633000,948764,Katie,GB,2150180090592,
 100,78,Python3,1629247916000,3337790,gitbeginer,KR,66608941195357,
@@ -492,6 +492,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,96,Ruby,1638232573000,3792309,schachmatt,DE,58313205988826,
 100,96,Python3,1642552915000,4334077,Paul_Demanze,GB,89645400922966,
 100,96,Python3,1642984281000,4662405,helpmefindaname,AT,75424463334526,
+100,96,Python3,1644972471000,1482293,Benejies,FR,58785140530131,
 100,97,Ruby,1567946826000,1102626,Janfred,DE,,
 100,97,Ruby,1567946826000,1351763,gatto,IT,4308899276162,
 100,97,C,1567946827000,2096336,SAINT_LAURENT,FR,13617684447326,
@@ -755,7 +756,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1624432229000,2526465,doritosxxx,RU,17838342424936,
 100,105,Javascript,1627089472000,3840544,wiisportsresort,US,,
 100,105,Perl,1627260455000,155774,dwarfie,FR,17785582865119,
-100,105,Javascript,1631840886000,4131357,Remi-B,,,
 100,105,Javascript,1632445197000,376701,Shiwa,FR,,
 100,105,Javascript,1634171757000,638784,Yqnn,FR,2711674975713,
 100,105,Javascript,1634862644000,549583,malko,FR,9358834015904,

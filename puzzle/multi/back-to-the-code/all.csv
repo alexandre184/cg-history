@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4841|time=2022-02-16T00:30:11
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4841|time=2022-02-17T00:30:13
 0,47.11,C,,1484525,1433161,mingu1.kang,KR,27653324382564,
 0,45.57,C++,,455215,494104,Recar,GB,4953953776940,
 0,45.55,C++,,357643,990110,Rogerup,BR,2038636261009,
@@ -614,7 +614,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,33.08,Perl,,347816,198268,newrare,FR,15525761960319,
 0,33.08,C++,,2463459,1479930,LeRenard,FR,40384564000700,
 0,33.06,Java,,343351,164454,aRaMinet,FR,2194604042922,
-0,33.05,Pascal,,346239,1041775,Darkcodi,UA,2113277653186,
 0,33.05,Java,,364197,1145498,Mouseas,US,2664528636264,
 0,33.04,Java,,3977721,1502379,B-GangsteR,UA,5302687974456,
 0,33.04,OCaml,,3721702,4347134,Maui_MPSI_LIV_2020,FR,66481242756313,
@@ -624,7 +623,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,33.01,Java,,353118,972414,Hackman,NL,,
 0,33.01,C#,,344924,431256,Ps-spectre,UA,,
 0,33.01,Javascript,,414523,1376803,salvan13,IT,4027100125812,
+0,33.01,Pascal,,346239,1041775,Darkcodi,UA,2113277653186,
 0,33,Python,,347770,1055535,elghinn,FR,2252363031536,
+0,32.99,C,,345476,1077623,BOABDEAL,FR,,
 0,32.98,Java,,349922,783337,Dewey,FR,,
 0,32.98,OCaml,,3722531,4253900,Arol90,FR,,
 0,32.97,C,,348513,1057948,Kavishankar,IN,2161772909112,
@@ -635,7 +636,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,32.93,C++,,348172,826372,skyyker,RE,54542165670172,
 0,32.93,Python3,,417778,1404539,Furrane,FR,4293682278518,
 0,32.92,C#,,417722,153784,Whitec,FR,13328714685028,
-0,32.9,C,,345476,1077623,BOABDEAL,FR,,
 0,32.9,Java,,353240,900666,lgsmitty,BY,63814087658245,
 0,32.9,Javascript,,358461,1037848,pretension-itself,US,17984296915636,
 0,32.89,C++,,361761,1087109,Norival,FR,,

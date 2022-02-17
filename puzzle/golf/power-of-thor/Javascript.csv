@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4397|time=2022-02-16T00:47:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4402|time=2022-02-17T00:33:34
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,64,Javascript,1627956514000,1675034,francois,FR,15464459859531,
@@ -107,6 +107,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,104,Javascript,1631148473000,3647844,rc95401,US,39486169555819,
 100,104,Javascript,1636591233000,1588262,kogash,ES,,
 100,104,Javascript,1642638643000,4635778,Cederkaeppen,DK,,
+100,104,Javascript,1645058014000,2371389,Franta,CZ,16642908084028,
 100,105,Javascript,1567946825000,1060171,Aurora,HU,2191708908911,
 100,105,Javascript,1567946825000,1528929,Blackfich,FR,95780209684968,
 100,105,Javascript,1567946825000,2876928,Doatti,FI,,
@@ -479,6 +480,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Javascript,1627347627000,311035,leojean890,FR,42398427701382,
 100,120,Javascript,1630629410000,1474519,Sny_de_Treves,FR,59444303531011,
 100,120,Javascript,1635123712000,1388660,Maeevick,FR,72284526964436,
+100,120,Javascript,1645058014000,3344486,aliokan,BE,28765548033625,
 100,121,Javascript,1567946825000,1495642,AtomCrafty,DE,5134929486180,
 100,121,Javascript,1567946825000,705079,Perazzo,BR,,
 100,121,Javascript,1567946825000,2827109,Pwntheon,NO,21241844341958,
@@ -993,8 +995,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,144,Javascript,1594946584000,1197534,FranciscoAriJosinoJunior,CA,3201487382260,
 100,144,Javascript,1594946584000,1600226,Giancarlo,IT,6838034611799,
 100,144,Javascript,1594946584000,1462341,MarkSide,IT,5546302254858,
-100,144,Javascript,1594946584000,1785670,Squallfirst,FR,10409341881681,
-100,144,Javascript,1594946584000,1886408,bamblack,US,12157146798402,
 100,144,Javascript,1594946584000,1740232,elen,RU,9824704757809,
 100,144,Javascript,1594946584000,1197161,olsh,AM,7264098552514,
 100,144,Javascript,1594946584000,1125922,sunson,RU,2589136485277,

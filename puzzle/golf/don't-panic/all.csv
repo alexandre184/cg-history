@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10620|time=2022-02-16T00:47:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10624|time=2022-02-17T00:33:22
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -449,6 +449,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Python3,1634432747000,1152991,xoposhiy,RU,2894275932979,
 100,120,Ruby,1640655401000,2874091,5DN1L,GB,79633423380001,
 100,120,Javascript,1643511138000,4694923,AntonBlockchain,RU,77199284320897,
+100,120,Python3,1645058008000,4044949,Exanc,FR,75434945111960,
 100,121,C,1567946816000,272290,Clement0635,FR,34413083523867,
 100,121,Javascript,1567946817000,1383636,atsikov,LV,8154551476699,
 100,121,Bash,1567946818000,1654458,thirstycrow,CN,9438887574270,
@@ -517,6 +518,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,C++,1628901867000,2315158,luigi_gelato,DE,,
 100,123,Python3,1630285077000,3340586,Ran_42,IL,28594288121290,
 100,123,C++,1636591223000,2923506,darkhorse64,FR,23496414257567,
+100,123,Python3,1645058008000,2350415,Vintarel,FR,17502555674515,
 100,124,C,1567946816000,199767,sam,FR,,
 100,124,Javascript,1567946817000,1325359,BIG_DUDE_210,FR,13078594157455,
 100,124,Javascript,1567946817000,1071140,BeberLeNewbie,FR,9528729029244,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,157,Javascript,1567946817000,1161211,Greaby,CH,61874564272423,
 100,157,Javascript,1567946817000,846838,K.MA,FR,42367927612850,
 100,157,Javascript,1567946817000,879321,S7ven,FR,3901150663189,
-100,157,Javascript,1567946817000,1244685,dorion,FR,21623788646587,
-100,157,Lua,1567946817000,553938,MagAlex,RU,3292063463360,

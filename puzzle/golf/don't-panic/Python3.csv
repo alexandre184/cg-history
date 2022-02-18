@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2720|time=2022-02-17T00:33:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2722|time=2022-02-18T00:42:10
 100,62,Python3,1624329578000,3845610,pardouin,FR,60364063762936,
 100,67,Python3,1644972462000,1654818,tarapitha,EE,79401682508715,
 100,68,Python3,1615948240000,155774,dwarfie,FR,17785582865119,
@@ -621,6 +621,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,188,Python3,1635036435000,4481912,Dr_Monkey,GB,69349348815883,
 100,188,Python3,1640219623000,1543333,ishibashijun,JP,15686417858068,
 100,188,Python3,1642552906000,4661127,Tommy1727,MG,,
+100,188,Python3,1645144930000,4083537,DavidAvsajanishvili,GE,55847109957826,
 100,189,Python3,1567946818000,2711438,Aeneas,FR,20716894647776,
 100,189,Python3,1567946818000,954755,AiMikoto,RO,42941865040389,
 100,189,Python3,1567946818000,1761969,Chosedone,AR,11845160688134,
@@ -915,6 +916,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,Python3,1642900254000,4149818,ET_BB-8,GB,57894749237710,
 100,199,Python3,1643416229000,4262172,highjump,JP,75556260070780,
 100,199,Python3,1643511136000,1003777,DanXX09,DE,4753222863905,
+100,199,Python3,1645144930000,4585938,Risodu,SK,,
 100,200,Python3,1567946818000,162669,Gangrene,FR,1728092637133,
 100,200,Python3,1567946818000,1211531,ciaojian,IT,3126381962847,
 100,200,Python3,1567946818000,1432947,empathy87,RU,,
@@ -995,7 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,204,Python3,1628470037000,4356381,NucleicAcid,CA,,
 100,204,Python3,1639012971000,3563934,ChuckTheNinja,US,50520780935948,
 100,204,Python3,1639789654000,4554401,Fabien-Bernard,FR,88713967708770,
-100,205,Python3,1567946818000,1128320,acapela,PT,2908040050202,
-100,205,Python3,1567946818000,1699996,cocoloco,FR,,
 100,205,Python3,1567946818000,221648,stephenvk,US,,
 100,205,Python3,1567946818000,888439,ysharc,IN,98330464228370,

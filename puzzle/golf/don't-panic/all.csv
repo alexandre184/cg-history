@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10645|time=2022-02-25T00:47:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10650|time=2022-02-26T00:40:48
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
 100,57,Ruby,1604206715000,3845610,pardouin,FR,60364063762936,
@@ -71,6 +71,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Ruby,1567946820000,1853956,yoannk,FR,108956788280248,
 100,75,Ruby,1643935303000,2924895,trictrac,FR,23056996012330,
 100,75,OCaml,1645490147000,2928146,LolCat,MU,22538133010433,
+100,75,Javascript,1645836047000,1654818,tarapitha,EE,79401682508715,
 100,76,Ruby,1569458150000,893541,wala,FR,97577641170180,
 100,76,Python3,1595378016000,2288263,dbdr,UA,43448306132121,
 100,77,Ruby,1567946820000,1193408,DoubleZeroSteph,FR,3015400557516,
@@ -122,7 +123,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,83,TypeScript,1627606956000,155774,dwarfie,FR,17785582865119,
 100,83,Ruby,1632270920000,1073247,_NikJ,RS,2509638482149,
 100,83,Python3,1639097249000,965650,abrl,FR,1847796010109,
-100,83,Javascript,1644629856000,1654818,tarapitha,EE,79401682508715,
 100,84,Bash,1567946818000,1001096,MyIIone,AT,4231449697357,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
 100,84,Python3,1567946818000,490905,lechium06_,PL,1716926865465,
@@ -512,6 +512,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Ruby,1635123704000,1579042,Hulous,FR,72120208833937,
 100,122,Python3,1640655403000,1781541,Schwase,,,
 100,122,Javascript,1645490146000,1966108,Thorolf,FR,69421785031320,
+100,122,Python3,1645836050000,4489122,c0r3dump,FR,77956766480782,
 100,123,Javascript,1567946817000,942271,flop,FR,11864302802887,
 100,123,Javascript,1567946817000,2054567,hs,FR,,
 100,123,ObjectiveC,1594781455000,1436776,BrainSolver,FR,10099178983053,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Javascript,1625446087000,4124054,JoshuaRC02,US,57287523607434,
 100,156,Haskell,1627174071000,709490,Sinlepuissant,FR,2102604527472,
 100,156,Python3,1634258224000,4526264,cly,FR,,
-100,156,Javascript,1639789653000,3035070,Ipso,FR,25682160338718,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=162|time=2022-02-26T00:40:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=162|time=2022-02-27T00:41:21
 100,113,Swift,1637714161000,1399382,Regulus136,FR,4335723819637,
 100,122,Swift,1627260457000,3354337,StraumliPerversion,CX,79146641399080,
 100,142,Swift,1596242452000,1540394,LVdA,FR,14731262429844,
@@ -20,6 +20,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,210,Swift,1571704859000,2997884,Zollerboy1,DE,,
 100,211,Swift,1598810513000,3942955,dudio_nl,NL,48907049568996,
 100,214,Swift,1604969272000,2425803,Lancelotbronner,CA,53006868760793,
+100,219,Swift,1645922481000,1654818,tarapitha,EE,79401682508715,
 100,223,Swift,1615604504000,3509955,pchBdx,FR,,
 100,225,Swift,1606438667000,959402,gmessier,CA,5578050562091,
 100,230,Swift,1596415472000,862919,Astrobytes,GB,60413902297900,
@@ -86,7 +87,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,224,Swift,1567946825000,1760575,Krusaid,FR,9994040453783,
 0,232,Swift,1567946825000,1323814,Wildcat-SC,FR,70979840035465,
 0,237,Swift,1567946825000,1352470,CarstenPaul,DE,,
-0,238,Swift,1567946825000,1654818,tarapitha,EE,79401682508715,
 0,241,Swift,1567946825000,2786666,TetraktysPhi,FR,20818693590142,
 0,245,Swift,1567946825000,1688142,GregoryM,UA,,
 0,255,Swift,1567946825000,1140027,theBee,CZ,10678217899980,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=34311|time=2022-02-28T00:30:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=34320|time=2022-03-01T00:30:46
 100,41,Bash,1640825375000,1483723,d-s-x,RU,4980051025170,
 100,45,Ruby,1639097258000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,45,ObjectiveC,1639962230000,1483723,d-s-x,RU,4980051025170,
@@ -611,6 +611,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,100,Scala,1641267323000,1483723,d-s-x,RU,4980051025170,
 100,100,Javascript,1641603279000,3431280,luukhf,NL,,
 100,100,Javascript,1645750040000,2371389,Franta,CZ,16642908084028,
+100,100,Groovy,1646094648000,2928146,LolCat,MU,22538133010433,
 100,101,Bash,1567946822000,1207116,n0vember,FR,,
 100,101,Perl,1567946823000,1582256,Pedro69,PL,,
 100,101,Javascript,1567946825000,1675279,ArnaudBarre,FR,25662301088049,
@@ -696,7 +697,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,102,Javascript,1642900260000,4672487,inem,RU,75989745808206,
 100,102,Python3,1643329848000,3504879,SRobot,DE,34805684802838,
 100,102,Javascript,1644367248000,1132126,BobySait,FR,70936663668585,
-100,102,Groovy,1645922481000,2928146,LolCat,MU,22538133010433,
 100,103,Perl,1567946823000,1518504,bohuss,SK,5792284370171,
 100,103,Perl,1567946823000,1548666,goblin,PL,6759806456781,
 100,103,Javascript,1567946825000,2109511,taquion,MX,13694693506047,
@@ -812,6 +812,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Python3,1632184463000,4471510,TimothyAlexisVass,SE,90632500258664,
 100,106,Javascript,1634604486000,4333899,Handala,MA,64294200000829,
 100,106,C,1637714162000,1399382,Regulus136,FR,4335723819637,
+100,106,Python3,1646094650000,4766088,A.N.,,,
 100,107,Bash,1567946822000,1654458,thirstycrow,CN,9438887574270,
 100,107,Javascript,1567946825000,1022699,Baptistin,CH,8150635789753,
 100,107,Javascript,1567946825000,1703408,GHajba,HU,110156506384802,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1569803430000,1865499,genevieve,CA,33756861970371,
 100,109,Python3,1574383137000,2908736,Drimea,FR,22641862982003,
 100,109,Javascript,1582159728000,2298871,jesuisdev.net,FR,96460709785072,
-100,109,Python3,1583957398000,870040,Tuteurtwo,FR,13332465660327,

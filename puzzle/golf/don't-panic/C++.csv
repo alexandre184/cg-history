@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1232|time=2022-03-01T00:30:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1233|time=2022-03-02T00:30:39
 100,79,C++,1567946819000,2288263,dbdr,UA,43448306132121,
 100,80,C++,1643243818000,4341304,Remi.,FR,97662026388574,
 100,83,C++,1624329574000,3845610,pardouin,FR,60364063762936,
@@ -121,6 +121,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,C++,1639876417000,2255945,PoppyTrail,FR,15571421861051,
 100,199,C++,1641603276000,1243354,RSBat,RU,59202364608114,
 100,199,C++,1643935299000,4664816,lexx_it,DE,,
+100,199,C++,1646181039000,3516345,Jp82,FR,63600965075245,
 100,200,C++,1598315430000,1880319,WildSmilodon,SI,11419736983376,
 100,200,C++,1598810509000,1644437,SurfDog,GB,8847615333071,
 100,200,C++,1613616162000,3959384,DamienCarreau,FR,58945303465785,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,3020,C++,1613962178000,3754358,Maxordd,DE,50822785044460,
 100,3041,C++,1567946819000,952265,Nacho,AR,,
 100,3065,C++,1567946819000,231653,kappy,FR,,
-100,3105,C++,1567946819000,1096063,Jeremsan,FR,,

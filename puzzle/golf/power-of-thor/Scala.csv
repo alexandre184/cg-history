@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=257|time=2022-03-04T00:32:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=256|time=2022-03-05T01:16:11
 100,100,Scala,1641267323000,1483723,d-s-x,RU,4980051025170,
 100,158,Scala,1643590460000,2874091,5DN1L,GB,79633423380001,
 100,173,Scala,1629592933000,3516345,Jp82,FR,63600965075245,
@@ -141,7 +141,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,230,Scala,1567946824000,1184160,SergeyOnenko,UA,3348356772603,
 0,231,Scala,1567946824000,493596,Magnus,FR,9852380374127,
 0,232,Scala,1567946824000,1264381,Seil,FR,10647534068208,
-0,233,Scala,1567946824000,2043908,AntiSquid,,,
 0,236,Scala,1567946824000,1085601,Tenchi2xh,CH,2291282166721,
 0,238,Scala,1567946824000,230794,alpha_one_x86,FR,2166128477999,
 0,241,Scala,1567946824000,2153226,frehage,SE,68467069780164,

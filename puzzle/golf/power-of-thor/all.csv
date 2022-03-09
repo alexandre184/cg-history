@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=34363|time=2022-03-08T00:53:22
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=34371|time=2022-03-09T00:37:41
 100,41,Bash,1640825375000,1483723,d-s-x,RU,4980051025170,
 100,45,Ruby,1639097258000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,45,ObjectiveC,1639962230000,1483723,d-s-x,RU,4980051025170,
@@ -193,6 +193,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,84,C,1644712591000,1654818,tarapitha,EE,79401682508715,
 100,84,Python3,1645058013000,2350415,Vintarel,FR,17502555674515,
 100,84,Ruby,1645490154000,2625928,.Leonard,NL,72585303017432,
+100,84,Python3,1646786265000,4774584,Madara-Uchiha,US,79810249996716,
 100,85,Python3,1628123520000,762642,Wonyoung,KR,4963742317694,
 100,85,Ruby,1628643501000,4396362,oxydowe,,,
 100,85,Javascript,1632529838000,233627,SlipOne,HU,4994821803578,
@@ -820,6 +821,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Python3,1632184463000,4471510,TimothyAlexisVass,SE,90632500258664,
 100,106,Javascript,1634604486000,4333899,Handala,MA,64294200000829,
 100,106,C,1637714162000,1399382,Regulus136,FR,4335723819637,
+100,106,Python3,1646786265000,3699585,Viande,FR,64598749687884,
 100,107,Bash,1567946822000,1654458,thirstycrow,CN,9438887574270,
 100,107,Javascript,1567946825000,1022699,Baptistin,CH,8150635789753,
 100,107,Javascript,1567946825000,1703408,GHajba,HU,110156506384802,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Python3,1567946825000,3366188,SteveWhite,AU,103448562571878,
 100,109,Python3,1567946825000,491426,Zexion,FR,6917924166789,
 100,109,Python3,1567946825000,1782970,chante42,FR,10308514563841,
-100,109,Python3,1567946825000,153021,cyrilj,FR,7224152573502,
-100,109,Python3,1567946825000,394667,elvers,DE,,

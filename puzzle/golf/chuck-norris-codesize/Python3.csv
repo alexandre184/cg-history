@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2354|time=2022-03-08T00:53:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2357|time=2022-03-09T00:37:54
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -243,6 +243,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,110,Python3,1629247929000,1569273,AnEsotericMan,US,63533086583271,
 100,110,Python3,1639097266000,4484234,PolentaEater,IT,73425564241166,
 100,110,Python3,1646181054000,4733485,,FR,,
+100,110,Python3,1646786274000,3699585,Viande,FR,64598749687884,
 100,111,Python3,1567946837000,1501735,bernardlavilliers,FR,5631174858583,
 100,111,Python3,1583023773000,1436776,BrainSolver,FR,10099178983053,
 100,111,Python3,1586048266000,2006009,hugolmn,FR,,
@@ -638,6 +639,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,135,Python3,1635468991000,1030944,Shadowar,FR,70680964831867,
 100,135,Python3,1636591243000,4142783,super_surviveur,FR,64015565706210,
 100,135,Python3,1645578079000,1482293,Benejies,FR,58785140530131,
+100,135,Python3,1646786274000,1785015,mabouya,FR,10358581763586,
 100,136,Python3,1567946837000,2405694,JeanVonVarr,FR,,
 100,136,Python3,1567946837000,1803865,olinox14,FR,10567248069605,
 100,136,Python3,1567946837000,3201898,rlukin,RU,25443647832500,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,156,Python3,1612235877000,3428333,Nenad.Vukojevic,RS,69458780244502,
 100,156,Python3,1612414270000,3376384,esteban616,CU,29892445962458,
 100,156,Python3,1615085000000,1174653,FilterFailure,FR,2881805091335,
-100,156,Python3,1620614111000,3812278,MouadSadki,FR,94875103446752,
-100,156,Python3,1624753847000,2681510,Stadial,FR,,

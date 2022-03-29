@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1028|time=2022-03-28T00:30:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1028|time=2022-03-29T00:30:52
 100,33,Ruby,1583461914000,1537792,AsaiYusuke,US,41785380851985,
 100,33,Ruby,1586393335000,334009,abouvier,FR,4681436111242,
 100,34,Ruby,1639614646000,1483723,d-s-x,RU,4980051025170,
@@ -56,6 +56,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,47,Ruby,1639529846000,4622964,Haradwaith,FR,,
 100,47,Ruby,1648254651000,3598201,LiudasStaniulis,LT,58937704207171,
 100,47,Ruby,1648254651000,3657275,jujurocking,FR,,
+100,47,Ruby,1648513852000,3514975,Phurinat,TH,97597367576293,
 100,48,Ruby,1567946833000,2067176,0bug,FR,13297732398460,
 100,48,Ruby,1567946833000,733335,DJNour,CA,3633921896361,
 100,48,Ruby,1567946833000,1671658,Kirbiby,FR,28998644710449,
@@ -87,7 +88,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,48,Ruby,1638061721000,4037601,Jelafo,DE,,
 100,48,Ruby,1639962238000,893541,wala,FR,97577641170180,
 100,48,Ruby,1645578075000,1865617,StepanSmirnov,RU,43620222104393,
-100,48,Ruby,1646008248000,3514975,Phurinat,TH,97597367576293,
 100,49,Ruby,1567946833000,1425410,AgentJam,UG,12252841405616,
 100,49,Ruby,1567946833000,1739595,Bemethor,FR,56657523489584,
 100,49,Ruby,1567946833000,333934,CrazyMerlyn,IE,20045015439951,

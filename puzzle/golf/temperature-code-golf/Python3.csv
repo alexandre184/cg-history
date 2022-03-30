@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6249|time=2022-03-29T00:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6251|time=2022-03-30T00:41:02
 100,53,Python3,1623984129000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,54,Python3,1640393894000,1483723,d-s-x,RU,4980051025170,
@@ -70,6 +70,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1648254649000,3740974,TomFox,FR,79445245128716,
 100,59,Python3,1648513851000,792813,VilBoub,FR,72010225615995,
 100,59,Python3,1648513851000,4562865,VilBoub_junior,FR,78457301755434,
+100,59,Python3,1648600862000,3230794,tutubalin,RU,25714480415254,
 100,60,Python3,1567946832000,2458197,Stack_of_Pancakes,US,17063542094647,
 100,60,Python3,1607995153000,1399382,Regulus136,FR,4335723819637,
 100,60,Python3,1614825067000,806416,awnion,RS,59791745647170,
@@ -526,6 +527,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,70,Python3,1640219636000,3561474,Blokops,MX,37684462080100,
 100,70,Python3,1642638648000,4694243,kr8gz,AT,76866005670685,
 100,70,Python3,1644885768000,2929792,caragane,FR,,
+100,70,Python3,1648600862000,1839941,Just4FunCoder,MY,80969549924201,
 100,71,Python3,1567946832000,1542006,1764,FR,26008321503940,
 100,71,Python3,1567946832000,1857171,AdamB,PL,11687390029916,
 100,71,Python3,1567946832000,1022925,Adrien.,FR,17725389981317,
@@ -646,7 +648,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,72,Python3,1608167607000,4102840,professoryana,NL,,
 100,72,Python3,1611974665000,2340294,deviluc,DE,15818944269214,
 100,72,Python3,1612492777000,3962693,Kamoun,TN,,
-100,72,Python3,1615516534000,3230794,tutubalin,RU,25714480415254,
 100,72,Python3,1617938021000,1883740,kermo,FR,37540400644388,
 100,72,Python3,1618284762000,759147,kisszots,HU,57262007331411,
 100,72,Python3,1618367471000,4034494,GTaf,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,76,Python3,1567946832000,860680,neurotik,CA,,
 100,76,Python3,1567946832000,2620504,salixor,FR,29343324867954,
 100,76,Python3,1567946832000,867995,sethorizer,DE,12304128378208,
-100,76,Python3,1567946832000,625098,vmontagn,FR,5910662612806,

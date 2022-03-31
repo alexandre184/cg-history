@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21179|time=2022-03-30T00:41:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21189|time=2022-03-31T00:30:54
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -846,6 +846,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1648513851000,792813,VilBoub,FR,72010225615995,
 100,59,Python3,1648513851000,4562865,VilBoub_junior,FR,78457301755434,
 100,59,Python3,1648600862000,3230794,tutubalin,RU,25714480415254,
+100,59,Python3,1648686654000,3847872,Gaspar-Cdv,FR,45599449537807,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -941,6 +942,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Python3,1648254649000,3536920,mapapin,FR,52717604735830,
 100,60,TypeScript,1648341606000,2928146,LolCat,MU,22538133010433,
 100,60,Python3,1648513851000,4562863,Benoit-Mussolin,FR,82385326058954,
+100,60,Javascript,1648686658000,981878,nicolasD,FR,22576267267565,
 100,61,Javascript,1567946828000,1906719,ArpadDravecz,HU,11710900308045,
 100,61,Javascript,1567946828000,155887,BanBan,FR,8230051407070,
 100,61,Javascript,1567946828000,482445,BogdanSavchenko,UA,9319024256259,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1603334271000,3917749,l3l,,,
 100,61,Ruby,1604711081000,3962136,l4hg,US,49677525397562,
 100,61,Javascript,1606783908000,2220824,Aerodactylus,FR,54336008500576,
-100,61,Javascript,1606783908000,1348600,erodataM,FR,15560295582514,
-100,61,Javascript,1607131079000,2635907,lopidav,UA,18844623817442,

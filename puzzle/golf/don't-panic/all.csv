@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10788|time=2022-04-05T00:44:55
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10792|time=2022-04-06T00:30:40
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,56,Bash,1648946762000,2928146,LolCat,MU,22538133010433,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -730,6 +730,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,135,Javascript,1633740382000,2998967,Gilde,FR,62190109872577,
 100,135,VB.NET,1635901507000,3380184,chouch,FR,,
 100,135,Ruby,1648254633000,4716095,MichMich31,FR,78647228592436,
+100,135,Python3,1649205039000,4756200,tueda,JP,,
 100,136,Javascript,1567946817000,1677918,CA,FR,8341569165435,
 100,136,Javascript,1567946817000,1937628,Elom,FR,12220589050170,
 100,136,Javascript,1567946817000,1113073,IvoRocha,PT,2521937558460,
@@ -750,6 +751,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Javascript,1639962228000,1205108,jval,KZ,73581028678836,
 100,136,Python3,1641171147000,3625469,Crimson_King,TR,56016089557697,
 100,136,Bash,1645750035000,792813,VilBoub,FR,72010225615995,
+100,136,Python3,1649205039000,3975966,HoussemHach,FR,50403921474202,
 100,137,Javascript,1567946817000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Ruby,1628470036000,4124688,Murat_Eroglu,TR,91676687994670,
 100,155,Python3,1634258224000,1178401,mizzHuarta,FR,,
 100,155,Python3,1642206638000,3046779,Kathrin,DE,23869551387688,
-100,155,Lua,1644972460000,3532429,Skyf0l,FR,67386567920151,
-100,155,Ruby,1648513838000,1802967,Meruem,FR,31992166318610,

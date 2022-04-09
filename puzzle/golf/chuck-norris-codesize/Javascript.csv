@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=901|time=2022-04-08T00:30:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=902|time=2022-04-09T00:46:43
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -519,6 +519,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,206,Javascript,1606352055000,4075735,caldrjir,CZ,,
 100,206,Javascript,1626224916000,4425484,movrax,US,67553021096171,
 100,206,Javascript,1642725748000,3898747,MABCKRY,FR,75752924659195,
+100,206,Javascript,1649465203000,3305510,TBali,HU,26750785092441,
 100,207,Javascript,1580171442000,3220562,alex_cbt,FR,47632462605578,
 100,207,Javascript,1592443212000,770524,Baart,FR,35575321308685,
 100,207,Javascript,1597365048000,3909948,thenchained,IN,47182386842122,
@@ -578,7 +579,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,228,Javascript,1625966038000,4011633,1gui2gui,FR,63713502471679,
 100,230,Javascript,1582074236000,371603,martin,CA,1761380964089,
 100,230,Javascript,1597365048000,3869618,tsds,RU,46148249699201,
-100,230,Javascript,1604797980000,3305510,TBali,HU,26750785092441,
 100,231,Javascript,1581467449000,1218719,BLUB,DE,,
 100,231,Javascript,1621824486000,4289256,Rick_C-137,CU,63863620275112,
 100,231,Javascript,1646872400000,1473079,Zylar,US,4875610554885,
@@ -626,6 +626,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,257,Javascript,1567946837000,1371420,FerrusDude,US,15695581430629,
 100,257,Javascript,1576456385000,3151486,rhunders,BE,25017853220330,
 100,258,Javascript,1567946837000,3290425,CBTyrone,CA,27188488117612,
+100,258,Javascript,1649465203000,887839,K420U,FR,,
 100,259,Javascript,1611632871000,4142862,mkhstar,TR,57646584713911,
 100,259,Javascript,1620448268000,1559680,MartinIsaksson,SE,6695415432167,
 100,260,Javascript,1629851776000,1522266,Sliya,FR,5644669981232,

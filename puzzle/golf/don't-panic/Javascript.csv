@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1499|time=2022-04-11T00:37:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1499|time=2022-04-12T00:30:30
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -625,7 +625,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Javascript,1603161740000,1848459,Velcoro,CZ,48538649860014,
 100,198,Javascript,1605144560000,304126,kami,FR,10057081063920,
 100,198,Javascript,1606528147000,4041267,Looney1300,US,52852249934671,
-100,198,Javascript,1607393929000,4058636,HMMD,MA,82997865263742,
+100,198,Javascript,1607393929000,4058636,HDev_BG,MA,82997865263742,
 100,198,Javascript,1618022077000,3335896,_martynas,LT,92914406769053,
 100,198,Javascript,1644367243000,3603097,lanathlor,FR,78227308371575,
 100,199,Javascript,1567946817000,221573,TiTi,FR,63573243211328,
@@ -872,6 +872,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,252,Javascript,1567946817000,1003478,yavshush,BR,,
 100,252,Javascript,1623810641000,2322241,coca44,FR,,
 100,252,Javascript,1636159178000,4483097,Manerr,FR,91857486302123,
+100,252,Javascript,1649723430000,3044029,GuerillaOynx,US,23778587292891,
 100,253,Javascript,1567946817000,1470284,,PT,,
 100,255,Javascript,1649551050000,2139722,AHD267,FR,14128293918441,
 100,256,Javascript,1635986015000,3953686,psparsa,DE,106340627389209,
@@ -884,7 +885,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,261,Javascript,1567946817000,464971,PsyGuy66,IT,1723613063820,
 100,261,Javascript,1567946817000,1120615,kubajz,CZ,2541913303833,
 100,261,Javascript,1567946817000,1017388,lavavrik,UA,3751242082505,
-100,261,Javascript,1649465188000,3044029,GuerillaOynx,US,23778587292891,
 100,262,Javascript,1567946817000,783215,AndreiS,IE,8509796396185,
 100,262,Javascript,1567946817000,1085087,SonosGaming,DE,2308630673449,
 100,263,Javascript,1567946817000,819300,Chipsondulee,FR,4606143625841,

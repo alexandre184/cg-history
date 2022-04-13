@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=903|time=2022-04-12T00:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=904|time=2022-04-13T01:00:58
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -214,6 +214,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,152,Javascript,1637887791000,4559916,Karne,FR,71854946860727,
 100,152,Javascript,1643761854000,893541,wala,FR,97577641170180,
 100,152,Javascript,1644541338000,4447703,J[]HN_WICK,IN,68243785179909,
+100,152,Javascript,1649811658000,1475413,AlucardDH,FR,4898493641535,
 100,153,Javascript,1567946837000,1316505,blader0x,IT,4215851911963,
 100,153,Javascript,1567946837000,964169,ivanoff.org.ua,UA,1877756495782,
 100,153,Javascript,1591317043000,3771692,obstinado,RU,43684328133957,
@@ -223,7 +224,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1621996724000,4300969,thomasgonda3,US,63048681225268,
 100,153,Javascript,1628988262000,4450116,,FR,,
 100,153,Javascript,1634518046000,3533314,skotz,US,97334021748803,
-100,153,Javascript,1638491797000,1475413,AlucardDH,FR,4898493641535,
 100,154,Javascript,1572395744000,1383959,ebriand,FR,4078625698623,
 100,154,Javascript,1603507647000,2708267,XyoloJR,FR,52279543518143,
 100,154,Javascript,1617071454000,1019883,Pedromdrp,PT,2315578082196,
@@ -631,6 +631,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,259,Javascript,1620448268000,1559680,MartinIsaksson,SE,6695415432167,
 100,260,Javascript,1629851776000,1522266,Sliya,FR,5644669981232,
 100,260,Javascript,1641357411000,4471038,nguyen.lam,FR,69117605615692,
+100,260,Javascript,1649811658000,4587710,Smetalka,HR,,
 100,261,Javascript,1599878390000,2048763,Mickev,FR,48745204870870,
 100,261,Javascript,1604624206000,4038849,Ezi_Djess,FR,,
 100,262,Javascript,1569285045000,2646776,EliseFe,FR,,

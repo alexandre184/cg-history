@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7785|time=2022-04-14T00:30:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=7793|time=2022-04-15T00:30:40
 100,51,Python3,1648254644000,2928146,LolCat,MU,22538133010433,
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,59,Python3,1641357393000,1483723,d-s-x,RU,4980051025170,
@@ -88,7 +88,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,83,Python3,1644885756000,4617216,Sigizmund,RU,,
 100,83,Python3,1645058013000,4044949,Exanc,FR,75434945111960,
 100,83,Python3,1645750042000,4619569,moustave,FR,85343827289252,
-100,83,Python3,1648254644000,4562863,Benoit-Summ,FR,82385326058954,
+100,83,Python3,1648254644000,4562863,Benoit-Simunsol,FR,82385326058954,
 100,83,Python3,1649637458000,2629686,krutovsky,RU,63687047025682,
 100,84,Python3,1624069856000,1759839,matleg,FR,27938585309756,
 100,84,Python3,1628817350000,1186250,Gabbek,PL,3084076624888,
@@ -658,6 +658,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Python3,1646008237000,3184049,ghhttt,FR,,
 100,116,Python3,1647131442000,4717726,[Nexure],FR,81506465307341,
 100,116,Python3,1649032256000,4661927,SatchShred,FR,75978160742943,
+100,116,Python3,1649982640000,4819360,Vemore,FR,81946801511782,
+100,116,Python3,1649982640000,3156387,voxelbugged,PL,81569682333645,
 100,117,Python3,1567946825000,1841051,0xbeefed,GB,17119043174583,
 100,117,Python3,1567946825000,807958,AaronTwitchell,US,,
 100,117,Python3,1567946825000,3307612,Apparhum,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,127,Python3,1606957961000,4078395,KevinDaniel-S,MX,54851304817204,
 100,127,Python3,1607219866000,3506877,Hejer,FR,34939848976678,
 100,127,Python3,1615172781000,3122323,alecsey,RU,,
-100,127,Python3,1619756591000,4193469,yannick-t,DE,62651080430734,
-100,127,Python3,1627260454000,4390912,Benoit_Belasco,FR,66164966281827,

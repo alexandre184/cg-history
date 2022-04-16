@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=5989|time=2022-04-15T00:30:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=5994|time=2022-04-16T00:31:10
 100,2759,C#,1584752293000,1301401,Stanax,FR,44495484097566,
 100,2761,C++,1584583284000,1833680,jvivenot,FR,10877987072863,
 100,2765,Rust,1577410189000,2288263,dbdr,UA,43448306132121,
@@ -746,6 +746,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5736,Rust,1603938990000,2438065,iter,FI,60213703884300,
 100,5739,C++,1567946813000,971137,Burlinn,HU,1891491664713,
 100,5739,Python3,1567946813000,1232188,Sylven,AT,10866218049042,
+100,5740,Java,1650069070000,1492668,MatthieuC,FR,5314647083029,
 100,5743,Kotlin,1609029025000,4090664,sikr_,CZ,55459762759102,
 100,5743,C++,1611552792000,1549145,Mealc,SI,,
 100,5745,Python3,1623466555000,2576701,LustOne,RU,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5870,Javascript,1588208123000,3188551,ashelkov,UA,43167721570733,
 100,5871,C++,1567946813000,1583455,phyzen,SG,6464126040319,
 100,5871,Java,1567946813000,867983,Matze0815,DE,82629009254280,
-100,5871,Python3,1567946813000,2671038,1one,RU,19327450927528,

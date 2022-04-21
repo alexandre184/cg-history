@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21431|time=2022-04-20T00:53:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21441|time=2022-04-21T01:16:18
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -755,6 +755,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,57,Perl,1646786270000,3699585,Viande,FR,64598749687884,
 100,57,Bash,1647131449000,4420742,Mortis_666,MY,99045346596822,
 100,57,Python3,1649291562000,153965,[CG]Keelhaul,FR,4367050238110,
+100,57,Javascript,1650503777000,4420742,Mortis_666,MY,99045346596822,
 100,58,Perl,1567946831000,1596751,RatTub,CA,6722861257385,
 100,58,Perl,1567946831000,1464932,Tiramon,DE,12287237914571,
 100,58,Perl,1567946831000,1548666,goblin,PL,6759806456781,
@@ -859,6 +860,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1648513851000,4562865,VilBoub_junior,FR,78457301755434,
 100,59,Python3,1648600862000,3230794,tutubalin,RU,25714480415254,
 100,59,Python3,1648686654000,3847872,Gaspar-Cdv,FR,45599449537807,
+100,59,Python3,1650503772000,662291,koscrob,HU,82067989677560,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1576631482000,1845617,Shingy,AU,26010702723839,
 100,61,Javascript,1577153090000,1316505,blader0x,IT,4215851911963,
 100,61,Javascript,1579482007000,2741162,YannT,FR,20321741697135,
-100,61,Javascript,1583542932000,2622559,Gripnil,FR,19024435956137,
-100,61,Javascript,1584493480000,2662861,GwenaelK,FR,24501576282344,

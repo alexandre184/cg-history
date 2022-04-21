@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2586|time=2022-04-20T00:52:45
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2586|time=2022-04-21T01:15:42
 5,34.76,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.06,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.55,C++,,4015887,1500515,eulerscheZahl,DE,43135502422075,
@@ -903,6 +903,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.39,C,,749641,1620096,InvisibleUSA,DE,,
 1,23.38,C++,,906113,754792,Ramdeath,LT,13430148307311,
 1,23.38,VB.NET,,576247,1476242,Txiwi,ES,5036284664644,
+1,23.37,Python3,,601257,154937,[CG]BOUGA,FR,1884036222374,
 1,23.36,Python3,,1122658,162982,Dami-e,MA,1957175104038,
 1,23.36,C++,,1110328,1866525,charMlessMan,BE,,
 1,23.35,Java,,1295886,1304340,AntoineLatour,FR,,
@@ -917,7 +918,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.33,Javascript,,625811,1494618,Lune,FR,5430953847195,
 1,23.33,C,,2267027,3143143,TripleCrown,JP,24793026178088,
 1,23.33,Python3,,648167,1505744,KEKW,FR,90783069225130,
-1,23.32,Python3,,601257,154937,[CG]BOUGA,FR,1884036222374,
 1,23.32,C,,493173,614489,Nazoum81,FR,1733762647042,
 1,23.32,Javascript,,1218353,1537927,thecavemanlogic,US,,
 1,23.32,PHP,,493584,1014924,TommyP,PT,,
@@ -990,6 +990,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.16,C++,,484310,1443075,Wolfy82,HU,4574349418639,
 1,23.16,Python3,,502717,215395,Enknable,CA,14488393339187,
 1,23.16,Python3,,505383,1439371,Irnakk,RU,53608248410234,
+1,23.16,Java,,566928,1477937,koeki13,CH,4984927473266,
 1,23.15,OCaml,,3485184,3938495,o11s,NZ,52644949220387,
 1,23.15,Lua,,1468455,2187656,RanXerox,US,14431414813461,
 1,23.14,Pascal,,493651,1202744,KILLogic,NL,3013778791439,
@@ -998,4 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.13,Javascript,,1277203,1306289,Jasperr,NL,56014127626531,
 1,23.13,C#,,493848,433065,Knafle,AR,,
 1,23.13,C#,,875277,1361326,8],US,7053865345385,
-1,23.12,C++,,1428550,2133806,Thechrist,FR,68724120035078,

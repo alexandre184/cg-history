@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21524|time=2022-04-29T00:43:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21538|time=2022-04-30T00:41:57
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -373,6 +373,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,50,Ruby,1642301831000,4685008,DialFrost,SG,76560783280922,
 100,50,Ruby,1645663464000,3899502,JustCarpinThemDiems,DE,95968402830109,
 100,50,Ruby,1648254651000,3523247,alexcercos,ES,36269364412881,
+100,50,Ruby,1651279319000,3574858,lolTempest,US,37060160598798,
 100,51,Bash,1567946829000,1001096,MyIIone,AT,4231449697357,
 100,51,Perl,1567946831000,1277327,Asher,IL,4012484871915,
 100,51,Perl,1567946831000,482445,BogdanSavchenko,UA,9319024256259,
@@ -863,6 +864,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1648513851000,4562865,VilBoub_junior,FR,78457301755434,
 100,59,Python3,1648600862000,3230794,tutubalin,RU,25714480415254,
 100,59,Python3,1648686654000,3847872,Gaspar-Cdv,FR,45599449537807,
+100,59,Python3,1651279320000,2865154,idungoofed,US,58666347140388,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Ruby,1567946833000,2006629,a_muraka,JP,32270346385407,
 100,61,Ruby,1567946833000,2165068,caerbannog,IT,15006406258666,
 100,61,Ruby,1567946833000,1648598,long-long-float,JP,7755067359828,
-100,61,Ruby,1569803436000,1473017,justhalf,SG,5020626234049,
-100,61,Javascript,1573779516000,224676,Jin66,FR,10914664960606,

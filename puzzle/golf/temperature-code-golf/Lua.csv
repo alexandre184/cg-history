@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2022-04-29T00:43:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2022-04-30T00:41:57
 100,45,Lua,1586393333000,334009,abouvier,FR,4681436111242,
 100,47,Lua,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,55,Lua,1617849287000,1654818,tarapitha,EE,79401682508715,
@@ -40,6 +40,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Lua,1621650984000,3571964,GoateSo2,US,64563660899331,
 100,134,Lua,1567946829000,2043502,Acodon,GB,68688668576263,
 100,134,Lua,1567946829000,1495642,AtomCrafty,DE,5134929486180,
+100,140,Lua,1651279317000,4159245,Karhuttaja,FI,58154388049573,
 100,141,Lua,1567946829000,418633,Ygrex,RU,36499365432872,
 100,142,Lua,1616641275000,4008812,Michael_48,US,68997902604163,
 100,145,Lua,1581815581000,2490008,ebicochineal,JP,43936521576530,
@@ -128,7 +129,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,97,Lua,1605838414000,2889053,anderium,NL,97207001907945,
 0,113,Lua,1567946829000,1631414,JanGabrielsson,SE,8198653491151,
 0,118,Lua,1608167612000,2605855,logiqub,FR,18528263791679,
-0,124,Lua,1611801754000,4159245,Karhuttaja,FI,58154388049573,
 0,154,Lua,1567946829000,1464932,Tiramon,DE,12287237914571,
 0,202,Lua,1610082032000,4124083,u_know_not,PH,,
 0,449,Lua,1632358359000,4524361,Coco35000,FR,,

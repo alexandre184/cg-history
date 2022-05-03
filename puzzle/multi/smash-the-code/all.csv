@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2590|time=2022-05-02T01:03:37
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2591|time=2022-05-03T00:30:24
 5,34.77,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.08,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.35,C++,,4015887,1500515,eulerscheZahl,DE,43135502422075,
@@ -874,7 +874,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.54,C#,,573090,859508,ger0000,HU,,
 1,23.5,Java,,628910,359746,Shoohei,FR,1976981425507,
 1,23.5,PHP,,805634,1508772,LeadFarmer,GB,,
-1,23.49,C#,,4074822,4843636,Glace_Ecarlate,FR,82369882169030,
 1,23.49,C#,,735117,1559074,Meilby,NO,,
 1,23.48,VB.NET,,2194001,3028864,lorcQc,CA,,
 1,23.48,Java,,500812,390965,Aikyos,FR,11358910482676,
@@ -951,8 +950,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.24,Python3,,493497,1455173,DrSpock,NL,4677392520182,
 1,23.24,Python3,,936212,1517028,Nicau,FR,8848906617685,
 1,23.23,Javascript,,672424,889640,Kaljuk,EE,15473756993353,
+1,23.23,C#,,4074822,4843636,Glace_Ecarlate,FR,82369882169030,
 1,23.23,C#,,610550,1502298,skargg,GB,,
 1,23.23,C,,582671,1492574,zc,SE,,
+1,23.22,C#,,896454,1251131,ma81xx,IT,9638700030976,
 1,23.22,Python3,,2622382,3101644,HerrHagner,DE,39056126752805,
 1,23.22,C#,,962800,1385626,Wabash9000,US,4206137522309,
 1,23.22,Java,,576535,1195663,TimberLefief,BE,81896889572439,
@@ -970,7 +971,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.2,Javascript,,722158,1604839,Smeletz,PL,6905310140527,
 1,23.2,C++,,512500,1470835,Fsk,FR,6948560874163,
 1,23.2,C#,,897004,1690967,protone911,IT,,
-1,23.19,C#,,896454,1251131,ma81xx,IT,9638700030976,
 1,23.19,C++,,3433898,1557154,BigToeMan,PL,58492267910206,
 1,23.19,C++,,551752,1478742,Archimist,FR,,
 1,23.18,Python3,,482080,855824,VoxMortem,FR,5525991865489,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21565|time=2022-05-03T00:30:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=21576|time=2022-05-04T00:38:14
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
@@ -551,6 +551,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,54,Ruby,1567946833000,931062,Blue007422,FR,19488300723227,
 100,54,Ruby,1567946833000,875453,Chapel,FR,9636408345593,
 100,54,Ruby,1567946833000,1120964,DeltaEvo,FR,53458964321716,
+100,54,Ruby,1567946833000,2006324,Djangonaut,MA,75224840468195,
 100,54,Ruby,1567946833000,988113,ExtremeBrise,FR,,
 100,54,Ruby,1567946833000,2106931,FanDongsheng,CN,,
 100,54,Ruby,1567946833000,1856796,Farls,ES,11609180315449,
@@ -563,7 +564,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,54,Ruby,1567946833000,1802013,MarcoScheel,DE,,
 100,54,Ruby,1567946833000,1618260,MarkTellez,MX,9988259653447,
 100,54,Ruby,1567946833000,2242201,Maryan,UA,33999460575859,
-100,54,Ruby,1567946833000,2006324,Oussama_Siharde,MA,75224840468195,
 100,54,Ruby,1567946833000,896285,Plox,FR,5446560562526,
 100,54,Ruby,1567946833000,930118,Regule,PL,104975282812423,
 100,54,Ruby,1567946833000,1013757,RikyM,IT,,
@@ -868,6 +868,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1648686654000,3847872,Gaspar-Cdv,FR,45599449537807,
 100,59,Python3,1651279320000,2865154,idungoofed,US,58666347140388,
 100,59,Ruby,1651537853000,4879161,kyuko_haboro,JP,,
+100,59,Ruby,1651624696000,4120837,philipplenk,DE,56924127061308,
 100,60,Javascript,1567946828000,2323725,GMartigny,FR,24456305576601,
 100,60,Javascript,1567946828000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,60,Javascript,1567946828000,1178276,Jerome_95,FR,19999067509724,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Ruby,1567946833000,2628790,AlexAmoureux,FR,,
 100,61,Ruby,1567946833000,939112,Doomer3D,RU,2040570094359,
 100,61,Ruby,1567946833000,282701,MarcelBrouette,FR,17869842723211,
-100,61,Ruby,1567946833000,2220348,Vlad_Yermakov,UA,,

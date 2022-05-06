@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=35169|time=2022-05-05T01:03:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=35185|time=2022-05-06T00:30:44
 100,41,Bash,1640825375000,1483723,d-s-x,RU,4980051025170,
 100,42,Ruby,1647131441000,2928146,LolCat,MU,22538133010433,
 100,42,Perl,1647131446000,2928146,LolCat,MU,22538133010433,
@@ -247,6 +247,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,86,Python3,1640133561000,4659362,TeaOwl,RU,75249045723780,
 100,86,Haskell,1647131443000,2928146,LolCat,MU,22538133010433,
 100,86,Python3,1649291570000,3776530,Insufficient,GB,43170924073821,
+100,86,Ruby,1651797046000,4756200,tueda,JP,,
 100,87,Python3,1567946825000,1502908,selujum,FR,,
 100,87,Bash,1607649872000,2422378,C2H5OH,UA,19226708700974,
 100,87,Bash,1627260455000,3354337,Westicles,CX,79146641399080,
@@ -521,6 +522,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,94,Javascript,1648600858000,1205108,jval,KZ,73581028678836,
 100,94,Python3,1650069086000,3980660,vdtdg,FR,95472365322912,
 100,94,Python3,1650588303000,4399761,Knowa,FR,,
+100,94,Python3,1651797049000,1839941,Just4FunCoder,MY,80969549924201,
 100,95,Perl,1567946823000,1702117,nullie,RU,,
 100,95,Javascript,1567946825000,1060181,Dabou,FR,3798025078627,
 100,95,Javascript,1567946825000,944576,Desmononox,NL,,
@@ -646,6 +648,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,C++,1644453180000,1654818,tarapitha,EE,79401682508715,
 100,99,Dart,1644885760000,4341304,Remi.,FR,97662026388574,
 100,99,Python3,1645750042000,4760910,asmind,FR,79302128004355,
+100,99,Python3,1651797049000,1264581,BenjiIsBack,FR,3923029907355,
 100,100,Javascript,1567946825000,1463005,goffreder,IT,4735465165069,
 100,100,Ruby,1567946826000,1613006,Genezys,FR,7316036854308,
 100,100,Ruby,1567946826000,663913,SandorHerms,DE,,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1567946825000,1895198,BobJohn,IN,,
 100,109,Javascript,1567946825000,482445,BogdanSavchenko,UA,9319024256259,
 100,109,Javascript,1567946825000,1576440,BrianReinhart,US,6379519163703,
-100,109,Javascript,1567946825000,1218188,Byamarro,PL,,
-100,109,Javascript,1567946825000,1354206,CustomBlackout,BE,3937075354234,
-100,109,Javascript,1567946825000,1168848,DPitt,FR,2789069920415,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4523|time=2022-05-06T00:30:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4526|time=2022-05-07T01:00:37
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1648341595000,2928146,LolCat,MU,22538133010433,
@@ -403,6 +403,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,115,Javascript,1604537330000,153964,Zanng,FR,,
 100,115,Javascript,1614569205000,3939102,Scaller,US,,
 100,115,Javascript,1651279310000,1939310,MasterOf_,PT,81080588549660,
+100,115,Javascript,1651885237000,4757245,Yanek,PL,82019885901405,
 100,116,Javascript,1567946825000,926549,Daraden,HU,,
 100,116,Javascript,1567946825000,2029767,Dyomba,RU,,
 100,116,Javascript,1567946825000,3216070,TaoJonesIndex,FR,25944702603911,
@@ -926,6 +927,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,139,Javascript,1648254643000,1895182,Jean_Francois_R,FR,,
 100,139,Javascript,1649119521000,4587710,Smetalka,HR,,
 100,139,Javascript,1649982637000,2575020,iDash,US,19404857844850,
+100,139,Javascript,1651885237000,1775696,MaciekTytko,PL,10371077285989,
 100,140,Javascript,1594946584000,397266,B4rbie,FR,13242984440332,
 100,140,Javascript,1594946584000,3308199,ChadThundercode,RU,26870541968187,
 100,140,Javascript,1594946584000,3838049,DreyCow,US,45311747119987,
@@ -995,7 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,142,Javascript,1606528152000,1393802,amzh,RU,81786846913810,
 100,142,Javascript,1614393352000,4199383,patrickwoldberg,NL,,
 100,142,Javascript,1622255740000,2990918,Dingodino,FR,23216166624189,
-100,142,Javascript,1623033062000,3985069,Oussama.M,MA,99196946008325,
 100,142,Javascript,1627089472000,1885745,CodeSprut,RU,25870000641177,
 100,142,Javascript,1627174073000,1109738,CodesandTags,CO,2444492054991,
-100,142,Javascript,1629592933000,2202771,Kaplone,FR,23792369424472,

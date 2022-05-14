@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10980|time=2022-05-13T00:51:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10994|time=2022-05-14T00:43:11
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,56,Bash,1648946762000,2928146,LolCat,MU,22538133010433,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -482,6 +482,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Ruby,1627777832000,4116084,grahamcracker1234,US,56223045071058,
 100,120,Python3,1634432747000,1152991,xoposhiy,RU,2894275932979,
 100,120,Python3,1645058008000,4044949,Exanc,FR,75434945111960,
+100,120,Ruby,1652488993000,4317574,juliendbg,FR,63667464886754,
 100,121,C,1567946816000,272290,Clement0635,FR,34413083523867,
 100,121,Javascript,1567946817000,1383636,atsikov,LV,8154551476699,
 100,121,Bash,1567946818000,1654458,thirstycrow,CN,9438887574270,
@@ -784,6 +785,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Python3,1649205039000,3975966,HoussemHach,FR,50403921474202,
 100,136,Python3,1651105839000,4870649,VictoriousTriceraton,UA,82820829158124,
 100,136,Python3,1651797042000,4887508,0xDEADC0DEh,GB,83455229086195,
+100,136,Bash,1652488991000,1788623,knarfw,FR,10389790303031,
 100,137,Javascript,1567946817000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Perl,1567946818000,153527,Amendil,FR,109704368263201,
 100,153,Perl,1567946818000,629655,Wolden-Dans,FR,3653109390599,
 100,153,Python3,1567946818000,2510531,Jamproject,FR,19194665531844,
-100,153,Ruby,1567946820000,992329,BeeGee,NL,5817423526804,
-100,153,Ruby,1567946820000,1638833,patrickk,NL,,

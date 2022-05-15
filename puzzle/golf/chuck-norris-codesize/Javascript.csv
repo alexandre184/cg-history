@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=932|time=2022-05-14T00:43:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=933|time=2022-05-15T00:41:06
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -275,6 +275,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,157,Javascript,1630024275000,1236024,xspeedasx,LT,88986524545378,
 100,157,Javascript,1640572079000,3077492,psyclops,FR,,
 100,157,Javascript,1651193039000,4315542,That_Guy977,TH,70798689790356,
+100,157,Javascript,1652575266000,4283515,FrancoisBaveye,FR,104716760268246,
 100,158,Javascript,1567946837000,2786666,TetraktysPhi,FR,20818693590142,
 100,158,Javascript,1580430645000,3407364,personAlex,BY,33008880931371,
 100,158,Javascript,1602989384000,3934908,TheDrakonir,DE,51719564715384,
@@ -304,7 +305,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,161,Javascript,1592182476000,1198181,lapostoj,,,
 100,161,Javascript,1598142646000,224325,TidyMaze,FR,2654133392410,
 100,161,Javascript,1609029049000,4013791,LTNightshade,DE,52126062565051,
-100,161,Javascript,1625704554000,4283515,FrancoisBaveye,FR,104716760268246,
 100,161,Javascript,1639876433000,4537924,ArtesScytale,BE,,
 100,162,Javascript,1589157425000,2422063,vikingviolinist,NO,,
 100,162,Javascript,1593563444000,3868172,Desjardins,DE,46161242090337,
@@ -673,6 +673,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,273,Javascript,1581641195000,3681052,Varedz,US,,
 100,273,Javascript,1582159738000,2298871,jesuisdev.net,FR,96460709785072,
 100,273,Javascript,1582597670000,3693549,MostafaAhmedAbdEl-fattah,EG,40818689061237,
+100,273,Javascript,1652575266000,4419628,.fill.,DE,86933067746126,
 100,274,Javascript,1590713147000,2453008,Crypticsy,NP,91135821533111,
 100,274,Javascript,1639097267000,4374160,IUcama,DE,67536461926714,
 100,275,Javascript,1569458168000,3460822,J2319,HU,,

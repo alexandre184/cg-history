@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=35313|time=2022-05-16T00:53:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=35326|time=2022-05-17T00:40:39
 100,41,Bash,1640825375000,1483723,d-s-x,RU,4980051025170,
 100,42,Ruby,1647131441000,2928146,LolCat,MU,22538133010433,
 100,42,Perl,1647131446000,2928146,LolCat,MU,22538133010433,
@@ -447,6 +447,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,Python3,1645922484000,4755470,atestname,FR,,
 100,90,PHP,1652057258000,512169,Soul_0000,RU,82183200714630,
 100,90,Python3,1652403104000,1709071,MAWAAW,FR,9382042427281,
+100,90,Javascript,1652748039000,177235,Justalk,FR,83912529145807,
 100,91,Bash,1567946822000,1975116,AtteLynx,FI,12400468367460,
 100,91,Ruby,1567946826000,1887115,botbot,ES,,
 100,91,Ruby,1624927214000,869546,Gizmoooh,FR,,
@@ -480,7 +481,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Python3,1648254644000,3523247,alexcercos,ES,36269364412881,
 100,92,Python3,1651624688000,4062203,soraie,JP,61090083488718,
 100,92,Python3,1652403104000,3463165,VidUrh,SI,54292481815561,
-100,92,Javascript,1652662422000,177235,Justalk,FR,83912529145807,
 100,93,Javascript,1567946825000,1129000,ChairmanOfTheBored,BG,6799297370615,
 100,93,Javascript,1567946825000,1489925,DeSet,BG,5060331972589,
 100,93,Ruby,1567946826000,2194865,paranoidduck,FR,14521715061387,

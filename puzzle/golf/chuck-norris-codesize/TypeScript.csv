@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2022-05-17T00:40:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=134|time=2022-05-18T00:43:23
 100,79,TypeScript,1629073846000,3380184,chouch,FR,,
 100,79,TypeScript,1641863871000,4341304,Remi.,FR,97662026388574,
 100,79,TypeScript,1641863871000,3845610,pardouin,FR,60364063762936,
@@ -26,6 +26,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,139,TypeScript,1640046658000,1205108,jval,KZ,73581028678836,
 100,141,TypeScript,1628470052000,4124688,Murat_Eroglu,TR,91676687994670,
 100,144,TypeScript,1625013457000,1095153,SimonPhoenix,UA,,
+100,147,TypeScript,1652834603000,1788623,knarfw,FR,10389790303031,
 100,149,TypeScript,1645403459000,2371389,Franta,CZ,16642908084028,
 100,151,TypeScript,1636072611000,1441239,Dyd,IT,71707560017158,
 100,153,TypeScript,1619665461000,1713849,Bugs_everywhere,MD,9216412890404,
@@ -85,7 +86,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,220,TypeScript,1652317010000,4587710,Smetalka,HR,,
 100,226,TypeScript,1614569199000,3397526,rantT_,FR,30640664262982,
 100,229,TypeScript,1649465203000,3305510,TBali,HU,26750785092441,
-100,238,TypeScript,1648859445000,1788623,knarfw,FR,10389790303031,
 100,239,TypeScript,1572568242000,2786666,TetraktysPhi,FR,20818693590142,
 100,239,TypeScript,1612578668000,1306429,Neckers,IT,73429625249924,
 100,242,TypeScript,1589509854000,3818428,kalamari,FR,44621789630735,

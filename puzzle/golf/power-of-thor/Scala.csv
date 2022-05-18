@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=263|time=2022-05-17T00:40:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=264|time=2022-05-18T00:43:08
 100,100,Scala,1641267323000,1483723,d-s-x,RU,4980051025170,
 100,157,Scala,1648254641000,2874091,5DN1L,GB,79633423380001,
 100,173,Scala,1629592933000,3516345,Jp82,FR,63600965075245,
@@ -14,6 +14,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,209,Scala,1630717380000,1466631,Akrib,FR,17971797700592,
 100,211,Scala,1619145623000,1179950,Patorikkuyatta,FR,94806006573123,
 100,212,Scala,1613443657000,3922731,Dartisan,LU,101995908419116,
+100,212,Scala,1652834588000,4869341,anopse,FR,92347105699348,
 100,213,Scala,1652488997000,1939310,MasterOf_,PT,81080588549660,
 100,214,Scala,1618547398000,2290633,field3,JP,75961127697737,
 100,215,Scala,1649551055000,1788623,knarfw,FR,10389790303031,
@@ -178,7 +179,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,279,Scala,1567946824000,1256515,vsaijan4,IN,23951094802362,
 0,280,Scala,1567946824000,1205954,luos,GB,3037071989308,
 0,282,Scala,1567946824000,2171878,Louis_ZA,NL,93455267114823,
-0,285,Scala,1567946824000,1884432,Zhormos,FR,83723708684540,
+0,285,Scala,1567946824000,1884432,rope_theory,FR,83723708684540,
 0,291,Scala,1567946824000,2430931,thmarg,FR,,
 0,300,Scala,1567946824000,1609928,apernel,US,,
 0,305,Scala,1567946824000,3068521,viksri,IN,,

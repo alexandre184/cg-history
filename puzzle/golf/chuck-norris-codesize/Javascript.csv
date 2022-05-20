@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=940|time=2022-05-19T00:55:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=941|time=2022-05-20T01:12:00
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -191,6 +191,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Javascript,1620362006000,1179950,Patorikkuyatta,FR,94806006573123,
 100,149,Javascript,1634086861000,903179,maksmas,EE,101274743228150,
 100,149,Javascript,1643070839000,4259892,Brice06,MC,73064666974288,
+100,149,Javascript,1653009120000,1611699,EpiFlop,FR,15684668176220,
 100,150,Javascript,1574042140000,2452543,Maznek,FR,19088417820828,
 100,150,Javascript,1581294644000,3660819,BloodyTurtles,US,39803283840838,
 100,150,Javascript,1595810276000,3896228,Boruwaka,FR,46695808602989,
@@ -251,7 +252,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,155,Javascript,1624927225000,3864521,PPRB,FR,45977985235143,
 100,155,Javascript,1629937855000,1204325,Witik,NL,9897478437534,
 100,155,Javascript,1642900270000,3487645,hypers,UA,34243548996636,
-100,155,Javascript,1651885251000,1775696,MaciekTytko,PL,10371077285989,
+100,155,Javascript,1651885251000,1775696,MaciekT,PL,10371077285989,
 100,156,Javascript,1567946837000,2744095,ArSeNiK,TH,,
 100,156,Javascript,1567946837000,3435196,KratosAurion,US,32311505826149,
 100,156,Javascript,1567946837000,2420013,Zoli007,HU,82985362200270,
@@ -383,6 +384,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,170,Javascript,1638405573000,3792309,schachmatt,DE,58313205988826,
 100,170,Javascript,1643511158000,4697789,Nwam,FR,,
 100,170,Javascript,1645836068000,1719856,YOANN,FR,11777604207042,
+100,170,Javascript,1653009120000,809720,Jellina,CH,81859065841420,
 100,171,Javascript,1567946837000,2762653,RAAAT,FR,20523458481719,
 100,171,Javascript,1606352055000,1600371,MoritzWachter,DE,7064447976077,
 100,171,Javascript,1616380795000,3136787,jacek,PL,75369242083208,
@@ -435,7 +437,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Javascript,1596674097000,3923490,_John_,IT,,
 100,177,Javascript,1601785869000,3923022,FabInCode,FR,48651086856618,
 100,177,Javascript,1635036450000,3303979,DavidBinaud,FR,41129026224441,
-100,177,Javascript,1652921702000,1611699,EpiFlop,FR,15684668176220,
 100,178,Javascript,1585184082000,1870098,nubinub,FR,,
 100,178,Javascript,1597105865000,204179,resistcorp,FR,44032889515354,
 100,178,Javascript,1614050502000,930280,SterlingMaloryArcher,US,,

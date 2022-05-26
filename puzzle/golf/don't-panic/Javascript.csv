@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1528|time=2022-05-25T00:39:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1529|time=2022-05-26T00:39:27
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -47,6 +47,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1617245637000,4060994,3030,FI,,
 100,101,Javascript,1620613973000,1003752,Skayo,AT,60612660937974,
 100,101,Javascript,1621996695000,2589340,Zource,NL,,
+100,101,Javascript,1653525567000,4334237,BJD,US,64170920248296,
 100,102,Javascript,1646786258000,2874091,5DN1L,GB,79633423380001,
 100,103,Javascript,1567946817000,1759335,metahom,AE,40546489176319,
 100,103,Javascript,1636072586000,1441239,Dyd,IT,71707560017158,
@@ -193,6 +194,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,134,Javascript,1567946817000,1256917,Qbe_Root,FR,15037143433536,
 100,134,Javascript,1567946817000,937362,josh_,FR,1755973612089,
 100,134,Javascript,1567946817000,1668912,sirCodesALot,DK,,
+100,134,Javascript,1653525567000,1057882,RankorMan,ES,25440880785774,
 100,135,Javascript,1607303431000,2565497,vladislao,RU,18197468031147,
 100,135,Javascript,1616035416000,311035,leojean890,FR,42398427701382,
 100,135,Javascript,1628470034000,4124688,Murat_Eroglu,TR,91676687994670,
@@ -402,7 +404,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,172,Javascript,1567946817000,1372843,djjeck,US,5407978094654,
 100,172,Javascript,1639012971000,4504049,Deliambre,FR,70557381983991,
 100,172,Javascript,1640046630000,4007298,ShadiestEwe,GB,,
-100,172,Javascript,1653439166000,4334237,BJD,US,64170920248296,
 100,173,Javascript,1567946817000,1272144,RodMerrina,FR,3505911399447,
 100,173,Javascript,1567946817000,917553,b4r0k,US,,
 100,173,Javascript,1574383129000,1981179,4ndr3s,ES,12476591605432,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,300,Javascript,1607477440000,199887,Sanpas,FR,75068025487655,
 100,301,Javascript,1567946817000,1538896,Suraklin,CA,5909744820249,
 100,302,Javascript,1567946817000,591238,AlrianneG,FR,,
-100,302,Javascript,1567946817000,999109,otacke,DE,1993259866838,

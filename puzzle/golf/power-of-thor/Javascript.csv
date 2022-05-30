@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4569|time=2022-05-29T00:36:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4571|time=2022-05-30T00:30:50
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1648341595000,2928146,LolCat,MU,22538133010433,
@@ -16,6 +16,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,87,Javascript,1627260458000,3354337,Westicles,CX,79146641399080,
 100,87,Javascript,1637714157000,1399382,Regulus136,FR,4335723819637,
 100,88,Javascript,1567946825000,1589272,darrylyeo,US,6826201774664,
+100,88,Javascript,1653870650000,1234947,kuro,BR,6850950439511,
 100,89,Javascript,1628209833000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1567946825000,416762,Khao,CA,2035557596161,
 100,90,Javascript,1653352496000,893541,wala,FR,97577641170180,
@@ -472,6 +473,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,118,Javascript,1621650934000,3504573,ChrisOz,AU,35540929862328,
 100,118,Javascript,1638405563000,3792309,schachmatt,DE,58313205988826,
 100,118,Javascript,1645403444000,4051396,BretzelLudique,FR,82411529317371,
+100,118,Javascript,1653870650000,4907484,LFabre,PT,104664620606325,
 100,119,Javascript,1567946825000,1169220,Indobiany,RU,2849621315733,
 100,119,Javascript,1567946825000,981349,MaciejS,PL,,
 100,119,Javascript,1567946825000,1738090,MrMoove,FR,10076698240417,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,141,Javascript,1636851175000,4065736,Frizyok,FR,77453621868621,
 100,141,Javascript,1636851175000,399039,psign,FR,71822149726666,
 100,141,Javascript,1641357397000,3187336,C6PO,FR,25489077903191,
-100,141,Javascript,1648773050000,981878,nicolasD,FR,22576267267565,
-100,142,Javascript,1594946584000,939567,[Z],US,,

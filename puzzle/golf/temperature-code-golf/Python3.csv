@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6460|time=2022-05-29T00:36:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6461|time=2022-05-30T00:30:55
 100,53,Python3,1623984129000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,54,Python3,1640393894000,1483723,d-s-x,RU,4980051025170,
@@ -167,6 +167,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Python3,1640572075000,4272230,lopared,US,61881960269780,
 100,63,Python3,1644629872000,153927,Cubix,FR,59507908642549,
 100,63,Python3,1649291562000,3337117,timbersson,GB,31946722637374,
+100,63,Python3,1653870655000,3376722,oolivierr,FR,80843720970807,
 100,64,Python3,1567946832000,1805981,Kyle,US,,
 100,64,Python3,1586220744000,865280,batin,FR,,
 100,64,Python3,1592182470000,3657937,elderlybeginner,PL,39723186977905,
@@ -568,6 +569,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,70,Python3,1644885768000,2929792,caragane,FR,,
 100,70,Python3,1651624691000,1657457,GrantPerkins,US,33650747755894,
 100,70,Python3,1653439184000,4717007,Anktinosia,FR,,
+100,70,Python3,1653870655000,4419628,.fill.,DE,86933067746126,
 100,71,Python3,1567946832000,1542006,1764,FR,26008321503940,
 100,71,Python3,1567946832000,1857171,AdamB,PL,11687390029916,
 100,71,Python3,1567946832000,1022925,Adrien.,FR,17725389981317,
@@ -922,7 +924,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,74,Python3,1648254649000,4717726,[Nexure],FR,81506465307341,
 100,74,Python3,1648859439000,1638419,Quent21,FR,9437928363216,
 100,74,Python3,1651797052000,4545142,akiiino,DE,,
-100,74,Python3,1652575259000,4419628,.fill.,DE,86933067746126,
 100,75,Python3,1567946832000,1833849,Akromha,FR,27020769116001,
 100,75,Python3,1567946832000,333934,CrazyMerlyn,IE,20045015439951,
 100,75,Python3,1567946832000,1780436,Dambre,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Python3,1624329591000,3860425,fabskerle,DE,65718243936230,
 100,75,Python3,1626139022000,4182831,Flaaamort,BE,62041060159875,
 100,75,Python3,1626309045000,3714972,fmca,BR,,
-100,75,Python3,1629333041000,3091814,Yas_s,MA,24752498134860,

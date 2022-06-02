@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1533|time=2022-06-01T00:30:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1534|time=2022-06-02T00:51:52
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -33,7 +33,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Javascript,1611456185000,1566335,BeardedWhale,SE,36571449875674,
 100,99,Javascript,1614997856000,4166845,HugeMissedSteak,NL,59373221969418,
 100,100,Javascript,1567946817000,172938,kuzmaka,UA,1842478040420,
-100,100,Javascript,1611382391000,3740142,Bedstorm,IN,71621844864426,
+100,100,Javascript,1611382391000,3740142,AkshatJ1127,IN,71621844864426,
 100,100,Javascript,1615257531000,4155983,o0lit3,US,58386742395102,
 100,100,Javascript,1615948243000,4095128,Voltmachine,BG,56919066754571,
 100,100,Javascript,1635295086000,3917724,Marke18,IT,47701103353349,
@@ -377,6 +377,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Javascript,1614138694000,4168646,RaccoonWithSpork,US,59168085376989,
 100,168,Javascript,1649811637000,1475413,AlucardDH,FR,4898493641535,
 100,168,Javascript,1652748031000,1250571,ChrisJeamme,FR,44090843307907,
+100,168,Javascript,1654131112000,4907484,LFabre,PT,104664620606325,
 100,169,Javascript,1567946817000,1114834,k4ng0u,FR,26037223936643,
 100,169,Javascript,1621745000000,3590625,Njitram,NL,37776500346985,
 100,169,Javascript,1644024332000,2924895,trictrac,FR,23056996012330,
@@ -997,5 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,299,Javascript,1567946817000,977704,Dimkin,IL,1900226938362,
 100,299,Javascript,1567946817000,856921,Gasd,HU,,
 100,299,Javascript,1649896234000,4695398,kolyaNikolay,RU,77365427822836,
-100,300,Javascript,1567946817000,532706,MaximKarpinskiy,RU,13044187532888,
 100,300,Javascript,1567946817000,556254,Yoann,FR,,

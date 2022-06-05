@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=333|time=2022-06-04T00:35:17
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=333|time=2022-06-05T02:04:24
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,31,Perl,1639614646000,1483723,d-s-x,RU,4980051025170,
@@ -270,6 +270,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,Perl,1567946831000,878086,dchoulette,FR,96263866353056,
 100,131,Perl,1567946831000,976469,KatrinaTheLamia,CA,16022531724452,
 100,132,Perl,1601785864000,3514816,PerlHackr,CH,35067327238809,
+100,135,Perl,1654394664000,3305510,TBali,HU,26750785092441,
 100,137,Perl,1567946831000,954755,AiMikoto,RO,42941865040389,
 100,137,Perl,1640046648000,1713279,C3os,FR,,
 100,141,Perl,1567946831000,3423590,matthew-manning,NZ,,
@@ -277,7 +278,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,Perl,1567946831000,864570,Nonsequiturish,US,2555484648746,
 100,146,Perl,1567946831000,2317747,ElPsyCongroo2011,FR,16373886838102,
 100,149,Perl,1603507637000,1335230,jft63,FR,24907820247515,
-100,152,Perl,1604025051000,3305510,TBali,HU,26750785092441,
 100,155,Perl,1626915637000,304126,kami,FR,10057081063920,
 100,184,Perl,1567946831000,155920,t2_cyborg,FR,83452360805525,
 100,194,Perl,1567946831000,1544587,explodasaurus,US,,

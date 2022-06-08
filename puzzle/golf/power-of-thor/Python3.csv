@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8020|time=2022-06-06T00:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8028|time=2022-06-08T00:30:40
 100,51,Python3,1648254644000,2928146,LolCat,MU,22538133010433,
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,59,Python3,1641357393000,1483723,d-s-x,RU,4980051025170,
@@ -154,6 +154,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,Python3,1644629862000,4677256,whyvna,DE,91367888102939,
 100,90,Python3,1645922484000,4755470,atestname,FR,,
 100,91,Python3,1645144936000,3702791,KalamariKing,US,80660805830970,
+100,91,Python3,1654648240000,3740208,Dinca,RO,85060742927619,
 100,92,Python3,1638750905000,3909694,GoogleJeff,US,47145921123490,
 100,92,Python3,1640572068000,4272230,lopared,US,61881960269780,
 100,92,Python3,1648254644000,3523247,alexcercos,ES,36269364412881,
@@ -887,6 +888,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Python3,1638923748000,4270882,[ron],GB,,
 100,120,Python3,1643158253000,4705031,6lv1,FR,77426463192465,
 100,120,Python3,1651797049000,4545142,akiiino,DE,,
+100,120,Python3,1654648240000,795411,Fauconfan,FR,6081792322150,
 100,121,Python3,1567946825000,1975116,AtteLynx,FI,12400468367460,
 100,121,Python3,1567946825000,1815492,BigH88,SG,10780426001656,
 100,121,Python3,1567946825000,1624567,DTA,FR,7300080875159,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,124,Python3,1600224975000,3956109,saquintes,GB,49343560098671,
 100,124,Python3,1605406450000,1439371,Irnakk,RU,53608248410234,
 100,124,Python3,1606528152000,3599571,thecodingdog,FR,46896521484268,
-100,124,Python3,1612235865000,4054897,Raph_Hax0r,BD,53578081922568,
-100,124,Python3,1614652483000,3884234,fpassamonte,AR,59602645579601,

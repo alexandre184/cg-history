@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=379|time=2022-06-06T00:30:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=379|time=2022-06-08T00:30:37
 100,96,Go,1628386511000,3845610,pardouin,FR,60364063762936,
 100,112,Go,1627260454000,3354337,Westicles,CX,79146641399080,
 100,116,Go,1625624338000,1607522,RoboStac,GB,11333369102997,
@@ -154,6 +154,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,239,Go,1637974321000,970660,Brizee,GB,,
 100,241,Go,1567946823000,1672238,Tharro,BE,,
 100,242,Go,1638750909000,1210508,Norihiori,FR,3082657031854,
+100,245,Go,1654648237000,4865140,demetedPufferfish,US,107758507137957,
 100,246,Go,1567946823000,2786666,TetraktysPhi,FR,20818693590142,
 100,246,Go,1596501980000,862919,Astrobytes,GB,60413902297900,
 100,249,Go,1606528149000,1393802,amzh,RU,81786846913810,
@@ -184,7 +185,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,306,Go,1567946823000,2073179,Biwere,FR,13718696097951,
 100,313,Go,1567946823000,2687870,tantanchen,US,,
 100,325,Go,1567946823000,1106987,fgrosse,DE,2712141556227,
-100,325,Go,1653185429000,4865140,demetedPufferfish,US,107758507137957,
 100,327,Go,1597970162000,3939012,AFKCoder,FR,48797969050158,
 100,330,Go,1567946823000,920927,ezzkoram,FI,,
 100,333,Go,1567946823000,1292271,s41nn0n,ZA,,

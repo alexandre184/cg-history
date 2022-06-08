@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4581|time=2022-06-06T00:30:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4585|time=2022-06-08T00:30:40
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1648341595000,2928146,LolCat,MU,22538133010433,
@@ -9,10 +9,10 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,73,Javascript,1651712593000,3514975,PhuRiNaT,TH,97597367576293,
 100,75,Javascript,1628901876000,2315158,luigi_gelato,DE,,
 100,77,Javascript,1645836058000,1654818,tarapitha,EE,79401682508715,
+100,80,Javascript,1654648240000,177235,Justalk,FR,83912529145807,
 100,81,Javascript,1652834586000,1788623,knarfw,FR,10389790303031,
 100,82,Javascript,1628817347000,3337790,gitbeginer,KR,66608941195357,
 100,82,Javascript,1654131119000,4334237,BJD,US,64170920248296,
-100,83,Javascript,1653352496000,177235,Justalk,FR,83912529145807,
 100,87,Javascript,1627260458000,3354337,Westicles,CX,79146641399080,
 100,87,Javascript,1637714157000,1399382,Regulus136,FR,4335723819637,
 100,88,Javascript,1567946825000,1589272,darrylyeo,US,6826201774664,
@@ -788,6 +788,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,132,Javascript,1627956514000,4454355,dariusz.cieslak,US,,
 100,132,Javascript,1632270928000,1906719,ArpadDravecz,HU,11710900308045,
 100,132,Javascript,1653009101000,4844315,BestShuffle,FR,83844509142500,
+100,132,Javascript,1654648240000,1420817,TheMagicShop,FR,4468522326390,
 100,133,Javascript,1594859431000,679101,Dazzle,CY,32305181598666,
 100,133,Javascript,1594859431000,2191051,DennisHenze,DE,,
 100,133,Javascript,1594859431000,2455639,GomoryCut,CA,17236107353922,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,141,Javascript,1633480359000,4009347,JaworWr,PL,,
 100,141,Javascript,1636851175000,4065736,Frizyok,FR,77453621868621,
 100,141,Javascript,1636851175000,399039,psign,FR,71822149726666,
-100,141,Javascript,1641357397000,3187336,C6PO,FR,25489077903191,

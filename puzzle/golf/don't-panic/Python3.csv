@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2929|time=2022-06-09T00:30:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2929|time=2022-06-10T01:02:25
 100,61,Python3,1648341588000,2928146,LolCat,MU,22538133010433,
 100,62,Python3,1624329578000,3845610,pardouin,FR,60364063762936,
 100,67,Python3,1644972462000,1654818,tarapitha,EE,79401682508715,
@@ -577,7 +577,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,182,Python3,1606268973000,1603802,BigNozMG,FR,6999864369225,
 100,182,Python3,1609029034000,3376384,esteban616,CU,29892445962458,
 100,182,Python3,1611024416000,1754295,SF,US,9886764510417,
-100,182,Python3,1614825058000,828239,[SG]Bisou,FR,3777247629960,
+100,182,Python3,1614825058000,828239,[SG]Sebastien,FR,3777247629960,
 100,182,Python3,1624329578000,1518044,Vikka,FR,5469273294310,
 100,182,Python3,1626827926000,4292379,Chairman_of_the_Borg,US,65369007071182,
 100,182,Python3,1627260451000,4095799,circular17,FR,55329921778165,
@@ -957,6 +957,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Python3,1654131112000,4903313,Harry_James_Potter-Evans-Verres,DE,84153500304912,
 100,198,Python3,1654216242000,2460216,ElaineMarley,FI,85221183055358,
 100,198,Python3,1654216242000,1067069,Reiska,FI,15476331321584,
+100,198,Python3,1654822945000,4811550,lyconide,FR,,
 100,199,Python3,1567946818000,569247,LaurentBouvier,FR,16324240302815,
 100,199,Python3,1567946818000,1517028,Nicau,FR,8848906617685,
 100,199,Python3,1567946818000,995942,Veky,HR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,Python3,1618454974000,4250133,MiguelFab,PT,62150483518584,
 100,199,Python3,1620701084000,3581724,ffgth,FR,37357984761390,
 100,199,Python3,1620875232000,3807613,Xetolone,FR,44191822589222,
-100,199,Python3,1621744992000,4043940,Oursbrun,FR,53547628449245,

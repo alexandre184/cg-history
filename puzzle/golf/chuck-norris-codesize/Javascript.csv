@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=962|time=2022-06-13T00:58:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=964|time=2022-06-14T01:18:31
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -115,6 +115,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,137,Javascript,1645403458000,2371389,Franta,CZ,16642908084028,
 100,137,Javascript,1645663471000,1966108,Thorolf,FR,69421785031320,
 100,137,Javascript,1649551065000,4756200,tueda,JP,,
+100,137,Javascript,1655169511000,4639482,Amperwolf,DE,84389025537829,
+100,137,Javascript,1655169511000,3387102,thmbrs,DE,,
 100,138,Javascript,1573692633000,2069141,tomeko,PL,13370027887052,
 100,138,Javascript,1630370464000,3405068,bloodyowl,FR,,
 100,138,Javascript,1635986035000,1441239,Dyd,IT,71707560017158,
@@ -183,7 +185,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,148,Javascript,1617676876000,1632765,BlueArtemis,ID,103877182592857,
 100,148,Javascript,1621910614000,4334406,camdan.me,US,69890546490225,
 100,148,Javascript,1628557768000,2206075,Jon...,CA,75211762898926,
-100,148,Javascript,1654907458000,4639482,Amperwolf,DE,84389025537829,
 100,149,Javascript,1567946837000,3380514,DFrese,DE,30555045908186,
 100,149,Javascript,1567946837000,1962352,DPAmar,FR,56994389567033,
 100,149,Javascript,1567946837000,2870586,MattZ,US,21782473296749,
@@ -819,6 +820,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,482,Javascript,1601530053000,1190807,ThomasBourg,FR,,
 100,483,Javascript,1631234400000,4411833,mhirst1992,GB,66980984670976,
 100,491,Javascript,1628643516000,4439914,Bassem00,TN,,
+100,492,Javascript,1655169511000,4701354,elie.f.asmar,LB,,
 100,493,Javascript,1607909014000,4104994,test123456789fr,FR,,
 100,506,Javascript,1627002657000,4439642,Taci1998,MK,,
 100,514,Javascript,1621391651000,4340542,xMistySenpai,US,64236804928079,

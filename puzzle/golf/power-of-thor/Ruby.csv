@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1325|time=2022-06-23T00:30:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1325|time=2022-06-24T00:30:47
 100,42,Ruby,1647131441000,2928146,LolCat,MU,22538133010433,
 100,45,Ruby,1639097258000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,47,Ruby,1640999270000,1483723,d-s-x,RU,4980051025170,
@@ -204,6 +204,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,92,Ruby,1610082028000,3397479,XorZy,FR,68614443569253,
 100,92,Ruby,1623384831000,4365423,FrancoRoura,AR,86448765605600,
 100,92,Ruby,1641171155000,1201783,qsantos,FR,3181778176261,
+100,92,Ruby,1656030647000,4393608,galloj,CZ,,
 100,93,Ruby,1567946826000,2194865,paranoidduck,FR,14521715061387,
 100,93,Ruby,1567946826000,1508255,shadowX[Dorin-E],MD,10178721110150,
 100,93,Ruby,1567946826000,1646815,tiagoshibata,BR,,
@@ -237,7 +238,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,98,Ruby,1576283637000,1287344,Alshock,FR,46434521998763,
 100,98,Ruby,1625273050000,3857428,phile13,US,46937469516721,
 100,98,Ruby,1634862642000,1874759,~ovs~,,,
-100,98,Ruby,1643935308000,4393608,galloj,CZ,,
 100,99,Ruby,1579221113000,154996,shashwat986,IN,39427621192030,
 100,99,Ruby,1597020325000,3859594,Lonesurvivor,DE,,
 100,99,Ruby,1602729135000,2520443,Einwickler,DE,50711405528093,
@@ -689,6 +689,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,171,Ruby,1567946826000,962119,serjoscha,CH,,
 100,171,Ruby,1634000371000,4547946,yaster,DE,,
 100,171,Ruby,1642812359000,3902964,eloquix,US,,
+100,171,Ruby,1656030647000,4935021,MelekElloumi,FR,91411082555966,
 100,172,Ruby,1567946826000,1123000,Fresnault,FR,,
 100,172,Ruby,1567946826000,729144,StefanPodea,RO,3822438469900,
 100,172,Ruby,1567946826000,1664677,tm-robert,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1075,Ruby,1567946826000,2093395,VadimKuznetsov,UA,15462798488362,
 100,1081,Ruby,1567946826000,3371637,ptrauejr,US,,
 100,1098,Ruby,1567946826000,1783970,Jakaria,BD,10320306153621,
-100,1111,Ruby,1567946826000,1173288,krpec,CZ,2815565978544,

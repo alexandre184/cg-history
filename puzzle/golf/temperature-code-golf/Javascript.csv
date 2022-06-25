@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3064|time=2022-06-24T00:30:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3064|time=2022-06-25T00:30:52
 100,55,Javascript,1637109764000,1483723,d-s-x,RU,4980051025170,
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
@@ -132,6 +132,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,61,Javascript,1653698904000,177235,Justalk,FR,83912529145807,
 100,61,Javascript,1653870652000,1234947,kuro,BR,6850950439511,
 100,61,Javascript,1655599249000,481564,mihei,RU,4454400756022,
+100,61,Javascript,1656117052000,4898903,ToastyBreadsicle,US,83884282104322,
 100,62,Javascript,1567946828000,372563,Alkatell,FR,8023339934317,
 100,62,Javascript,1567946828000,814685,AthosPyte,NO,5617445240242,
 100,62,Javascript,1567946828000,1662104,Ayte,FR,,
@@ -215,7 +216,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,62,Javascript,1644194836000,4124688,Murat_Eroglu,TR,91676687994670,
 100,62,Javascript,1644453185000,4083537,DavidAvsajanishvili,GE,55847109957826,
 100,62,Javascript,1648773037000,3847872,Gaspar-Cdv,FR,45599449537807,
-100,62,Javascript,1653698904000,4898903,ToastyBreadsicle,US,83884282104322,
 100,63,Javascript,1567946828000,3352676,3t0n,RU,29140567952302,
 100,63,Javascript,1567946828000,1744223,Bissel,DE,9713102708582,
 100,63,Javascript,1567946828000,1070566,Kodnot,LT,20227250201533,
@@ -609,6 +609,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,79,Javascript,1643511152000,3717379,bobbieX,FR,58305824159084,
 100,79,Javascript,1653185433000,969000,KB,DE,37409704502795,
 100,79,Javascript,1655339586000,154806,piwai,FR,1956863959967,
+100,79,Javascript,1656117052000,2688381,willf80,FR,70802160683965,
 100,80,Javascript,1567946828000,2525899,ClemDz,FR,28175200830632,
 100,80,Javascript,1567946828000,2212845,EricB85,FR,,
 100,80,Javascript,1567946828000,1781852,Fanquilen,PL,16616636848155,
@@ -654,7 +655,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Javascript,1567946828000,1908207,mulet,ES,,
 100,81,Javascript,1567946828000,1832570,zeprone,FR,,
 100,81,Javascript,1587603899000,693553,test999,FR,43108349356854,
-100,81,Javascript,1595810272000,2688381,willf80,FR,70802160683965,
 100,81,Javascript,1596242455000,1932980,AlexandreK,FR,30714560059953,
 100,81,Javascript,1609461046000,3924786,Tionkje,BE,62710605796918,
 100,81,Javascript,1609555264000,4120316,kishkumen,BE,56517809323442,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7885|time=2022-06-26T00:30:22
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7885|time=2022-06-27T00:30:20
 5,34.34,C++,,4264019,4802230,Nanaeda,JP,80513847977929,
 5,34.14,C++,,4261360,2577687,blasterpoard,SK,36336680250371,
 5,34.09,C++,,4260505,880353,zasmu,FR,22237226756102,
@@ -707,9 +707,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,23.82,Ruby,,4263639,848352,Munto,FR,24772588940326,
 4,23.68,C#,,4266395,4844673,nalka,FR,106268722150417,
 4,23.43,C#,,4261810,704875,XaY,FR,1746313875354,
-4,23.42,Bash,,4258881,3828059,Valphyr1,FR,54309545363491,
 4,23.4,C#,,4262343,3205555,mmaderic,HR,25860505544320,
 4,23.39,Python3,,4263887,2674460,Malte42,DE,19389646868040,
+4,23.36,Bash,,4258881,3828059,Valphyr1,FR,54309545363491,
 4,23.27,C#,,4345317,1989412,Skewnart,FR,99117923749869,
 4,23.21,Go,,4261203,1525831,ntsd,TH,86763903852312,
 4,23.15,Python3,,4311400,1068324,arrcpp,ES,82586241093275,
@@ -946,6 +946,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,21.03,Javascript,,4300266,4774133,Kunal02,MU,83118728802468,
 4,21.02,Rust,,4258812,4062203,soraie,JP,61090083488718,
 4,21.02,C#,,4263797,4061036,SelectNull,CZ,53939689033290,
+4,21.02,C++,,4266264,4266575,AntoineG._IMTLilleDouai,FR,,
 4,21.02,Python3,,4263617,2398608,M_C,FR,,
 4,21.01,Javascript,,4267467,2015505,KVNRCHRD,FR,,
 4,21,C++,,4264195,4075567,magist3r,RS,82988602161302,
@@ -960,7 +961,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,20.89,Python3,,4262423,4134816,.[-.-].,UA,80323389155016,
 4,20.88,Java,,4307699,3004542,GaborHutya,HU,53345527045114,
 4,20.88,Javascript,,4259863,2300217,Thibzzzzzzz,FR,52951901455213,
-4,20.87,C++,,4266264,4266575,AntoineG._IMTLilleDouai,FR,,
 4,20.87,Python3,,4262109,4581886,Guiik,FR,,
 4,20.87,TypeScript,,4258751,308188,Azimov,BE,2165825176879,
 4,20.86,Python3,,4258966,4327920,yana87,JP,63761067773997,

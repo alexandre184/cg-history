@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6673|time=2022-06-27T00:31:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6680|time=2022-06-28T00:31:02
 100,55,C,1567946836000,2288263,dbdr,UA,43448306132121,
 100,55,ObjectiveC,1567946836000,2288263,dbdr,UA,43448306132121,
 100,55,ObjectiveC,1616035431000,155774,dwarfie,FR,17785582865119,
@@ -152,6 +152,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,81,Python3,1633134656000,2977626,Sandell0,FR,39015900221115,
 100,81,Python3,1647131456000,2719604,vpoulailleau,FR,43338781560535,
 100,81,Python3,1655944264000,4830112,slow-mo,IT,82275142620547,
+100,81,Python3,1656376261000,3657275,jujurocking,FR,,
 100,82,Ruby,1567946835000,334009,abouvier,FR,4681436111242,
 100,82,PHP,1567946837000,2178794,Unihedron,HK,17500773502453,
 100,82,PHP,1567946837000,334009,abouvier,FR,4681436111242,
@@ -561,6 +562,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,Ruby,1653185438000,154806,piwai,FR,1956863959967,
 100,103,Python3,1655169510000,1378506,MattGately,US,,
 100,103,Python3,1655771460000,1076716,OEtzi007,DE,,
+100,103,Ruby,1656376258000,792813,VilBoub,FR,72010225615995,
 100,104,Bash,1567946835000,1629259,Marchete,ES,61997162908277,
 100,104,Bash,1567946835000,854169,Silmaen,FR,26099485782783,
 100,104,Groovy,1567946835000,1654818,tarapitha,EE,79401682508715,
@@ -746,7 +748,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Python3,1586048266000,2006009,hugolmn,FR,,
 100,111,Python3,1588726382000,1865617,StepanSmirnov,RU,43620222104393,
 100,111,Javascript,1594081846000,3883981,mauguignard,AR,59651720258546,
-100,111,Python3,1619233760000,3657275,jujurocking,FR,,
 100,111,Python3,1623294200000,4154326,montplusa,JP,60315000863420,
 100,111,Javascript,1623294202000,1487392,Razielwar,FR,12761113272803,
 100,111,Python3,1623984136000,1362093,LemonZ,US,59884166420117,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Python3,1621391647000,4309574,KornDV,CA,63044782408453,
 100,120,Python3,1621824489000,2488317,Morcifer,NL,17597466270749,
 100,120,Python3,1625883959000,4410658,airoman,MX,,
-100,120,Ruby,1628988264000,2813793,itsjustfreekie,NL,69079046675702,

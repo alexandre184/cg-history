@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6543|time=2022-06-27T00:30:55
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6547|time=2022-06-28T00:30:52
 100,52,Python3,1654302920000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,54,Python3,1640393894000,1483723,d-s-x,RU,4980051025170,
@@ -99,6 +99,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Python3,1648513851000,4562863,Benoit-Simunsol,FR,82385326058954,
 100,60,Python3,1650674607000,523185,Hjax,US,46347448299324,
 100,60,Python3,1654216256000,4717007,Anktinosia,FR,,
+100,60,Python3,1656376252000,3657275,jujurocking,FR,,
 100,61,Python3,1619233754000,4259384,La-KuKaRaCh,GE,62307586413359,
 100,61,Python3,1619408303000,154408,Pollo_loco,FR,61963962536348,
 100,61,Python3,1619495520000,4208158,Tiouz,FR,72554823729381,
@@ -216,6 +217,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Python3,1651279320000,3516024,ZjosH,NL,,
 100,64,Python3,1651624691000,4259902,Nalisco,FR,110149381017411,
 100,64,Python3,1654993850000,1684020,tom_,FR,68400349015363,
+100,64,Python3,1656376252000,3535836,Thanh2022,DE,86240081333141,
 100,65,Python3,1567946832000,3356352,MrMey,FR,,
 100,65,Python3,1594168549000,3663409,giosds,IT,,
 100,65,Python3,1600310343000,3545248,amkad,RU,49202166474180,
@@ -498,7 +500,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,69,Python3,1615516534000,3533119,wlesavo,RU,44695284080274,
 100,69,Python3,1617071450000,1763706,asterius,PL,,
 100,69,Python3,1618806651000,1519989,a5kin,RU,5511054769141,
-100,69,Python3,1619321193000,3657275,jujurocking,FR,,
 100,69,Python3,1624432236000,2881485,aunetx,FR,30554229624102,
 100,69,Python3,1625273057000,4410360,LWAGI,HK,,
 100,69,Python3,1628470050000,4452683,geneccx,CA,68460027649660,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Python3,1605227953000,1032767,shhdup,RU,2085739341309,
 100,75,Python3,1607822429000,351385,fabmarcant,FR,14298375794819,
 100,75,Python3,1610685076000,2728000,sehigle,DE,,
-100,75,Python3,1611382400000,1297654,UnluckyDraws,NO,,

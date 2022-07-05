@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6561|time=2022-07-04T00:39:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6562|time=2022-07-05T03:59:43
 100,52,Python3,1654302920000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,54,Python3,1640393894000,1483723,d-s-x,RU,4980051025170,
@@ -174,6 +174,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,63,Python3,1644629872000,153927,Cubix,FR,59507908642549,
 100,63,Python3,1649291562000,3337117,timbersson,GB,31946722637374,
 100,63,Python3,1653870655000,3376722,oolivierr,FR,80843720970807,
+100,63,Python3,1656993583000,4935021,MelekElloumi,FR,91411082555966,
 100,64,Python3,1567946832000,1805981,Kyle,US,,
 100,64,Python3,1586220744000,865280,batin,FR,,
 100,64,Python3,1592182470000,3657937,elderlybeginner,PL,39723186977905,
@@ -186,7 +187,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Python3,1598810520000,2923506,darkhorse64,FR,23496414257567,
 100,64,Python3,1599878386000,2888129,terazoid,UA,49682242574474,
 100,64,Python3,1602041460000,1178276,Jerome_95,FR,19999067509724,
-100,64,Python3,1602989378000,3917749,l3l,,,
 100,64,Python3,1604459010000,1880197,bicklil,FR,48428120491412,
 100,64,Python3,1605574804000,844968,MoMaT,PL,4417545799180,
 100,64,Python3,1606878452000,631323,herve056,FR,11494731136934,
@@ -488,7 +488,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,69,Python3,1588726372000,2310861,Ilovepie,CA,34825369392996,
 100,69,Python3,1588726372000,3517349,akaowen,CA,35138901111113,
 100,69,Python3,1589157419000,481564,mihei,RU,4454400756022,
-100,69,Python3,1591750328000,1874759,~ovs~,,,
 100,69,Python3,1595637203000,3470487,Nahemi,FR,46978402668637,
 100,69,Python3,1596674091000,3897347,sayav,GB,,
 100,69,Python3,1597020334000,3373291,BHW,NZ,30114207714096,
@@ -999,3 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Python3,1605227953000,1032767,shhdup,RU,2085739341309,
 100,75,Python3,1607822429000,351385,fabmarcant,FR,14298375794819,
 100,75,Python3,1610685076000,2728000,sehigle,DE,,
+100,75,Python3,1611382400000,1297654,UnluckyDraws,NO,,

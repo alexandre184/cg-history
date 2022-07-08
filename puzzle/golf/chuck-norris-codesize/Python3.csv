@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2605|time=2022-07-07T01:01:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2606|time=2022-07-08T00:38:04
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -272,6 +272,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Python3,1638750919000,4537924,ArtesScytale,BE,,
 100,108,Python3,1640478942000,4617929,mtzk,JP,,
 100,108,Python3,1651973302000,837436,aropan,BY,68849260530594,
+100,108,Python3,1657240684000,4479598,TimBroenink,NL,88915663283197,
 100,109,Python3,1567946837000,2669104,KBurov,US,19292152791924,
 100,109,Python3,1570324697000,1520032,Hydrophob,DE,,
 100,109,Python3,1571013058000,839539,madCasper,KR,11219541628592,
@@ -877,7 +878,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Python3,1610245864000,4084352,ant0x,FR,56894467612788,
 100,143,Python3,1619495550000,1036441,CastorAF,FR,35222369281167,
 100,143,Python3,1619843797000,4193469,yannick-t,DE,62651080430734,
-100,143,Python3,1634862654000,4479598,TimBroenink,NL,88915663283197,
 100,143,Python3,1643590477000,3614203,TrivialDev,FR,63572984872987,
 100,143,Python3,1649032248000,1273026,BenZubrow,FR,3462241882844,
 100,144,Python3,1575333166000,1227148,Schneewittchen,DE,3252989132290,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3078|time=2022-07-11T00:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3080|time=2022-07-12T00:36:41
 100,55,Javascript,1637109764000,1483723,d-s-x,RU,4980051025170,
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
@@ -327,6 +327,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Javascript,1653870652000,3405295,Fabcg83,FR,84917969027859,
 100,64,Javascript,1655512254000,2498662,Chaudrop,FR,85753061173910,
 100,64,Javascript,1657240681000,4421805,Rubixbob,FR,67431524100176,
+100,64,Javascript,1657586201000,1258656,Batpapa,FR,3904980817200,
 100,65,Javascript,1567946828000,1050768,AlfredoSalzillo,IT,2224251919371,
 100,65,Javascript,1567946828000,1937628,Elom,FR,12220589050170,
 100,65,Javascript,1567946828000,660643,Marrrk,DE,4967890171886,
@@ -892,6 +893,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,93,Javascript,1642725743000,3302046,Thomas-Raoult,FR,,
 100,93,Javascript,1653870652000,1816012,Graphmaxer,FR,21268150513703,
 100,93,Javascript,1654993851000,1865824,ExoMemphiz,DK,47936181161500,
+100,93,Javascript,1657586201000,4778561,Msurim,FR,89655720804715,
 100,94,Javascript,1567946828000,1847117,Jabi,PL,12666107256228,
 100,94,Javascript,1567946828000,1793445,Kr,TH,20573924373807,
 100,94,Javascript,1567946828000,1062710,NgMinhQuang13,FR,12233876640789,
@@ -962,7 +964,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,97,Javascript,1634346943000,2378896,LeGourdin,CH,16348618153134,
 100,97,Javascript,1634604491000,153965,[CG]Keelhaul,FR,4367050238110,
 100,97,Javascript,1653185433000,3850449,kokodee,FR,82832940663233,
-100,97,Javascript,1656993585000,4778561,Msurim,FR,89655720804715,
 100,98,Javascript,1567946828000,1606168,Etix,FR,6942113855366,
 100,98,Javascript,1567946828000,1549856,Keylan,US,7544816458112,
 100,98,Javascript,1567946828000,545216,Morikko,NL,2716438739473,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Javascript,1641525771000,4680363,RyRojas,US,76071387425535,
 100,99,Javascript,1647131449000,4417230,Grey_Cat_,FR,67318505437602,
 100,99,Javascript,1648254645000,4614333,Lakera,FR,79074505951325,
-100,99,Javascript,1648254645000,4808460,Toohpick,MA,,

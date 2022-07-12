@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7887|time=2022-07-11T00:30:11
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7888|time=2022-07-12T00:30:11
 5,43.97,C++,,3665384,1400179,reCurse,CA,58850847098890,
 5,39.58,C++,,3873772,3457031,YurkovAS,RU,33020204289704,
 5,38.21,Rust,,3704114,4300424,kurnevsky,PL,62789226093738,
@@ -572,7 +572,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,36.83,C++,,3668091,4068054,JackieCheung,HK,,
 4,36.82,C++,,3667491,2720216,ilgiocatore,TD,55263688781564,
 4,36.82,C,,3673570,3970247,Conidev,FR,100212685648206,
-4,36.8,Java,,3675539,1611699,EpiFlop,FR,15684668176220,
+4,36.81,Java,,3675539,1611699,EpiFlop,FR,15684668176220,
 4,36.8,Dart,,3668969,3406044,andry_h,MG,31009644028857,
 4,36.79,C++,,3679133,155774,dwarfie,FR,17785582865119,
 4,36.79,TypeScript,,3670158,3820320,TranHanMinh,VN,83146163227680,
@@ -694,7 +694,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,35.36,Javascript,,3674828,3565821,Mihidari,FR,55506328326733,
 4,35.36,C++,,3670375,4256411,Pick8chu,KR,61128562266472,
 4,35.35,Python3,,3667766,4332444,Dramakk,PL,,
-4,35.33,Java,,3668607,3324892,Bpeck,US,63671409759343,
+4,35.34,Java,,3668607,3324892,Bpeck,US,63671409759343,
 4,35.31,Go,,3670227,317861,lordgun,FR,54327260871836,
 4,35.31,Python3,,3667104,4320801,HannaHol,DE,,
 4,35.31,C#,,3667903,2592367,Jokero,RU,81718781707754,
@@ -859,7 +859,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,33.58,C++,,3710174,3513265,DaNinja,IE,35022107863170,
 4,33.56,Python3,,3671505,1894833,Rimailleur,FR,15313478065891,
 4,33.54,Python3,,3668404,3791366,Artygo8,BE,59710426906111,
-4,33.51,C++,,3668652,3765181,kshimada,JP,64137262248528,
+4,33.53,C++,,3668652,3765181,kshimada,JP,64137262248528,
 4,33.49,Swift,,3669922,552543,Patou,FR,63583483199276,
 4,33.48,C#,,3668301,4066411,PhanPhong,VN,,
 4,33.46,C#,,3667884,4305940,Jano42,FR,62951745857365,

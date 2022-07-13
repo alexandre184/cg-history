@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2611|time=2022-07-12T00:30:18
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2611|time=2022-07-13T00:52:50
 5,32.66,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,32.05,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,30.87,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -890,6 +890,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.48,C,,486102,1280770,John_Black,RU,,
 1,23.47,Javascript,,495360,1245243,Clement134,FR,4593373580939,
 1,23.47,C#,,579377,1220347,Pooky,FR,7320278038278,
+1,23.47,C#,,2335906,912971,Amousy,FR,4498392759233,
 1,23.46,Javascript,,3326771,4077053,VladKov,UA,,
 1,23.46,Java,,653873,1312208,CraaazySteeeve,AU,3594254967114,
 1,23.45,Javascript,,2346994,3331361,Hikyu,DE,28161006874376,
@@ -900,7 +901,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.43,Javascript,,507333,1472464,und3fined,PL,,
 1,23.43,C#,,4031496,2632447,Andrey135296,RU,65386282583675,
 1,23.41,C++,,570414,1422880,loginius,CA,7162647424775,
-1,23.41,C#,,2335906,912971,Amousy,FR,4498392759233,
 1,23.41,Java,,1295886,1304340,AntoineLatour,FR,,
 1,23.41,VB.NET,,2194001,3028864,lorcQc,CA,,
 1,23.4,Python3,,601257,154937,[CG]BOUGA,FR,1884036222374,
@@ -942,6 +942,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.28,Java,,713892,1603310,yarwest,PL,6905688353357,
 1,23.28,C++,,534250,1479835,skill,JP,,
 1,23.27,C++,,3433898,1557154,BigToeMan,PL,58492267910206,
+1,23.27,Ruby,,664050,435967,NullNilNone,JP,1994356422592,
 1,23.27,C++,,576064,973155,Namal,FR,,
 1,23.27,C#,,631709,1503612,Dreagor,DK,5582369908328,
 1,23.27,C,,493173,614489,Nazoum81,FR,1733762647042,
@@ -950,7 +951,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.26,Javascript,,885989,1026791,Alfalfamale,NL,7144185210937,
 1,23.26,Javascript,,614967,1439710,Buesto,FR,5055564669623,
 1,23.25,Javascript,,722158,1604839,Smeletz,PL,6905310140527,
-1,23.25,Ruby,,664050,435967,NullNilNone,JP,1994356422592,
 1,23.25,C#,,675167,1520716,Haskeer,CZ,5527962940413,
 1,23.25,Python3,,498347,1385478,ssssssssssssspppppprrrrrrrr,RU,,
 1,23.25,Javascript,,505853,1471723,munizart,BR,,

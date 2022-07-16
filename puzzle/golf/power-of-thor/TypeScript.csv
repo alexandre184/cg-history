@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=271|time=2022-07-15T00:36:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=271|time=2022-07-16T00:32:47
 100,59,TypeScript,1638750905000,1483723,d-s-x,RU,4980051025170,
 100,60,TypeScript,1644798647000,4341304,Remi.,FR,97662026388574,
 100,64,TypeScript,1648341591000,2928146,LolCat,MU,22538133010433,
@@ -40,6 +40,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,TypeScript,1602989373000,420043,maxim_mazurok,AU,110161421460174,
 100,127,TypeScript,1604624191000,1726600,Patate,FR,17056095228211,
 100,127,TypeScript,1608685407000,1114834,k4ng0u,FR,26037223936643,
+100,127,TypeScript,1657931567000,2765000,Nowan,BE,88026624631087,
 100,128,TypeScript,1612492773000,389786,menu,DE,,
 100,129,TypeScript,1607044925000,4090007,Pepsite,FR,55260109465701,
 100,129,TypeScript,1627347625000,311035,leojean890,FR,42398427701382,
@@ -265,7 +266,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 50,110,TypeScript,1570494647000,1629259,Marchete,ES,61997162908277,
 50,224,TypeScript,1640306942000,3483773,HelifeWasTaken,RE,44676700094894,
 25,72,TypeScript,1628817351000,3845610,pardouin,FR,60364063762936,
-25,918,TypeScript,1654394660000,2765000,Nowan,BE,88026624631087,
 0,215,TypeScript,1605838403000,1848459,Velcoro,CZ,48538649860014,
 0,919,TypeScript,1624432227000,4134597,,FR,,
 0,919,TypeScript,1624432227000,1559680,MartinIsaksson,SE,6695415432167,

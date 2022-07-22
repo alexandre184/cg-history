@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=845|time=2022-07-21T00:32:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=845|time=2022-07-22T00:43:51
 100,32,PHP,1584063106000,1537792,AsaiYusuke,US,41785380851985,
 100,32,PHP,1586393336000,334009,abouvier,FR,4681436111242,
 100,33,PHP,1639614647000,1483723,d-s-x,RU,4980051025170,
@@ -45,6 +45,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,96,PHP,1567946832000,1296449,loveCoding,BE,3638627508334,
 100,96,PHP,1631925044000,4511629,choval,AR,,
 100,97,PHP,1589943883000,155881,Hevey,CH,104405127658237,
+100,97,PHP,1658450631000,4618693,cedricdd,FR,85418008807758,
 100,98,PHP,1597970165000,3921133,Tetelle,FR,,
 100,99,PHP,1608598092000,1193078,Tasiot,FR,,
 100,100,PHP,1567946832000,802171,Merome,FR,1833057833457,
@@ -198,7 +199,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,PHP,1567946832000,987041,particleflux,DE,20248170388720,
 100,129,PHP,1608345425000,4015957,Thomas_Lobjoie-Inviqa,GB,,
 100,129,PHP,1616122921000,3983017,TLbuis,NL,50598324428631,
-100,129,PHP,1658363532000,4618693,cedricdd,FR,85418008807758,
 100,130,PHP,1567946832000,2552276,William_T.,FR,18879775972680,
 100,130,PHP,1567946832000,2564086,takashi_yoshimatsu,RU,,
 100,130,PHP,1604206725000,2566623,VincentBab,FR,37690085186536,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=985|time=2022-07-25T00:30:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=986|time=2022-07-26T00:30:56
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -330,6 +330,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,162,Javascript,1613703182000,1693448,KoenduBuf,NL,65025161404567,
 100,162,Javascript,1620788503000,3189631,Arkless,DE,,
 100,162,Javascript,1657586205000,4172463,Golyator,DE,103485123545905,
+100,162,Javascript,1658795456000,380805,Xtendz,FR,100694504923582,
 100,163,Javascript,1568684374000,3349783,glm9637,DE,29214528162212,
 100,163,Javascript,1593477269000,935744,Alcalyn,FR,12077756999042,
 100,163,Javascript,1605144572000,311423,kirzyka,UA,5244779889243,
@@ -385,6 +386,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Javascript,1629073844000,4083405,jzen,DK,70320380398625,
 100,168,Javascript,1644885772000,4741792,just-make-an-api-bruh,US,,
 100,168,Javascript,1652662435000,3727077,Manwi23,CH,42360341161981,
+100,168,Javascript,1658795456000,2110342,lchenay,FR,68642008923579,
 100,169,Javascript,1567946837000,1330843,Brokenmass,GB,4380409503798,
 100,169,Javascript,1585097115000,2438065,iter,FI,60213703884300,
 100,169,Javascript,1586654970000,1406822,JBeen,UA,20440902196127,
@@ -395,7 +397,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,170,Javascript,1589943889000,3819867,Elvis438,CA,,
 100,170,Javascript,1622863728000,4315215,hb68,FR,,
 100,170,Javascript,1626396602000,4325131,chop-chop_aka_zundux,RU,63776362626256,
-100,170,Javascript,1628296246000,2110342,lchenay,FR,68642008923579,
 100,170,Javascript,1635986035000,4368925,johanrosenson,SE,72756947412032,
 100,170,Javascript,1637542269000,4564296,E_Mantix,AT,73084385420383,
 100,170,Javascript,1638405573000,3792309,schachmatt,DE,58313205988826,

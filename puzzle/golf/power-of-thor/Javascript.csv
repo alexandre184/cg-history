@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4632|time=2022-07-27T00:30:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4633|time=2022-07-28T01:00:18
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1648341595000,2928146,LolCat,MU,22538133010433,
@@ -112,7 +112,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,104,Javascript,1567946825000,1330431,TzeKin,SG,68707161253272,
 100,104,Javascript,1567946825000,2029481,alocquet,FR,,
 100,104,Javascript,1595118634000,3569691,KndrSrprizzz,FR,46021287537442,
-100,104,Javascript,1597970158000,1544797,Jalibter,FR,110710325679180,
+100,104,Javascript,1597970158000,1544797,ldubos,FR,110710325679180,
 100,104,Javascript,1610685070000,1566335,BeardedWhale,SE,36571449875674,
 100,104,Javascript,1615343627000,4180659,abrman,SK,74762185405103,
 100,104,Javascript,1616899837000,1019883,Pedromdrp,PT,2315578082196,
@@ -179,6 +179,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,107,Javascript,1644024340000,2924895,trictrac,FR,23056996012330,
 100,107,Javascript,1656722079000,3561474,Blokops,MX,37684462080100,
 100,107,Javascript,1658450624000,380805,Xtendz,FR,100694504923582,
+100,107,Javascript,1658970018000,2110342,lchenay,FR,68642008923579,
 100,108,Javascript,1567946825000,1656351,Castosaurus,YT,21643540184535,
 100,108,Javascript,1567946825000,970985,bologna,FR,13834648468780,
 100,108,Javascript,1567946825000,558770,lD,FR,7979637651523,
@@ -262,7 +263,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,109,Javascript,1567946825000,1634195,k.ab,ID,13042180236760,
 100,109,Javascript,1567946825000,1189812,kagary06,UA,3005861038498,
 100,109,Javascript,1567946825000,1111588,klmpfh,DE,2475595640302,
-100,109,Javascript,1567946825000,2110342,lchenay,FR,68642008923579,
 100,109,Javascript,1567946825000,279452,mangoose,TN,,
 100,109,Javascript,1567946825000,2730871,rayriffy,TH,89216665849065,
 100,109,Javascript,1567946825000,1827683,tbobm,FR,60851161201529,

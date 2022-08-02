@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3014|time=2022-08-01T00:32:19
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3014|time=2022-08-02T00:30:38
 100,61,Python3,1648341588000,2928146,LolCat,MU,22538133010433,
 100,62,Python3,1624329578000,3845610,pardouin,FR,60364063762936,
 100,67,Python3,1644972462000,1654818,tarapitha,EE,79401682508715,
@@ -561,6 +561,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,180,Python3,1645578054000,4073854,Buk.,FR,72577584677375,
 100,180,Python3,1654131112000,3256989,rizant,RU,,
 100,180,Python3,1655857841000,3409406,Ail,FR,31484567491228,
+100,180,Python3,1659400238000,5006309,Wisenam,MA,88462029594100,
 100,181,Python3,1567946818000,1479264,ArbustRe,FR,4956547000583,
 100,181,Python3,1567946818000,1300254,Escdemon,FR,10836573287384,
 100,181,Python3,1567946818000,1918036,Fagnon,FR,13119096454982,
@@ -714,6 +715,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,188,Python3,1642552906000,4661127,Tommy1727,MG,,
 100,188,Python3,1645144930000,4083537,DavidAvsajanishvili,GE,55847109957826,
 100,188,Python3,1656117043000,4866464,vjules,FR,,
+100,188,Python3,1659400238000,4537924,ArtesScytale,BE,,
 100,189,Python3,1567946818000,2711438,Aeneas,FR,20716894647776,
 100,189,Python3,1567946818000,954755,AiMikoto,RO,42941865040389,
 100,189,Python3,1567946818000,1761969,Chosedone,AR,11845160688134,
@@ -766,7 +768,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,191,Python3,1649205039000,4441094,Oric1,FR,68215368870645,
 100,191,Python3,1655253036000,4272061,HerbertDeVaucanson,FR,62480706767111,
 100,191,Python3,1655339577000,507538,Krzybe,PL,,
-100,191,Python3,1657499438000,4537924,ArtesScytale,BE,,
 100,191,Python3,1658709039000,3599907,aski,FR,,
 100,192,Python3,1567946818000,969333,ItsJasper,BE,5665765013739,
 100,192,Python3,1567946818000,1669679,XtalSi,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,198,Python3,1657240666000,4932733,Gb470,GB,,
 100,198,Python3,1658450619000,2411887,DerpyCat,CA,16586312858733,
 100,198,Python3,1658795434000,4994436,ldvcgllm,BE,,
-100,199,Python3,1567946818000,995942,Veky,HR,,

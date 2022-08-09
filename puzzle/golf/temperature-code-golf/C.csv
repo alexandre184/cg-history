@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1249|time=2022-08-08T00:30:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1251|time=2022-08-09T01:02:55
 100,36,C,1586393334000,334009,abouvier,FR,4681436111242,
 100,38,C,1639876431000,1483723,d-s-x,RU,4980051025170,
 100,39,C,1616380794000,155774,dwarfie,FR,17785582865119,
@@ -428,6 +428,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,129,C,1578443888000,900129,Julien_E,FI,5270045731391,
 100,129,C,1578702636000,1673512,Ryoken,LI,,
 100,129,C,1581901370000,1178569,Azerrr,FR,2849990549711,
+100,129,C,1660006975000,4610996,OrangeBrain,DE,73819245726160,
 100,130,C,1567946831000,2309378,iElden,FR,15572703904090,
 100,130,C,1623294192000,936271,Chkoupinator,FR,63680800481745,
 100,130,C,1627002654000,4333784,qcshark,SE,63994725574159,
@@ -798,6 +799,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,480,C,1600656630000,3981997,frekiwolfhart,FR,,
 100,481,C,1617158160000,3974965,OpariucCatalin,RO,,
 100,487,C,1575765224000,3596721,Karita,DK,,
+100,490,C,1660006975000,4994690,underteka,MA,,
 100,492,C,1567946831000,1428150,Lizary,CN,,
 100,493,C,1567946831000,1695895,C_Collamar,PH,16177083243205,
 100,494,C,1567946831000,1477791,seitec01,HU,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1172,C,1626309041000,4291738,Hakim-12,MA,,
 100,1187,C,1580345021000,3655571,JoJeanneret,CH,,
 100,1187,C,1634689849000,4093844,LGdu30,FR,,
-100,1200,C,1567946831000,1922545,OrgoRok,FR,11892480269321,
-100,1200,C,1622863721000,4372071,Guillaume-b,FR,,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6610|time=2022-08-12T00:30:23
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6611|time=2022-08-13T01:13:30
 5,31.53,C++,,3004019,3193653,karliso,LV,54368321987353,
 5,31.39,C++,,2975979,880353,zasmu,FR,22237226756102,
 5,31.07,C++,,2982332,1082988,Saelyos,FR,6965824947540,
@@ -789,12 +789,12 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.72,Java,,3793430,4401975,Cyberhuman,KR,66612549268830,
 3,24.7,Python3,,3024587,1894833,Rimailleur,FR,15313478065891,
 3,24.69,Python3,,2978648,3147344,Gibruska,FR,105448220494903,
+3,24.68,C++,,3011380,3766690,marty4545,FR,46177144811599,
 3,24.68,Javascript,,3691444,3427517,csysja,GB,101375763422273,
 3,24.66,Javascript,,2979300,1282856,ErikBrendel,DE,41207148765120,
 3,24.65,TypeScript,,2979626,2990918,Dingodino,FR,23216166624189,
 3,24.63,C++,,2975871,1140677,Crog,FR,41060062482552,
 3,24.62,Javascript,,2980017,3563633,p1100i,HU,36708686213273,
-3,24.61,C++,,3011380,3766690,marty4545,FR,46177144811599,
 3,24.6,Java,,2976686,3799710,adyg77,RO,,
 3,24.59,Python3,,2976855,303151,MoOT.Cube,FR,14950711588437,
 3,24.58,Java,,2979812,3802430,Andronnix,DE,,
@@ -988,7 +988,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.26,Java,,2982474,877888,kael,FR,,
 3,22.25,C++,,2975603,846553,Aleks,FR,8880388320763,
 3,22.25,Python3,,2979491,3501475,Over9000,DE,,
-3,22.24,C#,,2978482,3769834,Hoggins,UA,44250964104287,
 3,22.24,Python3,,2976181,1807733,NoZ-,FR,14066071779905,
 3,22.23,Python3,,2978641,3806519,ijc90,AR,,
 3,22.23,C++,,2976728,1976585,TheMadOcarina,FR,12413669510547,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.18,C++,,3487811,4119720,maniekTC,PL,,
 3,22.16,Java,,4393241,4798254,The_pineapple,IT,86195864890043,
 3,22.16,Python3,,2980466,1895212,Maxlaxs,DK,11670343402125,
+3,22.15,C#,,2978482,3769834,Hoggins,UA,44250964104287,

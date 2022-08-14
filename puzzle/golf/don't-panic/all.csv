@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11353|time=2022-08-13T01:13:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11354|time=2022-08-14T00:57:07
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,56,Bash,1648946762000,2928146,LolCat,MU,22538133010433,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -794,6 +794,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,135,Ruby,1648254633000,4716095,MichMich31,FR,78647228592436,
 100,135,Bash,1649377836000,962495,eboot,FR,55086804311206,
 100,135,Python3,1651797042000,836864,anthonytn01,FR,11350880998558,
+100,135,Javascript,1660438626000,984854,DKurilo,US,88784426411869,
 100,136,Javascript,1567946817000,1677918,CA,FR,8341569165435,
 100,136,Javascript,1567946817000,1937628,Elom,FR,12220589050170,
 100,136,Javascript,1567946817000,1113073,IvoRocha,PT,2521937558460,
@@ -957,6 +958,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Python3,1645578054000,3141948,philRG,FR,43152009653961,
 100,147,Javascript,1651537839000,4055973,Aeschli,CH,,
 100,147,Bash,1652403090000,3516345,Jp82,FR,63600965075245,
+100,147,Lua,1660438630000,2874091,5DN1L,GB,79633423380001,
 100,148,C,1567946816000,1072200,alze,FR,5036475951741,
 100,148,Javascript,1567946817000,365796,CvxFous,FR,2892223124232,
 100,148,Python3,1567946818000,1178157,R_o_l_a_n_d,FR,7129625873167,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,150,Python3,1567946818000,844968,MoMaT,PL,4417545799180,
 100,150,Python3,1567946818000,1699885,kromanychev,NL,15124249553173,
 100,150,ObjectiveC,1567946819000,1759335,metahom,AE,40546489176319,
-100,150,Javascript,1606438651000,4040965,Twistman,FR,,
-100,150,Ruby,1607822416000,1200669,houseofsuns,DE,53824589647639,

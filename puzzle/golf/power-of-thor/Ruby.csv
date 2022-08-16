@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1339|time=2022-08-15T00:30:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1340|time=2022-08-16T00:30:48
 100,42,Ruby,1647131441000,2928146,LolCat,MU,22538133010433,
 100,45,Ruby,1639097258000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,47,Ruby,1640999270000,1483723,d-s-x,RU,4980051025170,
@@ -20,6 +20,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,54,Ruby,1656203443000,4920547,Nic04nic0las,FR,,
 100,54,Ruby,1656635666000,1205108,jval,KZ,73581028678836,
 100,54,Ruby,1657674390000,709490,Sinlepuissant,FR,2102604527472,
+100,54,Ruby,1660609848000,1345356,Stony300,FR,92320101246284,
 100,55,Ruby,1651624685000,2377220,arstneio,RU,,
 100,57,Ruby,1631666306000,4241722,t.willson,FR,101280462753684,
 100,57,Ruby,1632789663000,3380184,chouch,FR,,
@@ -559,6 +560,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,Ruby,1603593232000,156188,DorianWilde,FR,1753926884442,
 100,147,Ruby,1629333037000,2243940,Revenge911,ZA,60190844196823,
 100,147,Ruby,1637285276000,2595251,Veterini,FR,19202130093288,
+100,147,Ruby,1660609848000,3737269,htprogras,MA,51086601409565,
 100,148,Ruby,1567946826000,1365146,Escobedo,MX,3955834977374,
 100,148,Ruby,1567946826000,1373701,MartinBruna,CZ,4123025435404,
 100,148,Ruby,1612147799000,2633338,AZJ,GB,58622881571428,
@@ -791,7 +793,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,190,Ruby,1567946826000,256333,Caracole,FR,50954809078419,
 100,190,Ruby,1624753836000,4212522,Oursin,FR,59807729998220,
 100,191,Ruby,1567946826000,1164349,starblanket,DE,3975318579093,
-100,191,Ruby,1644283083000,3737269,htprogras,MA,51086601409565,
 100,192,Ruby,1598810516000,3596445,Bafiko,FR,44854648215244,
 100,193,Ruby,1567946826000,273876,JeremyLefevre,FR,78452887015207,
 100,193,Ruby,1567946826000,678232,maximkuzmin,RU,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,928,Ruby,1594168540000,807288,Eukalyptus,FR,,
 100,955,Ruby,1567946826000,2440756,math1on,JP,,
 100,956,Ruby,1587777065000,1454207,Didou,FR,,
-100,960,Ruby,1567946826000,1230070,bbryexp,US,,

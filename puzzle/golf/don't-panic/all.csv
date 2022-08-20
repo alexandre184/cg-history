@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11382|time=2022-08-19T00:38:55
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11385|time=2022-08-20T01:01:28
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,56,Bash,1648946762000,2928146,LolCat,MU,22538133010433,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -268,6 +268,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,Python3,1655512239000,4830112,slow-mo,IT,82275142620547,
 100,103,Javascript,1655512241000,481564,mihei,RU,4454400756022,
 100,103,Perl,1659228806000,4122723,Hydrazer,PW,62269304810770,
+100,103,Python3,1660957283000,1597335,Fizimatik,BY,88480780169435,
 100,104,Javascript,1567946817000,1026791,Alfalfamale,NL,7144185210937,
 100,104,Javascript,1567946817000,1390607,Ivan_Derzhylo,UA,67601821029462,
 100,104,Javascript,1567946817000,943558,Johanhq,SE,2015039196515,
@@ -913,6 +914,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,144,ObjectiveC,1627174069000,709490,Sinlepuissant,FR,2102604527472,
 100,144,Clojure,1636851164000,3845610,pardouin,FR,60364063762936,
 100,144,Python3,1640219623000,4594770,picoplankton,US,73613486367696,
+100,144,Javascript,1660957284000,4438505,[CUBE],FR,106573303077213,
 100,145,Javascript,1567946817000,2416641,Zenoscave,US,16732569385856,
 100,145,Javascript,1567946817000,1333871,ayarunas,US,,
 100,145,Javascript,1567946817000,534997,lethern,PL,2151730760092,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,150,Perl,1567946818000,1093968,milosMATRIXrepic,RS,78180568348596,
 100,150,Python3,1567946818000,333934,CrazyMerlyn,IE,20045015439951,
 100,150,Python3,1567946818000,844968,MoMaT,PL,4417545799180,
-100,150,Python3,1567946818000,1699885,kromanychev,NL,15124249553173,
-100,150,ObjectiveC,1567946819000,1759335,metahom,AE,40546489176319,

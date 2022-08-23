@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2698|time=2022-08-22T00:35:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2700|time=2022-08-23T00:31:02
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
 100,74,Python3,1600224982000,3845610,pardouin,FR,60364063762936,
@@ -519,6 +519,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Python3,1631148487000,4472899,nullrand,MX,69712227618126,
 100,123,Python3,1633912252000,184347,Antoine_95,FR,71538082727042,
 100,123,Python3,1660957302000,4144336,tanakha,FR,79256803526510,
+100,123,Python3,1661214662000,5024020,natthaphon,TH,88701760307123,
 100,124,Python3,1567946837000,1739595,Bemethor,FR,56657523489584,
 100,124,Python3,1567946837000,854169,Silmaen,FR,26099485782783,
 100,124,Python3,1588984256000,1622367,Dela,US,,
@@ -660,6 +661,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,130,Python3,1624753847000,4286679,fungi_star,HK,66789048913950,
 100,130,Python3,1624927223000,1701924,Kethryes,FR,65611961439802,
 100,130,Python3,1651537858000,2968035,DomiKo,PL,46567648927625,
+100,130,Python3,1661214662000,4988923,BlueberryPi,TR,,
 100,131,Python3,1567946837000,1657457,GrantPerkins,US,33650747755894,
 100,131,Python3,1567946837000,2514555,RoyReznik,IL,,
 100,131,Python3,1576718285000,958490,lj,FR,,
@@ -831,7 +833,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,139,Python3,1636677908000,4456017,juma,NL,71494727392477,
 100,139,Python3,1651712604000,3411072,summer000,RU,42538447065213,
 100,139,Python3,1653352510000,1039456,nikokolas,FR,2134795155504,
-100,139,Python3,1660957302000,5024020,natthaphon,TH,88701760307123,
 100,140,Python3,1567946837000,1660477,kakben,SE,14328066257940,
 100,140,Python3,1580171441000,3382273,hasleron,GB,39607083737997,
 100,140,Python3,1584752314000,3430477,ZakiFellah,DZ,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,148,Python3,1618547412000,3973359,KAbel,HU,58683122994198,
 100,148,Python3,1621305674000,3425476,SteachTheTurtle,FR,31844922434400,
 100,148,Python3,1621824489000,1755542,loowie,FR,,
-100,148,Python3,1623638947000,4351388,Sn0wCrash,FR,64692924352485,

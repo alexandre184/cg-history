@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1005|time=2022-08-29T00:54:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1006|time=2022-08-30T00:30:57
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -253,7 +253,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,153,Javascript,1612492781000,3585167,immjs,FR,57452709515182,
 100,153,Javascript,1621564500000,1109907,polpoul,FR,44086100862204,
 100,153,Javascript,1621996724000,4300969,thomasgonda3,US,63048681225268,
-100,153,Javascript,1628988262000,4450116,Ketal,FR,,
+100,153,Javascript,1628988262000,4450116,miida,FR,,
 100,153,Javascript,1634518046000,3533314,skotz,US,97334021748803,
 100,154,Javascript,1572395744000,1383959,ebriand,FR,4078625698623,
 100,154,Javascript,1603507647000,2708267,XyoloJR,FR,52279543518143,
@@ -378,6 +378,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,166,Javascript,1601952016000,3567442,jS,CA,51347348008698,
 100,166,Javascript,1609203940000,4096563,Maritto,PT,,
 100,166,Javascript,1614911462000,2405338,Bl4sio,HU,,
+100,166,Javascript,1661819457000,4081047,Rezhay,FR,54568080107073,
 100,167,Javascript,1567946837000,3376809,Bdnugget,NL,29832443535439,
 100,167,Javascript,1574211022000,3559415,tux3000,FR,36483861375430,
 100,167,Javascript,1589244504000,2387122,Cryosis7,NZ,16253381777425,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,302,Javascript,1626396602000,4406706,emojiboy,ZA,66820029609618,
 0,320,Javascript,1624432245000,3735745,KareemTheDream,US,41991023799349,
 0,349,Javascript,1624432245000,3214641,Neicul,FR,25566448504624,
-0,354,Javascript,1624432245000,3817354,logdog775,US,,

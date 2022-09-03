@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7914|time=2022-09-02T00:30:10
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=7916|time=2022-09-03T00:30:10
 5,43.97,C++,,3665384,1400179,reCurse,CA,58850847098890,
 5,39.58,C++,,3873772,3457031,YurkovAS,RU,33020204289704,
 5,38.21,Rust,,3704114,4300424,kurnevsky,PL,62789226093738,
@@ -483,7 +483,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,38.06,C++,,3673286,4317930,nam4.nguyen,VN,63742446524298,
 4,38.03,Java,,3669699,4145423,pizza6,FR,57632388905414,
 4,37.99,C#,,3664978,1062993,Whiskee,IT,2703903845691,
-4,37.97,C,,3668996,3148294,moukasso,MA,,
+4,37.98,C,,3668996,3148294,moukasso,MA,,
 4,37.88,Python3,,3665722,3765105,lainislain,MA,74125843125216,
 4,37.87,C,,3669990,4323615,Troph,FR,,
 4,37.85,Java,,3671486,4324288,tiquaidu,VN,63618783407832,
@@ -920,11 +920,11 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,32.76,Python3,,3668582,3754358,Maxordd,DE,50822785044460,
 4,32.74,Java,,3670006,610989,Greg237,FR,105897800589496,
 4,32.74,Python3,,3670085,4054897,Raph_Hax0r,BD,53578081922568,
+4,32.74,C++,,3669187,1502290,Feleon,FR,63559406533717,
 4,32.73,C#,,3666047,1782492,TubeDeCode,FR,60146106780643,
 4,32.73,Python3,,3667311,1760406,[nico],FR,63461225299166,
 4,32.72,TypeScript,,3666711,2336164,hwd,FR,,
 4,32.71,Python3,,3668840,510486,Jorigole,FR,53842008072189,
-4,32.71,C++,,3669187,1502290,Feleon,FR,63559406533717,
 4,32.7,C#,,3665798,953937,Blaireau,BE,1799262091696,
 4,32.69,Rust,,3672853,3877700,Bytekeeper,DE,82369284039120,
 4,32.68,C#,,3668495,4147861,FelixRichter2000,DE,59768620087631,
@@ -998,4 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,31.96,Python3,,3668407,656081,2skill3d4u,FR,80528727411142,
 4,31.95,C++,,3667498,4062369,Vyn_,FR,53876584655786,
 4,31.95,Java,,3667163,1630667,Numby,US,41801345425032,
-4,31.93,C#,,3669948,4329706,Sferenc,HU,65392902305369,
+4,31.94,Java,,3675915,3039456,SabertheLost,SE,,

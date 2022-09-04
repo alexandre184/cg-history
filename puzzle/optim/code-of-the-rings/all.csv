@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=6416|time=2022-09-03T00:30:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=6418|time=2022-09-04T00:45:13
 100,2756,Rust,1660264226000,2288263,dbdr,UA,43448306132121,
 100,2759,C#,1584752293000,1301401,Stanax,FR,44495484097566,
 100,2761,C++,1584583284000,1833680,jvivenot,FR,10877987072863,
@@ -432,6 +432,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,4561,Python3,1620962554000,4270173,kralikX,CZ,95299225576073,
 100,4562,Python3,1643590447000,3379453,Erihel,PL,,
 100,4563,Python3,1639441833000,1634607,Taraxacum,US,7506783108472,
+100,4568,C++,1662252313000,3936833,algoliga2020,PL,,
 100,4583,Swift,1617504046000,3815413,Michael_Howard,GB,44719647705818,
 100,4589,Ruby,1632529825000,4050016,CharlesSenemaud,FR,70436660917123,
 100,4592,C++,1567946813000,2567580,veryRandom,GB,,
@@ -699,6 +700,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5619,C++,1607908991000,829018,alchemsti,DE,39208827785278,
 100,5621,C++,1622082952000,1481544,ZarthaxX,AR,63758603571200,
 100,5621,C++,1655339568000,4726885,Boooooooo,FR,,
+100,5622,C++,1662252313000,3936949,Jasiek_,PL,,
 100,5624,Java,1567946813000,1498163,Ben-oit,FR,9072028096923,
 100,5625,C#,1591062148000,3840675,FeedThisDev,DE,45952940194449,
 100,5626,Python3,1623294134000,4373790,Eltrion,CA,65522580652081,
@@ -749,7 +751,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5694,Python3,1567946813000,1254760,Brady,US,,
 100,5695,C++,1599448168000,2923506,darkhorse64,FR,23496414257567,
 100,5695,Python3,1609379271000,153092,Aurep,FR,80624060148818,
-100,5695,C++,1662078629000,3936949,Jasiek_,PL,,
 100,5696,Java,1567946813000,277758,Duffy,FR,1920709753641,
 100,5696,Java,1567946813000,153698,obourgain,FR,,
 100,5697,C#,1567946813000,954830,BoerJan,BE,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5860,Python3,1577234434000,3611860,ChrisPBaconTM,AT,,
 100,5860,Python3,1583283083000,1216462,MartinVachovski,BG,,
 100,5860,Python3,1591496078000,209298,pipistrello,ES,29379983144471,
-100,5860,Python3,1598142624000,1407720,bananaMixer,FR,4478289426855,

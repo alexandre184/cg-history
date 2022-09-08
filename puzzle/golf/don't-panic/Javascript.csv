@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1577|time=2022-09-07T00:34:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1577|time=2022-09-08T00:30:36
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -193,6 +193,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Javascript,1567946817000,1740037,ereiam,FR,12669494111004,
 100,133,Javascript,1567946817000,857443,joshwithguitar,AU,,
 100,133,Javascript,1643416232000,4083537,DavidAvsajanishvili,GE,55847109957826,
+100,133,Javascript,1662597036000,4438505,[CUBE],FR,106573303077213,
 100,134,Javascript,1567946817000,1256917,Qbe_Root,FR,15037143433536,
 100,134,Javascript,1567946817000,937362,josh_,FR,1755973612089,
 100,134,Javascript,1567946817000,1668912,sirCodesALot,DK,,
@@ -214,7 +215,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,137,Javascript,1567946817000,1411649,Levatol,RU,5762600339559,
 100,137,Javascript,1567946817000,1330431,TzeKin,SG,68707161253272,
 100,137,Javascript,1655426683000,581557,Ragok,PL,,
-100,137,Javascript,1662252325000,4438505,[CUBE],FR,106573303077213,
 100,138,Javascript,1567946817000,2386059,Alphik,CY,18409237128382,
 100,138,Javascript,1583957390000,1353795,TheCrucial,PL,18581166493021,
 100,138,Javascript,1594258239000,3808031,_proton,US,44172683522650,
@@ -989,7 +989,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,276,Javascript,1567946817000,899076,brandoncc,US,,
 100,277,Javascript,1567946817000,990157,Micrologist,DE,2025780705453,
 100,278,Javascript,1593218091000,1483410,GiulneverFergett,GR,64162085944079,
-100,279,Javascript,1567946817000,1406638,[CG]Thibaud,FR,20943796238707,
+100,279,Javascript,1567946817000,1406638,TwoSteps,FR,20943796238707,
 100,279,Javascript,1627866424000,882157,Mearwin,FR,,
 100,280,Javascript,1623294160000,4373790,Eltrion,CA,65522580652081,
 100,281,Javascript,1633223521000,1035630,Vestiaz,FR,8121133110363,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4686|time=2022-09-09T00:30:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4687|time=2022-09-10T00:39:33
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1648341595000,2928146,LolCat,MU,22538133010433,
@@ -649,6 +649,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,125,Javascript,1636417839000,924425,poney,FR,4382318176417,
 100,125,Javascript,1649291572000,4325568,shdev,DE,82625787460694,
 100,125,Javascript,1657759003000,4762078,onlyLordManu,CI,85567482180781,
+100,125,Javascript,1662770373000,5025755,TomBAN,FR,88564120622158,
 100,126,Javascript,1567946825000,928564,Dagohan,TR,,
 100,126,Javascript,1567946825000,2400938,Gaiel,BE,16450990810131,
 100,126,Javascript,1567946825000,1809405,Ginkyu,BR,,
@@ -866,6 +867,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,134,Javascript,1627691443000,1932980,AlexandreK,FR,30714560059953,
 100,134,Javascript,1644367248000,813841,Kddsky,UA,,
 100,134,Javascript,1653698897000,420785,Max52,RU,7207083347396,
+100,134,Javascript,1662770373000,4066586,Luesewr,NL,54677884010246,
 100,135,Javascript,1594859431000,155762,BabelO,FR,81817040955785,
 100,135,Javascript,1594859431000,1642184,BastiSchulz,DE,7664472140135,
 100,135,Javascript,1594859431000,1416343,Chillbologna,US,30907683411084,
@@ -909,7 +911,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Javascript,1642552912000,884367,frozar,FR,3597039984066,
 100,136,Javascript,1652921690000,886483,R4N4R4M4,FR,7943435133357,
 100,136,Javascript,1653185429000,4839008,GerkinDev,FR,84108241561917,
-100,136,Javascript,1662252332000,4066586,Luesewr,NL,54677884010246,
 100,137,Javascript,1594859431000,1180953,Dammmien,FR,69413085141595,
 100,137,Javascript,1594859431000,846838,K.MA,FR,42367927612850,
 100,137,Javascript,1594859431000,837787,ShogunAlex,US,4436004539832,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Javascript,1594946584000,2578288,jorma,FI,18280131664996,
 100,140,Javascript,1594946584000,2672757,smateev,BG,,
 100,140,Javascript,1602297032000,1691438,mvill,FR,,
-100,140,Javascript,1604025046000,1565296,TimothyChan1,US,,

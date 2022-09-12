@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1581|time=2022-09-11T00:30:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1581|time=2022-09-12T00:32:49
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -33,6 +33,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Javascript,1611456185000,1566335,BeardedWhale,SE,36571449875674,
 100,99,Javascript,1614997856000,4166845,HugeMissedSteak,NL,59373221969418,
 100,99,Javascript,1654302903000,4334237,BJD,US,64170920248296,
+100,99,Javascript,1662942769000,5024020,natthaphon,TH,88701760307123,
 100,100,Javascript,1567946817000,172938,kuzmaka,UA,1842478040420,
 100,100,Javascript,1611382391000,3740142,AkshatJ1127,IN,71621844864426,
 100,100,Javascript,1615257531000,4155983,o0lit3,US,58386742395102,
@@ -248,7 +249,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,Javascript,1569285022000,1923902,gkalpak,GR,33993501409918,
 100,145,Javascript,1600138058000,3880940,cpedersen,AR,,
 100,145,Javascript,1644453173000,1132126,BobySait,FR,70936663668585,
-100,145,Javascript,1662770364000,5024020,natthaphon,TH,88701760307123,
 100,146,Javascript,1567946817000,3352676,3t0n,RU,29140567952302,
 100,146,Javascript,1567946817000,944576,Desmononox,NL,,
 100,146,Javascript,1567946817000,1525816,Flodnes,NO,5656265985683,
@@ -708,7 +708,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,200,Javascript,1631320228000,3559724,dan_the_bloke,GB,,
 100,200,Javascript,1633826715000,1202744,KILLogic,NL,3013778791439,
 100,200,Javascript,1641357390000,3800561,Aholief,FR,67388520391904,
-100,200,Javascript,1641863849000,4564296,E_Mantix,AT,73084385420383,
+100,200,Javascript,1641863849000,4564296,Yevhen_Sibahatullin,AT,73084385420383,
 100,200,Javascript,1648341588000,4538382,WoolEMammoth,US,81305462725637,
 100,200,Javascript,1650158144000,1611699,EpiFlop,FR,15684668176220,
 100,200,Javascript,1654993838000,2616395,welder,RU,,

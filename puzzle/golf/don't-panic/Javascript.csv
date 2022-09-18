@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1583|time=2022-09-17T00:30:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1584|time=2022-09-18T00:30:34
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -378,6 +378,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,166,Javascript,1636504849000,2536589,mjfcolas,FR,70963468927001,
 100,166,Javascript,1641357390000,614215,Jo,FR,25861427746726,
 100,166,Javascript,1651712587000,420785,Max52,RU,7207083347396,
+100,166,Javascript,1663461034000,4819330,rocambille,FR,82228789327154,
 100,167,Javascript,1567946817000,1656351,Castosaurus,YT,21643540184535,
 100,167,Javascript,1567946817000,1577127,Nash171,LK,14283595721301,
 100,167,Javascript,1567946817000,779449,THoVer,LT,,
@@ -696,7 +697,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,Javascript,1659918637000,4859684,PaRy,RU,,
 100,199,Javascript,1660785513000,4397375,Tiboo5,FR,82641187219857,
 100,199,Javascript,1660869534000,3185288,devex,US,25500986012411,
-100,199,Javascript,1661734477000,4240162,nicolaes,RO,82500087525448,
+100,199,Javascript,1661734477000,4240162,blueCypher,RO,82500087525448,
 100,200,Javascript,1567946817000,1060181,Dabou,FR,3798025078627,
 100,200,Javascript,1567946817000,2990918,Dingodino,FR,23216166624189,
 100,200,Javascript,1567946817000,1390503,IQuick,CZ,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,279,Javascript,1627866424000,882157,Mearwin,FR,,
 100,280,Javascript,1623294160000,4373790,Eltrion,CA,65522580652081,
 100,281,Javascript,1633223521000,1035630,Vestiaz,FR,8121133110363,
-100,282,Javascript,1567946817000,1521783,forrestone,IT,,

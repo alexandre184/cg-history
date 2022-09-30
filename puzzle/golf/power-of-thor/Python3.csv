@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8387|time=2022-09-29T00:30:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8391|time=2022-09-30T00:43:03
 100,51,Python3,1648254644000,2928146,LolCat,MU,22538133010433,
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,59,Python3,1641357393000,1483723,d-s-x,RU,4980051025170,
@@ -407,6 +407,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,108,Python3,1621229498000,831494,Mimvdb,NL,,
 100,108,Python3,1635554247000,2649897,0fl,FR,19871508596240,
 100,108,Python3,1651973288000,2976964,BenjaminUrquhart,US,26083283518959,
+100,108,Python3,1664498583000,4287765,MarcoCat,CA,69973668967561,
 100,109,Python3,1567946825000,2554213,,DE,,
 100,109,Python3,1567946825000,425462,Azt-yur,RU,16224786627212,
 100,109,Python3,1567946825000,1288168,Nebkaure,FR,40402946197267,
@@ -533,7 +534,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,112,Python3,1620101779000,4156211,r31415,DE,62543581504760,
 100,112,Python3,1621650945000,1755542,loowie,FR,,
 100,112,Python3,1624841970000,3791366,Artygo8,BE,59710426906111,
-100,112,Python3,1624927211000,2369368,BugKiller_yaroslav,UA,66074328130585,
+100,112,Python3,1624927211000,2369368,yaroslav_jin,UA,66074328130585,
 100,112,Python3,1639184753000,3937043,Jaek,DZ,48656186648228,
 100,112,Python3,1651537843000,1076632,Chen,NL,16271318829241,
 100,112,Python3,1652316997000,4745511,Markus88,AT,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,121,Python3,1624668526000,1324974,ViktorCs,HU,4515823207881,
 100,121,Python3,1625704544000,4385398,LordViking,PT,66528705439744,
 100,121,Python3,1626224904000,4294044,simsimlafamille,FR,64218049607703,
-100,121,Python3,1628988250000,2143315,FluffyToaster,NL,14075852675260,

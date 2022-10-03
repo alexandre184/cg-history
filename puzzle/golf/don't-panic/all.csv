@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11531|time=2022-10-02T01:03:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11536|time=2022-10-03T00:30:40
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,56,Bash,1648946762000,2928146,LolCat,MU,22538133010433,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -503,6 +503,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Ruby,1646008233000,3514975,PhuRiNaT,TH,97597367576293,
 100,119,Python3,1649291555000,3337117,timbersson,GB,31946722637374,
 100,119,Ruby,1656895132000,4116084,grahamcracker1234,US,56223045071058,
+100,119,Javascript,1664757040000,5062387,Tenclea,FR,106873645042836,
 100,120,Javascript,1567946817000,935802,Jerhyn,FR,109463964266798,
 100,120,Javascript,1610944262000,3546420,ZackGabri,TD,35924043313662,
 100,120,Python3,1634432747000,1152991,xoposhiy,RU,2894275932979,
@@ -589,6 +590,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Python3,1652403091000,4380347,AsteelPoro,FR,68168262230151,
 100,123,Python3,1655253036000,4811550,lyconide,FR,,
 100,123,Python3,1659228804000,4122723,Hydrazer,PW,62269304810770,
+100,123,TypeScript,1664757038000,5062387,Tenclea,FR,106873645042836,
 100,124,C,1567946816000,199767,sam,FR,,
 100,124,Javascript,1567946817000,1325359,BIG_DUDE_210,FR,13078594157455,
 100,124,Javascript,1567946817000,1071140,BeberLeNewbie,FR,9528729029244,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Javascript,1567946817000,1701043,Qnu,FR,9551310631906,
 100,149,Javascript,1567946817000,1426271,Vallor,FR,4404508609383,
 100,149,Javascript,1567946817000,1793952,hamham,FR,10972058024009,
-100,149,Javascript,1567946817000,1599292,shinesoul,ID,,
-100,149,Python3,1567946818000,1364335,ArgShX,FR,,

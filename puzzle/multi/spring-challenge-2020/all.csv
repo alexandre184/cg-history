@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6717|time=2022-10-12T00:30:32
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6724|time=2022-10-13T00:30:32
 5,31.53,C++,,3004019,3193653,karliso,LV,54368321987353,
 5,31.39,C++,,2975979,880353,zasmu,FR,22237226756102,
 5,31.07,C++,,2982332,1082988,Saelyos,FR,6965824947540,
@@ -788,6 +788,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.82,C++,,3459454,3800302,v.cogut,MD,44230462675394,
 3,24.77,C#,,2978681,1596238,NickStahl,NL,62957328607883,
 3,24.74,Python3,,3024587,1894833,Rimailleur,FR,15313478065891,
+3,24.69,Javascript,,3691444,3427517,csysja,GB,101375763422273,
 3,24.69,Java,,2977576,3785981,Banti,FR,44124785769347,
 3,24.68,Python3,,2983067,347029,Kevapo,FR,4950639196511,
 3,24.68,C++,,2975871,1140677,Crog,FR,41060062482552,
@@ -797,7 +798,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.64,Java,,3793430,4401975,Cyberhuman,KR,66612549268830,
 3,24.61,Javascript,,2979300,1282856,ErikBrendel,DE,41207148765120,
 3,24.61,Java,,2977492,3680541,Asela,DE,,
-3,24.6,Javascript,,3691444,3427517,csysja,GB,101375763422273,
 3,24.59,TypeScript,,2979626,2990918,Dingodino,FR,23216166624189,
 3,24.58,Java,,3627670,3422956,Martichou,BE,31962022197068,
 3,24.56,Python3,,2977764,3806286,St7,NL,53529903798072,
@@ -922,9 +922,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.33,Javascript,,2977612,1205152,cfoll,FR,44547348311154,
 3,23.32,C++,,3795696,4403610,anakinCSA,KR,66745688472360,
 3,23.3,C++,,2980471,811622,Scarfield,DK,73294709815061,
-3,23.29,Java,,2976857,3169011,geschaftsman,CA,,
 3,23.29,C++,,2979746,153045,nib,FR,43035725248513,
 3,23.26,Python3,,2979695,3765905,edramire,ES,42928363191592,
+3,23.23,Java,,2976857,3169011,geschaftsman,CA,,
 3,23.2,C++,,3476598,3819989,KawattaTaido,JP,54685703661094,
 3,23.18,C++,,2979958,221648,stephenvk,US,,
 3,23.16,Go,,2980377,1415773,pierre31,FR,4337213780013,

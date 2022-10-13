@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=26|time=2022-10-12T00:30:28
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=27|time=2022-10-13T00:30:29
 3,34.04,C,,4434632,2924895,trictrac,FR,23056996012330,
 3,33.87,Java,,4434093,893541,wala,FR,97577641170180,
 2,22.79,C++,,4471043,3136787,jacek,PL,75369242083208,
@@ -20,8 +20,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,12.88,Python3,,4458822,3141948,philRG,FR,43152009653961,
 1,10.52,C++,,4434884,1479930,LeRenard,FR,40384564000700,
 1,8.67,C++,,4433290,4341304,Remi.,FR,97662026388574,
-0,17.72,C#,,4438519,3563934,ChuckTheNinja,US,50520780935948,
-0,12.91,C#,,4449351,2583545,JasonGreen1,GB,69000822247674,
-0,11.45,VB.NET,,4470443,3569066,derjack,MC,64869146225502,
-0,11.03,D,,4433884,4277867,About,SM,65816469118906,
-0,11.03,Java,,4433250,2508635,hemhel,FR,17633818881669,
+0,18.11,C#,,4438519,3563934,ChuckTheNinja,US,50520780935948,
+0,14.12,C#,,4449351,2583545,JasonGreen1,GB,69000822247674,
+0,11.27,VB.NET,,4470443,3569066,derjack,MC,64869146225502,
+0,10.83,Java,,4433250,2508635,hemhel,FR,17633818881669,
+0,10.78,D,,4433884,4277867,About,SM,65816469118906,
+0,9.13,Python3,,4490165,3857811,KidsTech50000,US,,

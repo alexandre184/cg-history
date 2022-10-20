@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2800|time=2022-10-19T00:30:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2803|time=2022-10-20T00:39:46
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,73,Python3,1665449093000,3845610,pardouin,FR,60364063762936,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
@@ -13,6 +13,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,75,Python3,1657845427000,4876171,j4at,TN,83445448969831,
 100,75,Python3,1662942791000,4122723,Hydrazer,PW,62269304810770,
 100,75,Python3,1663893466000,5094699,TheLobbyCreator,,90627001787819,
+100,75,Python3,1666226386000,4037601,Jelafo,DE,,
 100,76,Python3,1618981096000,4110073,souta_1326,JP,57746784258907,
 100,76,Python3,1619321244000,154408,Pollo_loco,FR,61963962536348,
 100,76,Python3,1624432246000,334009,abouvier,FR,4681436111242,
@@ -179,7 +180,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Python3,1628901889000,1470927,MisterQuidam,FR,89056262115378,
 100,99,Python3,1632616433000,4487490,cnk_gr,GR,69672501862552,
 100,99,Python3,1634953203000,865548,Kktus,FR,95659128943351,
-100,99,Python3,1637887791000,4037601,Jelafo,DE,,
 100,99,Python3,1640655424000,2874091,5DN1L,GB,79633423380001,
 100,99,Python3,1645578079000,4277867,About,SM,65816469118906,
 100,99,Python3,1648341611000,3523247,alexcercos,ES,36269364412881,
@@ -757,6 +757,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Python3,1657499457000,2397599,dukemarty,DE,52876589871369,
 100,133,Python3,1658536755000,1612475,superhoang,FR,7281827602664,
 100,133,Python3,1659661544000,4973489,bth0mas,FR,,
+100,133,Python3,1666226386000,1249719,lelbal,HU,10868720167425,
 100,134,Python3,1567946837000,3410351,Deltaspace,RU,31254101171655,
 100,134,Python3,1567946837000,481988,DevKirill,RU,26384102822076,
 100,134,Python3,1567946837000,2328351,DominicCrutchley,GB,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Python3,1638061731000,1701191,Ciegix,FR,,
 100,146,Python3,1638664498000,4200593,qwatry,US,60079822358895,
 100,146,Python3,1652834602000,4755370,TheoFrancois75,FR,79259220079408,
-100,146,Python3,1658363533000,958227,LantarSidonis,FR,23940037830772,

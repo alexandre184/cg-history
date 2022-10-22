@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=36705|time=2022-10-21T00:30:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=36716|time=2022-10-22T00:30:49
 100,41,Bash,1640825375000,1483723,d-s-x,RU,4980051025170,
 100,42,Ruby,1647131441000,2928146,LolCat,MU,22538133010433,
 100,42,Perl,1647131446000,2928146,LolCat,MU,22538133010433,
@@ -901,6 +901,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,102,Python3,1663461040000,4826182,Cadmiom,FR,81334987519631,
 100,102,Python3,1664240985000,4395739,Andret0701,NO,66481065913422,
 100,102,Javascript,1666053542000,4438505,Eric_[EGU],FR,106573303077213,
+100,102,Javascript,1666398650000,5118878,Hellminator,RU,91618909409504,
 100,103,Perl,1567946823000,1518504,bohuss,SK,5792284370171,
 100,103,Perl,1567946823000,1548666,goblin,PL,6759806456781,
 100,103,Javascript,1567946825000,2109511,taquion,MX,13694693506047,
@@ -924,6 +925,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,Python3,1663893450000,3506780,GeertFolkertsma,NL,,
 100,103,Haskell,1665449080000,3845610,pardouin,FR,60364063762936,
 100,103,Scala,1665621051000,1515891,ndc,RU,57247748477088,
+100,103,Javascript,1666398650000,4897557,CesarFS,ES,,
 100,104,Perl,1567946823000,943556,DollarAkshay,IN,18256210360824,
 100,104,Javascript,1567946825000,1048348,Disciple.of.Ada,US,4750606204700,
 100,104,Javascript,1567946825000,1706476,Maboul95,FR,9338051370545,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1634171757000,638784,Yqnn,FR,2711674975713,
 100,105,Javascript,1634862644000,549583,malko,FR,9358834015904,
 100,105,Javascript,1636249294000,1962419,Gerardufoin,CH,82370824734443,
-100,105,Python3,1642301827000,4251195,Smelty,US,62842162200886,
-100,105,Python3,1645750042000,3828035,ycsvenom,GB,44819000907864,

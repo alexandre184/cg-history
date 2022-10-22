@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1602|time=2022-10-21T00:30:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1604|time=2022-10-22T00:30:40
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -396,6 +396,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,168,Javascript,1614138694000,4168646,RaccoonWithSpork,US,59168085376989,
 100,168,Javascript,1652748031000,1250571,ChrisJeamme,FR,44090843307907,
 100,168,Javascript,1654131112000,4907484,LFabre,PT,104664620606325,
+100,168,Javascript,1666398640000,4577809,bob6664569,FR,92398684690217,
 100,169,Javascript,1567946817000,1114834,k4ng0u,FR,26037223936643,
 100,169,Javascript,1621745000000,3590625,Njitram,NL,37776500346985,
 100,169,Javascript,1644024332000,2924895,trictrac,FR,23056996012330,
@@ -711,6 +712,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,Javascript,1660785513000,4397375,Tiboo5,FR,82641187219857,
 100,199,Javascript,1660869534000,3185288,devex,US,25500986012411,
 100,199,Javascript,1661734477000,4240162,blueCypher,RO,82500087525448,
+100,199,Javascript,1666398640000,1827726,Hackerman42,ZA,92041769664369,
 100,200,Javascript,1567946817000,1060181,Dabou,FR,3798025078627,
 100,200,Javascript,1567946817000,2990918,Dingodino,FR,23216166624189,
 100,200,Javascript,1567946817000,1390503,IQuick,CZ,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,271,Javascript,1643511138000,153030,joH,MQ,77983883429299,
 100,272,Javascript,1567946817000,1400060,manolopm,ES,69588024154950,
 100,272,Javascript,1567946817000,1140027,theBee,CZ,10678217899980,
-100,272,Javascript,1595727351000,3903942,ngoc,VN,,
-100,273,Javascript,1567946817000,1036476,z_Azgort_z,FR,,

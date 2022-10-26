@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2817|time=2022-10-25T00:37:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2817|time=2022-10-26T00:52:30
 100,72,Python3,1623726009000,2315623,Lydxn,CA,,
 100,73,Python3,1665449093000,3845610,pardouin,FR,60364063762936,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
@@ -536,7 +536,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,123,Python3,1591921847000,3823601,cysong,GB,,
 100,123,Python3,1599791926000,3649779,Danny_boy_XXX,RU,39581066796579,
 100,123,Python3,1600656640000,1050421,geppoz,IT,4030238757816,
-100,123,Python3,1605489932000,2006324,Oussama_SIharde,MA,75224840468195,
+100,123,Python3,1605489932000,2006324,Oussama_Siharde,MA,75224840468195,
 100,123,Python3,1615516541000,1926718,enoch-root,FR,11911865088011,
 100,123,Python3,1619495550000,4178870,hanabi1224,US,58671224277450,
 100,123,Python3,1619597016000,2290633,field3,JP,75961127697737,
@@ -897,6 +897,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,140,Python3,1652662436000,4778025,MGTRFELIPEURREGO,CO,,
 100,140,Python3,1654648254000,1732361,Marethuy,DE,9497323331872,
 100,140,Python3,1657329877000,3454439,Darinman,RU,32997989904664,
+100,140,Python3,1666745550000,2093895,stdas,RU,51859406890597,
 100,141,Python3,1567946837000,2418857,MathiasSpanhove,BE,16745962145656,
 100,141,Python3,1567946837000,1537671,Spensaur,CA,28129704906352,
 100,141,Python3,1567946837000,2786666,TetraktysPhi,FR,20818693590142,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,146,Python3,1601001658000,1584802,emh,NO,8880348453118,
 100,146,Python3,1613012371000,3406987,Radu_Sav,RO,31332302715659,
 100,146,Python3,1615343643000,4224605,haraldgb,NO,,
-100,146,Python3,1619931192000,3111430,Tyeknom,CZ,62197045826846,

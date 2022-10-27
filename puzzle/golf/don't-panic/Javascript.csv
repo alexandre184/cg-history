@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1605|time=2022-10-26T00:52:06
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1606|time=2022-10-27T00:42:16
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -103,6 +103,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,118,Javascript,1623638929000,3331745,XeraFiu,FR,64907143198907,
 100,118,Javascript,1628386505000,1567943,LazyMammal,CA,54419089430083,
 100,118,Javascript,1632445186000,376701,Shiwa,FR,,
+100,118,Javascript,1666831336000,1052387,RomaricM,FR,92642125599822,
 100,119,Javascript,1567946817000,416762,Khao,CA,2035557596161,
 100,119,Javascript,1600138058000,3933828,cesmunoz,AR,50035301207099,
 100,119,Javascript,1620788331000,3189631,Arkless,DE,,
@@ -253,6 +254,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,Javascript,1569285022000,1923902,gkalpak,GR,33993501409918,
 100,145,Javascript,1600138058000,3880940,cpedersen,AR,,
 100,145,Javascript,1644453173000,1132126,BobySait,FR,70936663668585,
+100,145,Javascript,1666831336000,3138357,QzL,FR,24760409517282,
 100,146,Javascript,1567946817000,3352676,3t0n,RU,29140567952302,
 100,146,Javascript,1567946817000,944576,Desmononox,NL,,
 100,146,Javascript,1567946817000,1525816,Flodnes,NO,5656265985683,
@@ -274,7 +276,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,149,Javascript,1567946817000,1599292,shinesoul,ID,,
 100,149,Javascript,1575333150000,1250593,Ellama,FR,3675088014038,
 100,149,Javascript,1635814591000,903179,maksmas,EE,101274743228150,
-100,149,Javascript,1666312243000,3138357,QzL,FR,24760409517282,
 100,150,Javascript,1567946817000,999484,Paturages,FR,1991319539637,
 100,150,Javascript,1567946817000,2176877,pasymows,PL,14333167453890,
 100,150,Javascript,1567946817000,1652988,wardialer,IT,7801345180157,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,271,Javascript,1590202380000,1038882,ICTylor,ES,5675054368659,
 100,271,Javascript,1619756511000,4025292,MarcoFlores,MX,52208887681625,
 100,271,Javascript,1643511138000,153030,joH,MQ,77983883429299,
-100,272,Javascript,1567946817000,1140027,theBee,CZ,10678217899980,

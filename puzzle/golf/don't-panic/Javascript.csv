@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1608|time=2022-10-28T00:30:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1608|time=2022-10-29T00:30:38
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -28,6 +28,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,93,Javascript,1567946817000,1039809,Azziliz,FR,2174385385699,
 100,95,Javascript,1567946817000,1845617,Shingy,AU,26010702723839,
 100,95,Javascript,1635468971000,1020626,PiterYeh,IT,4411407433686,
+100,95,Javascript,1667003438000,893541,wala,FR,97577641170180,
 100,97,Javascript,1567946817000,574656,dmpage,US,1759291406309,
 100,98,Javascript,1608083733000,1399382,Regulus136,FR,4335723819637,
 100,99,Javascript,1611456185000,1566335,BeardedWhale,SE,36571449875674,
@@ -72,9 +73,9 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,105,Javascript,1659400238000,1442344,PavelRaskin,GE,,
 100,106,Javascript,1567946817000,2084583,,SG,,
 100,106,Javascript,1649551050000,4147861,FelixRichter2000,DE,59768620087631,
-100,107,Javascript,1639962228000,893541,wala,FR,97577641170180,
 100,108,Javascript,1567946817000,513549,y0p,FR,,
 100,108,Javascript,1631148466000,3647844,rc95401,US,39486169555819,
+100,108,Javascript,1667003438000,1052387,RomaricM,FR,92642125599822,
 100,109,Javascript,1567946817000,1130993,Azaria,FR,5570211139396,
 100,109,Javascript,1634689836000,4487490,cnk_gr,GR,69672501862552,
 100,110,Javascript,1567946817000,574371,Dillysfriend,US,1890070725954,
@@ -89,7 +90,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,112,Javascript,1629678629000,3913241,KevinLi-py,CN,66916307437823,
 100,112,Javascript,1635641748000,1073247,_NikJ,RS,2509638482149,
 100,113,Javascript,1567946817000,1509627,puma17,IL,5549923172040,
-100,114,Javascript,1666917032000,1052387,RomaricM,FR,92642125599822,
 100,115,Javascript,1567946817000,1211531,ciaojian,IT,3126381962847,
 100,115,Javascript,1624494624000,2526465,doritosxxx,RU,17838342424936,
 100,115,Javascript,1652834582000,1788623,knarfw,FR,10389790303031,

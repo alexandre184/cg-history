@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3165|time=2022-10-29T00:30:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3166|time=2022-10-30T00:30:41
 100,61,Python3,1648341588000,2928146,LolCat,MU,22538133010433,
 100,62,Python3,1624329578000,3845610,pardouin,FR,60364063762936,
 100,67,Python3,1644972462000,1654818,tarapitha,EE,79401682508715,
@@ -10,6 +10,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,70,Python3,1627956506000,2315158,luigi_gelato,DE,,
 100,70,Python3,1653009093000,2716329,Recher,FR,19985093844366,
 100,76,Python3,1595378016000,2288263,dbdr,UA,43448306132121,
+100,77,Python3,1667089841000,893541,wala,FR,97577641170180,
 100,81,Python3,1567946818000,600941,mrv,PL,,
 100,83,Python3,1639097249000,965650,abrl,FR,1847796010109,
 100,84,Python3,1567946818000,786597,Fabien,FR,1842306765607,
@@ -33,7 +34,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,99,Python3,1567946818000,588783,adwiii,US,1717886703184,
 100,99,Python3,1628296227000,3337790,gitbeginer,KR,66608941195357,
 100,99,Python3,1650158145000,1566335,BeardedWhale,SE,36571449875674,
-100,99,Python3,1662337997000,893541,wala,FR,97577641170180,
 100,100,Python3,1607995139000,1399382,Regulus136,FR,4335723819637,
 100,100,Python3,1624242630000,1607522,RoboStac,GB,11333369102997,
 100,100,Python3,1651885232000,4451368,Tsukabishi,FR,82176826426831,
@@ -577,6 +577,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,179,Python3,1641525755000,2557590,raaperrotta,US,,
 100,179,Python3,1660180129000,1786695,Pro-LaP-Se,FR,10360061188865,
 100,179,Python3,1663374643000,3166528,Darth_Alex,DE,58220342740478,
+100,179,Python3,1667089841000,5112539,soyouthinkyoucancode,GR,,
 100,180,Python3,1567946818000,1022925,Adrien.,FR,17725389981317,
 100,180,Python3,1567946818000,1749242,Daratho,BE,11579615752208,
 100,180,Python3,1567946818000,1514394,LevitatingLion,DE,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,197,Python3,1657240666000,4604150,V.Antoine,FR,88404644565007,
 100,197,Python3,1657759001000,1465626,Joey_G,DE,15923198375368,
 100,197,Python3,1665795898000,2984782,EvilMonarch,IN,23135536453069,
-100,197,Python3,1665968198000,2998183,Mysta_noon,FR,,

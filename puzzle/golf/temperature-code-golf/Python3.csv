@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6899|time=2022-10-29T00:30:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6900|time=2022-10-30T00:30:49
 100,52,Python3,1654302920000,3845610,pardouin,FR,60364063762936,
 100,53,Python3,1624432236000,334009,abouvier,FR,4681436111242,
 100,54,Python3,1640393894000,1483723,d-s-x,RU,4980051025170,
@@ -89,6 +89,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,59,Python3,1662510877000,5024020,natthaphon,TH,88701760307123,
 100,59,Python3,1666053549000,4830685,PierrotBllds,FR,91844809101390,
 100,59,Python3,1666053549000,5054746,Tristan_Ba,FR,92193789040011,
+100,59,Python3,1667089849000,893541,wala,FR,97577641170180,
 100,60,Python3,1567946832000,2458197,Stack_of_Pancakes,US,17063542094647,
 100,60,Python3,1607995153000,1399382,Regulus136,FR,4335723819637,
 100,60,Python3,1614825067000,806416,awnion,RS,59791745647170,
@@ -487,7 +488,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,68,Python3,1652921696000,1046870,papjim,GR,82479500603065,
 100,68,Python3,1654394664000,4450116,miida,FR,,
 100,68,Python3,1660869546000,5038402,Drag0rt,FR,104263624145728,
-100,68,Python3,1662338010000,893541,wala,FR,97577641170180,
 100,68,Python3,1664845494000,833606,mattrero,FR,98545849818693,
 100,69,Python3,1567946832000,1128268,DubZzz,FR,4053201483190,
 100,69,Python3,1567946832000,1467559,Guillaumelale,FR,10814233323574,
@@ -914,6 +914,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,73,Python3,1664066678000,2649723,daanolav,NL,35334622095466,
 100,73,Python3,1664929855000,5111195,nahsor,NL,91299244925683,
 100,73,Python3,1665621057000,3749245,yveslacroix83400,FR,42318382688807,
+100,73,Python3,1667089849000,4693705,Zmagar,GE,80035769372422,
 100,74,Python3,1567946832000,2200732,,PL,,
 100,74,Python3,1567946832000,3408715,Abydox,CA,31243628068777,
 100,74,Python3,1567946832000,1185533,Aesmerol,DE,2981708364443,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,74,Python3,1660869546000,3379453,Erihel,PL,,
 100,74,Python3,1662078648000,4585938,Risodu,SK,,
 100,74,Python3,1663201855000,1704296,kiyolj,FR,90056223384293,
-100,74,Python3,1666485054000,5104003,defplayr,DE,,

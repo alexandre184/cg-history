@@ -1,4 +1,6 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=3|time=2022-10-31T09:42:21
-4,24.3,C,,4512449,2924895,trictrac,FR,23056996012330,
-4,20.67,Python3,,4512708,3141948,philRG,FR,43152009653961,
-0,11.96,Java,,4512702,1479930,LeRenard,FR,40384564000700,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=5|time=2022-11-01T00:30:03
+4,24.68,C,,4512449,2924895,trictrac,FR,23056996012330,
+4,22.94,Java,,4513190,3996809,VizGhar,SK,82217880354500,
+4,20.14,Python3,,4512727,3141948,philRG,FR,43152009653961,
+1,21.55,PHP,,4513117,1412263,PatrickMcGinnisII,US,75707267075165,
+0,13.09,Java,,4512702,1479930,LeRenard,FR,40384564000700,

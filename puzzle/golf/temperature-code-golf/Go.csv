@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=174|time=2022-10-31T10:14:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=176|time=2022-11-01T00:30:50
 100,83,Go,1641698438000,3845610,pardouin,FR,60364063762936,
 100,87,Go,1625624344000,3354337,Westicles,CX,79146641399080,
 100,106,Go,1628470047000,2288263,dbdr,UA,43448306132121,
@@ -70,6 +70,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,297,Go,1567946830000,2377254,peterhellberg,SE,16114386792074,
 100,307,Go,1567946830000,2069141,tomeko,PL,13370027887052,
 100,313,Go,1592527273000,3864938,dbut2,AU,,
+100,321,Go,1667262650000,5142262,Manu333,FR,92491300473720,
 100,322,Go,1567946830000,1889170,mvujas,RS,,
 100,323,Go,1665968219000,3514975,PhuRiNaT,TH,97597367576293,
 100,330,Go,1567946830000,2139064,Curlymon,US,,
@@ -173,3 +174,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,0,Go,1624432233000,3968399,dormeur2009,FR,49866926833934,
 0,713,Go,1624432233000,2120834,Kabeer,IN,,
 0,791,Go,1624432233000,4088216,,DE,,
+0,815,Go,1667262650000,5160009,,US,,

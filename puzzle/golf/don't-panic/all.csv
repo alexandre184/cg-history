@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11722|time=2022-11-12T01:06:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11725|time=2022-11-13T02:08:10
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,56,Bash,1648946762000,2928146,LolCat,MU,22538133010433,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -945,6 +945,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,144,Clojure,1636851164000,3845610,pardouin,FR,60364063762936,
 100,144,Python3,1640219623000,4594770,picoplankton,US,73613486367696,
 100,144,Python3,1667435433000,3790676,piter239,DE,43649300191788,
+100,144,Javascript,1668305287000,3138357,QzL,FR,24760409517282,
+100,144,Javascript,1668305287000,1105849,Savagge,RS,3657630992739,
 100,145,Javascript,1567946817000,2416641,Zenoscave,US,16732569385856,
 100,145,Javascript,1567946817000,1333871,ayarunas,US,,
 100,145,Javascript,1567946817000,534997,lethern,PL,2151730760092,
@@ -960,7 +962,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,145,Python3,1634518022000,4487490,cnk_gr,GR,69672501862552,
 100,145,Javascript,1644453173000,1132126,BobySait,FR,70936663668585,
 100,145,Python3,1656809361000,4759510,Darleanow,FR,79782263306586,
-100,145,Javascript,1666831336000,3138357,QzL,FR,24760409517282,
 100,146,C,1567946816000,949302,paweu,PL,3402539511549,
 100,146,Javascript,1567946817000,3352676,3t0n,RU,29140567952302,
 100,146,Javascript,1567946817000,944576,Desmononox,NL,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,148,C,1567946816000,1072200,alze,FR,5036475951741,
 100,148,Javascript,1567946817000,365796,CvxFous,FR,2892223124232,
 100,148,Python3,1567946818000,1178157,R_o_l_a_n_d,FR,7129625873167,
-100,148,Python3,1567946818000,609664,core2duo,IL,11158488454757,

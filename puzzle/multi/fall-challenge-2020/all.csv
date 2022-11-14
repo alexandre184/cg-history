@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8253|time=2022-11-13T00:30:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8253|time=2022-11-14T00:30:15
 5,29.63,C++,,3312396,832306,pb4,FR,10135289026547,
 5,29.17,C++,,3324423,735910,Agade,CH,1997542876524,
 5,28.84,C++,,3332311,154984,_Royale,FR,17869369984436,
@@ -828,9 +828,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,36.39,TypeScript,,3310859,152913,[HD]ThomasChaf,FR,9252877621636,
 3,36.37,Kotlin,,3309087,1663349,Low-T,DE,34031360955304,
 3,36.37,PHP,,3313783,194152,progin,UA,20522333441794,
+3,36.37,C++,,3776321,4403610,anakinCSA,KR,66745688472360,
 3,36.36,Python3,,3312674,1751467,Une_Vachette_du_31,FR,9877403175378,
 3,36.36,Python3,,3777005,4392313,dollkong,KR,,
-3,36.35,C++,,3776321,4403610,anakinCSA,KR,66745688472360,
 3,36.35,Python3,,3416705,2027039,bofHeidelberg,DE,49611746614882,
 3,36.34,Java,,3447960,894826,tekki,FR,7460304114642,
 3,36.34,Python3,,3308291,1958280,PinkPanther,FR,12248032019316,
@@ -974,7 +974,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,33.4,Python3,,3309004,3639580,Mazoise,FR,54622923442151,
 3,33.39,C#,,3312841,2488317,Morcifer,NL,17597466270749,
 3,33.38,Javascript,,3312211,2565497,vladislao,RU,18197468031147,
-3,33.37,C++,,3311824,3742123,sapphire15,JP,64113502658569,
 3,33.36,Python3,,3482209,3922992,abcdefg_123,SE,52874600873928,
 3,33.36,C++,,3776238,4401433,algo.kkk,KR,68377286520791,
 3,33.33,Java,,3307916,3561478,TJSteel,GB,43956444263632,
@@ -982,6 +981,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,33.28,C#,,3312983,2482666,Gentiltoutou,FR,17360497597283,
 3,33.28,TypeScript,,3312439,2373953,Dridriun,FR,64609504937617,
 3,33.28,Rust,,3349324,4065322,ootsby,GB,54368428766659,
+3,33.27,C++,,3311824,3742123,sapphire15,JP,64113502658569,
 3,33.27,Python3,,3310534,3579457,anivanch,RU,54317028862826,
 3,33.24,Python3,,3524515,840826,PiMastah,NL,7507827552360,
 3,33.24,Python3,,3312381,2838943,zapakh,US,52204642345044,

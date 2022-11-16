@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=329|time=2022-11-15T00:34:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=329|time=2022-11-16T00:41:43
 100,201382,Rust,1645578053000,2288263,dbdr,UA,43448306132121,
 100,201382,D,1649032232000,4277867,About,SM,65816469118906,
 100,201382,C++,1649723427000,2077805,bamilan,HU,,
@@ -50,6 +50,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,210563,C++,1647131432000,820000,ValGrowth,JP,95440985747208,
 100,210862,Python3,1645490141000,4083537,DavidAvsajanishvili,GE,55847109957826,
 100,210883,C++,1645144926000,2350415,Vintarel,FR,17502555674515,
+100,211231,C++,1668559303000,1348635,ferbos,FR,96159860267051,
 100,211310,C++,1660091429000,3844625,surgutti,PL,62360203928049,
 100,211481,C++,1652057248000,4754623,kirillkulemin,RU,,
 100,211604,C++,1644283072000,4726885,Boooooooo,FR,,
@@ -73,7 +74,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,214159,Haskell,1644283072000,512097,Stilgart,FR,69893904259383,
 100,214276,Python3,1649982627000,153965,[CG]Keelhaul,FR,4367050238110,
 100,214489,Go,1652057248000,224325,[BZH]TidyMaze,FR,2654133392410,
-100,214548,C++,1668472461000,1348635,ferbos,FR,96159860267051,
 100,214729,Python3,1660523439000,278212,vmp,FR,,
 100,214767,Rust,1661473960000,1272951,don_bovar,RO,55866581516464,
 100,214790,C++,1652748026000,3349939,mr.spring,SY,28913484510400,

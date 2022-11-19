@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6791|time=2022-11-18T00:30:22
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6795|time=2022-11-19T00:30:23
 5,31.41,C++,,3004019,3193653,karliso,LV,54368321987353,
 5,31.39,C++,,2975979,880353,zasmu,FR,22237226756102,
 5,31.07,C++,,2982332,1082988,Saelyos,FR,6965824947540,
@@ -787,7 +787,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,25.18,C++,,3456886,3761568,rimon,JP,42674243127555,
 3,25.16,Java,,2977797,3804005,GlitchyByte,US,95713828714967,
 3,25.14,C++,,2991212,2392192,lgm42,FR,44596240607017,
-3,24.89,C++,,3459454,3800302,v.cogut,MD,44230462675394,
+3,24.9,C++,,3459454,3800302,v.cogut,MD,44230462675394,
 3,24.79,Python3,,2983067,347029,Kevapo,FR,4950639196511,
 3,24.78,Javascript,,3691444,3427517,csysja,GB,101375763422273,
 3,24.76,Python3,,2976108,3783901,rlucas585,NL,44002746846045,
@@ -941,7 +941,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.83,Java,,2979824,1077559,PhOeNyX,FR,2248934338554,
 3,22.82,C++,,2981597,2143560,ashiknur,BD,,
 3,22.82,Java,,2977442,3809155,Myssteriion,FR,44219845216221,
-3,22.8,Java,,2976177,3093780,Stanhope,NL,,
 3,22.8,Python3,,2979820,1452463,Tristannah,FR,16790154164262,
 3,22.79,PHP,,2977730,153620,[CPC]Karedas,FR,3358918768925,
 3,22.78,Python3,,2979552,3782047,Oetzus,DE,,
@@ -962,6 +961,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,22.57,Python3,,2977642,3102977,Aprillion,CZ,44092349286588,
 3,22.57,Java,,3468121,3160781,Aenerion35,FR,53696588439614,
 3,22.56,Javascript,,2978055,2112007,KRAKEN,IR,13719803073536,
+3,22.55,Java,,2976177,3093780,Stanhope,NL,,
 3,22.55,C#,,2976744,1480640,nodes,CA,23899966383679,
 3,22.54,Java,,3798694,4398412,JinGOGO,KR,66491849010117,
 3,22.53,Python3,,2976443,1569420,Tuo,FI,,

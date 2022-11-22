@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=15920|time=2022-11-21T00:42:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=15930|time=2022-11-22T00:30:28
 100,1684640,C++,1635295079000,1470017,BeBopping,US,45275804889924,
 100,1469740,C#,1567946813000,1399382,Regulus136,FR,4335723819637,
 100,1455190,C++,1567946813000,351062,Neumann,FR,17173563008577,
@@ -276,6 +276,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,218060,C,1667003431000,5112539,soyouthinkyoucancode,GR,,
 100,217240,C,1612492757000,3774604,PerfectOr,IL,43074927890904,
 100,217240,C,1628296223000,4455122,Razorsixfive,DK,,
+100,217050,Rust,1669077028000,1186273,knacky,FR,,
 100,217000,C#,1567946813000,1173064,a.oryol,RU,,
 100,216780,C,1596415459000,3903970,Avatar_Wan,IN,46886124056178,
 100,216640,C,1619233730000,3657275,jujurocking,FR,,
@@ -334,7 +335,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,206700,C++,1648341577000,4809631,Bruicanlas,PH,85572161743960,
 100,206480,C,1648254623000,4659075,WillyChen,TW,,
 100,206220,C#,1588036445000,1152991,xoposhiy,RU,2894275932979,
-100,206050,Rust,1668904226000,1186273,knacky,FR,,
 100,206040,C++,1567946813000,2080768,Binchy,IE,,
 100,205690,C++,1567946813000,2051334,Dwarth,FR,13399991490721,
 100,205670,Java,1585703656000,1487392,Razielwar,FR,12761113272803,

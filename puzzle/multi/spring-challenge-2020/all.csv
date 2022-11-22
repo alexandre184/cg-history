@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6798|time=2022-11-21T00:30:24
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=6802|time=2022-11-22T00:30:23
 5,31.41,C++,,3004019,3193653,karliso,LV,54368321987353,
 5,31.39,C++,,2975979,880353,zasmu,FR,22237226756102,
 5,31.07,C++,,2982332,1082988,Saelyos,FR,6965824947540,
@@ -788,9 +788,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,25.16,Java,,2977797,3804005,GlitchyByte,US,95713828714967,
 3,25.14,C++,,2991212,2392192,lgm42,FR,44596240607017,
 3,24.9,C++,,3459454,3800302,v.cogut,MD,44230462675394,
+3,24.81,Python3,,2976108,3783901,rlucas585,NL,44002746846045,
 3,24.79,Python3,,2983067,347029,Kevapo,FR,4950639196511,
 3,24.78,Javascript,,3691444,3427517,csysja,GB,101375763422273,
-3,24.76,Python3,,2976108,3783901,rlucas585,NL,44002746846045,
 3,24.74,Python3,,3024587,1894833,Rimailleur,FR,15313478065891,
 3,24.73,C#,,2978681,1596238,NickStahl,NL,62957328607883,
 3,24.71,TypeScript,,2979626,2990918,Dingodino,FR,23216166624189,
@@ -905,7 +905,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.52,C,,2976715,3821637,Ace310K,JP,,
 3,23.51,Javascript,,2978549,3795574,Iron-postier,FR,,
 3,23.51,Python3,,2979145,3622078,Paikan2068,SE,,
-3,23.51,C++,,3028914,3689606,DuckDuckGoose,CA,45740060370705,
 3,23.51,Java,,2981488,1075260,metwesse,FR,3909082474290,
 3,23.49,C++,,2977590,990110,Rogerup,BR,2038636261009,
 3,23.48,C#,,2977737,1815235,Maliamnon,US,53816008769308,
@@ -918,6 +917,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.4,Python3,,2978707,1759839,matleg,FR,27938585309756,
 3,23.39,C#,,3038348,3329141,andrea_angella,GB,28026626189880,
 3,23.38,Java,,2976857,3169011,geschaftsman,CA,,
+3,23.38,C++,,3028914,3689606,DuckDuckGoose,CA,45740060370705,
 3,23.37,Python3,,2980378,3744758,Mateuszrze,PL,42347885816610,
 3,23.36,Javascript,,2977612,1205152,cfoll,FR,44547348311154,
 3,23.32,C++,,2978233,3418590,LaPatateU,FR,44342922775502,

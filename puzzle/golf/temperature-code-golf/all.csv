@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=23182|time=2022-11-27T00:30:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=23189|time=2022-11-28T00:37:35
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,30,Ruby,1655426701000,3380184,chouch,FR,,
@@ -311,6 +311,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,49,Ruby,1660696584000,4580027,Veco,FR,73323343670266,
 100,49,Ruby,1663720253000,5054384,Js_noob,MG,,
 100,49,Ruby,1663720253000,3838616,__Holmes__,GB,86615743767702,
+100,49,Ruby,1669595855000,2371389,Franta,CZ,16642908084028,
 100,50,Perl,1567946831000,1323621,Blablub,DE,,
 100,50,Perl,1567946831000,1202933,NullOps,AU,13683198089751,
 100,50,Perl,1567946831000,2458197,Stack_of_Pancakes,US,17063542094647,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Python3,1615516534000,3774062,delpieron-hash,HU,,
 100,60,Javascript,1615516539000,3230794,tutubalin,RU,25714480415254,
 100,60,C,1617849286000,1654818,tarapitha,EE,79401682508715,
-100,60,Javascript,1618628511000,1179950,PattoWaGuruDesu,FR,94806006573123,

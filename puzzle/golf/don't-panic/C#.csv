@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1002|time=2022-11-30T00:42:09
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1003|time=2022-12-01T00:35:38
 100,125,C#,1665275447000,4341304,Remi.,FR,97662026388574,
 100,143,C#,1600224966000,155774,dwarfie,FR,17785582865119,
 100,147,C#,1567946816000,371603,martin,CA,1761380964089,
@@ -436,6 +436,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,593,C#,1567946816000,638954,Khiolu,FR,14176134192430,
 100,594,C#,1567946816000,1017944,Werewolf,BE,3432142512097,
 100,595,C#,1567946816000,2253218,Miiiick,FR,15201763721917,
+100,597,C#,1669854938000,5090861,JLPS,SG,93577082401850,
 100,598,C#,1567946816000,893109,Ashki,CA,2927856357778,
 100,598,C#,1567946816000,813508,Hyperion,FR,,
 100,601,C#,1567946816000,1499625,J_ere_M,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,1901,C#,1624432222000,3571970,lilbabby90,US,,
 0,1942,C#,1626396578000,4414531,Nils-adesso,DE,67070106395879,
 0,2107,C#,1624432222000,2685539,artkam,DE,32444946649294,
-0,2259,C#,1624432222000,959489,Anaze,HU,,

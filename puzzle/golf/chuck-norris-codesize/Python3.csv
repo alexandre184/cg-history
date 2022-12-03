@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2883|time=2022-12-02T00:30:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2885|time=2022-12-03T00:30:47
 100,71,Python3,1669595858000,2315623,Lydxn,CA,,
 100,72,Python3,1667521860000,3845610,pardouin,FR,60364063762936,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
@@ -83,7 +83,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,85,Python3,1656993589000,4935021,MelekElloumi,FR,91411082555966,
 100,85,Python3,1658018156000,4270882,[ron],GB,,
 100,85,Python3,1665189970000,3877161,HETHAT,DZ,46368142824396,
-100,86,Python3,1607909013000,4089683,Skyware_,FR,94756164332840,
+100,86,Python3,1607909013000,4089683,Eidos,FR,94756164332840,
 100,86,Python3,1626224917000,1500515,eulerscheZahl,DE,43135502422075,
 100,86,Python3,1646353970000,3721214,jrke,IN,68983084061211,
 100,86,Python3,1653957060000,1515891,ndc,RU,57247748477088,
@@ -780,6 +780,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,133,Python3,1659661544000,4973489,bth0mas,FR,,
 100,133,Python3,1666226386000,1249719,lelbal,HU,10868720167425,
 100,133,Python3,1668472482000,4090637,Nname1R_TB,FR,82413341636135,
+100,133,Python3,1670027447000,1783420,JulienCoutault,FR,10311238800856,
 100,134,Python3,1567946837000,3410351,Deltaspace,RU,31254101171655,
 100,134,Python3,1567946837000,481988,DevKirill,RU,26384102822076,
 100,134,Python3,1567946837000,2328351,DominicCrutchley,GB,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,144,Python3,1655512260000,4780454,Tournecat,CH,84122028295210,
 100,145,Python3,1567946837000,2490446,P3TR4,US,17468480942759,
 100,145,Python3,1567946837000,600997,mmi,PL,1719075779580,
-100,145,Python3,1589853392000,1850236,TomateSaladeOignon,FR,43767006869430,

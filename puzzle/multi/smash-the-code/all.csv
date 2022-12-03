@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2653|time=2022-12-02T00:30:14
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2654|time=2022-12-03T00:30:13
 5,32.62,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,32.31,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,30.48,C++,,4488860,3457031,YurkovAS,RU,33020204289704,
@@ -960,6 +960,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.3,C++,,1390550,2085746,JacobNoga,US,,
 1,23.3,C++,,906113,754792,Ramdeath,LT,13430148307311,
 1,23.3,Java,,2503128,3136787,jacek,PL,75369242083208,
+1,23.3,C++,,2690075,2411860,Aurelien-Quillet,FR,66460061394511,
 1,23.3,C++,,1481109,890335,ttr,NL,15580335029168,
 1,23.29,Python3,,3406798,951799,danimano,HU,,
 1,23.29,Javascript,,498595,1412502,falsidge,US,,
@@ -980,7 +981,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.27,Javascript,,501141,1393911,neal_s,US,13162519781744,
 1,23.27,C,,493173,614489,Nazoum81,FR,1733762647042,
 1,23.27,Python3,,634685,1012020,Markusha,MD,21117387170051,
-1,23.27,C++,,2690075,2411860,Aurelien-Quillet,FR,66460061394511,
 1,23.27,Perl,,725150,1567782,brt,NL,6297278202178,
 1,23.27,C,,653520,1297591,BigHead,FR,5809301643641,
 1,23.26,Python3,,498347,1385478,ssssssssssssspppppprrrrrrrr,RU,,
@@ -992,10 +992,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.26,C++,,493061,1364114,Unforgiven,US,,
 1,23.26,C,,2454349,1397268,RTLB,FR,,
 1,23.26,Javascript,,885989,1026791,Alfalfamale,NL,7144185210937,
+1,23.26,C#,,493848,433065,Knafle,AR,,
 1,23.25,C#,,675167,1520716,Haskeer,CZ,5527962940413,
 1,23.25,C#,,896454,1251131,ma81xx,IT,9638700030976,
 1,23.25,C++,,551752,1478742,Archimist,FR,,
 1,23.24,C++,,1110328,1866525,charMlessMan,BE,,
 1,23.24,Javascript,,702120,1609974,ManosSg,CH,,
 1,23.24,Javascript,,2226397,2548707,notliam,GB,18098162130332,
-1,23.23,Python3,,3569799,4309574,KornDV,CA,63044782408453,

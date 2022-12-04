@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2871|time=2022-12-03T00:30:17
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2871|time=2022-12-04T00:35:47
 4,35.18,C++,,2708375,3193653,karliso,LV,54368321987353,
 4,32.67,C++,,2707285,3502867,The_Duck,US,34740708743362,
 4,32.01,Python3,,2709863,2970414,Fangel,FR,23748356777542,
@@ -889,8 +889,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,23.53,OCaml,,2708854,1545859,Kulu,FR,6093241023361,
 2,23.5,Python3,,2707975,2005504,TomerBG,IL,18062826704405,
 2,23.49,Python3,,2708276,2771731,coconut78,FR,,
+2,23.48,Python3,,2707732,3082494,alarih,BY,,
 2,23.48,Python3,,2831320,1449903,AKIBA,FR,25350790514390,
-2,23.42,Python3,,2707732,3082494,alarih,BY,,
 2,23.42,Javascript,,3630854,4227625,EmanSlam,US,,
 2,23.4,Java,,2839865,808454,.EagleDawn.,DE,19902303477203,
 2,23.36,Python3,,2707926,950512,salim.aboubacar,FR,26268245697663,
@@ -958,6 +958,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,21.68,Dart,,3536603,153683,40R15T3,FR,13910938941186,
 2,21.61,C#,,3455316,1219872,chewie,CA,3782796172863,
 2,21.59,C#,,2708030,1386456,wvsever,BE,4482263162511,
+2,21.58,Python3,,2708567,3249886,Aguirre,CO,25882610542678,
 2,21.56,C#,,2708923,2270885,KillHammer,US,15312918256110,
 2,21.54,C++,,2709015,3515617,Suku3,IN,,
 2,21.53,Javascript,,2709134,833678,ghassen,DE,13321512849435,
@@ -966,7 +967,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,21.5,C,,2708220,1512458,Kralkon,HU,6064564192412,
 2,21.5,Java,,2707730,2544989,lulugo19,DE,17989066428318,
 2,21.49,Rust,,3027130,3877700,Bytekeeper,DE,82369284039120,
-2,21.48,Python3,,2708567,3249886,Aguirre,CO,25882610542678,
 2,21.45,Python3,,3119026,2976018,jfouille,FR,106008044064063,
 2,21.43,C#,,2707797,597560,DarkWaw,PL,4565101319388,
 2,21.41,Python3,,2707782,1830309,[CPC]Bleuzaille,FR,11575838782520,

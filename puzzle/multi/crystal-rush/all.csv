@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2871|time=2022-12-07T00:41:58
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2871|time=2022-12-08T12:22:33
 4,35.18,C++,,2708375,3193653,karliso,LV,54368321987353,
 4,32.67,C++,,2707285,3502867,The_Duck,US,34740708743362,
 4,32.01,Python3,,2709863,2970414,Fangel,FR,23748356777542,
@@ -875,8 +875,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,24.18,Python3,,2707111,1803872,happyweary,FR,10689522808579,
 2,24.12,Python3,,2707624,1538549,Nikodimishe,RU,5902551023314,
 2,24.09,Python3,,2707646,1243876,Hi-Low_World,CZ,3367230283196,
+2,24.05,C#,,2707871,3518930,WhiteRo,GB,,
 2,24.05,C#,,2708533,969298,Dopp,NO,5642640770768,
-2,24.04,C#,,2707871,3518930,WhiteRo,GB,,
 2,23.85,C#,,2985732,3477071,CookieMonster2703,CH,33824304033552,
 2,23.81,Javascript,,2707808,1766181,jantorestolsvik,NO,19418095757370,
 2,23.76,C++,,2707672,2061249,delisea,FR,35668664963839,
@@ -920,7 +920,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,22.84,Python3,,2708482,221911,fafl,DE,23311741254436,
 2,22.84,C++,,2708745,2122087,RENZOU,DZ,17807902905832,
 2,22.84,C#,,2707602,240454,Mikkanu,US,9123961078385,
-2,22.83,Java,,2707969,3504625,Somny,FR,35256227187434,
 2,22.83,Java,,2707787,3517009,grue,US,,
 2,22.82,Java,,2707753,1438036,Bubbly_Bee,CZ,7393862367094,
 2,22.82,Java,,2708311,1295850,EvbCFfp1XB,JP,,
@@ -935,6 +934,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,22.69,C#,,2708790,223576,laveugle,FR,,
 2,22.69,PHP,,4436528,4994607,yoannh,FR,87296569519194,
 2,22.69,Lua,,3048955,2191163,Arteries,US,33905501931367,
+2,22.64,Java,,2707969,3504625,Somny,FR,35256227187434,
 2,22.61,Javascript,,2707573,373834,Pirquessa,FR,1813959861152,
 2,22.61,Ruby,,2709136,371603,martin,CA,1761380964089,
 2,22.6,Python3,,2707382,2237703,VidOS,RU,14947111611780,

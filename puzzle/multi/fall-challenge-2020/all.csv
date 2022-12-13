@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8269|time=2022-12-12T00:35:03
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8269|time=2022-12-13T00:30:16
 5,29.65,C++,,3312396,832306,pb4,FR,10135289026547,
 5,29.17,C++,,3324423,735910,Agade,CH,1997542876524,
 5,28.84,C++,,3332311,154984,_Royale,FR,17869369984436,
@@ -38,7 +38,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,24.23,Rust,,3338636,2288263,dbdr,UA,43448306132121,
 5,24.01,Python3,,3312597,3315995,Gonny,FR,35425968003542,
 5,23.89,C++,,4036111,4334077,Paul_Demanze,GB,89645400922966,
-5,23.83,C++,,3312397,1061242,martinpapa69,HU,95146449193670,
+5,23.83,C++,,3312397,1061242,Csipcsirip,HU,95146449193670,
 5,23.78,C++,,3312842,1853999,Rounddice,CH,12007987924953,
 5,23.68,Rust,,3319706,460044,tanzaku,JP,35072205653066,
 5,23.66,C++,,3317704,1500515,eulerscheZahl,DE,43135502422075,
@@ -996,6 +996,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,33.12,TypeScript,,3312268,1385235,TimurSeitosmanov,BE,54026985839137,
 3,33.12,C++,,3311340,1284051,tygrysek,PL,,
 3,33.1,Javascript,,3312584,1190092,Takezoshi,FR,53869360256247,
-3,33.1,Kotlin,,3311516,1328922,eratosterone,FR,,
+3,33.1,Kotlin,,3311516,1328922,eratosteron,FR,,
 3,33.1,Java,,3309821,1750493,fbecar,FR,20097975601291,
 3,33.08,Java,,3309912,3808197,Didip,FR,44178440869731,

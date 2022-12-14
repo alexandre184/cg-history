@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2433|time=2022-12-13T00:30:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2433|time=2022-12-14T00:30:45
 100,144,Java,1639876430000,1483723,d-s-x,RU,4980051025170,
 100,150,Java,1644972475000,4341304,Remi.,FR,97662026388574,
 100,154,Java,1641603288000,3845610,pardouin,FR,60364063762936,
@@ -20,6 +20,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,177,Java,1601606638000,1045485,Jessie,FR,9025608819920,
 100,177,Java,1628557764000,2288263,dbdr,UA,43448306132121,
 100,179,Java,1602297044000,1660968,Greedo,FR,7942102215203,
+100,180,Java,1670977845000,1766582,smugiss,LT,,
 100,182,Java,1669681843000,2371389,Franta,CZ,16642908084028,
 100,184,Java,1571971786000,1968855,ThePurificator,FR,12329456921169,
 100,185,Java,1567946832000,1399382,Regulus136,FR,4335723819637,
@@ -47,7 +48,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,193,Java,1574383149000,3530791,Imponderabilium,PL,36937302800156,
 100,194,Java,1567946832000,2594360,Nataris,FR,18415326978932,
 100,194,Java,1567946832000,2594058,THipster,LU,,
-100,194,Java,1567946832000,1766582,smugiss,LT,,
 100,194,Java,1586138440000,1357614,OptiPanda,FR,25029501539760,
 100,194,Java,1650328246000,2202771,Kaplone,FR,23792369424472,
 100,196,Java,1620529112000,3487032,GrekMaR,DK,34184880967343,

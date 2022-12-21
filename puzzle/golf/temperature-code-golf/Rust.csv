@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=158|time=2022-12-20T00:30:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=160|time=2022-12-21T00:30:44
 100,90,Rust,1586393334000,334009,abouvier,FR,4681436111242,
 100,91,Rust,1639876429000,1483723,d-s-x,RU,4980051025170,
 100,99,Rust,1669681846000,4438505,Eric_[EGU],FR,106573303077213,
@@ -43,6 +43,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,213,Rust,1660957297000,5036846,MMINO,CN,88794288255978,
 100,214,Rust,1602041459000,2837654,R2B2,FR,,
 100,217,Rust,1661992255000,4396510,PopcornPlant,US,89668541027014,
+100,217,Rust,1671582644000,5191042,Saphir123,FR,102291860878516,
 100,230,Rust,1567946833000,1410353,luminyan,BE,13267194518543,
 100,234,Rust,1594781474000,1436776,BrainSolver,FR,10099178983053,
 100,235,Rust,1567946833000,1777302,Ithinuel,GB,10244123611114,
@@ -69,6 +70,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,294,Rust,1652748050000,4587710,Smetalka,HR,,
 100,305,Rust,1567946833000,1677637,ABoschman,NL,,
 100,309,Rust,1662078647000,2984118,aplq,US,,
+100,314,Rust,1671582644000,2233179,Samsa,FR,17844764524716,
 100,317,Rust,1596501985000,1514899,Wcubed,NL,9956582675868,
 100,321,Rust,1661128532000,3305510,TBali,HU,26750785092441,
 100,322,Rust,1597105861000,1583805,sebipincha,AR,,

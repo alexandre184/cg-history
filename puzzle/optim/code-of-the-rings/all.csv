@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=6768|time=2022-12-25T00:44:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=6770|time=2022-12-26T01:08:35
 100,2756,Rust,1660264226000,2288263,dbdr,UA,43448306132121,
 100,2759,C#,1584752293000,1301401,Stanax,FR,44495484097566,
 100,2761,C++,1584583284000,1833680,jvivenot,FR,10877987072863,
@@ -222,6 +222,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,3950,C++,1567946813000,2110342,lchenay,FR,68642008923579,
 100,3950,C++,1588554771000,3775369,umesh007,IN,43339309465818,
 100,3950,C++,1610685051000,4143992,,ES,,
+100,3950,C++,1672016915000,1754421,GuyBarash,IL,9930509564239,
 100,3955,Java,1567946813000,833606,mattrero,FR,98545849818693,
 100,3956,Python3,1604119353000,1802967,Meruem,FR,31992166318610,
 100,3963,Haskell,1567946813000,660374,nomeata,DE,,
@@ -992,7 +993,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,5860,C++,1567946813000,989912,Arctik3-14,FR,3508259858116,
 100,5860,Haskell,1567946813000,323228,dbihbka,RU,,
 100,5860,Java,1567946813000,802343,Etheriel,FR,3976183595210,
-100,5860,Java,1567946813000,1252380,Glopp,NC,3980880581126,
 100,5860,Java,1567946813000,933394,The_Muffin_Man,HU,74333682255513,
 100,5860,Javascript,1567946813000,860297,charlieamer,BA,,
 100,5860,Pascal,1567946813000,1202744,KILLogic,NL,3013778791439,

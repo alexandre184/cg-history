@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2662|time=2022-12-31T00:30:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2663|time=2023-01-01T00:30:15
 5,33.29,C++,,2990369,1327028,FredericBautista,FR,9974192266436,
 5,31.72,C++,,2986754,1400179,reCurse,CA,58850847098890,
 5,30.46,Go,,511966,1413236,Medici,CN,4357806712110,
@@ -896,6 +896,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,-8.91,C++,,2924235,3170918,reLu,CA,25240147304946,
 2,-10.05,C++,,1327361,1630901,Pand0re,CH,12797673341733,
 1,23.48,Python3,,4034404,3141948,philRG,FR,43152009653961,
+1,23.37,Java,,589398,1494734,Leogelas,FR,,
 1,23.33,Python,,504765,1081818,Indispira,FR,2268356777933,
 1,23.33,VB.NET,,576247,1476242,Txiwi,ES,5036284664644,
 1,23.32,Javascript,,495360,1245243,Clement134,FR,4593373580939,
@@ -922,7 +923,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.32,C,,749641,1620096,InvisibleUSA,DE,,
 1,23.32,C#,,547484,1231500,Kinga,HU,,
 1,23.32,C#,,962800,1385626,Wabash9000,US,4206137522309,
-1,23.32,Javascript,,1218353,1537927,thecavemanlogic,US,,
 1,23.32,Python3,,593115,1195394,Larnak,US,47238684938933,
 1,23.32,Python3,,3833890,4350492,omboyo,NO,,
 1,23.32,C,,486102,1280770,John_Black,RU,,
@@ -940,7 +940,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.31,C#,,573090,859508,ger0000,HU,,
 1,23.31,Python3,,497129,880353,zasmu,FR,22237226756102,
 1,23.31,Javascript,,484767,1455512,Khar,PE,,
-1,23.31,Java,,589398,1494734,Leogelas,FR,,
 1,23.31,C,,686826,1592902,sondx89,VN,,
 1,23.31,C#,,735117,1559074,Meilby,NO,,
 1,23.31,Python3,,486540,1446587,Cooch,DE,4700517429198,
@@ -983,6 +982,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,23.27,Python3,,505383,1439371,Irnakk,RU,53608248410234,
 1,23.27,Ruby,,664050,435967,NullNilNone,JP,1994356422592,
 1,23.27,VB.NET,,2194001,3028864,lorcQc,CA,,
+1,23.27,Javascript,,1218353,1537927,thecavemanlogic,US,,
 1,23.27,Javascript,,487289,1409204,Ricco7La,BE,4336117454857,
 1,23.27,Javascript,,501141,1393911,neal_s,US,13162519781744,
 1,23.27,C,,493173,614489,Nazoum81,FR,1733762647042,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11907|time=2023-01-05T00:30:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11916|time=2023-01-06T00:30:33
 100,55,Ruby,1630285077000,4475835,Validator_sucks.More.Edge.Random,FR,,
 100,56,Bash,1648946762000,2928146,LolCat,MU,22538133010433,
 100,57,Ruby,1567946820000,154372,Plopx,FR,7959085736890,
@@ -313,6 +313,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,106,Python3,1624156429000,4333783,Fredsi,FR,,
 100,106,Javascript,1649551050000,4147861,FelixRichter2000,DE,59768620087631,
 100,106,C,1656553539000,3918583,mikmak,FR,48134583112917,
+100,106,Javascript,1672965032000,4438505,Eric_[EGU],FR,106573303077213,
 100,107,Bash,1567946818000,1166365,Julien.B,FR,,
 100,107,Perl,1567946818000,1307473,Evgenykz,UA,33899861048423,
 100,107,ObjectiveC,1567946819000,553938,MagAlex,RU,3292063463360,
@@ -383,7 +384,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Python3,1658018138000,4270882,[ron],GB,,
 100,111,Python3,1659832340000,4070745,HoriMiyamura,TO,83179788895310,
 100,111,TypeScript,1667262632000,5062387,Tenclea,FR,106873645042836,
-100,111,Javascript,1672451583000,4438505,Eric_[EGU],FR,106573303077213,
 100,112,Javascript,1567946817000,735910,Agade,CH,1997542876524,
 100,112,Javascript,1567946817000,1109881,Salsiccia_affumicata,IT,11631190889877,
 100,112,Bash,1567946818000,2176877,pasymows,PL,14333167453890,
@@ -594,6 +594,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,122,Ruby,1668472464000,3371531,Zasalamel,FR,90817683050156,
 100,122,Python3,1670634570000,2674460,Malte42,DE,19389646868040,
 100,122,Ruby,1672188292000,4781063,Nicholi,US,96765521915668,
+100,122,Ruby,1672965031000,5262513,seperatis,US,95991847971960,
 100,123,Javascript,1567946817000,942271,flop,FR,11864302802887,
 100,123,Javascript,1567946817000,2054567,hs,FR,,
 100,123,ObjectiveC,1594781455000,1436776,BrainSolver,FR,10099178983053,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,147,TypeScript,1620276231000,4156154,issogood,CH,59814183471795,
 100,147,Python3,1624668524000,4286679,fungi_star,HK,66789048913950,
 100,147,C++,1632445186000,992329,BeeGee,NL,5817423526804,
-100,147,Python3,1639789654000,2661980,Leos,ES,19446647272567,

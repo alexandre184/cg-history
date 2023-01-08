@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1643|time=2023-01-07T00:35:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1646|time=2023-01-08T01:36:40
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -618,6 +618,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,191,Javascript,1567946817000,1504324,primozi,SI,,
 100,191,Javascript,1624927206000,1719856,YOANN,FR,11777604207042,
 100,191,Javascript,1662337998000,2765000,Nowan,BE,88026624631087,
+100,191,Javascript,1673141800000,4231728,TojoNatolotra,FR,95641407625330,
 100,192,Javascript,1567946817000,719682,AXB,FR,1755646590673,
 100,192,Javascript,1567946817000,703271,DrinkingBird,AR,1806409700397,
 100,192,Javascript,1567946817000,1096955,Elsper,RU,,
@@ -663,6 +664,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,195,Javascript,1643935300000,3336734,Cr0m,DE,109421502906751,
 100,195,Javascript,1664757040000,224325,[BZH]TidyMaze,FR,2654133392410,
 100,195,Javascript,1670634566000,3603097,lanathlor,FR,78227308371575,
+100,195,Javascript,1673141800000,2573620,zZzabek,PL,96333700180483,
 100,196,Javascript,1567946817000,3336923,XelX,DE,,
 100,196,Javascript,1567946817000,1169499,naab,FR,21217854473439,
 100,196,Javascript,1596155432000,1627246,jkumara,FI,7347457369867,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,263,Javascript,1641435151000,3691491,icecream17,US,42082469656497,
 100,265,Javascript,1567946817000,531405,Bhyve,AU,4322149263357,
 100,265,Javascript,1567946817000,196368,Stornitz,FR,2983266419544,
-100,265,Javascript,1567946817000,2769941,zzSleeper,CA,20516367588523,
-100,265,Javascript,1631752781000,4448323,MatRi,FR,,

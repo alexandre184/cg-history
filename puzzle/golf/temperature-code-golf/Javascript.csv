@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3244|time=2023-01-07T00:36:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3245|time=2023-01-08T01:36:56
 100,55,Javascript,1637109764000,1483723,d-s-x,RU,4980051025170,
 100,56,Javascript,1595378030000,2288263,dbdr,UA,43448306132121,
 100,56,Javascript,1596329060000,3845610,pardouin,FR,60364063762936,
@@ -354,6 +354,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,64,Javascript,1666831352000,2857016,Maxime_PAIN,FR,70788409361583,
 100,64,Javascript,1667089851000,5112539,soyouthinkyoucancode,GR,,
 100,64,Javascript,1671843134000,5257526,,FR,,
+100,64,Javascript,1673141816000,329048,Eniwilan,FR,83502421528333,
 100,65,Javascript,1567946828000,1050768,AlfredoSalzillo,IT,2224251919371,
 100,65,Javascript,1567946828000,1937628,Elom,FR,12220589050170,
 100,65,Javascript,1567946828000,660643,Marrrk,DE,4967890171886,
@@ -733,6 +734,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Javascript,1609289623000,3435748,amcc,BR,,
 100,82,Javascript,1643848536000,2214928,seanysean,CA,42451445504519,
 100,82,Javascript,1657413238000,380805,Xtendz,FR,100694504923582,
+100,82,Javascript,1673141816000,5270576,Dwagon_,FR,96223685869821,
 100,83,Javascript,1567946828000,1839307,Crashthatch,GB,14088003369425,
 100,83,Javascript,1567946828000,2056649,J3r3m067,FR,13424000823169,
 100,83,Javascript,1567946828000,2236682,Torque2,FR,15170176828021,
@@ -754,7 +756,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,83,Javascript,1646094655000,235731,Varadiell,FR,10087040645869,
 100,83,Javascript,1655599249000,4394670,virex22,FR,85144240590614,
 100,83,Javascript,1670891446000,1314399,igu,FR,55789104580371,
-100,83,Javascript,1673051772000,5270576,Dwagon_,FR,96223685869821,
 100,84,Javascript,1567946828000,1222305,Helicosaurus_Rex,FR,3172365824448,
 100,84,Javascript,1567946828000,1825144,HerrScheissmann,NL,26073263423687,
 100,84,Javascript,1567946828000,1542430,MattR,PL,6031418039182,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,96,Javascript,1589331052000,3752460,goeyj,US,45838922834630,
 100,96,Javascript,1597797060000,3938065,SubEthaSensOMatic,DE,49262444258813,
 100,96,Javascript,1598810523000,1462735,mstuercke,DE,4763195792361,
-100,96,Javascript,1605489922000,3691491,icecream17,US,42082469656497,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1063|time=2023-01-07T00:36:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1063|time=2023-01-08T01:36:58
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -32,8 +32,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,Javascript,1571793103000,155774,dwarfie,FR,17785582865119,
 100,103,Javascript,1599273794000,1045485,Jessie,FR,9025608819920,
 100,103,Javascript,1651973300000,2153101,Sylvain0675,FR,14368663014319,
+100,103,Javascript,1673141818000,481564,mihei,RU,4454400756022,
 100,104,Javascript,1660785540000,4159036,CavanP,US,58833028673197,
-100,104,Javascript,1669077053000,481564,mihei,RU,4454400756022,
 100,105,Javascript,1635468991000,3917724,Marke18,IT,47701103353349,
 100,106,Javascript,1567946837000,3230794,tutubalin,RU,25714480415254,
 100,106,Javascript,1579048251000,1093968,milosMATRIXrepic,RS,78180568348596,
@@ -618,6 +618,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,205,Javascript,1567946837000,441578,C_Minor,GB,20079810974992,
 100,205,Javascript,1662252346000,4066586,Luesewr,NL,54677884010246,
 100,205,Javascript,1663029993000,1627472,Stacked,FR,57453783232087,
+100,205,Javascript,1673141818000,1711397,DiogoGiassi,BR,9479385050848,
 100,206,Javascript,1567946837000,556254,Yoann,FR,,
 100,206,Javascript,1598057928000,414278,oobException,FR,4595241889335,
 100,206,Javascript,1606352055000,4075735,caldrjir,CZ,,
@@ -655,7 +656,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,215,Javascript,1625273067000,4395858,SaidAouani,TN,66420688451324,
 100,216,Javascript,1671582648000,5014447,FabriceD,FR,88005881983132,
 100,217,Javascript,1589331061000,3446461,juslin03,CI,108009928768420,
-100,217,Javascript,1606702343000,1711397,DiogoGiassi,BR,9479385050848,
 100,218,Javascript,1599359456000,3115228,TThomas,FR,,
 100,218,Javascript,1653439196000,2948040,Pouyou,FR,85786963166544,
 100,219,Javascript,1624668539000,1095153,SimonPhoenix,UA,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1646|time=2023-01-09T01:00:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1646|time=2023-01-10T01:12:04
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -594,6 +594,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,188,Javascript,1644194823000,3642024,Kwaha,UA,,
 100,188,Javascript,1652488992000,2250473,DisaDev,FR,45247183107539,
 100,188,Javascript,1665275445000,5115337,,FR,,
+100,188,Javascript,1673313124000,4231728,TojoNatolotra,FR,95641407625330,
 100,189,Javascript,1567946817000,2688693,Catagami,NL,19560525429680,
 100,189,Javascript,1567946817000,3438209,IdiomSavant,GB,,
 100,189,Javascript,1567946817000,1583209,smlabt,DE,6592491785037,
@@ -618,7 +619,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,191,Javascript,1567946817000,1504324,primozi,SI,,
 100,191,Javascript,1624927206000,1719856,YOANN,FR,11777604207042,
 100,191,Javascript,1662337998000,2765000,Nowan,BE,88026624631087,
-100,191,Javascript,1673141800000,4231728,TojoNatolotra,FR,95641407625330,
 100,192,Javascript,1567946817000,719682,AXB,FR,1755646590673,
 100,192,Javascript,1567946817000,703271,DrinkingBird,AR,1806409700397,
 100,192,Javascript,1567946817000,1096955,Elsper,RU,,
@@ -997,5 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,263,Javascript,1567946817000,1359250,MajorPrime,FR,94791162614685,
 100,263,Javascript,1567946817000,827332,Metalshoot,FR,2091918679950,
 100,263,Javascript,1641435151000,3691491,icecream17,US,42082469656497,
-100,265,Javascript,1567946817000,531405,Bhyve,AU,4322149263357,
+100,263,Javascript,1673313124000,4217040,LilouMcFly,FR,63588126744310,
 100,265,Javascript,1567946817000,196368,Stornitz,FR,2983266419544,

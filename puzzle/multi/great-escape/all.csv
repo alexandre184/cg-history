@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4121|time=2023-01-10T00:30:46
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=4121|time=2023-01-11T01:00:25
 5,33.53,C++,,960105,494104,Recar,GB,4953953776940,
 5,33.01,C++,,3994469,3457031,YurkovAS,RU,33020204289704,
 5,31.65,C++,,3994180,3533119,wlesavo,RU,44695284080274,
@@ -927,8 +927,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,25.49,Python3,,937984,816936,aurimukas,FR,22319852372349,
 3,25.44,Java,,1212921,1181768,dio_O,BR,9247621527483,
 3,25.44,Java,,1212463,1926322,ANewHope2017,IT,11907018253255,
+3,25.42,C++,,3339835,2847829,bcwaitwaiter,PL,,
 3,25.41,C++,,937888,381749,AlexJH,ES,,
-3,25.4,C++,,3339835,2847829,bcwaitwaiter,PL,,
 3,25.34,C++,,937955,810438,Sasurai,ES,2107190661297,
 3,25.29,C#,,1483418,2232336,jking8,US,,
 3,25.23,C#,,958727,1688887,Kryptum,GB,,
@@ -996,6 +996,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,23.58,VB.NET,,937535,186405,d-mark,FR,7899805743942,
 3,23.57,Javascript,,3694334,2891206,conrisc,PL,,
 3,23.55,Javascript,,937799,783337,Dewey,FR,,
-3,23.51,C++,,937512,171470,apatrushev,RU,,
+3,23.53,C++,,937512,171470,apatrushev,RU,,
 3,23.47,Java,,937880,586906,tetonator,FR,,
 3,23.45,C,,937436,891351,AhmedMaher,EG,,

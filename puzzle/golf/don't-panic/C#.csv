@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1009|time=2023-01-10T01:12:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1010|time=2023-01-11T01:01:30
 100,125,C#,1665275447000,4341304,Remi.,FR,97662026388574,
 100,143,C#,1600224966000,155774,dwarfie,FR,17785582865119,
 100,147,C#,1567946816000,371603,martin,CA,1761380964089,
@@ -755,6 +755,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,2315,C#,1567946816000,421485,Faceless,RU,1840047887056,
 100,2325,C#,1598229535000,3416055,ItsAFeature,DE,102091024235650,
 100,2327,C#,1594258236000,2087014,Thomason,CZ,13466663725697,
+100,2350,C#,1673398890000,5083929,HustenWams,DE,,
 100,2353,C#,1567946816000,1389940,SamuraiCat,FR,,
 100,2356,C#,1567946816000,1702432,BluePixel33,IT,9069292309007,
 100,2356,C#,1567946816000,1580630,CapSlowCode,SE,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,1868,C#,1624432222000,863083,junozay,UA,,
 0,1868,C#,1624432222000,1104801,restros,FR,82291360321011,
 0,1868,C#,1624432222000,1437346,rogie,FR,,
-0,1869,C#,1624432222000,3542103,,US,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1391|time=2023-01-12T01:19:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1392|time=2023-01-13T01:25:12
 100,42,Ruby,1647131441000,2928146,LolCat,MU,22538133010433,
 100,42,Ruby,1665449077000,4620553,TKirishima,FR,107809725450081,
 100,42,Ruby,1665795911000,2315623,Lydxn,CA,,
@@ -224,6 +224,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,89,Ruby,1670502172000,2674460,Malte42,DE,19389646868040,
 100,89,Ruby,1672188296000,4781063,Nicholi,US,96765521915668,
 100,89,Ruby,1672965037000,5262513,seperatis,US,95991847971960,
+100,89,Ruby,1673573112000,4372857,Sirios,BE,67205527942183,
 100,90,Ruby,1567946826000,760568,alex_slynko,IE,1961915966528,
 100,90,Ruby,1567946826000,2726969,alokhmutov,RU,20844254865169,
 100,90,Ruby,1618454978000,4034494,GTaf,FR,,
@@ -626,6 +627,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,151,Ruby,1567946826000,2802859,tdeo,FR,31607108989050,
 100,151,Ruby,1627347628000,1085744,Frontier,SG,,
 100,151,Ruby,1665795911000,4346194,itsachrafmansari,MA,107812302151462,
+100,151,Ruby,1673573112000,5054593,ToskyL,FR,94041808143935,
 100,152,Ruby,1567946826000,1139050,BlackFalcon,FR,,
 100,152,Ruby,1567946826000,2099827,Dailbon,US,13587902729221,
 100,152,Ruby,1567946826000,2100538,Fedia,FR,,
@@ -636,7 +638,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,152,Ruby,1567946826000,1110035,loocash,PL,2449949720509,
 100,152,Ruby,1567946826000,826851,macanico,AR,19146303922398,
 100,152,Ruby,1637369508000,863956,EpiC_Lag,FR,11518126048002,
-100,152,Ruby,1649982638000,4372857,Sirios,BE,67205527942183,
 100,152,Ruby,1670634575000,5069945,RaceBot,HU,,
 100,153,Ruby,1567946826000,1452115,Vaize,RU,5565581751382,
 100,153,Ruby,1567946826000,903745,paperfake,US,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,409,Ruby,1613703189000,2220979,tenmoses,,14765502412327,
 100,415,Ruby,1612492768000,4148473,ReadingWaters,US,57779402921700,
 100,417,Ruby,1567946826000,973563,burgum,RU,,
-100,417,Ruby,1567946826000,1474947,lbischof,CH,,

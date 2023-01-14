@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2959|time=2023-01-13T01:26:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2959|time=2023-01-14T00:42:37
 100,71,Python3,1669595858000,2315623,Lydxn,CA,,
 100,72,Python3,1667521860000,3845610,pardouin,FR,60364063762936,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
@@ -611,6 +611,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,125,Python3,1667521860000,2829386,Shaq76,GB,52749040542647,
 100,125,Python3,1668130919000,4612315,Gerritvw,ZA,103136921219034,
 100,125,Python3,1669249855000,4841063,Naxus,FR,104762183855753,
+100,125,Python3,1673656957000,3502478,tachan,JP,,
 100,126,Python3,1567946837000,3044280,AminGholizad,BE,23774079662038,
 100,126,Python3,1585184082000,2719887,mrawson,GB,21268121517389,
 100,126,Python3,1586654968000,3757994,Pitmairen,NO,,
@@ -868,6 +869,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,136,Python3,1654822970000,2049226,Korkrane,FR,63874204103209,
 100,136,Python3,1662165057000,4496623,npkt,JP,,
 100,136,Python3,1666485058000,4763933,gtoubol,FR,,
+100,136,Python3,1673656957000,4069504,ElBoudah,FR,,
 100,137,Python3,1567946837000,3372618,pingouinator,FR,29670280878028,
 100,137,Python3,1572742808000,3421806,Raminou,FR,31684407265500,
 100,137,Python3,1591233436000,3517349,akaowen,CA,35138901111113,
@@ -906,7 +908,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Python3,1665362039000,4569055,Denil,FR,91218949664019,
 100,138,Python3,1666398663000,4173523,horeshb,CH,,
 100,138,Python3,1668305316000,5158308,player1048576,CN,,
-100,138,Python3,1671755447000,4069504,ElBoudah,FR,,
 100,138,Python3,1672451598000,4240162,blueCypher,RO,82500087525448,
 100,139,Python3,1567946837000,2216956,TimDarcet,FR,17559631530097,
 100,139,Python3,1567946837000,1712483,nexxon,CH,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,143,Python3,1567946837000,2978856,[4.0]aras.senova,TR,23075998397070,
 100,143,Python3,1594081845000,3884286,RomaR,AR,,
 100,143,Python3,1594081845000,3797725,matcl,FR,,
-100,143,Python3,1601785866000,3515315,MichalM,PL,49710102424059,

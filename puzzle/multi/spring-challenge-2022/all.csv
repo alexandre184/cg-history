@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8348|time=2023-01-14T00:42:01
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=8348|time=2023-01-15T01:36:40
 5,34.21,C++,,4261360,2577687,blasterpoard,SK,36336680250371,
 5,34.1,C++,,4264019,4802230,Nanaeda,JP,80513847977929,
 5,33.85,C#,,4306619,2907009,Arnaud.Net,FR,43971600119231,
@@ -614,7 +614,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,27.37,Java,,4262750,4875378,alexhimself,FR,105504623592364,
 4,27.05,Java,,4263872,3244897,Romii,FR,63528322811756,
 4,26.84,Bash,,4258881,3828059,Valphyr1,FR,54309545363491,
-4,26.72,Python3,,4260961,2200074,Aripse,FR,14571085904147,
+4,26.71,Python3,,4260961,2200074,Aripse,FR,14571085904147,
 4,26.44,Javascript,,4262888,3910987,InfiniteVR,FR,47221884395216,
 4,26.32,TypeScript,,4262919,4045062,ChaosCat,DE,,
 4,26.2,Python3,,4259176,492970,Kromak,FR,53746487738294,
@@ -970,7 +970,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,20.97,C,,4264821,4301550,Sabenson,FR,62816201139096,
 4,20.97,C++,,4266309,2025987,Cham,FR,13420711659001,
 4,20.97,PHP,,4258769,4871770,Nairb18,FR,82989929169090,
-4,20.96,C#,,4259897,3165536,barbora,SK,44036705103292,
 4,20.95,C++,,4264195,4075567,magist3r,RS,82988602161302,
 4,20.95,Python3,,4262068,1896941,Bluepioupiou,FR,20406457280778,
 4,20.95,Python3,,4261371,4850412,Jbat1Jumper,AR,82129546592394,
@@ -997,5 +996,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,20.79,C#,,4259664,523846,Palmipedus,GB,13261819485064,
 4,20.78,TypeScript,,4261129,2796534,Vadrek,FR,41833643372606,
 4,20.78,Python3,,4321185,2290633,field3,JP,75961127697737,
+4,20.78,C#,,4259897,3165536,barbora,SK,44036705103292,
 4,20.76,Java,,4263765,4059043,DziTiEn,VN,64816247888006,
 4,20.75,Rust,,4262788,3795474,.o0TVP0o.,VN,43721104984096,

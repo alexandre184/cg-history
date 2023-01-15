@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=405|time=2023-01-14T00:42:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=407|time=2023-01-15T02:06:08
 100,31,Bash,1586393333000,334009,abouvier,FR,4681436111242,
 100,35,Bash,1583461916000,1537792,AsaiYusuke,US,41785380851985,
 100,35,Bash,1639876427000,1483723,d-s-x,RU,4980051025170,
@@ -165,6 +165,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,111,Bash,1609203934000,1111915,Giloulaloutre,FR,54571101020106,
 100,114,Bash,1567946829000,1163546,Pyou,FR,11268161804466,
 100,114,Bash,1606180766000,958227,LantarSidonis,FR,23940037830772,
+100,114,Bash,1673748368000,1172955,aabzac,BY,16472625971818,
 100,116,Bash,1567946829000,1610847,Eldon,CA,7377872751830,
 100,117,Bash,1567946829000,335954,nmahoude,FR,19628800665378,
 100,117,Bash,1567946829000,155907,vicred,FR,,
@@ -399,6 +400,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,400,Bash,1624432238000,3893219,The-matrix,US,69868589495378,
 0,401,Bash,1646700809000,4777986,,US,,
 0,401,Bash,1660353232000,5030727,,PK,,
+0,401,Bash,1673748368000,5291261,,US,,
 0,419,Bash,1624432238000,4085326,Samzok123,YE,58195403483572,
 0,426,Bash,1627606969000,4447698,andrewking12,IN,,
 0,429,Bash,1624432238000,1515834,Wobet,DE,5648332111265,

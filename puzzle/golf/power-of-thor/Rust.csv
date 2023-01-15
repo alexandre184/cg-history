@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=177|time=2023-01-14T00:42:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=178|time=2023-01-15T02:06:03
 100,143,Rust,1644712591000,1654818,tarapitha,EE,79401682508715,
 100,150,Rust,1641267329000,1483723,d-s-x,RU,4980051025170,
 100,179,Rust,1627260458000,3354337,Westicles,CX,79146641399080,
@@ -57,6 +57,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,420,Rust,1567946821000,1164798,ndriscoll,US,4828266338970,
 100,421,Rust,1595118632000,3808031,_proton,US,44172683522650,
 100,423,Rust,1578790345000,2419811,Valbou,FR,37231983233550,
+100,427,Rust,1673748363000,3256989,rizant,RU,,
 100,428,Rust,1601866234000,3308199,ChadThundercode,RU,26870541968187,
 100,429,Rust,1567946821000,996696,XO-Splicer,DE,1972462911848,
 100,430,Rust,1641435159000,4562011,Malenkurion,FR,,
@@ -80,7 +81,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,498,Rust,1567946821000,1573641,Headingtofall,US,,
 100,500,Rust,1567946821000,1515577,Frettchen7,DE,,
 100,502,Rust,1567946821000,1166600,Gill153,CA,3702759276181,
-100,503,Rust,1673656945000,3256989,rizant,RU,,
 100,512,Rust,1592182463000,1466631,Akrib,FR,17971797700592,
 100,520,Rust,1567946821000,1390789,Matthieu.L,FR,36482342568862,
 100,527,Rust,1619665330000,3661302,nohjai8C,DE,,
@@ -120,6 +120,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,1127,Rust,1567946821000,1279751,Tudou,GB,3467400516695,
 100,1146,Rust,1662078639000,4466025,FluffySalmon,NL,,
 100,1153,Rust,1567946821000,735910,Agade,CH,1997542876524,
+100,1159,Rust,1673748363000,4768994,gkehren,FR,100023108083680,
 100,1229,Rust,1606180784000,4075468,caiomcg,BR,54336405754789,
 100,1259,Rust,1651365038000,3539769,maestoso,US,84674445956687,
 100,1291,Rust,1567946821000,3370514,mdsimmo,,,

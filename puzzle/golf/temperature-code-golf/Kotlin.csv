@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=207|time=2023-01-16T00:41:18
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=208|time=2023-01-17T00:42:15
 100,85,Kotlin,1641863864000,3380184,chouch,FR,,
 100,89,Kotlin,1567946831000,1483723,d-s-x,RU,4980051025170,
 100,89,Kotlin,1673398905000,3502478,tachan,JP,,
@@ -21,6 +21,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,115,Kotlin,1662165050000,1487392,Razielwar,FR,12761113272803,
 100,117,Kotlin,1567946831000,1001096,MyIIone,AT,4231449697357,
 100,117,Kotlin,1628988256000,2315158,luigi_gelato,DE,,
+100,117,Kotlin,1673916135000,434952,Yeuth,FR,,
 100,119,Kotlin,1624156448000,155774,dwarfie,FR,17785582865119,
 100,120,Kotlin,1627866438000,4452598,Mr.Midnight,US,,
 100,122,Kotlin,1624582509000,3022016,Sundiver,DE,31016387398299,
@@ -30,7 +31,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,126,Kotlin,1633566646000,3516345,Jp82,FR,63600965075245,
 100,128,Kotlin,1605574807000,1848459,Velcoro,CZ,48538649860014,
 100,130,Kotlin,1624069860000,3354337,Westicles,CX,79146641399080,
-100,130,Kotlin,1664498591000,434952,Yeuth,FR,,
 100,135,Kotlin,1658277456000,2234888,Daverix,SE,15130043574407,
 100,137,Kotlin,1652317005000,3770880,Yu_212,JP,73269088975024,
 100,141,Kotlin,1662165050000,1904082,WIlChrist,FR,12053761899724,
@@ -113,6 +113,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,515,Kotlin,1638837455000,4638305,Nomiak,FR,,
 100,520,Kotlin,1629333047000,4474741,guruken,KE,,
 100,534,Kotlin,1667781059000,4843303,abdeldev,MA,81984368526140,
+100,593,Kotlin,1673916135000,5163410,LOKI_78,LU,93367947956362,
 100,614,Kotlin,1567946831000,2470435,trifidkod,HU,,
 100,630,Kotlin,1669422643000,5201452,LKMaster,BY,,
 100,658,Kotlin,1567946831000,788361,Bob,FR,29407964997640,

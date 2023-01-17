@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=286|time=2023-01-16T00:41:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=286|time=2023-01-17T00:41:57
 100,1570,PHP,1660696564000,4618693,cedricdd,FR,85418008807758,
 100,1596,Rust,1632445183000,3918583,mikmak,FR,48134583112917,
 100,1675,Rust,1568334602000,2288263,dbdr,UA,43448306132121,
@@ -112,6 +112,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 10,512,Java,1664586757000,4859684,PaRy,RU,,
 6.666666666666667,61,Javascript,1624432216000,4180659,abrman,SK,74762185405103,
 6.666666666666667,106,Python3,1624432216000,3315341,Yoyoda,FR,27163947902081,
+6.666666666666667,146,Python3,1673916117000,2315158,luigi_gelato,DE,,
 6.666666666666667,261,Java,1624432216000,1629259,Marchete,ES,61997162908277,
 6.666666666666667,334,D,1628386493000,4277867,About,SM,65816469118906,
 6.666666666666667,2615,C++,1651019432000,4648805,LordOfElements,US,,
@@ -198,7 +199,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0,0,Javascript,1663288237000,3478673,never-again,FR,55942343550622,
 0,0,Python3,1664152233000,4993857,WouterSolutions,NL,,
 0,0,Python3,1666398636000,5114186,MilanDjokovic2022203830,RS,,
-0,0,Rust,1673141796000,2315158,luigi_gelato,DE,,
 0,7,C#,1649205036000,4788358,mattyPea,AU,80256246904171,
 0,16,C++,1624432216000,3503501,Dagnarus,DE,36515983488795,
 0,30,Bash,1624432216000,1759335,metahom,AE,40546489176319,

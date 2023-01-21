@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2988|time=2023-01-20T01:26:18
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2988|time=2023-01-21T01:03:34
 100,71,Python3,1669595858000,2315623,Lydxn,CA,,
 100,72,Python3,1667521860000,3845610,pardouin,FR,60364063762936,
 100,74,Python3,1600138078000,3883981,mauguignard,AR,59651720258546,
@@ -54,6 +54,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,82,Python3,1649291569000,3337117,timbersson,GB,31946722637374,
 100,82,Python3,1667089865000,893541,wala,FR,97577641170180,
 100,82,Python3,1668385864000,2984707,Darkduv,FR,23133372353170,
+100,82,Python3,1674263014000,4966586,Rohydre,FR,,
 100,83,Python3,1623294200000,936271,Chkoupinator,FR,63680800481745,
 100,83,Python3,1624156454000,4333783,Fredsi,FR,,
 100,83,Python3,1627606972000,4081634,Wontonimo,CA,54970169109216,
@@ -169,6 +170,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,96,Python3,1642552931000,4334077,Paul_Demanze,GB,89645400922966,
 100,96,Python3,1650416002000,4742847,corentinclt,FR,79612169384164,
 100,96,Python3,1651537858000,4470306,NONstope,CA,69090449693388,
+100,96,Python3,1674263014000,3708557,Sensayyy,FR,58361723852496,
 100,97,Python3,1594168553000,3885147,cpita,AR,,
 100,97,Python3,1594258257000,3741606,JampperX,UZ,46435366350232,
 100,97,Python3,1624069865000,1759839,matleg,FR,27938585309756,
@@ -199,7 +201,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,100,Python3,1625792091000,1845617,Shingy,AU,26010702723839,
 100,100,Python3,1627777858000,1684020,tom_,FR,68400349015363,
 100,100,Python3,1668817853000,5172928,T2.py,FR,,
-100,100,Python3,1673573203000,4966586,Rohydre,FR,,
 100,101,Python3,1567946837000,2744095,ArSeNiK,TH,,
 100,101,Python3,1567946837000,3361340,JakeRobinson,AU,34311126035460,
 100,101,Python3,1567946837000,3389270,REDjp,JP,30294702199999,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,142,Python3,1659400260000,3876796,Dyavolo,FR,88725128396361,
 100,142,Python3,1668215220000,5174619,Datascientist07,BD,98182745616126,
 100,142,Python3,1671067363000,4656757,linterne,FR,75596503077289,
-100,142,Python3,1671237048000,5226080,Turing-04,CH,95107022692261,

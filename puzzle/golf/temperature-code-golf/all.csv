@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=23735|time=2023-01-22T01:11:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=23751|time=2023-01-23T00:30:45
 100,29,Perl,1583461911000,1537792,AsaiYusuke,US,41785380851985,
 100,29,Perl,1586393335000,334009,abouvier,FR,4681436111242,
 100,30,Ruby,1655426701000,3380184,chouch,FR,,
@@ -678,7 +678,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,54,Ruby,1662942786000,303151,MoOT.Cube,FR,14950711588437,
 100,54,Ruby,1663374653000,4841063,Naxus,FR,104762183855753,
 100,54,Ruby,1667211281000,5112539,soyouthinkyoucancode,GR,,
-100,54,Ruby,1669509044000,5178006,GodFlacco,,,
 100,54,Bash,1671496241000,2371389,Franta,CZ,16642908084028,
 100,54,Ruby,1673141815000,329048,Eniwilan,FR,83502421528333,
 100,55,Bash,1567946829000,1487168,FatIvan,GB,12794968553694,
@@ -999,3 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,60,Python3,1567946832000,2458197,Stack_of_Pancakes,US,17063542094647,
 100,60,Ruby,1567946833000,911777,MasakiKyosuke,FR,1954689592247,
 100,60,Ruby,1567946833000,1796070,MinorScale,FR,37637848458775,
+100,60,Ruby,1567946833000,1273087,Niklex,US,5329784597912,

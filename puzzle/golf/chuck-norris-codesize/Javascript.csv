@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1087|time=2023-01-23T00:30:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1088|time=2023-01-24T00:41:16
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -10,6 +10,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,78,Javascript,1596501991000,2288263,dbdr,UA,43448306132121,
 100,80,Javascript,1665362042000,3514975,PhuRiNaT,TH,97597367576293,
 100,83,Javascript,1628901888000,2315158,luigi_gelato,DE,,
+100,86,Javascript,1674520876000,4966586,Rohydre,FR,,
 100,92,Javascript,1657586205000,1258656,Batpapa,FR,3904980817200,
 100,97,Javascript,1567946837000,1357614,OptiPanda,FR,25029501539760,
 100,98,Javascript,1654302925000,4334237,BJD,US,64170920248296,
@@ -34,7 +35,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,103,Javascript,1651973300000,2153101,Sylvain0675,FR,14368663014319,
 100,103,Javascript,1673141818000,481564,mihei,RU,4454400756022,
 100,104,Javascript,1660785540000,4159036,CavanP,US,58833028673197,
-100,104,Javascript,1674263013000,4966586,Rohydre,FR,,
 100,105,Javascript,1635468991000,3917724,Marke18,IT,47701103353349,
 100,106,Javascript,1567946837000,3230794,tutubalin,RU,25714480415254,
 100,106,Javascript,1579048251000,1093968,milosMATRIXrepic,RS,78180568348596,
@@ -548,6 +548,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,185,Javascript,1604537338000,3550689,xsabi,LU,37517942592314,
 100,185,Javascript,1612147811000,4145435,Atomoxic,GB,58036468209973,
 100,185,Javascript,1651973300000,4152193,Deathvenom,IN,82660805794738,
+100,185,Javascript,1674520876000,5191243,--__[Seb]__--,FR,96936402086447,
 100,186,Javascript,1571013056000,3286691,Miisteur974,FR,46637543592264,
 100,186,Javascript,1571013056000,2851992,musatag,FR,34415881686866,
 100,186,Javascript,1571533607000,3526028,severrabaen,JP,35440701241251,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,834,Javascript,1606611605000,2366647,Chubakak,CA,16022361287800,
 100,837,Javascript,1645231137000,4440032,Zavva,PL,,
 100,850,Javascript,1606611605000,4083937,sylvavio,FR,54708003519173,
-100,861,Javascript,1580689850000,3665757,Socolin,CA,39940682811977,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2882|time=2023-01-23T00:30:19
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2883|time=2023-01-24T00:40:45
 4,35.18,C++,,2708375,3193653,karliso,LV,54368321987353,
 4,32.67,C++,,2707285,3502867,The_Duck,US,34740708743362,
 4,32.01,Python3,,2709863,2970414,Fangel,FR,23748356777542,
@@ -870,8 +870,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,24.29,Python3,,2707698,3051977,YongJing,SG,,
 2,24.27,C++,,2842523,1449433,Rolf,ES,11401424939145,
 2,24.27,C++,,3930445,2638020,ja_fica,PT,43608047918764,
-2,24.24,Python3,,2708291,2779651,panxman,AU,30618107152660,
 2,24.24,Python3,,2708330,156876,ShinjiKun,FR,6683875303833,
+2,24.24,Python3,,2708291,2779651,panxman,AU,30618107152660,
 2,24.23,Python3,,2707646,1243876,Hi-Low_World,CZ,3367230283196,
 2,24.21,C#,,2707289,1566179,ArcaneSaint,BE,6527210633976,
 2,24.19,C++,,2707093,1418821,input.txt,RU,13393616028136,
@@ -971,9 +971,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,21.7,C++,,2707748,1182711,FiringSquad,FR,,
 2,21.66,Javascript,,2709134,833678,ghassen,DE,13321512849435,
 2,21.65,Python3,,2707213,1920520,brady,DE,12243350869311,
+2,21.64,Rust,,3027130,3877700,Bytekeeper,DE,82369284039120,
 2,21.64,C#,,2708030,1386456,wvsever,BE,4482263162511,
 2,21.63,Python3,,3119026,2976018,jfouille,FR,106008044064063,
-2,21.62,Rust,,3027130,3877700,Bytekeeper,DE,82369284039120,
 2,21.61,C#,,3455316,1219872,chewie,CA,3782796172863,
 2,21.59,Kotlin,,2707484,3488041,KodeMonkey,US,34223383760464,
 2,21.57,Java,,2707164,3367414,RachidiAlaouiHicham,MA,35323804992691,
@@ -997,5 +997,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,21.2,Haskell,,2708410,3524909,atpotts,GB,,
 2,21.19,Python3,,3865762,4397409,Sargosse,FR,71965923876162,
 2,21.17,F#,,2707704,1981732,MJS,FR,12502282804946,
+2,21.16,Java,,2708951,873808,Vx3,FR,8736481809294,
 2,21.16,Swift,,2708054,3406209,Lordam,DE,31014884642910,
-2,21.14,C#,,2707836,2196884,SamFishou,FR,14675815129425,

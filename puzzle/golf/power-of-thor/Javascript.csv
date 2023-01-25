@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4901|time=2023-01-24T00:41:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4903|time=2023-01-25T01:05:27
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1648341595000,2928146,LolCat,MU,22538133010433,
@@ -31,6 +31,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,88,Javascript,1653870650000,1234947,kuro,BR,6850950439511,
 100,89,Javascript,1628209833000,2288263,dbdr,UA,43448306132121,
 100,90,Javascript,1567946825000,416762,Khao,CA,2035557596161,
+100,90,Javascript,1674608727000,981878,nicolasD,FR,22576267267565,
 100,91,Javascript,1641780590000,614215,Jo,FR,25861427746726,
 100,92,Javascript,1567946825000,1328758,GottZ,DE,3811962815765,
 100,92,Javascript,1567946825000,2285589,Klamss,FR,15460853510438,
@@ -530,6 +531,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,118,Javascript,1645403444000,4051396,BretzelLudique,FR,82411529317371,
 100,118,Javascript,1653870650000,4907484,LFabre,PT,104664620606325,
 100,118,Javascript,1674090570000,4587356,Vyt,LT,,
+100,118,Javascript,1674608727000,5277184,jerom123,FR,,
 100,119,Javascript,1567946825000,1169220,Indobiany,RU,2849621315733,
 100,119,Javascript,1567946825000,981349,MaciejS,PL,,
 100,119,Javascript,1567946825000,1738090,MrMoove,FR,10076698240417,
@@ -578,7 +580,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,120,Javascript,1648254643000,4722425,MKGaru,JP,,
 100,120,Javascript,1656203444000,2688381,willf80,FR,70802160683965,
 100,120,Javascript,1662597042000,4886818,lolmanQ,SE,83647361971743,
-100,120,Javascript,1673141808000,5277184,jerom123,FR,,
 100,121,Javascript,1567946825000,1495642,AtomCrafty,DE,5134929486180,
 100,121,Javascript,1567946825000,705079,Perazzo,BR,,
 100,121,Javascript,1567946825000,2827109,Pwntheon,NO,21241844341958,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Javascript,1594946584000,1285617,LostDragon,FR,62945947101025,
 100,138,Javascript,1594946584000,1499383,NunnaYerbiz,PT,11451111016779,
 100,138,Javascript,1594946584000,1421152,kevinleedrum,US,4983963715196,
-100,138,Javascript,1594946584000,1668912,sirCodesALot,DK,,

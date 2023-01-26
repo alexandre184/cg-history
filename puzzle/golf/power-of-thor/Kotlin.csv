@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=244|time=2023-01-25T01:05:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=245|time=2023-01-26T00:57:31
 100,90,Kotlin,1641267328000,1483723,d-s-x,RU,4980051025170,
 100,139,Kotlin,1665106371000,2874091,5DN1L,GB,79633423380001,
 100,147,Kotlin,1668385836000,3351131,osmedile,FR,,
@@ -40,6 +40,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,189,Kotlin,1633566638000,3516345,Jp82,FR,63600965075245,
 100,189,Kotlin,1657072055000,481988,DevKirill,RU,26384102822076,
 100,190,Kotlin,1608425836000,4090830,vklidu,CZ,55040808905498,
+100,190,Kotlin,1674694651000,5297866,natronite,CH,97094563401533,
 100,193,Kotlin,1567946824000,1934084,deviantstudio,UA,14554988316961,
 100,194,Kotlin,1601353873000,3190200,codegames,IR,50599589563593,
 100,195,Kotlin,1567946824000,1516975,TheBo,DE,,
@@ -76,7 +77,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,243,Kotlin,1567946824000,1926967,Stanworld,FR,11941603857102,
 100,243,Kotlin,1592095980000,3856960,Anym,DE,,
 100,244,Kotlin,1601260242000,2551887,PennArBed,FR,35018945870616,
-100,244,Kotlin,1674349896000,5297866,natronite,CH,97094563401533,
 100,245,Kotlin,1595118635000,3901696,linovifian,CH,,
 100,245,Kotlin,1630197838000,2202771,Kaplone,FR,23792369424472,
 100,245,Kotlin,1658795438000,1102031,deadelf,ZA,2344698123730,
@@ -166,6 +166,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,593,Kotlin,1614825065000,4177250,MaxFerguson,US,,
 100,596,Kotlin,1581986246000,2645557,Unknown0_o,FR,33539085956013,
 100,598,Kotlin,1567946824000,2462764,KH-Unaccepted_Terror,HU,,
+100,604,Kotlin,1674694651000,4220057,EvilRed,GB,60077107189235,
 100,639,Kotlin,1571273984000,1077559,PhOeNyX,FR,2248934338554,
 100,654,Kotlin,1595032235000,3900429,LoveMahajan,IN,,
 100,731,Kotlin,1615516527000,4227724,Jonzl,SI,,

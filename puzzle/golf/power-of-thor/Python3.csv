@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8909|time=2023-01-25T01:05:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8915|time=2023-01-26T00:57:31
 100,51,Python3,1648254644000,2928146,LolCat,MU,22538133010433,
 100,54,Python3,1628817350000,3845610,pardouin,FR,60364063762936,
 100,59,Python3,1641357393000,1483723,d-s-x,RU,4980051025170,
@@ -78,6 +78,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,80,Python3,1671929075000,5012617,lgrandco,FR,109842602774740,
 100,80,Python3,1672965035000,3361908,Fafanellu,VE,105742145179341,
 100,80,Python3,1673656946000,4527784,FlAvril,FR,90961467048393,
+100,80,Python3,1674694651000,5191042,Saphir123,FR,102291860878516,
 100,81,Python3,1634346937000,1178401,mizzHuarta,FR,,
 100,81,Python3,1636764241000,3906946,annaproxy,NL,48265122990384,
 100,81,Python3,1642466068000,1124679,Tinaud,CA,2547993227524,
@@ -201,7 +202,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,90,Python3,1644629862000,4677256,whyvna,DE,91367888102939,
 100,90,Python3,1645922484000,4755470,atestname,FR,,
 100,90,Python3,1670202467000,1549856,Keylan,US,7544816458112,
-100,90,Python3,1674608727000,5191042,Saphir123,FR,102291860878516,
 100,91,Python3,1645144936000,3702791,KalamariKing,US,80660805830970,
 100,91,Python3,1654648240000,3740208,Dinca,RO,85060742927619,
 100,91,Python3,1668991334000,2017805,Winter_not_comming,PL,66744141457956,
@@ -858,6 +858,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,116,Python3,1673656946000,5223274,llllllllllllllllllllllllllllll,FR,98373608345244,
 100,116,Python3,1674002121000,4068307,Lord_Beubeuh,FR,70290383957366,
 100,116,Python3,1674520862000,5213047,Abhinandan.b,IN,94961549834860,
+100,116,Python3,1674694651000,947662,Liam,CA,97007422790430,
 100,117,Python3,1567946825000,1841051,0xbeefed,GB,17119043174583,
 100,117,Python3,1567946825000,807958,AaronTwitchell,US,,
 100,117,Python3,1567946825000,3307612,Apparhum,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,119,Python3,1630110641000,3692857,Gromov,UA,,
 100,119,Python3,1638405560000,1046397,Skalgor,ES,2132684014475,
 100,119,Python3,1643511148000,1158772,Daniel_Leidenheimer,DE,45903963399756,
-100,119,Python3,1644107546000,3490454,PAug,FR,95784803415247,

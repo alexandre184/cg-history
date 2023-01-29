@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1662|time=2023-01-28T00:42:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1665|time=2023-01-29T00:33:35
 100,64,Javascript,1644712581000,4341304,Remi.,FR,97662026388574,
 100,67,Javascript,1627956507000,1675034,francois,FR,15464459859531,
 100,69,Javascript,1596501967000,3845610,pardouin,FR,60364063762936,
@@ -662,6 +662,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,194,Javascript,1646872379000,1473079,Zylar,US,4875610554885,
 100,194,Javascript,1651712587000,1676711,Eeeval,FR,12979369709156,
 100,194,Javascript,1661041839000,5033725,SimpleSimon,US,88687188152407,
+100,194,Javascript,1674952415000,4331816,tiracoon,FR,64035986352942,
 100,195,Javascript,1567946817000,1663473,Askoog,SE,11932643388530,
 100,195,Javascript,1582681629000,2382065,Qward,FR,16160625519213,
 100,195,Javascript,1599878373000,3965076,Hecatolith,FR,,
@@ -737,6 +738,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,199,Javascript,1672360231000,4625102,TATOOZ,FR,94160680932119,
 100,199,Javascript,1672451583000,5172863,[NN],FR,93288509556603,
 100,199,Javascript,1674002117000,4071438,Alkoliq,CA,54204465024383,
+100,199,Javascript,1674952415000,5291720,sg_f1,AU,,
 100,200,Javascript,1567946817000,1060181,Dabou,FR,3798025078627,
 100,200,Javascript,1567946817000,2990918,Dingodino,FR,23216166624189,
 100,200,Javascript,1567946817000,1390503,IQuick,CZ,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,259,Javascript,1642380701000,3194553,LukaszD,PL,25392458166919,
 100,259,Javascript,1644885755000,1306429,Neckers,IT,73429625249924,
 100,259,Javascript,1645058001000,4732141,PotatoFree,DE,78792969327409,
-100,261,Javascript,1567946817000,464971,PsyGuy66,IT,1723613063820,
-100,261,Javascript,1567946817000,1120615,kubajz,CZ,2541913303833,

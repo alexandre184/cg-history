@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1098|time=2023-02-04T00:34:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1100|time=2023-02-05T00:43:50
 100,74,Javascript,1643511158000,3380184,chouch,FR,,
 100,74,Javascript,1644712603000,4341304,Remi.,FR,97662026388574,
 100,74,Javascript,1645836068000,1654818,tarapitha,EE,79401682508715,
@@ -819,6 +819,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,289,Javascript,1596155448000,2083173,3moor,EG,47635240771408,
 100,289,Javascript,1615604512000,4228551,,US,,
 100,290,Javascript,1631061903000,3114285,ThomasSahkunataB,FR,59261760161233,
+100,290,Javascript,1675557830000,4341043,Nefalas,FR,98358969687161,
 100,292,Javascript,1634953200000,3634080,Mikescops,FR,39090265563064,
 100,295,Javascript,1639962251000,3408597,Jaze,FR,75210703188392,
 100,296,Javascript,1571533607000,3444208,Anatoli,DE,32592586143834,
@@ -958,6 +959,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,529,Javascript,1610426816000,4139443,Xerm223,RS,,
 100,529,Javascript,1615343644000,4224183,MrKernelPanic,FR,,
 100,531,Javascript,1613529150000,4192318,Hank_IV,SE,59114320804003,
+100,534,Javascript,1675557830000,5307210,Kahaal,FR,,
 100,540,Javascript,1598057928000,3942335,Fireseed,FR,,
 100,543,Javascript,1660006979000,4200491,CMarghin,MA,59376268362928,
 100,549,Javascript,1612924262000,2678015,Nerielle,FR,19442430200879,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,737,Javascript,1586048266000,3424684,Norbox,FR,59519385580335,
 100,740,Javascript,1573261521000,1297521,ClouardDista,FR,11747154664609,
 100,743,Javascript,1571877046000,3533889,Shri121,IN,36250907577717,
-100,744,Javascript,1634171766000,4546539,Aderner,IE,73202603901961,
-100,757,Javascript,1567946837000,3132303,Lauseloeffel,DE,,

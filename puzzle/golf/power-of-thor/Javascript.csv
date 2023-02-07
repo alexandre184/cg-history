@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4936|time=2023-02-06T00:41:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4938|time=2023-02-07T00:30:40
 100,55,Javascript,1638750904000,1483723,d-s-x,RU,4980051025170,
 100,55,Javascript,1644798641000,4341304,Remi.,FR,97662026388574,
 100,59,Javascript,1648341595000,2928146,LolCat,MU,22538133010433,
@@ -107,6 +107,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,101,Javascript,1636764239000,4577175,Mac83,FR,,
 100,101,Javascript,1638232574000,4308281,Davidxyz,GB,,
 100,101,Javascript,1657931568000,4749616,El0i,FR,85828085921056,
+100,101,Javascript,1675729840000,5270576,Dwagon_,FR,96223685869821,
 100,102,Javascript,1567946825000,1047991,MandM,PT,,
 100,102,Javascript,1567946825000,2115857,askdash,AU,,
 100,102,Javascript,1597278634000,2888129,terazoid,UA,49682242574474,
@@ -117,7 +118,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,102,Javascript,1637800812000,1485690,Kikoo,FR,4993649967380,
 100,102,Javascript,1642900260000,4672487,inem,RU,75989745808206,
 100,102,Javascript,1644367248000,1132126,BobySait,FR,70936663668585,
-100,102,Javascript,1675644063000,5270576,Dwagon_,FR,96223685869821,
 100,103,Javascript,1567946825000,2109511,taquion,MX,13694693506047,
 100,103,Javascript,1627432875000,820000,ValGrowth,JP,95440985747208,
 100,103,Javascript,1645836058000,3304110,MathieuSoysal,FR,29374123419027,
@@ -688,6 +688,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,125,Javascript,1657759003000,4762078,onlyLordManu,CI,85567482180781,
 100,125,Javascript,1665535347000,1515891,ndc,RU,57247748477088,
 100,125,Javascript,1670805410000,1348546,ValeCaza,FR,102126147231157,
+100,125,Javascript,1675729840000,278492,Seb.code,FR,97785528916362,
 100,126,Javascript,1567946825000,928564,Dagohan,TR,,
 100,126,Javascript,1567946825000,2400938,Gaiel,BE,16450990810131,
 100,126,Javascript,1567946825000,1809405,Ginkyu,BR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100,138,Javascript,1594859431000,1147524,CastorJo,FR,,
 100,138,Javascript,1594859431000,854215,Ji-aSH,FR,8541093906809,
 100,138,Javascript,1594946584000,301913,ElijahR,US,,
-100,138,Javascript,1594946584000,1285617,LostDragon,FR,62945947101025,

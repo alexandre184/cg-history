@@ -23,7 +23,7 @@ if File.directory?(tmp_puzzle_dir)
     minor_events.concat(all) if "golf" != type
   end
   time = Time.at(ENV["GIT_AUTHOR_DATE"][/\d+/].to_i).utc
-  IO.write("#{root_folder}/site/events/#{time.strftime("%F")}.html", build_event_page(major_events, minor_events, time))
+  IO.write("#{root_folder}/docs/events/#{time.strftime("%F")}.html", build_event_page(major_events, minor_events, time))
 end
 
 if File.directory?("puzzle")

@@ -26,7 +26,7 @@ puzzles.each.with_index(1) do |puzzle, nb|
   minor_events.concat(min)
 end
 
-IO.write("site/events/#{TODAY.strftime("%F")}.html", build_event_page(major_events, minor_events))
-IO.write("site/index.html", build_index_page)
-IO.write("site/puzzles.html", build_puzzle_page(puzzles))
-IO.write("site/404.html", build_404_page)
+IO.write("docs/events/#{TODAY.strftime("%F")}.html", build_event_page(major_events, minor_events))
+IO.write("docs/index.html", build_index_page)
+IO.write("docs/puzzles.html", build_puzzle_page(puzzles))
+IO.write("docs/404.html", build_404_page)

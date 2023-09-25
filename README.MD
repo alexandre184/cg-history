@@ -18,7 +18,7 @@ For my use it's already way more that I wanted. But if you think of another usec
 
 ```bash
 # site available at localhost:8000
-python3 -m http.server --directory site
+python3 -m http.server --directory docs
 
 sh script/udpate_cg_history.sh
 ```

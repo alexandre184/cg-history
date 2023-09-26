@@ -10,7 +10,7 @@ The first idea was to use github as a server to track, save and generate once a 
 
 Need to add a layer to that stack. The diff will no more be generated statically each day on github, but on demand by digging github history through javascript. That change make possible to compare specific versions, cool. Now the github limit is on your side by using the api :p.
 
-I stole the history of dbdr. Just rewrote the entire history to match my need, which was quite interesting. You may have a look at [/script/history/rewrite.sh](rewrite.sh)
+I stole the history of dbdr. Just rewrote the entire history to match my need, which was quite interesting. You may have a look at [rewrite.sh](/script/history/rewrite.sh)
 
 For my use it's already way more that I wanted. But if you think of another usecase, feel free to contribute :). I leave some TODO that I may or may not do!
 

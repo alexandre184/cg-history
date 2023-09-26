@@ -97,9 +97,9 @@ return `
     <nav>
       <details open>
         <summary>Lang</summary>
-        ${[...document.querySelectorAll('select[name="lang"] option')].map(opt => `<a${opt.value == data.lang ? '' : ` href="/puzzles.html?date1=${data.date1}&date2=${data.date2}&puzzle=${encodeURIComponent(data.puzzle)}&lang=${encodeURIComponent(opt.value)}"`}>${opt.value}</a>`).join('\n')}
+        ${[...document.querySelectorAll('select[name="lang"] option')].map(opt => `<a${opt.value == data.lang ? '' : ` href="../puzzles.html?date1=${data.date1}&date2=${data.date2}&puzzle=${encodeURIComponent(data.puzzle)}&lang=${encodeURIComponent(opt.value)}"`}>${opt.value}</a>`).join('\n')}
       </details>
-      ${[...document.querySelectorAll('select[name="puzzle"] optgroup')].map(optg => `<details><summary>${optg.label}</summary>${[...document.querySelectorAll(`select[name="puzzle"] optgroup[label="${optg.label}"] option`)].map(opt => `<a class="overflow"${opt.value == data.puzzle ? '' : ` href="/puzzles.html?date1=${data.date1}&date2=${data.date2}&puzzle=${encodeURIComponent(opt.value)}&lang=${encodeURIComponent(data.lang)}"`}>${opt.value}</a>`).join('\n') }</details>`).join('\n')}
+      ${[...document.querySelectorAll('select[name="puzzle"] optgroup')].map(optg => `<details><summary>${optg.label}</summary>${[...document.querySelectorAll(`select[name="puzzle"] optgroup[label="${optg.label}"] option`)].map(opt => `<a class="overflow"${opt.value == data.puzzle ? '' : ` href="../puzzles.html?date1=${data.date1}&date2=${data.date2}&puzzle=${encodeURIComponent(opt.value)}&lang=${encodeURIComponent(data.lang)}"`}>${opt.value}</a>`).join('\n') }</details>`).join('\n')}
     </nav>
     <table class="sticky">
       <thead>

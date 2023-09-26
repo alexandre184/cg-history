@@ -24,23 +24,23 @@ def progress_color_down(v1, v2) = v1 ? v2.nil? || v1 < v2 ? "green" : v1 > v2 ? 
 def   progress_color_up(v1, v2) = v1 ? v2.nil? || v1 > v2 ? "green" : v1 < v2 ? "red" : "" : ""
 def             ordinalize(num) = num ? %w"th st nd rd"[num/10%10 == 1 || num%10 > 3 ? 0 : num%10] : ""
 
-def layout(title, css, js, event_date = TODAY)
+def layout(title, css, js, root_prefix: ".", event_date: TODAY)
   <<~LAYOUT
     <!DOCTYPE html>
     <html lang="en">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <title>CG History -- #{title}</title>
-    #{css.map{|x| "<link rel=\"stylesheet\" href=\"/assets/#{x}.css\"/>"}.join("\n")}
-    #{js.map{|x| "<script src=\"/assets/#{x}.js\" defer></script>"}.join("\n")}
+    #{css.map{|x| "<link rel=\"stylesheet\" href=\"#{root_prefix}/assets/#{x}.css\"/>"}.join("\n")}
+    #{js.map{|x| "<script src=\"#{root_prefix}/assets/#{x}.js\" defer></script>"}.join("\n")}
     </head>
     <body>
       <header>
         <nav>
           <a href="https://www.codingame.com"><img loading="lazy" src="https://static.codingame.com/start/static/36d26855629fcefc237d0c7f32cdbc4b/1ca64/blobby-educated.png" /><div class="icon icon1"><div class="arrow"></div></div></a>
-          <a href="/">CG-History</a>
-          <a href="/events/#{event_date.strftime("%F")}.html">Events<div class="icon icon2"><div class="arrow"></div></div></a>
-          <a href="/puzzles.html">Puzzles<div class="icon icon3"><div class="arrow"></div></div></a>
+          <a href="#{root_prefix}">CG-History</a>
+          <a href="#{root_prefix}/events/#{event_date.strftime("%F")}.html">Events<div class="icon icon2"><div class="arrow"></div></div></a>
+          <a href="#{root_prefix}/puzzles.html">Puzzles<div class="icon icon3"><div class="arrow"></div></div></a>
           <span id="github"></span>
           <a href="https://github.com/alexandre184/cg-history">Github<div class="icon icon4"><div class="arrow"></div></div></a>
         </nav>
@@ -154,13 +154,13 @@ def build_event_page(major_events, minor_events, event_date = TODAY)
   major_events.sort_by!{|e| [e[:type], e[:prettyId].downcase, e[:lang].downcase] }
   minor_events.sort_by!{|e| [e[:type], e[:prettyId].downcase, e[:lang].downcase, e[:new]["_rank"]] }
   outstanding_events, major_events = major_events.partition{|e| "all" == e[:lang] }
-  page = layout("Events of #{event_date.strftime("%F")}", %w"style", %w"script") do
+  page = layout("Events of #{event_date.strftime("%F")}", %w"style", %w"script", root_prefix: "..") do
     <<~PAGE
       <h1>Events of #{event_date.strftime("%F")}</h1>
       <div class="solve">
       <span>#{outstanding_events.size} outstanding events (1st overall) and #{major_events.size} major events (1st lang) and #{minor_events.size} minor events (personal best or not!)</span>
-        <a href="/events/#{(event_date - 86400).strftime("%F")}.html">prev day</a>
-        <a href="/events/#{(event_date + 86400).strftime("%F")}.html">next day</a>
+        <a href="../events/#{(event_date - 86400).strftime("%F")}.html">prev day</a>
+        <a href="../events/#{(event_date + 86400).strftime("%F")}.html">next day</a>
       </div><hr>
       #{
       <<~DIV if outstanding_events.any?

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=641|time=2023-09-26T06:20:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=641|time=2023-09-27T06:01:37
 100.0,3189.0,Javascript,1466443018153,805067,Magus,FR,24623991925371,
 100.0,3504.0,Javascript,1435823829118,172938,kuzmaka,UA,1842478040420,
 100.0,3575.0,Javascript,1617562921903,3700629,serialgg,FR,41086567019728,
@@ -52,7 +52,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,5784.0,Javascript,1610158755666,1787026,xurei,BE,10364774608887,
 100.0,5793.0,Javascript,1470345853098,1405926,mtreinik,FI,,
 100.0,5799.0,Javascript,1458464802556,1131528,Owl,DE,2597918639865,
-100.0,5819.0,Javascript,1652691713912,4275410,rk2021,PL,,
+100.0,5819.0,Javascript,1652691713912,4275410,rk2021,PL,112320880934243,
 100.0,5839.0,Javascript,1659350049048,2622559,Gripnil,FR,19024435956137,
 100.0,5840.0,Javascript,1579780015263,1197593,NatNgs,FR,39232585925310,
 100.0,5842.0,Javascript,1643717284983,3336734,Cr0m,DE,109421502906751,
@@ -209,6 +209,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,6074.0,Javascript,1632513141546,4482820,Jake40,FR,69738545516043,
 100.0,6074.0,Javascript,1644573603995,3603097,lanathlor,FR,78227308371575,
 100.0,6075.0,Javascript,1580763699117,2773306,kryshac,MD,21488586693265,
+100.0,6081.0,Javascript,1695735723531,1274056,BoredKid,FR,13529689509624,
 100.0,6089.0,Javascript,1472018594879,390769,Growiel,KR,,
 100.0,6090.0,Javascript,1475606730101,1549856,Keylan,US,7544816458112,
 100.0,6090.0,Javascript,1576098422107,1981179,4ndr3s,ES,12476591605432,
@@ -267,7 +268,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,6478.0,Javascript,1685053705767,4074336,Sijema,BE,,
 100.0,6559.0,Javascript,1528472880544,2659643,dotben,FR,,
 100.0,6607.0,Javascript,1695632878854,4996868,Enamahc,FR,,
-100.0,6760.0,Javascript,1695329828966,1274056,BoredKid,FR,13529689509624,
 100.0,6854.0,Javascript,1484749227971,1695141,sbsbessa,PT,24874664192666,
 100.0,6981.0,Javascript,1676321527887,5307210,Kahaal,FR,,
 100.0,7024.0,Javascript,1670671097475,4059073,Sthaz,FR,95215702027803,

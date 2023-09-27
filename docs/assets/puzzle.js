@@ -123,7 +123,7 @@ function buildTable(data) {
       const [lp, sp] = score_prev
       const [ln, sn] = score_next
       // sn can be nil if waiting for submission (ex: spring-challenge-2022)
-      if (sp && sn && lp == ln) score_up = sp > sn
+      if (sp && sn && lp == ln && sp != sn) score_up = +sp > sn
       score_prev = score_next
     }
     user["_rank"] = rank + 1
@@ -138,7 +138,7 @@ function buildTable(data) {
       const [lp, sp] = score_prev
       const [ln, sn] = score_next
       // sn can be nil if waiting for submission (ex: spring-challenge-2022)
-      if (sp && sn && lp == ln) score_up = sp > sn
+      if (sp && sn && lp == ln && sp != sn) score_up = +sp > sn
       score_prev = score_next
     }
     user['_rank'] = rank + 1
@@ -177,11 +177,11 @@ const BASE_BY_TYPE = {golf: 200, optim: 2500, multi: 5000}
 function          points(type, n, c) { return Math.ceil((BASE_BY_TYPE[type] * Math.min(n/('golf'==type ? 1 : 500), 1))**((n-c+1)/n)) }
 function             ordinalize(num) { return num ? ['th', 'st', 'nd', 'rd'][(num/10|0)%10 == 1 || num%10 > 3 ? 0 : num%10] : "" }
 // v1 < v2 is considered better
-function            progress(v1, v2) { return v1 ? v2 ? v1 < v2 ? `${v2 - v1}⇗` : v1 > v2 ? `${v1 - v2}⇘` : '-' : 'Inf⇗' : '?' }
-function            delta_up(v1, v2) { return v1 ? v2 ? v1 < v2 ? `-${(v2 - v1).toFixed(2)}` : v1 > v2 ? `+${(v1 - v2).toFixed(2)}` : '-' : '+Inf' : '?' }
-function          delta_down(v1, v2) { return v1 ? v2 ? v1 > v2 ? `+${(v1 - v2).toFixed(2)}` : v1 < v2 ? `-${(v2 - v1).toFixed(2)}` : '-' : '-Inf' : '?' }
-function progress_color_down(v1, v2) { return v1 ? !v2 || v1 < v2 ? 'green' : v1 > v2 ? 'red' : '' : '' }
-function   progress_color_up(v1, v2) { return v1 ? !v2 || v1 > v2 ? 'green' : v1 < v2 ? 'red' : '' : '' }
+function            progress(v1, v2) { return v1 ? v2 ? +v1 < v2 ? `${v2 - v1}⇗` : +v1 > v2 ? `${v1 - v2}⇘` : '-' : 'Inf⇗' : '?' }
+function            delta_up(v1, v2) { return v1 ? v2 ? +v1 < v2 ? `-${(v2 - v1).toFixed(2)}` : +v1 > v2 ? `+${(v1 - v2).toFixed(2)}` : '-' : '+Inf' : '?' }
+function          delta_down(v1, v2) { return v1 ? v2 ? +v1 > v2 ? `+${(v1 - v2).toFixed(2)}` : +v1 < v2 ? `-${(v2 - v1).toFixed(2)}` : '-' : '-Inf' : '?' }
+function progress_color_down(v1, v2) { return v1 ? !v2 || +v1 < v2 ? 'green' : +v1 > v2 ? 'red' : '' : '' }
+function   progress_color_up(v1, v2) { return v1 ? !v2 || +v1 > v2 ? 'green' : +v1 < v2 ? 'red' : '' : '' }
 
 
 ////////////////////////

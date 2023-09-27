@@ -49,10 +49,12 @@ def events(puzzle, old_prefix = "")
         lp, sp = score_prev
         ln, sn = score_next
         # sn can be nil if waiting for submission (ex: spring-challenge-2022)
-        score_up[0] = sp > sn if sp && sn && lp == ln
+        score_up[0] = sp > sn if sp && sn && lp == ln && sp != sn
         score_prev = score_next
       end
-      [[user["codingamer.userId"], "golf" == type && user["programmingLanguage"]], user << ["_rank", rank] << ["_rank_tie", rank_tie]]
+      user["_rank"] = rank
+      user["_rank_tie"] = rank_tie
+      [[user["codingamer.userId"], "golf" == type && user["programmingLanguage"]], user]
     end
     # personnal best
     rank_tie = score_prev = nil
@@ -63,7 +65,7 @@ def events(puzzle, old_prefix = "")
         lp, sp = score_prev
         ln, sn = score_next
         # sn can be nil if waiting for submission (ex: spring-challenge-2022)
-        score_up[0] = sp > sn if sp && sn && lp == ln
+        score_up[0] = sp > sn if sp && sn && lp == ln && sp != sn
         score_prev = score_next
       end
       user["_rank"] = rank

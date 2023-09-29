@@ -35,7 +35,7 @@ def events(puzzle, old_prefix = "")
         IO.write("tmp/#{folder}/#{lang}.json", leaderboard.to_json)
       end
       count, filteredCount = leaderboard.values_at("count", "filteredCount")
-      leaderboard = leaderboard["users"].map{|u| header.to_h{|h| [h, u.dig(*h.split("."))] }.merge!("publicHandle" => u.dig("codingamer", "publicHandle")) }
+      leaderboard = leaderboard["users"].map{|u| header.to_h{|h| [h, u.dig(*h.split("."))] }.merge!("codingamer.publicHandle" => u.dig("codingamer", "publicHandle")) }
     else
       leaderboard = CSV.parse(File.open(file), headers: true, converters: [:numeric, :numeric_inf]) rescue next
       filteredCount = leaderboard.headers[-1][/count=\K\d+/].to_i

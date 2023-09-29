@@ -26,7 +26,7 @@ const handler = e => {
     const [, id] = a.href.split('https://www.codingame.com/profile/')
     // assume publicHandle contains at least one \D.
     // if not, fallback to CG response !
-    if (/\d+/.test(id)) {
+    if (!/\D/.test(id)) {
       // edit, CG does not allow cors :(
       //fetch("https://www.codingame.com/services/CodinGamer/findCodinGamerPublicInformations",{body: JSON.stringify([id]),method: "POST",headers: {"Content-Type": "application/json"}})
       e.preventDefault()

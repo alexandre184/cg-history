@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3447|time=2023-09-28T06:38:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3449|time=2023-09-29T07:28:19
 100.0,90.0,Python3,1585884572537,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -342,6 +342,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,120.0,Python3,1680645965599,4493066,Polynomu,FR,70180141804893,
 100.0,120.0,Python3,1689720996974,4605635,Hassen_Hamdi,TN,110089521461894,
 100.0,120.0,Python3,1692115970269,5576111,Xwaler,FR,107317105771413,
+100.0,120.0,Python3,1695904684303,3964283,Maroly,FR,111901208976375,
 100.0,121.0,Python3,1553190007183,1616900,Spy7,PT,25869843462038,
 100.0,121.0,Python3,1561204409367,2731276,panda42,DE,20365034647350,
 100.0,121.0,Python3,1584111813577,3703485,anter69,HU,41141446684299,
@@ -429,6 +430,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,124.0,Python3,1680533329153,5365556,kanelugodeu,FR,,
 100.0,124.0,Python3,1691464146126,4580866,AndyyyYuuu,CA,102676962176091,
 100.0,124.0,Python3,1694038218085,399946,Firefly,FR,,
+100.0,124.0,Python3,1695945563398,4807541,ElPsyCongroo,VE,80699484009961,
 100.0,125.0,Python3,1554128999580,3081224,SgtSkinner,DE,26566344222411,
 100.0,125.0,Python3,1555787074241,829472,andris,CH,,
 100.0,125.0,Python3,1562871094341,569247,LaurentBouvier,FR,16324240302815,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,147.0,Python3,1689601952543,5577449,r3doc,NL,108241041390274,
 100.0,148.0,Python3,1575673660016,1551748,mtadd,US,6229377695072,
 100.0,148.0,Python3,1586425232579,1498189,Pyoroalb,FR,14505336358731,
-100.0,148.0,Python3,1587923313720,3781075,keeghom,CZ,,
-100.0,148.0,Python3,1587923421614,2740243,Rprades,ES,20624170826703,

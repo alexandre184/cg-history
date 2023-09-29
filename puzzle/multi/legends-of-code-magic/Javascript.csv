@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=288|time=2023-09-28T06:38:03
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=288|time=2023-09-29T07:28:19
 5,23.18,Javascript,1651497935959,4248325,158495,Cr3aHal0,FR,11235124705354,
 5,22.13,Javascript,1537982111227,2080348,2488806,RK9,US,17439713840137,
 5,21.67,Javascript,1602515814930,3129994,3997627,DrJorgen,US,51649081448161,
@@ -260,6 +260,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,11.57,Javascript,1548436125403,2229871,2296362,servatj,ES,68648469232879,
 0,11.55,Javascript,1585920932633,2747568,3748012,ZMN,KZ,,
 0,11.55,Javascript,1544198187805,2153251,3041215,gabriel21,US,,
+0,11.5,Javascript,1562225457592,2435548,3402118,ZinoTM,VN,30812043535357,
 0,11.5,Javascript,1546975926886,2214309,3101581,subway,US,,
 0,11.49,Javascript,1677172628350,4748775,985550,Ulyssear,FR,99350389475025,
 0,11.48,Javascript,1603287289010,3142742,4022802,KristianMalamov,BG,52163086593275,
@@ -268,7 +269,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,11.45,Javascript,1584367295809,2704518,3718609,Acham29,FR,,
 0,11.42,Javascript,1566110785039,2469669,3442821,yvms,MY,,
 0,11.42,Javascript,1592267229069,3014809,3862087,cookiemate,AU,,
-0,11.4,Javascript,1562225457592,2435548,3402118,ZinoTM,VN,30812043535357,
 0,11.39,Javascript,1593548566140,3026618,3872689,soraly2009,VN,62934325470861,
 0,11.36,Javascript,1594557111761,3033340,3465132,Shadow_Antares,BE,,
 0,11.33,Javascript,1556994220138,2348353,2793495,Ganning,RU,104696041830455,
@@ -282,8 +282,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,-0.19,Javascript,1676739256925,4743962,5348944,MurderBasket,GB,,
 0,-0.5,Javascript,1560469946141,2421364,3381576,gboi2019,US,29980180138513,
 0,-0.79,Javascript,1543918711443,2148682,3011735,Savit,DE,,
+0,-1.13,Javascript,1590587825021,2993878,3838673,auto_tune_the_desroyer,US,,
 0,-1.14,Javascript,1568816654783,2492102,3481752,Nateguana,US,,
-0,-1.31,Javascript,1590587825021,2993878,3838673,auto_tune_the_desroyer,US,,
 0,-1.32,Javascript,1570723816256,2545686,3522256,NPoli86,US,35256507989429,
 0,-1.59,Javascript,1653483187130,4299791,4917244,sareenz,MM,,
-0,-2.7,Javascript,1603958402831,3152735,1933057,AndreiAlbei,RO,11981484749496,
+0,-2.68,Javascript,1603958402831,3152735,1933057,AndreiAlbei,RO,11981484749496,

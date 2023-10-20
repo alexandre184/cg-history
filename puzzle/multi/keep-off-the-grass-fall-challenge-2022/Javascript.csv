@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=351|time=2023-10-19T06:43:07
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=351|time=2023-10-20T06:36:25
 4,21.86,Javascript,1673700627616,4705681,3629685,Apofils,FR,,
 4,18.82,Javascript,1673979045216,4710635,1201796,P.Greze,FR,3522907180370,
 3,27.3,Javascript,1674319441964,4715976,4584723,babaaurhum,FR,,
@@ -309,11 +309,11 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,17.84,Javascript,1672997754561,4692155,5250624,Obiwonj,US,,
 0,17.82,Javascript,1672996695973,4691328,4744022,ChelleA,US,78748720267954,
 0,17.76,Javascript,1672996749798,4691484,5240150,Notch132,SE,,
+0,17.7,Javascript,1672996681173,4691298,4339754,AntolinBernas,PH,,
 0,17.69,Javascript,1672998430879,4693913,5272593,OcularSplash,US,,
 0,17.69,Javascript,1672996363526,4690531,2371389,Franta,CZ,16642908084028,
 0,17.67,Javascript,1672996242555,4690228,4093730,SebFox,FR,,
 0,17.67,Javascript,1672996500123,4690865,5264552,Reners,TH,96070580208498,
-0,17.66,Javascript,1672996681173,4691298,4339754,AntolinBernas,PH,,
 0,17.65,Javascript,1672996331324,4690470,3818220,KID_SUN,AU,,
 0,17.64,Javascript,1672996140734,4689986,5246627,yogi.ly,IN,,
 0,17.63,Javascript,1672996100527,4689895,5122067,JSBCV,GB,,
@@ -336,7 +336,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,17.33,Javascript,1672996819492,4691656,5242258,Mathjax,FR,,
 0,17.32,Javascript,1672996497479,4690859,4876593,KrEkEr17,RU,,
 0,17.27,Javascript,1672998059935,4692943,3973149,Chamana,ES,,
-0,16.82,Javascript,1672998400408,4693825,4851909,Yozamu,FR,82188726358837,
+0,16.76,Javascript,1672998400408,4693825,4851909,Yozamu,FR,82188726358837,
 0,16.54,Javascript,1672997713025,4692042,4872552,Clxmmm,FR,82881842835723,
 0,16.27,Javascript,1672996735683,4691437,4852875,ws_codingame,FR,,
 0,13.01,Javascript,1672997771809,4692199,5104843,Beu-,FR,93826189430395,

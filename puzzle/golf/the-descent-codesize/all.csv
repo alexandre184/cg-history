@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3110|time=2023-10-22T06:48:35
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3114|time=2023-10-23T06:27:34
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -344,6 +344,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,54.0,Python3,1695827886601,3457544,Unaxee,FR,54140808713728,
 100.0,54.0,Python3,1695904780065,953094,Witman,PL,1798239809031,
 100.0,54.0,Python3,1697887269908,958227,LantarSidonis,FR,23940037830772,
+100.0,54.0,Python3,1697985531353,1227148,Schneewittchen,DE,3252989132290,
 100.0,55.0,Python3,1680825189695,2793264,hyphz,GB,43864585520531,
 100.0,55.0,Python3,1680859657722,4230724,SefioR13,FR,60411344362349,
 100.0,55.0,Python3,1680868001632,2731276,panda42,DE,20365034647350,
@@ -884,6 +885,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,78.0,TypeScript,1687607408715,3433587,MxDargou,FR,53838246107877,
 100.0,78.0,Javascript,1688506686763,1637190,Pims2027,FR,101105520279075,
 100.0,78.0,Python3,1688929113110,5520982,thingymabobberstuffthingy,US,105731024504235,
+100.0,78.0,Javascript,1698028144547,5423045,[.........],KR,,
 100.0,79.0,Javascript,1681291651909,1408492,Ptit-g,FR,4317392237915,
 100.0,79.0,TypeScript,1681407751583,2491616,abt8601,TW,113139385453588,
 100.0,79.0,Kotlin,1681645830446,1748543,ShifuWil,FR,28958689979186,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,85.0,Javascript,1683454099543,2222270,Gunner44,FR,,
 100.0,85.0,PHP,1684936470258,5361997,dawind,FR,,
 100.0,85.0,C,1685979286479,5135323,__yel__p,FR,92869880984408,
-100.0,85.0,C,1687440067567,972894,resty-daze,CN,4833160251412,
-100.0,85.0,Lua,1687638166932,3433587,MxDargou,FR,53838246107877,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=42766|time=2023-10-24T07:13:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=42786|time=2023-10-25T06:28:26
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -536,6 +536,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,95.0,Python3,1680115478431,4832181,VisualDev-FR,FR,94025066322906,
 100.0,95.0,Python3,1690509376971,5192841,vip.delete,RS,105744064201678,
 100.0,95.0,Python3,1695294705968,2892501,JakubMaras,PL,,
+100.0,95.0,Python3,1698137152897,1485699,TabulaRasa,PL,4993681770529,
 100.0,96.0,Ruby,1451206622643,1027100,Roavin,DE,,
 100.0,96.0,Perl,1598977128471,1178276,Jerome_95,FR,19999067509724,
 100.0,96.0,Python3,1602985624618,3431759,ngxingyu,SG,,
@@ -918,6 +919,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,106.0,Bash,1680662609942,4876171,j4at,TN,83445448969831,
 100.0,106.0,D,1687292791772,3380184,chouch,FR,,
 100.0,106.0,C,1692938997910,3918583,mikmak,FR,48134583112917,
+100.0,106.0,Ruby,1698140280152,5744219,shakeyboy,ZA,112975060815728,
 100.0,107.0,Python3,1435910680362,888439,ysharc,IN,113019546931175,
 100.0,107.0,Javascript,1441670748466,1024050,Roooot,TN,,
 100.0,107.0,Ruby,1443108800964,188674,Dravini,FR,2252318166962,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,108.0,Javascript,1581590952556,3510173,Reinis-Mazeiks,LV,37663464036857,
 100.0,108.0,Javascript,1595869610901,3900977,Codewaves,LT,,
 100.0,108.0,Ruby,1598904762075,3944763,fschuetz04,DE,66162746750554,
-100.0,108.0,Ruby,1600343590517,3967270,rivancic,CH,49975642793889,
-100.0,108.0,PHP,1602110336629,153931,Bast,FR,53865842781721,

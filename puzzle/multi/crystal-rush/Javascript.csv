@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=273|time=2023-10-24T07:13:40
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=273|time=2023-10-25T06:28:26
 4,28.92,Javascript,1619769174202,3525831,3188551,ashelkov,UA,43167721570733,
 4,27.23,Javascript,1584699967288,2708611,1743344,ush189,DE,9680328817159,
 4,22.48,Javascript,1584699999472,2708671,1649376,Kujar,FR,7980653749506,
@@ -73,7 +73,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,28.52,Javascript,1697318320477,5077062,4797591,GoodGame001,KR,80377988068617,
 2,28.41,Javascript,1690239467302,5012486,5619802,OmegaSunShine,GB,,
 2,25.46,Javascript,1687288614156,4979941,3990874,Styg_,FR,,
-2,25.03,Javascript,1584700241555,2709142,3497440,Zwei,US,73658245202468,
+2,25.04,Javascript,1584700241555,2709142,3497440,Zwei,US,73658245202468,
 2,24.53,Javascript,1679314509044,4772023,1788613,CAngeniol,FR,14683966295593,
 2,24.19,Javascript,1584699595062,2707808,1766181,jantorestolsvik,NO,19418095757370,
 2,22.84,Javascript,1584700115506,2708920,3516116,Smiter15,GB,99969942222005,
@@ -134,9 +134,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,12.74,Javascript,1584699879969,2708417,1528197,DracoBlue,DE,5713503163263,
 2,12.65,Javascript,1659040029547,4408823,2110342,lchenay,FR,68642008923579,
 2,12.36,Javascript,1584699647755,2707904,1132872,jsmrcaga,FR,2982586706969,
-2,12.08,Javascript,1636058853059,3885851,1675034,francois,FR,15464459859531,
-2,11.7,Javascript,1584699356403,2707322,1993663,StAlex,RU,,
-2,11.15,Javascript,1584699939041,2708555,1706784,Garryton,FR,,
+2,12.13,Javascript,1584699356403,2707322,1993663,StAlex,RU,,
+2,11.9,Javascript,1636058853059,3885851,1675034,francois,FR,15464459859531,
+2,11.34,Javascript,1584699939041,2708555,1706784,Garryton,FR,,
 2,8.32,Javascript,1664211011746,4469958,1604295,SergeyShirokov,RU,12159441339558,
 1,30.41,Javascript,1584700203690,2709096,2243075,AlienHoboken,US,,
 1,29.48,Javascript,1584699486062,2707563,2578366,Paluke,PL,18280984899557,

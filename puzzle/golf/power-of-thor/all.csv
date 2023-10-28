@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=42818|time=2023-10-27T07:32:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=42834|time=2023-10-28T05:27:50
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -759,6 +759,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,102.0,Python3,1685734357406,3542883,Ugandan_Knuckles,DK,35797369346735,
 100.0,102.0,Python3,1685734670800,4711222,The_Spanish_Inquisition,DK,77589205087975,
 100.0,102.0,Ruby,1689084573331,5254038,Gleefre,RU,95827724634155,
+100.0,102.0,Python3,1698466914667,5321502,Mongering,CA,111702807261792,
 100.0,103.0,Ruby,1454753414740,717675,someone9999,CA,,
 100.0,103.0,Ruby,1460995453797,564290,mainge2036,FR,3958594281924,
 100.0,103.0,Ruby,1472661210914,1446679,Janus,DE,6889910437018,
@@ -982,6 +983,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,107.0,Python3,1691598273579,1765440,AndrzejOw,PL,10098538773223,
 100.0,107.0,C++,1692698519215,154806,piwai,FR,1956863959967,
 100.0,107.0,Python3,1694769854203,3878056,LighTender,FR,84076600097982,
+100.0,107.0,Javascript,1698429842874,2971594,BaptisteGasser,CA,69895205419431,
 100.0,108.0,Javascript,1437746035956,981084,pio95,PL,,
 100.0,108.0,Python3,1438674040069,964728,kse,DK,,
 100.0,108.0,Ruby,1455061607273,311823,hettomei,FR,3356147074607,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,108.0,Bash,1553329914250,3216070,TaoJonesIndex,FR,25944702603911,
 100.0,108.0,Python3,1581015399052,908494,wsmind,FR,,
 100.0,108.0,Javascript,1581590952556,3510173,Reinis-Mazeiks,LV,37663464036857,
-100.0,108.0,Javascript,1595869610901,3900977,Codewaves,LT,,
-100.0,108.0,Ruby,1598904762075,3944763,fschuetz04,DE,66162746750554,

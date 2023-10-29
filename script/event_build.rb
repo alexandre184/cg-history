@@ -72,7 +72,7 @@ def events(puzzle, old_prefix = "")
       user["_rank_tie"] = rank_tie
       # not convinced by this test!
       if user["criteriaScore"] != old["criteriaScore"] || rank_tie != old["_rank_tie"] && (rank_tie == 1 || old["creationTime"] && user["creationTime"] != old["creationTime"])
-        event = {type:, prettyId:, lang:, score_up:, count:, filteredCount:, new: user, old:}
+        event = {type: type, prettyId: prettyId, lang: lang, score_up: score_up, count: count, filteredCount: filteredCount, new: user, old: old}
         "all" == lang ? all << event : minor_events << event_by_idlang[[user["codingamer.userId"], lang]] = event
       end
       [[user["codingamer.userId"], "golf" == type && user["programmingLanguage"]], user]
@@ -84,7 +84,7 @@ def events(puzzle, old_prefix = "")
     if first_new["criteriaScore"] != first_old["criteriaScore"] || first_new["codingamer.userId"] != first_old["codingamer.userId"]
       # get second if already first player to get more useful info
       first_old = leaderboard_old[1] || {} if first_new["codingamer.userId"] == first_old["codingamer.userId"] && first_new["programmingLanguage"] == first_old["programmingLanguage"]
-      major_events << {type:, prettyId:, lang:, score_up:, new: first_new, new_old: old_by_idlang[[first_new["codingamer.userId"], "golf" == type && first_new["programmingLanguage"]]], old: first_old, old_new: new_by_idlang[[first_old["codingamer.userId"], "golf" == type && first_old["programmingLanguage"]]]}
+      major_events << {type: type, prettyId: prettyId, lang: lang, score_up: score_up, new: first_new, new_old: old_by_idlang[[first_new["codingamer.userId"], "golf" == type && first_new["programmingLanguage"]]], old: first_old, old_new: new_by_idlang[[first_old["codingamer.userId"], "golf" == type && first_old["programmingLanguage"]]]}
     end
     IO.write(file, (header + ["##{type}|count=#{filteredCount}|time=#{TODAY.strftime("%FT%T")}"]).to_csv + leaderboard.map{|u| header.map{|h| u[h] }.push(nil).to_csv }.join) if leaderboardId
   end

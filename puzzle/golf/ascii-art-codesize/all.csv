@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2278|time=2023-10-29T21:51:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2280|time=2023-10-30T08:57:00
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
 100.0,68.0,Perl,1681656756489,5436334,saito_ta,JP,102476026435385,
@@ -291,6 +291,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,137.0,Ruby,1694371387786,4319239,-Cile-,FR,63442642187881,
 100.0,137.0,Python3,1695809062272,4510576,__Malina,PL,73396504672495,
 100.0,137.0,Python3,1695826525903,3964283,Maroly,FR,111901208976375,
+100.0,137.0,Python3,1698651021585,481988,DevKirill,RU,26384102822076,
 100.0,138.0,F#,1681211487162,3354337,Westicles,CX,79146641399080,
 100.0,138.0,C,1681478492249,4341304,Remi.,FR,97662026388574,
 100.0,138.0,ObjectiveC,1681478526247,4341304,Remi.,FR,97662026388574,
@@ -649,6 +650,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,187.0,Python3,1689509820587,5508433,oSeFu,FR,105359462338478,
 100.0,187.0,Scala,1696845499960,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,187.0,Javascript,1698381159459,5423045,[.........],KR,,
+100.0,187.0,Kotlin,1698647961232,481988,DevKirill,RU,26384102822076,
 100.0,188.0,Bash,1682421987155,1588583,dANNs,GB,9401676737311,
 100.0,188.0,Javascript,1691743753670,2995359,SL_Gambit,LK,71198200347600,
 100.0,188.0,Python3,1693212860572,272329,Arglanir,FR,3884009540055,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,319.0,Ruby,1680819643221,4197527,zzzz...,FR,,
 100.0,319.0,Javascript,1680830009549,4777467,Manantsoa,MG,81582040792678,
 100.0,319.0,Rust,1682956325266,973040,papyjo,FR,15696776172839,
-100.0,319.0,C#,1685919142008,5447614,Morosov,AT,,
-100.0,319.0,TypeScript,1691261332811,3444208,Anatoli,DE,32592586143834,

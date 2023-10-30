@@ -30,6 +30,7 @@ jobs:
         run: |
           sh script/update_cg_history.sh 
           git config --global user.name "alexandre184-githubactions"
+          git config --global user.email no@mail.com
           git add .
           git commit -m "Update $(date -u +'%Y-%m-%d')"
           git push

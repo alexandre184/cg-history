@@ -28,7 +28,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run cg-history update
         run: |
-          sh script/update_cg_history.sh 
+          bash script/update_cg_history.sh 
           git config --global user.name "alexandre184-githubactions"
           git config --global user.email no@mail.com
           git add .

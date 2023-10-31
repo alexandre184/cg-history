@@ -20,7 +20,7 @@ URI_PLAYER = URI('https://www.codingame.com/services/CodinGamer/findCodinGamerPu
 
 def post(uri, params)
   res = Net::HTTP.post(uri, params.to_json, "Content-Type" => "application/json")
-  (p uri, params; raise res.inspect) unless res.is_a?(Net::HTTPSuccess)
+  (p uri, params, res.to_hash; raise res.inspect) unless res.is_a?(Net::HTTPSuccess)
   yield res.body if block_given?
   JSON.parse(res.body)#, symbolize_names: true)
 end

@@ -20,7 +20,7 @@ For my use it's already way more that I wanted. But if you think of another usec
 # site available at localhost:8000
 python3 -m http.server --directory docs
 
-sh script/udpate_cg_history.sh
+bash script/udpate_cg_history.sh
 ```
 
 ## Caveat

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=281|time=2023-10-31T08:16:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=282|time=2023-11-01T04:07:34
 100.0,96.0,Javascript,1680838444080,2315623,Lydxn,CA,,
 100.0,96.0,Javascript,1681218983292,952784,[CG]Simon,FR,15794417868476,
 100.0,96.0,Javascript,1681757745563,4341304,Remi.,FR,97662026388574,
@@ -13,6 +13,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,106.0,Javascript,1683447758533,2641712,Scarlatine,SE,19128425061644,
 100.0,108.0,Javascript,1688336083388,155774,dwarfie,FR,17785582865119,
 100.0,109.0,Javascript,1690487263811,1399382,Regulus136,FR,4335723819637,
+100.0,109.0,Javascript,1698768617239,1093968,milosMATRIXrepic,RS,78180568348596,
 100.0,110.0,Javascript,1695846318169,953094,Witman,PL,1798239809031,
 100.0,111.0,Javascript,1696137602013,4060994,3030,FI,,
 100.0,116.0,Javascript,1697539565908,2288263,dbdr,UA,43448306132121,
@@ -22,7 +23,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,120.0,Javascript,1681673903316,4749616,El0i,FR,85828085921056,
 100.0,121.0,Javascript,1681063644400,893541,wala,FR,97577641170180,
 100.0,121.0,Javascript,1681247817365,2451652,code_of_the_dead,FR,18798469788923,
-100.0,122.0,Javascript,1681262979545,1093968,milosMATRIXrepic,RS,78180568348596,
 100.0,123.0,Javascript,1683412969527,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,123.0,Javascript,1686654017177,5537887,stvg,HU,110770529513909,
 100.0,124.0,Javascript,1687705032648,400712,Freddy-Krueger,IL,44580408074142,
@@ -128,6 +128,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,295.0,Javascript,1690646942747,3444208,Anatoli,DE,32592586143834,
 100.0,297.0,Javascript,1694176842824,4565079,Marconius,IE,72114421508704,
 100.0,302.0,Javascript,1688974673152,3646435,tsiryJL,MG,102070668573840,
+100.0,305.0,Javascript,1698781021215,5781886,Dmitri,ZA,113717005346215,
 100.0,319.0,Javascript,1680830009549,4777467,Manantsoa,MG,81582040792678,
 100.0,337.0,Javascript,1697166390637,5694635,Saerlock,FR,112238281147177,
 100.0,342.0,Javascript,1684931319855,3854469,Gabriel_P,FR,106397327518554,

@@ -1,5 +1,7 @@
 # cg-history
 
+See the site in action at https://alexandre184.github.io/cg-history/
+
 ## History / How it works
 
 The aim of that thing was at the beggining to track major leaderboard changes. But you know, after writing some code, '*hey, I have more info, just track everything!*'

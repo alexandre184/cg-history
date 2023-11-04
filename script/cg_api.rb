@@ -19,7 +19,12 @@ URI_PLAYER = URI('https://www.codingame.com/services/CodinGamer/findCodinGamerPu
 
 
 def post(uri, params)
-  res = Net::HTTP.post(uri, params.to_json, "Content-Type" => "application/json")
+  res = 1.upto(6) do |delay|
+    res = Net::HTTP.post(uri, params.to_json, "Content-Type" => "application/json")
+    break res if delay == 6 || !res.is_a?(Net::HTTPTooManyRequests)
+    puts "delay #{10 * delay}s for 429, HTTPTooManyRequests"
+    sleep 10 * delay
+  end
   (p uri, params, res.to_hash; raise res.inspect) unless res.is_a?(Net::HTTPSuccess)
   yield res.body if block_given?
   JSON.parse(res.body)#, symbolize_names: true)

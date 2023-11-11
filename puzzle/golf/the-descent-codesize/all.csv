@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3217|time=2023-11-10T04:07:19
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3223|time=2023-11-11T04:12:38
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -531,6 +531,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Ruby,1698139688053,1031311,Kazz,CZ,,
 100.0,60.0,Python3,1698629999164,1906068,IdahoJacket,KR,,
 100.0,60.0,Python3,1699231110183,3629224,NC_Productions,BE,62002163693240,
+100.0,60.0,Python3,1699657238332,3846810,the_ASPgm,FR,45521841601171,
 100.0,61.0,Javascript,1680807902683,1353795,TheCrucial,PL,18581166493021,
 100.0,61.0,Javascript,1680811295812,1357614,OptiPanda,FR,25029501539760,
 100.0,61.0,Javascript,1680866757133,3354337,Westicles,CX,79146641399080,
@@ -644,7 +645,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,64.0,Perl,1693086844363,4487490,cnk_gr,GR,69672501862552,
 100.0,64.0,Python3,1693599606297,3980660,vdtdg,FR,113413683044473,
 100.0,64.0,Python3,1694040861254,399946,Firefly,FR,,
-100.0,64.0,Python3,1694357599842,1786692,Matryzas,LT,98428149109278,
+100.0,64.0,Python3,1694357599842,1786692,Matas,LT,98428149109278,
 100.0,64.0,Python3,1694982143759,4003601,Mathieu1988,FR,,
 100.0,64.0,Ruby,1695327479874,3917697,Naritaya,FR,47686701836647,
 100.0,64.0,Python3,1695642208270,5006309,Wisenam,MA,88462029594100,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,82.0,Python3,1681566448622,1865518,rtac,DE,,
 100.0,82.0,Python3,1682590312742,2640112,Whoonix,FR,,
 100.0,82.0,Javascript,1683021114044,3352676,3t0n,RU,29140567952302,
-100.0,82.0,C,1683062608081,4620106,lonequantum,FR,73903248957664,

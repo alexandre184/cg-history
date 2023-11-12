@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=225|time=2023-11-11T04:12:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=226|time=2023-11-12T04:07:06
 100.0,136.0,Javascript,1684828774757,4341304,Remi.,FR,97662026388574,
 100.0,137.0,Javascript,1690095847602,3918583,mikmak,FR,48134583112917,
 100.0,137.0,Javascript,1690271154994,2874091,5DN1L,GB,79633423380001,
@@ -48,6 +48,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,258.0,Javascript,1698060827781,5724049,Yises,ES,113131221178591,
 100.0,266.0,Javascript,1692802104601,5645449,Jiahome,TW,109871883458897,
 100.0,268.0,Javascript,1684786711796,1664043,GloboGamer,LV,85826389244637,
+100.0,269.0,Javascript,1699731445218,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,270.0,Javascript,1680876398399,1077559,PhOeNyX,FR,2248934338554,
 100.0,270.0,Javascript,1681012832273,3354337,Westicles,CX,79146641399080,
 100.0,271.0,Javascript,1689842718405,4997591,Val_vdc,FR,90066745793273,
@@ -58,7 +59,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,283.0,Javascript,1680789211199,4966586,Rohydre,FR,,
 100.0,283.0,Javascript,1696444264955,2924895,trictrac,FR,23056996012330,
 100.0,287.0,Javascript,1684003172728,2202771,Kaplone,FR,23792369424472,
-100.0,287.0,Javascript,1698584306056,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,290.0,Javascript,1690878323114,5565960,Vlad_de_val,FR,106994184265542,
 100.0,294.0,Javascript,1696355667417,389786,menu,DE,,
 100.0,294.0,Javascript,1699545603343,3867051,Jbernardyoobic,FR,49591660163090,
@@ -139,6 +139,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1394.0,Javascript,1680172430004,4544835,mounir59,FR,,
 100.0,1395.0,Javascript,1683315561323,5391640,jkyledillard,US,,
 100.0,1397.0,Javascript,1680172170006,5360146,B_Cube,FR,101353627739392,
+100.0,1406.0,Javascript,1699684554741,4420552,dai-san,JP,67990661118425,
 100.0,1408.0,Javascript,1698764427916,5777825,Schnain,FR,,
 100.0,1410.0,Javascript,1699004657264,2279191,Fredrik_lundq,SE,98724081449479,
 100.0,1422.0,Javascript,1687191228889,5565937,CodingTestABC,FR,,

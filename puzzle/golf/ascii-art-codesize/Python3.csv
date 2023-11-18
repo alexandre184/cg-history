@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=837|time=2023-11-17T04:07:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=837|time=2023-11-18T04:07:15
 100.0,91.0,Python3,1680822425122,2315623,Lydxn,CA,,
 100.0,95.0,Python3,1680761758650,4876171,j4at,TN,83445448969831,
 100.0,97.0,Python3,1683290057386,3625469,Crimson_King,TR,56016089557697,
@@ -301,6 +301,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,186.0,Python3,1686273780596,5402755,MadMaxO,BR,100983786956390,
 100.0,186.0,Python3,1695157442038,1478761,hartfelt,DK,4939122356462,
 100.0,186.0,Python3,1698221378880,5423045,[.........],KR,,
+100.0,186.0,Python3,1700199133706,5589216,ntrybed,MY,111977646539819,
 100.0,187.0,Python3,1689509820587,5508433,oSeFu,FR,105359462338478,
 100.0,188.0,Python3,1693212860572,272329,Arglanir,FR,3884009540055,
 100.0,190.0,Python3,1693968654911,4902903,DGMar,EC,,
@@ -309,7 +310,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,191.0,Python3,1689357372382,3377745,AliceVol,FR,108488081454028,
 100.0,192.0,Python3,1682008807398,4144336,tanakha,FR,79256803526510,
 100.0,192.0,Python3,1682203623427,4158940,nacho_cheesefries,US,64634805543723,
-100.0,192.0,Python3,1700191154476,5589216,ntrybed,MY,111977646539819,
 100.0,193.0,Python3,1685905049241,4361432,dpakalarry,US,,
 100.0,193.0,Python3,1687370166533,1486857,sammck,US,7320595789984,
 100.0,193.0,Python3,1689692124682,4228572,KripperOldman,PK,,
@@ -765,8 +765,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,861.0,Python3,1680165650006,4699627,Cryodawn,AU,80717529850826,
 100.0,862.0,Python3,1680165830020,1332415,Pastral,FR,,
 100.0,863.0,Python3,1680165630007,4634448,Phil4565,DK,,
-100.0,868.0,Python3,1680165830020,5372477,Alias01,FR,,
 100.0,868.0,Python3,1680165830020,5363947,Bubhux,FR,99491187382955,
+100.0,868.0,Python3,1680165830020,5372477,Alias01,FR,,
 100.0,879.0,Python3,1680165810005,5314373,Maneth,FI,,
 100.0,880.0,Python3,1693214255134,4155307,Shrek93,FR,72752485167741,
 100.0,885.0,Python3,1680165890005,5371084,Yakkodeine,BE,,

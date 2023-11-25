@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=85|time=2023-11-24T04:07:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=85|time=2023-11-25T04:07:12
 100.0,86.0,ObjectiveC,1585885281392,1537792,AsaiYusuke,US,41785380851985,
 100.0,90.0,ObjectiveC,1680975305825,3354337,Westicles,CX,79146641399080,
 100.0,93.0,ObjectiveC,1616237312145,4095128,Voltmachine,BG,56919066754571,
@@ -36,6 +36,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,127.0,ObjectiveC,1625830501499,2242201,Maryan,UA,33999460575859,
 100.0,128.0,ObjectiveC,1553310364709,2178794,Unihedron,HK,17500773502453,
 100.0,128.0,ObjectiveC,1553331427519,805067,Magus,FR,24623991925371,
+100.0,128.0,ObjectiveC,1700859091804,2924895,trictrac,FR,23056996012330,
 100.0,129.0,ObjectiveC,1695148445323,2510517,Turtlefight,DE,17686753344865,
 100.0,131.0,ObjectiveC,1559600931984,1193408,DoubleZeroSteph,FR,3015400557516,
 100.0,131.0,ObjectiveC,1583577681072,2923506,darkhorse64,FR,23496414257567,
@@ -47,7 +48,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,141.0,ObjectiveC,1621946104605,2554628,ckibibi,FR,18067590528474,
 100.0,143.0,ObjectiveC,1683651465372,1050420,EVGENIVS,US,20435686404425,
 100.0,144.0,ObjectiveC,1649296806374,4110073,souta_1326,JP,57746784258907,
-100.0,148.0,ObjectiveC,1635363291183,2924895,trictrac,FR,23056996012330,
 100.0,151.0,ObjectiveC,1639642386559,4592681,Urutar,DE,75116249775823,
 100.0,152.0,ObjectiveC,1583063945126,1140677,Crog,FR,41060062482552,
 100.0,152.0,ObjectiveC,1627887882934,3750700,VulpesCorsac,RU,42453281242210,
@@ -83,4 +83,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,308.0,ObjectiveC,1609253321346,3305510,TBali,HU,26750785092441,
 100.0,671.0,ObjectiveC,1553177752554,1740037,ereiam,FR,12669494111004,
 0.0,0.0,ObjectiveC,1599662560910,3968399,dormeur2009,FR,49866926833934,
-0.0,121.0,ObjectiveC,1554047315807,3207204,RomanceDawn,FR,49825589626380,
+0.0,121.0,ObjectiveC,1554047315807,3207204,RomanceDawn,FR,115066825235257,

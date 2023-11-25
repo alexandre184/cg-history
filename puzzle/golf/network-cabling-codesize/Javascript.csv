@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=154|time=2023-11-24T04:07:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=154|time=2023-11-25T04:07:12
 100.0,98.0,Javascript,1694988189546,4438505,Eric_[EGU],FR,114044329618574,
 100.0,103.0,Javascript,1694245010808,2928146,LolCat,MU,22538133010433,
 100.0,125.0,Javascript,1691066062911,1399382,Regulus136,FR,4335723819637,
@@ -29,6 +29,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,178.0,Javascript,1698167882547,3933711,dame10,FR,77249861963440,
 100.0,182.0,Javascript,1682336798018,952784,[CG]Simon,FR,15794417868476,
 100.0,182.0,Javascript,1684170452026,5428098,Elikyyu,FR,103793622779702,
+100.0,182.0,Javascript,1700815718788,4537924,ArtesScytale,BE,,
 100.0,183.0,Javascript,1699996729898,3867051,Jbernardyoobic,FR,49591660163090,
 100.0,184.0,Javascript,1699562323409,2971594,BaptisteGasser,CA,69895205419431,
 100.0,185.0,Javascript,1681399828894,948764,Katie,GB,2150180090592,
@@ -38,7 +39,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,188.0,Javascript,1682031270734,1802967,Meruem,FR,31992166318610,
 100.0,188.0,Javascript,1684706841699,4258711,FredericLocquet,FR,61264182304504,
 100.0,190.0,Javascript,1682590236572,1475413,AlucardDH,FR,4898493641535,
-100.0,192.0,Javascript,1688114382846,4537924,ArtesScytale,BE,,
 100.0,193.0,Javascript,1681460840967,1353795,TheCrucial,PL,18581166493021,
 100.0,194.0,Javascript,1698659517256,557990,Wazemo,PL,1724224108740,
 100.0,198.0,Javascript,1694261099383,1474519,Sny_de_Treves,FR,59444303531011,
@@ -84,8 +84,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,506.0,Javascript,1680174770009,2880392,KevinMichel,FR,83501340880244,
 100.0,506.0,Javascript,1680174830005,4916301,Phoenix243,CD,84848627455983,
 100.0,506.0,Javascript,1680174880003,4259591,yedi,IT,85062726107842,
-100.0,506.0,Javascript,1680174890004,4531843,berqiamouad,MA,83356081906950,
 100.0,506.0,Javascript,1680174890004,4781063,Nicholi,US,96765521915668,
+100.0,506.0,Javascript,1680174890004,4531843,berqiamouad,MA,83356081906950,
 100.0,506.0,Javascript,1680174990005,4265098,desizlakrim,TN,75948346528727,
 100.0,506.0,Javascript,1688116928468,5583335,Luca_Magrini,IT,107488004727801,
 100.0,506.0,Javascript,1699351732717,5793811,Anonymeous,MA,114248329420164,

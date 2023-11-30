@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=192|time=2023-11-29T04:07:55
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=192|time=2023-11-30T04:07:47
 4,25.81,Javascript,1587752191304,2832785,1414873,Volcomix,FR,9274241205710,
 4,23.64,Javascript,1587394371860,2824991,2253267,snowfrogdev,CA,91617025510820,
 4,23.46,Javascript,1587392466273,2823383,1464115,GabrielDCelery,GB,78332867617775,
@@ -45,9 +45,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,15.8,Javascript,1587393399621,2824249,901793,Densai,FR,,
 3,15.66,Javascript,1587393911660,2824619,3514197,KeshaDM,NL,42893308699353,
 3,15.21,Javascript,1587394078427,2824750,2773306,kryshac,MD,21488586693265,
-3,14.63,Javascript,1592556408180,3017513,1055043,EvaldasSakinis,LT,45161684055119,
 3,14.59,Javascript,1587394678016,2825176,3348929,jonathan.calb,AR,28881726673785,
-3,14.5,Javascript,1649740605236,4071692,4559916,Karne,FR,71854946860727,
+3,14.54,Javascript,1592556408180,3017513,1055043,EvaldasSakinis,LT,45161684055119,
+3,14.34,Javascript,1649740605236,4071692,4559916,Karne,FR,71854946860727,
 3,12.86,Javascript,1588642422136,2847609,3738296,rkaustchr,BR,42055160135285,
 3,12.56,Javascript,1587392687740,2823572,1146709,Regime,GB,2696539627653,
 3,12.39,Javascript,1587393332443,2824216,3522147,Gotham,GB,35448846651093,
@@ -55,7 +55,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,11.67,Javascript,1587394674002,2825169,1193408,DoubleZeroSteph,FR,3015400557516,
 3,11.43,Javascript,1587392825347,2823735,360942,Amev,FR,9671729612623,
 3,11.35,Javascript,1645123732012,4005654,584403,nesnes,FR,3701518198002,
-3,10.81,Javascript,1682594342566,4808709,3731662,Kobayashi,FR,42573825610459,
+3,10.68,Javascript,1682594342566,4808709,3731662,Kobayashi,FR,42573825610459,
 2,19.47,Javascript,1628485164986,3784635,4400572,unnamedminecrafter,DE,,
 2,17.05,Javascript,1587393564793,2824360,1539765,Feliformia,TH,,
 2,17.04,Javascript,1587393071404,2823978,1054037,Extreze,BE,40230448602619,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10895|time=2023-11-30T04:07:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10907|time=2023-12-01T04:08:06
 100.0,52.0,Python3,1691951493222,2928146,LolCat,MU,22538133010433,
 100.0,62.0,Python3,1691074822468,4966586,Rohydre,FR,,
 100.0,71.0,Python3,1665429820381,3845610,pardouin,FR,60364063762936,
@@ -26,6 +26,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,88.0,Python3,1666862632759,5057894,azerec,FR,90963621295992,
 100.0,88.0,Python3,1676579899320,1550869,Yodiz,SE,93376262871361,
 100.0,88.0,Python3,1697155097704,5724627,gabinbernard,FR,112140322803997,
+100.0,89.0,Python3,1649485321408,962495,eboot,FR,55086804311206,
 100.0,89.0,Python3,1652875344258,1046870,papjim,GR,82479500603065,
 100.0,90.0,Python3,1670194069616,1549856,Keylan,US,7544816458112,
 100.0,90.0,Python3,1697491490854,155774,dwarfie,FR,17785582865119,
@@ -962,6 +963,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,122.0,Python3,1684925967227,2651233,arthurverrez,FR,104646100834460,
 100.0,122.0,Python3,1685193508627,2819076,moustique,FR,21175540697213,
 100.0,122.0,Python3,1692115967909,5576111,Xwaler,FR,107317105771413,
+100.0,122.0,Python3,1701403053150,2066648,VinVinB,US,13304409284404,
 100.0,123.0,Python3,1432127276000,879928,Vinze7,FR,,
 100.0,123.0,Python3,1446564030054,1132076,Ming,HK,,
 100.0,123.0,Python3,1479284942383,1639807,kubked,PL,9601040293335,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,124.0,Python3,1447866274131,1113243,Yugon,DE,2515008621882,
 100.0,124.0,Python3,1461012285265,1062765,Tiaosheng,FR,4687614251713,
 100.0,124.0,Python3,1474580268688,1599149,NaRew,FR,6820565789138,
-100.0,124.0,Python3,1475481424334,1613533,Talio,DE,7122285934501,
-100.0,124.0,Python3,1477041881225,905135,ahom,FR,,

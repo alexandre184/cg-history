@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3336|time=2023-12-03T04:07:22
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3341|time=2023-12-04T04:07:51
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -453,6 +453,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,56.0,Python3,1698100785940,569247,LaurentBouvier,FR,16324240302815,
 100.0,56.0,OCaml,1699396091901,4438505,Eric_[EGU],FR,114044329618574,
 100.0,56.0,Python3,1700944544877,491254,Cakeisalie5,FR,93798463743273,
+100.0,56.0,Python3,1701606898396,1380703,Blabbage,DK,4654545079846,
 100.0,57.0,Bash,1680803978005,334009,abouvier,FR,4681436111242,
 100.0,57.0,Javascript,1680921870255,2315623,Lydxn,CA,,
 100.0,57.0,Kotlin,1680946341862,3354337,Westicles,CX,79146641399080,
@@ -727,6 +728,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,65.0,Javascript,1700925500229,5408849,poulet_demoniaque,FR,,
 100.0,65.0,Python3,1701018362333,5569502,Delata,FR,,
 100.0,65.0,Python3,1701048043849,5829730,Oblomingo,RU,115098968250384,
+100.0,65.0,Javascript,1701592810500,5011304,embracesadness,BR,,
 100.0,66.0,Python3,1680978329295,2202771,Kaplone,FR,23792369424472,
 100.0,66.0,TypeScript,1681281667871,4341304,Remi.,FR,97662026388574,
 100.0,66.0,Python3,1682005799538,4144336,tanakha,FR,79256803526510,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,79.0,Python3,1684946867999,2651233,arthurverrez,FR,104646100834460,
 100.0,79.0,Javascript,1685512841335,1931039,MooMooN,FR,11972180817471,
 100.0,79.0,Javascript,1685656126631,1073626,solibaba,DE,,
-100.0,79.0,Javascript,1687166758766,4717726,Alexis [Nexure],FR,81506465307341,
-100.0,79.0,Python3,1687983231565,1807733,NoZ-,FR,14066071779905,

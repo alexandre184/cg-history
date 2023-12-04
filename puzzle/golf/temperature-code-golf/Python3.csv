@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8361|time=2023-12-03T04:07:22
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8367|time=2023-12-04T04:07:51
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -93,6 +93,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,64.0,Python3,1697647751827,953094,Witman,PL,1798239809031,
 100.0,64.0,Python3,1698921233158,5736284,Dexokami,CR,113733503190355,
 100.0,64.0,Python3,1700964682848,5818971,sht,PL,,
+100.0,64.0,Python3,1701637463195,5589767,NV,FR,114523748017780,
 100.0,65.0,Python3,1564940817290,3356352,MrMey,FR,,
 100.0,65.0,Python3,1600276445732,3545248,amkad,RU,49202166474180,
 100.0,65.0,Python3,1616158896135,4154326,montplusa,JP,60315000863420,
@@ -825,6 +826,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,73.0,Python3,1688667172121,4595600,yamen_malik,JO,78201745318850,
 100.0,73.0,Python3,1701002623661,5569502,Delata,FR,,
 100.0,73.0,Python3,1701492126848,5839059,now4est,JP,115455381198626,
+100.0,73.0,Python3,1701645096690,4902560,__Cerulean__,US,,
 100.0,74.0,Python3,1454345171645,154967,trnsnt,FR,3237137369643,
 100.0,74.0,Python3,1455020612904,1288168,Nebkaure,FR,40402946197267,
 100.0,74.0,Python3,1466602116586,1258533,MathJason,US,11184592715091,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,75.0,Python3,1624269882275,3860425,fabskerle,DE,65718243936230,
 100.0,75.0,Python3,1626294005916,3714972,fmca,BR,,
 100.0,75.0,Python3,1629274471690,3091814,Yas_s,MA,24752498134860,
-100.0,75.0,Python3,1629823038753,3686887,R1FA,FR,43807526086874,
-100.0,75.0,Python3,1643542342670,4061100,InfinityFalls,GB,66785884062839,

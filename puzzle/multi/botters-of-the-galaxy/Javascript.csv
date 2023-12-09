@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=64|time=2023-12-08T04:07:54
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=64|time=2023-12-09T04:07:42
 9,18.74,Javascript,1523470730956,1769753,416762,Khao,CA,2035557596161,
 9,15.73,Javascript,1525523040021,1843186,1743344,ush189,DE,9680328817159,
 9,15.33,Javascript,1527200884106,1862832,1895182,Jean_Francois_R,FR,,
@@ -30,8 +30,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,12.06,Javascript,1677291832230,4750545,5010590,Noidkoko83,FR,87908148572570,
 4,4.07,Javascript,1521848550141,1744489,1469131,incepator,FR,,
 4,4.06,Javascript,1635153944318,3874078,4316297,IroncladDev,US,96102505666119,
-3,28.4,Javascript,1702000312785,5131666,1246479,Bastien_Baloup,FR,115708043635296,
-3,17.81,Javascript,1647684232562,4038417,4768303,YaRi78,FI,,
+3,24.25,Javascript,1702076021484,5132677,1246479,Bastien_Baloup,FR,115708043635296,
+3,17.76,Javascript,1647684232562,4038417,4768303,YaRi78,FI,,
 3,15.96,Javascript,1543156024385,2139534,2829104,Nikita_Kozub,RU,,
 3,15.49,Javascript,1523137693210,1765313,1784886,iFightLegends,DE,39690168485744,
 3,15.18,Javascript,1581553976193,2678021,3576678,camiloacosta,CO,39077307084047,
@@ -41,7 +41,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,14.73,Javascript,1523185357147,1765799,1167980,qoobus,DE,2852849084542,
 3,14.58,Javascript,1566052257317,2469217,2653332,SunjiWa,FR,19203448474362,
 3,12.67,Javascript,1696939523172,5073391,5197378,JulienGuilbaud,FR,112546144733353,
-3,11.22,Javascript,1521813753135,1743406,1048882,Ogee,HU,,
+3,11.21,Javascript,1521813753135,1743406,1048882,Ogee,HU,,
 3,11.11,Javascript,1593021650268,3022142,3871406,DepressoExpresso,US,46167163903080,
 3,10.97,Javascript,1521843135304,1744386,1449025,Renegade,US,4618347131788,
 3,10.95,Javascript,1524097609719,1778367,2300507,kmaitski,US,15524335654756,
@@ -61,5 +61,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,7.62,Javascript,1524765129450,1815861,2325553,JuanArenas,CO,16031379904343,
 0,7.31,Javascript,1588414224084,2843845,3738308,sgbd,FR,42055647534656,
 0,7.13,Javascript,1616777543429,3476927,4247111,joshau,US,60848643152152,
-0,6.25,Javascript,1522024159714,1747414,1362802,Orlandi,BR,7030797278714,
+0,6.16,Javascript,1522024159714,1747414,1362802,Orlandi,BR,7030797278714,
 0,-10.79,Javascript,1522293684452,1751833,2006348,Koji02,JP,,

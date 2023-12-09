@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=43500|time=2023-12-08T04:07:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=43521|time=2023-12-09T04:07:42
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -139,6 +139,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,80.0,OCaml,1680508996512,4438505,Eric_[EGU],FR,114044329618574,
 100.0,80.0,Javascript,1681114128665,5358413,Corentin2000,FR,99371165250814,
 100.0,80.0,Python3,1694190875710,4569055,Denil,FR,91218949664019,
+100.0,80.0,Python3,1702066160568,1917961,Seoman,FR,,
 100.0,81.0,Ruby,1462029827678,884725,zoty314,HU,,
 100.0,81.0,Ruby,1475782630255,1599292,shinesoul,ID,,
 100.0,81.0,Ruby,1479826619400,1568093,b0ot,AE,6694372640439,
@@ -199,7 +200,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,86.0,Javascript,1668270694521,1052387,RomaricM,FR,92642125599822,
 100.0,86.0,Perl,1680718978083,4966586,Rohydre,FR,,
 100.0,86.0,Pascal,1692709118057,2928146,LolCat,MU,22538133010433,
-100.0,86.0,Python3,1701164226108,1917961,Seoman,FR,,
 100.0,87.0,Bash,1607596033227,2422378,C2H5OH,UA,19226708700974,
 100.0,87.0,Perl,1630664066156,1968855,ThePurificator,FR,12329456921169,
 100.0,87.0,Javascript,1637702717602,1399382,Regulus136,FR,4335723819637,
@@ -405,6 +405,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,89.0,Ruby,1685927144912,5135323,__yel__p,FR,92869880984408,
 100.0,89.0,Bash,1687028772828,973040,papyjo,FR,15696776172839,
 100.0,89.0,Bash,1689448236623,270881,Maurice_Moss,FR,30069480173944,
+100.0,89.0,Perl,1702063196891,1917961,Seoman,FR,,
 100.0,90.0,Ruby,1436151647754,760568,alex_slynko,IE,1961915966528,
 100.0,90.0,Javascript,1463423786731,416762,Khao,CA,2035557596161,
 100.0,90.0,Ruby,1541163628138,2726969,alokhmutov,RU,20844254865169,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,108.0,Javascript,1437746035956,981084,pio95,PL,,
 100.0,108.0,Python3,1438674040069,964728,kse,DK,,
 100.0,108.0,Ruby,1455061607273,311823,hettomei,FR,3356147074607,
-100.0,108.0,Javascript,1456590655439,1316751,volodimir,UA,,

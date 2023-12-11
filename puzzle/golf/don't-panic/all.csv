@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13248|time=2023-12-10T04:07:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13251|time=2023-12-11T04:08:07
 100.0,56.0,Bash,1696189932639,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,57.0,Ruby,1450099402243,154372,Plopx,FR,7959085736890,
 100.0,60.0,Perl,1449957330749,154372,Plopx,FR,7959085736890,
@@ -466,6 +466,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,122.0,Ruby,1690133765952,5579946,THX1138,GB,109287188182911,
 100.0,122.0,Javascript,1699824222343,4031451,pbou,FR,55429746348651,
 100.0,122.0,Ruby,1701520202462,3859594,Lonesurvivor,DE,,
+100.0,122.0,Ruby,1702216575180,4314296,Neralem,DE,70876343775648,
 100.0,123.0,Javascript,1491296791449,942271,flop,FR,11864302802887,
 100.0,123.0,Javascript,1498867317725,2054567,hs,FR,,
 100.0,123.0,ObjectiveC,1594766205650,1436776,BrainSolver,FR,10099178983053,
@@ -477,7 +478,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,124.0,Javascript,1447281819391,1144979,MatteoSpreafico,IT,,
 100.0,124.0,Javascript,1448660875447,1175343,Hankerspace,FR,2890003854966,
 100.0,124.0,Javascript,1448746735989,1096618,CertainLach,RU,2875470378553,
-100.0,124.0,Javascript,1448902815191,1061242,creepyclown69,HU,111635385341421,
+100.0,124.0,Javascript,1448902815191,1061242,Csipcsirip,HU,111635385341421,
 100.0,124.0,Javascript,1454146059505,1071140,BeberLeNewbie,FR,9528729029244,
 100.0,124.0,Python3,1454146287316,1201783,qsantos,FR,3181778176261,
 100.0,124.0,Javascript,1456489011904,951974,Kynarth,FR,1818640573423,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,157.0,Javascript,1463577533031,879321,S7ven,FR,3901150663189,
 100.0,157.0,Javascript,1463577768204,1363282,Dantevgp,FR,,
 100.0,157.0,Javascript,1463578305415,846838,K.MA,FR,42367927612850,
-100.0,157.0,Python3,1466858237713,1402968,MMMAAANNN,UA,4434079921061,

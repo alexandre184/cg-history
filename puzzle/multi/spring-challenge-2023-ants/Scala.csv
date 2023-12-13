@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=33|time=2023-12-12T04:07:54
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=33|time=2023-12-13T04:07:51
 4,25.86,Scala,1685980405556,4955363,5375695,jkciesluk,PL,,
 4,24.56,Scala,1685980106870,4954786,154935,yamo,FR,13357218751473,
 4,22.87,Scala,1685981169597,4956822,5275667,JR-Utily,FR,96369305487836,
@@ -17,11 +17,11 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,18.42,Scala,1685981117825,4956734,5538057,MahirCem,TR,,
 2,18.37,Scala,1685982015054,4958487,2454307,Nugsie,GB,36460369808118,
 2,17.7,Scala,1685981611432,4957714,337622,Isammoc,FR,1964163502048,
-2,16.63,Scala,1685981474489,4957424,5540671,OzlemSevincc,TR,,
+2,16.7,Scala,1685981474489,4957424,5540671,OzlemSevincc,TR,,
 2,15.02,Scala,1685980033704,4954657,809428,Andonescu,RO,3737593052788,
 2,14.76,Scala,1685979995899,4954608,5540113,serhatbekirtanSCALA,TR,106054404492303,
 2,14.4,Scala,1685980303009,4955151,5540212,yusuftanrikuluFUN,TR,,
-2,13.86,Scala,1685980828191,4956206,5516538,DilaraAksoy,TR,,
+2,13.78,Scala,1685980828191,4956206,5516538,DilaraAksoy,TR,,
 2,13.6,Scala,1685981894697,4958250,5536371,peter_kuki,PL,,
 2,13.22,Scala,1686240050086,4963375,5541919,SinemmGoctu,TR,,
 1,20.48,Scala,1685981048241,4956621,1197300,MaxZhu,FR,5613512678820,
@@ -30,5 +30,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,10.81,Scala,1685980381429,4955315,4846624,Arcuzam,ES,81980847477151,
 0,16.31,Scala,1685981431805,4957335,1740037,ereiam,FR,12669494111004,
 0,15.32,Scala,1685981168134,4956818,5493083,safakbarutcu,TR,,
-0,13.15,Scala,1685981078599,4956657,5541786,oguzhanyigen,TR,,
+0,13.13,Scala,1685981078599,4956657,5541786,oguzhanyigen,TR,,
 0,3.49,Scala,1685980442377,4955448,5541493,elifisik,TR,,

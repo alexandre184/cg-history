@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=336|time=2023-12-14T04:07:41
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=336|time=2023-12-15T04:07:47
 5,26.3,Javascript,1504723662431,1444850,805067,Magus,FR,24623991925371,
 5,22.99,Javascript,1574716867133,2610994,2115491,Haashi,FR,13769252859943,
 5,21.91,Javascript,1573749256570,2599882,1649376,Kujar,FR,7980653749506,
@@ -91,7 +91,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,13.72,Javascript,1506689436836,1468854,594628,mnikeee,RO,,
 3,13.65,Javascript,1629560950483,3798083,2896893,fripon,FR,22033759693060,
 3,13.64,Javascript,1503507763941,1431825,1832570,zeprone,FR,,
-3,13.63,Javascript,1528468269671,1878561,969000,KB,DE,37409704502795,
+3,13.63,Javascript,1528468269671,1878561,969000,KB,DE,116203607528695,
 3,13.61,Javascript,1519642720774,1672202,1560792,Toocanzs,US,,
 3,13.57,Javascript,1545430953900,2195802,2974905,A-312,FR,23009956295884,
 3,13.55,Javascript,1541593660896,2121030,1386924,Ylec,FR,4182391658006,
@@ -325,6 +325,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,10.91,Javascript,1503034728821,1426576,1628550,Noxyo,PT,,
 0,10.89,Javascript,1503597459248,1433418,2146056,babyShifu,IN,53109342153105,
 0,10.88,Javascript,1448231630459,364827,1170878,Scub,BE,34693968049558,
+0,10.88,Javascript,1579711450395,2658333,3594791,houssemkaroui,TN,,
 0,10.87,Javascript,1457354515821,410679,1330843,Brokenmass,GB,4380409503798,
 0,10.85,Javascript,1647459747848,4035873,4791697,SolidMarrow9967,US,80269301415674,
 0,10.82,Javascript,1607084490167,3338348,571264,Jikardo,BG,,
@@ -332,6 +333,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,10.79,Javascript,1581171548224,2674487,3674486,IziRuss,FR,,
 0,10.78,Javascript,1573768466513,2600290,2498576,TheNormalPerson,IL,17535804431641,
 0,10.74,Javascript,1620515626639,3580115,4310397,Tiborius,DE,63088601442760,
-0,10.65,Javascript,1579711450395,2658333,3594791,houssemkaroui,TN,,
-0,10.46,Javascript,1618918816174,3510242,4283231,ShieldX123,IN,,
+0,10.72,Javascript,1618918816174,3510242,4283231,ShieldX123,IN,,
 0,6.68,Javascript,1696413240400,5068429,5197378,JulienGuilbaud,FR,112546144733353,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=198|time=2023-12-15T04:07:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=198|time=2023-12-16T04:07:29
 100.0,64.0,Haskell,1586307311015,334009,abouvier,FR,4681436111242,
 100.0,66.0,Haskell,1585580075872,1537792,AsaiYusuke,US,41785380851985,
 100.0,66.0,Haskell,1616759141237,3996096,Sakisan,BE,51025781973491,
@@ -15,6 +15,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,75.0,Haskell,1669725042459,4438505,Eric_[EGU],FR,114044329618574,
 100.0,76.0,Haskell,1460759166756,1250366,Ookami,TR,9293970212210,
 100.0,76.0,Haskell,1619204769430,1654818,tarapitha,EE,79401682508715,
+100.0,78.0,Haskell,1702614191717,3893564,Andriamanitra,FI,46641547586781,
 100.0,80.0,Haskell,1479653587727,1630178,ulrikdem,ZA,,
 100.0,80.0,Haskell,1644881048460,4688439,Angs,FI,77351661394461,
 100.0,81.0,Haskell,1609083466060,4015951,TiborKotosz-Inviqa,HU,,
@@ -67,7 +68,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,94.0,Haskell,1472805449128,1479264,ArbustRe,FR,4956547000583,
 100.0,94.0,Haskell,1476110597826,1534309,Buszmen,PL,7828519743592,
 100.0,94.0,Haskell,1476872560522,1634195,k.ab,ID,13042180236760,
-100.0,94.0,Haskell,1480948211689,1061242,Csipcsirip,HU,111635385341421,
+100.0,94.0,Haskell,1480948211689,1061242,eat_shrooms_XD,HU,111635385341421,
 100.0,94.0,Haskell,1481230108469,1193679,Icebox,DE,28987786895120,
 100.0,94.0,Haskell,1483034994192,1073247,_NikJ,RS,2509638482149,
 100.0,94.0,Haskell,1483443381739,1753424,FilkinKuiv,UA,10100504747660,
@@ -88,7 +89,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,94.0,Haskell,1638918299708,734401,b0n5a1,FR,1848632360793,
 100.0,94.0,Haskell,1644823006672,4341304,Remi.,FR,97662026388574,
 100.0,95.0,Haskell,1557175442833,1167096,exfalso,HU,,
-100.0,95.0,Haskell,1675943217964,3893564,Andriamanitra,FI,46641547586781,
 100.0,96.0,Haskell,1462610586646,1342745,Catiminie,FR,5639908914832,
 100.0,96.0,Haskell,1605537460635,1848459,Velcoro,CZ,48538649860014,
 100.0,97.0,Haskell,1475175199667,153685,damiengif,FR,,

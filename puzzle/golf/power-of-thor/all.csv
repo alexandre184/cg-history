@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=43646|time=2023-12-16T04:07:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=43658|time=2023-12-17T04:07:34
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -479,6 +479,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,93.0,Ruby,1659300098113,1442344,PavelRaskin,GE,,
 100.0,93.0,Javascript,1683517731053,1903031,hard-coded,KR,27487549921318,
 100.0,93.0,PHP,1696584899675,5743368,sdcpo,FR,,
+100.0,93.0,Ruby,1702742711558,5859351,Reyn,GB,116154168682948,
 100.0,94.0,Ruby,1445527667213,1052630,_,BY,,
 100.0,94.0,Ruby,1445899765128,1038830,rubicon,PL,2504386701540,
 100.0,94.0,Javascript,1486305118459,1668643,Tofull,CA,8087044184320,
@@ -565,6 +566,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,96.0,TypeScript,1688121260347,3918583,mikmak,FR,48134583112917,
 100.0,96.0,Ruby,1701594915615,3859594,Lonesurvivor,DE,,
 100.0,96.0,D,1702274061831,371603,martin,CA,1761380964089,
+100.0,96.0,Ruby,1702737309737,5208781,cbujdei,US,94801881817663,
 100.0,97.0,Ruby,1458168588163,1102626,Janfred,DE,,
 100.0,97.0,Ruby,1523885909200,1351763,gatto,IT,4308899276162,
 100.0,97.0,Ruby,1590677396387,649275,biggoron,FR,9033919256507,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,107.0,Javascript,1688243707082,400712,Freddy-Krueger,IL,44580408074142,
 100.0,107.0,Bash,1690548759069,5192841,vip.delete,RS,105744064201678,
 100.0,107.0,Python3,1691598273579,1765440,AndrzejOw,PL,10098538773223,
-100.0,107.0,Python3,1694769854203,3878056,LighTender,FR,84076600097982,
-100.0,107.0,Javascript,1698429842874,2971594,BaptisteGasser,CA,69895205419431,

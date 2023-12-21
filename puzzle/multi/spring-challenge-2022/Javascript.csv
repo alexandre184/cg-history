@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=568|time=2023-12-20T04:06:24
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=568|time=2023-12-21T04:07:55
 5,32.15,Javascript,1651740737170,4266490,4779944,GlaceCoding,FR,104523969424630,
 5,31.03,Javascript,1651729487703,4265920,4863188,kouin,CA,82597487919104,
 5,29.05,Javascript,1651673633908,4262078,4235021,Amvr,FR,62727602684118,
@@ -418,7 +418,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,13.75,Javascript,1651672720489,4260515,4844799,jdgutierrez24,EC,,
 2,13.57,Javascript,1676941365370,4746061,5079960,Volkan_Guller,FR,90287022009233,
 2,13.56,Javascript,1651741238548,4267599,4059073,Sthaz,FR,95215702027803,
-2,13.49,Javascript,1651673929277,4262716,4618804,5EGFAULT,MA,93440343532733,
+2,13.49,Javascript,1651673929277,4262716,4618804,5EGFAULT,MA,116639442578986,
 2,13.34,Javascript,1651741235109,4267587,1352038,raggajohnjohn,FR,62953788084443,
 2,13.34,Javascript,1651741226730,4267567,4768303,YaRi78,FI,,
 2,13.23,Javascript,1651673319891,4261455,2466727,jugurthak,FR,82460605799456,
@@ -554,8 +554,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,5.95,Javascript,1651672027183,4259139,4597033,mmont429,GB,,
 1,4.74,Javascript,1652643485079,4286736,4865356,mrakhman,FR,,
 1,-1.34,Javascript,1651740957809,4266967,1424675,ADriH,FR,,
-0,17.13,Javascript,1702482938832,5137816,5860864,throws exception,DK,,
-0,16.94,Javascript,1651741117942,4267320,4052324,AntiCheap,IT,53612562876107,
+0,17.55,Javascript,1702482938832,5137816,5860864,throws exception,DK,,
+0,16.87,Javascript,1651741117942,4267320,4052324,AntiCheap,IT,53612562876107,
 0,15.17,Javascript,1651671566291,4258177,4798497,ytaya,MA,81884064819696,
 0,13.55,Javascript,1651671593167,4258225,3754441,DiangoGav,VE,,
 0,13.18,Javascript,1651672301894,4259748,4865034,ved08,IN,,

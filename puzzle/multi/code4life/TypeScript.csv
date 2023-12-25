@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=78|time=2023-12-24T04:07:13
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=78|time=2023-12-25T04:07:54
 5,22.78,TypeScript,1600618014220,3103233,3918583,mikmak,FR,48134583112917,
 4,21.82,TypeScript,1698256361650,5087243,5763839,Minorusama,FR,,
 4,21.57,TypeScript,1688075674394,4989765,1142942,Aquamoth,SE,2726711501810,
@@ -27,7 +27,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,16.15,TypeScript,1623436581899,3709788,2545056,Bill876,RU,65816649137891,
 2,28.25,TypeScript,1648583282008,4055581,4773380,DanForge,GB,80573182595664,
 2,28.21,TypeScript,1674867093125,4723111,5254752,JorckWorm,DK,,
-2,28.04,TypeScript,1654452902670,4312688,4924167,JAAVander,AT,,
+2,28.2,TypeScript,1654452902670,4312688,4924167,JAAVander,AT,,
 2,27.19,TypeScript,1679653060966,4777285,4958799,Johl,FR,106741542493681,
 2,26.24,TypeScript,1683623917388,4818827,5426265,superMx,FR,102063605157977,
 2,22.1,TypeScript,1644083631565,3994573,1042911,Bitmind,CH,10540793248543,
@@ -60,8 +60,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,5.57,TypeScript,1614538858157,3445076,2688381,willf80,FR,70802160683965,
 2,5.56,TypeScript,1695718686164,5061535,5426710,AntFrasier,FR,102074884886989,
 2,-0.71,TypeScript,1696409106250,5068377,4389178,LeBastIan,DE,66984849026924,
-1,21.18,TypeScript,1673817036184,4708062,4839697,bfairchild,US,81780925100319,
-1,21.11,TypeScript,1688121964141,4990108,5581111,EyfGy,RE,,
+1,21.2,TypeScript,1688121964141,4990108,5581111,EyfGy,RE,,
+1,21.13,TypeScript,1673817036184,4708062,4839697,bfairchild,US,81780925100319,
 1,14.22,TypeScript,1642460280197,3974551,4121594,enapah,SE,,
 1,14.21,TypeScript,1602716824179,3133529,3967220,ArturSkrobisz,PL,,
 1,14.21,TypeScript,1637525766208,3903712,2544223,thollander,FR,73411929281248,

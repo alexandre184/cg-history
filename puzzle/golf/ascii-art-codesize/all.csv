@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2447|time=2023-12-26T04:07:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2449|time=2023-12-27T04:07:40
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -230,6 +230,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,126.0,Python3,1700966435936,5818971,sht,PL,,
 100.0,126.0,Javascript,1701263400022,481564,mihei,RU,4454400756022,
 100.0,126.0,Python3,1702115213027,1839941,Just4FunCoder,MY,80969549924201,
+100.0,126.0,Python3,1703637437308,5807573,Stephen,US,,
 100.0,127.0,Python3,1682279282473,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,127.0,Python3,1698781329653,1388946,PavloKvas,UA,24795273608986,
 100.0,127.0,C,1701442637655,3918583,mikmak,FR,48134583112917,
@@ -757,6 +758,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,194.0,C++,1699797669518,481564,mihei,RU,4454400756022,
 100.0,195.0,Haskell,1682510156877,5191042,Saphir123,FR,102291860878516,
 100.0,195.0,PHP,1685303915881,1348635,ferbos,FR,96159860267051,
+100.0,195.0,Javascript,1703633521226,1113073,IvoRocha,PT,2521937558460,
 100.0,196.0,Python3,1680187596185,154937,[CG]BOUGA,FR,1884036222374,
 100.0,196.0,Java,1681211589965,3354337,Westicles,CX,79146641399080,
 100.0,196.0,Python3,1683751425879,1478706,The-Dude,FR,36076349653299,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,264.0,Python3,1680165650006,3949332,kevhal,NO,49115968581132,
 100.0,264.0,Ruby,1680165820004,153016,Krap,FR,68719964142713,
 100.0,264.0,Python3,1685968982350,2027039,bofHeidelberg,DE,49611746614882,
-100.0,264.0,Python3,1688558747568,5410454,Hacherumeur045,FR,,
-100.0,264.0,Java,1690044098679,1399382,Regulus136,FR,4335723819637,

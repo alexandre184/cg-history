@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=520|time=2023-12-30T04:09:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=521|time=2023-12-31T04:07:31
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,157.0,C++,1683451432414,2077805,bamilan,HU,,
 100.0,159.0,C++,1680625096642,3647844,rc95401,US,39486169555819,
@@ -115,6 +115,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,189.0,Javascript,1692398890998,1473079,Zylar,US,4875610554885,
 100.0,189.0,C#,1698821985364,1479398,MindingData,NZ,53796148981160,
 100.0,189.0,Javascript,1699389999153,5724049,Yises,ES,113131221178591,
+100.0,189.0,C#,1703977630575,1253105,[Colibri]Nitro,FR,7441311895298,
 100.0,190.0,Javascript,1680883268589,5079960,Volkan_Guller,FR,90287022009233,
 100.0,190.0,Java,1681238429621,4292379,Chairman_of_the_Borg,US,65369007071182,
 100.0,190.0,C++,1692080218517,530441,Prime541,FR,75513904859150,
@@ -398,7 +399,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 98.0,375.0,Javascript,1684130001314,4592610,SiddharthShyniben,IN,74035242117015,
 98.0,765.0,Python3,1690238219597,5620068,m0sk1tu4,AT,,
 98.0,798.0,PHP,1698279158196,5751596,130bby,FR,112960325536634,
-96.0,264.0,C#,1703892749278,1253105,[Colibri]Nitro,FR,7441311895298,
 96.0,426.0,Javascript,1680369210315,5277184,jerom123,FR,,
 96.0,753.0,Python3,1701181956078,5826178,PikachuGV,SG,,
 94.0,349.0,Python3,1681218823674,1452463,Tristannah,FR,16790154164262,
@@ -519,3 +519,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,1300.0,Python3,1700662358077,5365176,D4ЯK3И5T0И3,FR,100054962767904,
 0.0,1300.0,C++,1701460684014,4521307,gabitho788,FR,106857683318959,
 0.0,1300.0,Java,1702042002708,5722432,Langgz-sky7,ID,115826629164971,
+0.0,1300.0,Javascript,1703967296791,1519311,Doran,SK,82529023491718,

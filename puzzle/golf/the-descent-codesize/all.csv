@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3498|time=2023-12-30T04:09:12
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3502|time=2023-12-31T04:07:31
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -114,6 +114,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,46.0,Ruby,1700267152005,1140177,yckmciaiy,UA,11569519603976,
 100.0,47.0,Ruby,1681083868330,4376291,AlexWord,VE,98812607758153,
 100.0,47.0,Ruby,1687169639591,4717726,Alexis [Nexure],FR,81506465307341,
+100.0,47.0,Ruby,1703925090839,5626949,xean0fake,TH,108886747794049,
 100.0,48.0,Ruby,1681107889649,3938011,[4G],CA,48721148862145,
 100.0,48.0,Perl,1691749083314,4438505,Eric_[EGU],FR,114044329618574,
 100.0,48.0,Ruby,1693787949553,5645045,Pi706798214,US,,
@@ -891,6 +892,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,70.0,PHP,1700945393700,2924895,trictrac,FR,23056996012330,
 100.0,70.0,C,1701436514763,3918583,mikmak,FR,48134583112917,
 100.0,70.0,Scala,1703452500696,2445835,..--..,RU,,
+100.0,70.0,Javascript,1703965296863,1519311,Doran,SK,82529023491718,
 100.0,71.0,Python3,1680796244669,862919,Astrobytes,GB,60413902297900,
 100.0,71.0,Python3,1681060452854,3882482,Harshit_Gupta,IN,,
 100.0,71.0,Javascript,1681219139959,4549399,Cptn-Darktomate,FR,82214507302162,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,76.0,C++,1692877399340,2928146,LolCat,MU,22538133010433,
 100.0,76.0,Python3,1694287794994,5278325,Youssef_Adel,EG,109092826457179,
 100.0,76.0,Python3,1695043803190,5544791,Maellle,FR,,
-100.0,76.0,Perl,1695216094721,199646,netoctone,IE,,
-100.0,76.0,Javascript,1696650608266,3028864,lorcQc,CA,,

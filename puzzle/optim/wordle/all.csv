@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=522|time=2024-01-01T04:08:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=523|time=2024-01-02T04:07:47
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,157.0,C++,1683451432414,2077805,bamilan,HU,,
 100.0,159.0,C++,1680625096642,3647844,rc95401,US,39486169555819,
@@ -75,6 +75,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,181.0,TypeScript,1692380373315,3559724,dan_the_bloke,GB,,
 100.0,181.0,C#,1700938158033,5751040,palio,CZ,,
 100.0,181.0,Rust,1702472741463,973040,papyjo,FR,15696776172839,
+100.0,181.0,Java,1704144305519,5873354,Besti,FR,,
 100.0,182.0,Python3,1681929421095,1896128,Vhanire,FR,11579664978229,
 100.0,182.0,Java,1692313741386,5646890,aflorido,ES,110020188475902,
 100.0,182.0,Rust,1700562070648,3893564,Andriamanitra,FI,46641547586781,
@@ -209,7 +210,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,212.0,TypeScript,1683908047179,3317583,Mjo,FR,,
 100.0,213.0,C++,1700527979713,4767091,dk949,GB,,
 100.0,213.0,Javascript,1702707739448,4267762,Doxmaw,TH,61679447761001,
-100.0,213.0,Java,1704062403655,5873354,Besti,FR,,
 100.0,214.0,Javascript,1684363202490,3561478,TJSteel,GB,43956444263632,
 100.0,214.0,C#,1702826824529,5854752,Jasanto,TN,,
 100.0,215.0,Javascript,1689671555555,4040965,Twistman,FR,,
@@ -341,6 +341,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,359.0,TypeScript,1682242279942,2470803,Snoopx,FR,83465608212494,
 100.0,365.0,Python3,1687943036139,4918461,dg19,JP,84487460996939,
 100.0,373.0,Java,1697463250134,2983004,tazorax,FR,44193486227636,
+100.0,377.0,Python3,1704154554909,5889565,Hermes,GB,117089249701136,
 100.0,379.0,C++,1689290282112,5599623,BlackPike,FR,,
 100.0,383.0,Java,1684319329376,4870055,Avalon974,RE,,
 100.0,397.0,Javascript,1689203033912,4410918,aroary,US,92090269465555,

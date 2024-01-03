@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3509|time=2024-01-02T04:07:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3520|time=2024-01-03T04:07:47
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -605,6 +605,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Python3,1702852629829,1057408,BigZettt,PL,17834968093621,
 100.0,60.0,Python3,1703542409693,2093895,stdas,RU,51859406890597,
 100.0,60.0,Javascript,1703693714786,5807573,Stephen,US,,
+100.0,60.0,Python3,1704171063205,4756200,tueda,JP,,
 100.0,61.0,Javascript,1680807902683,1353795,TheCrucial,PL,18581166493021,
 100.0,61.0,Javascript,1680811295812,1357614,OptiPanda,FR,25029501539760,
 100.0,61.0,Javascript,1680866757133,3354337,Westicles,CX,79146641399080,
@@ -963,6 +964,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,74.0,Haskell,1699396200296,4438505,Eric_[EGU],FR,114044329618574,
 100.0,74.0,Python3,1701772512781,3424280,Zener,FR,39512266910769,
 100.0,74.0,Python3,1702291426483,1968855,ThePurificator,FR,12329456921169,
+100.0,74.0,Javascript,1704174165018,4756200,tueda,JP,,
 100.0,75.0,TypeScript,1680184492340,154937,[CG]BOUGA,FR,1884036222374,
 100.0,75.0,TypeScript,1680186516719,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,75.0,TypeScript,1680786039385,952784,[CG]Simon,FR,15794417868476,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,76.0,Lua,1684235819604,2874091,5DN1L,GB,79633423380001,
 100.0,76.0,Python3,1685614378885,5517497,LaurentG,FR,105483543586819,
 100.0,76.0,Javascript,1686224679922,5429773,Diabetos,FR,102118582822399,
-100.0,76.0,Python3,1686934415719,4206218,Jerrasterix,IN,70583149006985,
-100.0,76.0,Javascript,1687190957480,5402755,MadMaxO,BR,100983786956390,

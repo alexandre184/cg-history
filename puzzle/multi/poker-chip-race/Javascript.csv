@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=249|time=2024-01-04T04:07:35
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=249|time=2024-01-05T04:07:56
 5,25.63,Javascript,1579639138030,2657222,1360360,zombitrafik,PL,39230624991993,
 4,23.82,Javascript,1507760480351,1478885,2158982,Barbossa,FR,14839412862089,
 4,20.75,Javascript,1507135137970,1473086,877407,maximov,RU,4153965160813,
@@ -188,11 +188,11 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,13.88,Javascript,1423004438193,246765,246128,TheCreator,FR,3184534552423,
 0,13.71,Javascript,1410679523435,160318,366707,Milanito,FR,,
 0,13.7,Javascript,1411583708055,161348,389057,nyl,CA,,
+0,13.63,Javascript,1449785735213,367365,1113478,Chiro-taq,US,,
 0,13.54,Javascript,1474582460557,688450,1534309,Buszmen,PL,7828519743592,
-0,13.52,Javascript,1449785735213,367365,1113478,Chiro-taq,US,,
 0,13.47,Javascript,1578323874025,2642569,3626732,Naudje,FR,38828024518930,
 0,13.45,Javascript,1464101667218,470007,1447509,The_MadGod,US,4614377503774,
-0,13.42,Javascript,1481641196423,885244,1026791,Alfalfamale,NL,7144185210937,
+0,13.42,Javascript,1481641196423,885244,1026791,Gruwel,NL,7144185210937,
 0,13.42,Javascript,1509613841836,1499292,2268197,Rahan,KR,,
 0,13.38,Javascript,1608385969667,3361623,3935258,Ching367436,TW,48585928916970,
 0,13.32,Javascript,1456061443514,381382,668380,Vadzim,BY,,
@@ -244,7 +244,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,8.93,Javascript,1595619051975,3041655,3467873,JordanBerger,FR,33506003832796,
 0,8.91,Javascript,1568323679155,2487909,3278261,alexeysinko,RU,26208568157922,
 0,8.68,Javascript,1414330617238,179233,421993,Filosoff,RU,,
-0,7.87,Javascript,1677740029674,4754977,5366512,Benjamin-Wen,CZ,,
+0,8.22,Javascript,1677740029674,4754977,5366512,Benjamin-Wen,CZ,,
 0,5.58,Javascript,1509614288964,1499298,2268184,spkwon,KR,,
 0,-6.25,Javascript,1519973619003,1676585,1922394,Radonirina,MG,11855974086615,
 0,-7.22,Javascript,1506666331120,1468577,1842184,imdevesh,IN,14558464345409,

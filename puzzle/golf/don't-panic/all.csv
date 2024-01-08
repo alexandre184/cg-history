@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13339|time=2024-01-07T04:07:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13340|time=2024-01-08T04:08:25
 100.0,56.0,Bash,1696189932639,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,57.0,Ruby,1450099402243,154372,Plopx,FR,7959085736890,
 100.0,60.0,Perl,1449957330749,154372,Plopx,FR,7959085736890,
@@ -11,6 +11,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,68.0,Ruby,1434458468494,600941,mrv,PL,,
 100.0,68.0,Bash,1674077589886,4438505,Eric_[EGU],FR,114044329618574,
 100.0,69.0,Ruby,1434469662187,557990,Wazemo,PL,1724224108740,
+100.0,69.0,Ruby,1704617517987,4878794,striker_aryu,IN,,
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,martin,CA,1761380964089,
 100.0,70.0,Javascript,1627600247434,155774,dwarfie,FR,17785582865119,
@@ -82,7 +83,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,81.0,Ruby,1522391966783,1740037,ereiam,FR,12669494111004,
 100.0,81.0,Python3,1675894513889,4438505,Eric_[EGU],FR,114044329618574,
 100.0,81.0,Python3,1691736374416,2928146,LolCat,MU,22538133010433,
-100.0,81.0,Ruby,1704565868724,4878794,striker_aryu,IN,,
 100.0,82.0,Javascript,1433334485000,490905,lechium06_,PL,1716926865465,
 100.0,82.0,Perl,1438435705114,371603,martin,CA,1761380964089,
 100.0,82.0,Perl,1454675378087,431723,sfod,RU,,
@@ -637,6 +637,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,133.0,Bash,1663356928605,4620106,lonequantum,FR,73903248957664,
 100.0,133.0,ObjectiveC,1664787401300,4438505,Eric_[EGU],FR,114044329618574,
 100.0,133.0,Bash,1693746929972,973040,papyjo,FR,15696776172839,
+100.0,133.0,Ruby,1704645192816,2445835,..--..,RU,,
 100.0,134.0,Python3,1434204178000,828213,anst,FR,1734651202684,
 100.0,134.0,Javascript,1434305683365,937362,josh_,FR,1755973612089,
 100.0,134.0,Python3,1469227141186,1001167,ASd-,FR,17524259740348,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,156.0,PHP,1686004425401,5135323,__yel__p,FR,92869880984408,
 100.0,156.0,Javascript,1690192058495,154806,piwai,FR,1956863959967,
 100.0,156.0,Python3,1702554216044,1917961,Seoman,FR,,
-100.0,157.0,Lua,1435102892080,553938,MagAlex,RU,3292063463360,

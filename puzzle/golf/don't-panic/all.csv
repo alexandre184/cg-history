@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13353|time=2024-01-10T04:07:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=13352|time=2024-01-11T04:07:47
 100.0,56.0,Bash,1696189932639,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,57.0,Ruby,1450099402243,154372,Plopx,FR,7959085736890,
 100.0,60.0,Perl,1449957330749,154372,Plopx,FR,7959085736890,
@@ -396,7 +396,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,119.0,PHP,1690452481585,154806,piwai,FR,1956863959967,
 100.0,119.0,Javascript,1699915883370,5803441,Buckling,BE,,
 100.0,120.0,Javascript,1445698915926,935802,Jerhyn,FR,109463964266798,
-100.0,120.0,Javascript,1610875912466,3546420,ZackGabri,TD,35924043313662,
+100.0,120.0,Javascript,1610875912466,3546420,ZackGabri,EG,35924043313662,
 100.0,120.0,PHP,1676537447577,2874091,5DN1L,GB,79633423380001,
 100.0,120.0,Haskell,1680955710516,3354337,Westicles,CX,79146641399080,
 100.0,121.0,C,1445627415172,272290,Clement0635,FR,34413083523867,
@@ -845,6 +845,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,148.0,Javascript,1687592296521,400712,Freddy-Krueger,IL,44580408074142,
 100.0,148.0,Ruby,1695338838753,199646,netoctone,IE,,
 100.0,148.0,Python3,1700305984143,1399382,Regulus136,FR,4335723819637,
+100.0,148.0,Javascript,1704876269968,5447409,Crqptx,NL,113216743313757,
 100.0,149.0,PHP,1430339320000,248263,NewboO,FR,1736562769619,
 100.0,149.0,Javascript,1438208636025,954763,InTheGround,FR,,
 100.0,149.0,Python3,1460138180323,1364335,ArgShX,FR,,
@@ -868,7 +869,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,149.0,Javascript,1683336101779,1069711,Snox,FR,101402687553763,
 100.0,149.0,PHP,1684940205139,4283515,FrancoisBaveye,FR,104716760268246,
 100.0,149.0,Javascript,1696354911444,389786,menu,DE,,
-100.0,149.0,Javascript,1698220465551,5447409,Crqptx,NL,113216743313757,
 100.0,149.0,TypeScript,1700815387454,4537924,ArtesScytale,BE,,
 100.0,149.0,Javascript,1703693884663,5807573,Stephen,US,,
 100.0,150.0,Bash,1432661076000,916320,antls,RU,,

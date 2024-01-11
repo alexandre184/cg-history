@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3550|time=2024-01-10T04:07:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3555|time=2024-01-11T04:07:47
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -334,6 +334,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,51.0,Python3,1702761370607,5235018,Spaghettificated,PL,99956084963470,
 100.0,51.0,Python3,1703061129482,4787127,,FR,,
 100.0,51.0,Python3,1704547701266,5077308,kermit420,FR,,
+100.0,51.0,Python3,1704886937658,5885791,renoyu,JP,117012888933231,
 100.0,52.0,Ruby,1680794297641,1733943,Bouga,FR,11865098962186,
 100.0,52.0,Kotlin,1680988387077,1515891,ndc,RU,57247748477088,
 100.0,52.0,Bash,1681114929082,792813,VilBoub,FR,72010225615995,
@@ -536,7 +537,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,59.0,Python3,1682885541042,2175704,cedricg92,FR,,
 100.0,59.0,Python3,1683382740283,4046678,N9798,FR,54248748207130,
 100.0,59.0,Python3,1683935159383,4075712,bsapozhnikov,US,,
-100.0,59.0,Python3,1685263858852,1703255,ClementC,FR,105865128603317,
+100.0,59.0,Python3,1685263858852,1703255,Titanmito,FR,105865128603317,
 100.0,59.0,Python3,1687159227083,4717726,Alexis [Nexure],FR,81506465307341,
 100.0,59.0,Python3,1687256667725,971193,Knuchy,FR,,
 100.0,59.0,Python3,1687357780280,838890,SilverHazard,AT,11290285399008,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,75.0,Javascript,1699009337025,3750985,vexilla72,FR,69788861540753,
 100.0,75.0,Javascript,1701834637990,1839941,Just4FunCoder,MY,80969549924201,
 100.0,75.0,Javascript,1702235688476,3932132,Zse,RO,,
-100.0,76.0,Perl,1680898824056,2288263,dbdr,UA,43448306132121,

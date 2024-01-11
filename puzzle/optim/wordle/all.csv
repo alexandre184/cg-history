@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=529|time=2024-01-10T04:07:53
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=530|time=2024-01-11T04:07:47
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,157.0,C++,1683451432414,2077805,bamilan,HU,,
 100.0,159.0,C++,1680625096642,3647844,rc95401,US,39486169555819,
@@ -67,6 +67,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,179.0,Python3,1683833684458,3353015,Salted,CA,78606329541070,
 100.0,179.0,Python3,1691433331424,5629891,DarkReaper01,RU,109045868909462,
 100.0,179.0,Scala,1700675271660,937073,Krlos,ES,18241478681928,
+100.0,179.0,Python3,1704922822290,3497405,Maijj,FR,,
 100.0,180.0,Java,1691947857911,389786,menu,DE,,
 100.0,180.0,Python3,1692323379108,5645045,Pi706798214,US,,
 100.0,180.0,C#,1694095736574,963578,McMutton,DE,111268461225189,
@@ -159,7 +160,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,197.0,Javascript,1695041248436,1688826,statox,FR,8974250883551,
 100.0,197.0,Rust,1702140490569,1588269,Emptee,FR,,
 100.0,197.0,PHP,1703761944732,4198228,AlexandreLassauge,FR,59370025734055,
-100.0,197.0,Python3,1704811275622,3497405,Maijj,FR,,
 100.0,198.0,C#,1689082323002,4990135,william-yh.li,FR,,
 100.0,199.0,C#,1686432992430,2379270,Pmz,FR,,
 100.0,199.0,Python3,1689085262084,5196730,pqul,FR,105366649791363,
@@ -273,6 +273,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,239.0,PHP,1700863373568,3567416,PluckyPenguin,GB,36933185194088,
 100.0,240.0,TypeScript,1686745190928,1931039,MooMooN,FR,11972180817471,
 100.0,241.0,Ruby,1684489647660,2142961,masterpoo,FR,43088841158401,
+100.0,241.0,C++,1704875355548,4481162,hiwang123,TW,,
 100.0,242.0,Python3,1688083995910,4189794,__balrog__,NZ,107381702318748,
 100.0,244.0,Python3,1702556710245,5119347,kutyaszor,HU,,
 100.0,245.0,Python3,1687287640155,4036462,Xonix,PL,,

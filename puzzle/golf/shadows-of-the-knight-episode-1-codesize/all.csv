@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2498|time=2024-01-18T04:07:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2502|time=2024-01-19T04:07:55
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -274,6 +274,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,197.0,Javascript,1696229264692,3711468,noftaly,FR,,
 100.0,197.0,Python3,1699297415586,5276491,Tryeri,NO,,
 100.0,197.0,C++,1700654917915,1093968,milosMATRIXrepic,RS,117470302748056,
+100.0,197.0,Python3,1705601639894,3664322,cclaude42,FR,75899369879616,
 100.0,198.0,Pascal,1681038504909,3354337,Westicles,CX,79146641399080,
 100.0,198.0,Javascript,1686759092967,4819330,rocambille,FR,82228789327154,
 100.0,198.0,Python3,1698065982631,3327739,bissaka,NE,71315867386072,
@@ -953,8 +954,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,632.0,Ruby,1688130746768,1349105,Desfit,FR,,
 100.0,632.0,Python3,1698050210114,5770291,Biebbs,ES,113390906417898,
 100.0,635.0,Java,1694526274384,4525951,Sunlyst,FR,70803429139606,
-100.0,645.0,Python3,1680172110009,5345059,nicolaz74141,US,,
 100.0,645.0,Python3,1680172110009,5403355,Igorrrrrrr,PL,,
+100.0,645.0,Python3,1680172110009,5345059,nicolaz74141,US,,
 100.0,645.0,Python3,1680172350002,1450879,Zela,DE,,
 100.0,645.0,Python3,1680172530014,5366059,amirIsAmazing,US,99621864833283,
 100.0,645.0,Python3,1680172670007,5368039,,MN,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,740.0,C++,1703296966252,4866094,Peken-bower,MA,116810648950720,
 100.0,744.0,C++,1680796119793,4058636,HMMD,MA,82997865263742,
 100.0,747.0,Python3,1680172290007,2578701,Itamar2,IL,,
-100.0,748.0,Ruby,1680172530014,3850047,Brookiz,FR,103402002868436,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9000|time=2024-02-01T04:09:19
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9005|time=2024-02-02T04:07:59
 100.0,65.0,Perl,1700968265634,1537792,AsaiYusuke,US,41785380851985,
 100.0,65.0,Bash,1700968343813,1537792,AsaiYusuke,US,41785380851985,
 100.0,66.0,Bash,1687294030558,3380184,chouch,FR,,
@@ -69,6 +69,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,80.0,Perl,1607351267073,3913376,LaurentValade,FR,47390627049317,
 100.0,80.0,Ruby,1616235605272,4095128,Voltmachine,BG,56919066754571,
 100.0,80.0,Groovy,1679432312265,3380184,chouch,FR,,
+100.0,80.0,Perl,1706779196349,4806550,Rafarafa,ES,80946308795008,
 100.0,81.0,Ruby,1559510991929,1193408,DoubleZeroSteph,FR,3015400557516,
 100.0,81.0,Ruby,1674910968198,4438505,Eric_[EGU],FR,114044329618574,
 100.0,82.0,Ruby,1553538705080,334009,abouvier,FR,4681436111242,
@@ -98,6 +99,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,83.0,Ruby,1699201892669,154806,piwai,FR,1956863959967,
 100.0,83.0,Ruby,1701901528098,4933756,ILoveTaleb,US,,
 100.0,83.0,Ruby,1702817932334,1917961,Seoman,FR,,
+100.0,83.0,Ruby,1706783048504,4806550,Rafarafa,ES,80946308795008,
 100.0,84.0,Bash,1600960914214,1584802,emh,NO,8880348453118,
 100.0,84.0,Perl,1616315179096,230015,Kolo9,US,92531443665208,
 100.0,84.0,Perl,1624691088821,1324974,ViktorCs,HU,4515823207881,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,120.0,Python3,1619700774235,2671038,1one,RU,19327450927528,
 100.0,120.0,Python3,1621348422998,4309574,KornDV,CA,63044782408453,
 100.0,120.0,Python3,1621786788575,2488317,Morcifer,NL,17597466270749,
-100.0,120.0,Python3,1625824698259,4410658,airoman,MX,,
-100.0,120.0,Ruby,1628963602732,2813793,itsjustfreekie,NL,69079046675702,

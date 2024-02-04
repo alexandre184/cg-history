@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=502|time=2024-02-03T04:06:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=503|time=2024-02-04T04:06:57
 100.0,65.0,TypeScript,1696274994162,4966586,Rohydre,FR,,
 100.0,68.0,TypeScript,1680247326490,4341304,Remi.,FR,97662026388574,
 100.0,74.0,TypeScript,1680709028120,4438505,Eric_[EGU],FR,114044329618574,
@@ -218,6 +218,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,200.0,TypeScript,1663323620595,5066309,SIR-EBI,AT,106824366128074,
 100.0,202.0,TypeScript,1609658656373,936472,Cheecken,US,13041003181527,
 100.0,202.0,TypeScript,1621319118762,3184844,Jojordinateur,FR,54796462606401,
+100.0,202.0,TypeScript,1706956225538,1519311,Doran,SK,82529023491718,
 100.0,204.0,TypeScript,1572986619228,3531488,Dryadim,FR,35488801936304,
 100.0,205.0,TypeScript,1644801117607,1467771,Telokis,FR,52513387742977,
 100.0,206.0,TypeScript,1675126676797,2241476,JoMoove,FR,63872144689748,
@@ -229,7 +230,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,209.0,TypeScript,1614792217032,3922731,Dartisan,LU,101995908419116,
 100.0,209.0,TypeScript,1694154567543,5698505,ivan33,FR,,
 100.0,210.0,TypeScript,1683458008134,5460947,e-Baloo,FR,103825865551732,
-100.0,210.0,TypeScript,1705733275807,1519311,Doran,SK,82529023491718,
 100.0,211.0,TypeScript,1695821101703,5351392,JuLLEreman,FR,112253223403191,
 100.0,215.0,TypeScript,1645763218648,3304110,MathieuSoysal,FR,29374123419027,
 100.0,215.0,TypeScript,1648618860660,4622506,Hypnosphere,FR,74068766457727,
@@ -301,6 +301,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,378.0,TypeScript,1671683079414,5252412,Heber_Alturria,AR,,
 100.0,382.0,TypeScript,1695802218733,5728089,milonte,FR,,
 100.0,404.0,TypeScript,1689894917863,4837867,Ghiles-H,FR,,
+100.0,404.0,TypeScript,1706977707098,2373953,Dridriun,FR,64609504937617,
 100.0,411.0,TypeScript,1700833335679,4072039,Dexox,DE,70536680652856,
 100.0,412.0,TypeScript,1693838215086,4851253,Artemis_Mirage,FR,105350043539912,
 100.0,445.0,TypeScript,1678122658409,5270446,muddymatts,AR,,

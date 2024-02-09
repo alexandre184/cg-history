@@ -1,8 +1,8 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=101|time=2024-02-08T04:07:20
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=101|time=2024-02-09T04:07:21
 6,33.35,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,31.54,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,31.29,Clojure,1480636657283,850106,1674411,Boze,CA,,
-5,30.37,Clojure,1472915116380,650397,951363,agent[j],US,5505013487233,
+5,30.31,Clojure,1472915116380,650397,951363,agent[j],US,5505013487233,
 5,28.27,Clojure,1492911406483,1199530,1390607,Ivan_Derzhylo,UA,67601821029462,
 5,28.07,Clojure,1651499729398,4248413,4867897,pm4r,PL,,
 5,25.3,Clojure,1530925432896,1942199,1016791,Dalhai,CH,,
@@ -56,7 +56,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,15.43,Clojure,1600730547148,3104773,3096912,Picani,FR,,
 3,15.22,Clojure,1500079023088,1397518,2010816,Shoyu,JP,,
 3,15.04,Clojure,1473620563574,659920,1521604,logc,ES,,
-3,14.87,Clojure,1543008882987,2138287,3007544,hessu,FI,,
+3,14.79,Clojure,1543008882987,2138287,3007544,hessu,FI,,
 3,14.74,Clojure,1612461321222,3418013,3540066,geek13,FR,,
 3,14.47,Clojure,1619412884020,3517896,2026441,artur.zabeyvorota,NO,,
 3,14.45,Clojure,1569012441848,2494786,2163395,umiki,HU,,
@@ -82,7 +82,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,8.25,Clojure,1525741707286,1845778,2043161,cantido,US,13147824263518,
 3,3.41,Clojure,1466035041315,499399,1428969,Cpt.Kolute,DE,4673151121497,
 3,-3.05,Clojure,1494189572401,1225943,1007647,NagMacFeegle,DE,,
-2,16.36,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
+2,16.28,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
 2,16.14,Clojure,1466243856474,502190,1470126,Menschenkindlein,UA,,
 2,15.91,Clojure,1466657314565,508524,1473738,JonathanBristow,US,,
 2,15.24,Clojure,1475256776076,733540,1069512,ClashTheBunny,US,,

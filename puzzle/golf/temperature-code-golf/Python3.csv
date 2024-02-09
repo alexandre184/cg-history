@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8545|time=2024-02-08T04:07:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8545|time=2024-02-09T04:07:21
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -425,6 +425,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,69.0,Python3,1687958497419,5271147,yoch,IL,96235642204607,
 100.0,69.0,Python3,1689521522017,2819076,moustique,FR,21175540697213,
 100.0,69.0,Python3,1690976468701,3965571,Smekarn,SE,50557362213985,
+100.0,69.0,Python3,1707389485384,1294876,Driikolu,FR,3794653646628,
 100.0,70.0,Python3,1454072921303,1201783,qsantos,FR,3181778176261,
 100.0,70.0,Python3,1454319912819,233734,Delgan,FR,2425294393314,
 100.0,70.0,Python3,1454360693590,1237668,lezeroq,BY,3317932257080,
@@ -667,6 +668,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,72.0,Python3,1680970031667,5409516,TomTom37,FR,101749106508586,
 100.0,72.0,Python3,1681574833385,4046678,N9798,FR,54248748207130,
 100.0,72.0,Python3,1686053787657,3804618,MiniWall,BE,44160982245284,
+100.0,72.0,Python3,1707383702746,5744219,shakeyboy,ZA,112975060815728,
 100.0,73.0,Python3,1455366085006,1298532,shrumo,PL,,
 100.0,73.0,Python3,1462862198831,153678,dknn,FR,,
 100.0,73.0,Python3,1466185862008,1273026,BenZubrow,FR,3462241882844,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,75.0,Python3,1600622293284,3982537,BarBZ,IL,50476382622465,
 100.0,75.0,Python3,1602599427785,1495694,MisterJensen,FR,51391581868539,
 100.0,75.0,Python3,1604500288212,2377428,Neinaps,FR,,
-100.0,75.0,Python3,1604837823606,888898,helgui,RU,22560718540069,
-100.0,75.0,Python3,1605085961869,2012297,Maksim1744,RU,48776240257553,

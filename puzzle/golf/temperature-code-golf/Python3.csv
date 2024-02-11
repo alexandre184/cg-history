@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8550|time=2024-02-10T04:07:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8551|time=2024-02-11T04:08:24
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -361,6 +361,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,68.0,Python3,1703779176841,1658172,Jnath,FR,117043408685180,
 100.0,68.0,Python3,1704042891369,2445835,..--..,RU,,
 100.0,68.0,Python3,1707524855205,181432,ltklopez,BR,117784021599489,
+100.0,68.0,Python3,1707563262383,936495,LittleCrow,US,1852341854082,
 100.0,69.0,Python3,1454073938211,638784,Yqnn,FR,2711674975713,
 100.0,69.0,Python3,1456152448953,971044,PJ_127,FR,,
 100.0,69.0,Python3,1459513631845,1128268,DubZzz,FR,4053201483190,
@@ -488,7 +489,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,70.0,Python3,1673947753600,4708154,Skiks,FR,83312968267653,
 100.0,70.0,Python3,1674076965816,1079586,RaghulRavichandran,IN,,
 100.0,70.0,Python3,1679002583936,3713253,zteffano,DK,107572721282082,
-100.0,70.0,Python3,1681270451388,936495,LittleCrow,US,1852341854082,
 100.0,70.0,Python3,1681283700940,3647844,rc95401,US,39486169555819,
 100.0,70.0,Python3,1685203647158,956421,Antoinissimo,CH,1810134172434,
 100.0,70.0,Python3,1686131469806,4806550,Rafarafa,ES,80946308795008,
@@ -948,6 +948,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,74.0,Python3,1704171135638,4756200,tueda,JP,,
 100.0,74.0,Python3,1706368325043,3461753,oidrissi,MA,82537028208664,
 100.0,74.0,Python3,1706807019899,4491402,bregneau,FR,95353269150105,
+100.0,74.0,Python3,1707586759883,5807573,Stephen,US,,
 100.0,75.0,Python3,1459339779431,1336138,wyrdoe,GB,3842558689204,
 100.0,75.0,Python3,1460043971891,1380873,vks,CZ,,
 100.0,75.0,Python3,1461943628443,1341520,egaetan,FR,21055353954161,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,75.0,Python3,1600622125478,3677764,matrak091,IL,,
 100.0,75.0,Python3,1600622293284,3982537,BarBZ,IL,50476382622465,
 100.0,75.0,Python3,1602599427785,1495694,MisterJensen,FR,51391581868539,
-100.0,75.0,Python3,1604500288212,2377428,Neinaps,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5868|time=2024-02-18T04:07:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5871|time=2024-02-19T04:07:42
 100.0,150.0,Java,1641243961646,1483723,d-s-x,RU,4980051025170,
 100.0,156.0,Java,1644595215087,4341304,Remi.,FR,97662026388574,
 100.0,161.0,Java,1644706778532,1023075,Naro,DZ,2072711628218,
@@ -28,6 +28,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,239.0,Java,1508145126613,1357614,OptiPanda,FR,25029501539760,
 100.0,240.0,Java,1430340118000,890123,Nasire,FR,,
 100.0,240.0,Java,1489271173079,558770,lD,FR,7979637651523,
+100.0,240.0,Java,1708280077282,4014801,Warred,FR,51775728991504,
 100.0,241.0,Java,1604835932383,4048107,SimonPrins,NL,53691062350865,
 100.0,241.0,Java,1678121552207,5191042,Saphir123,FR,102291860878516,
 100.0,241.0,Java,1684768577786,2315158,luigi_gelato,DE,,
@@ -650,7 +651,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,303.0,Java,1543025816805,2997715,jota87r,CO,,
 100.0,303.0,Java,1597200445283,3931362,BenjaminA,US,,
 100.0,303.0,Java,1603123897024,3922983,Steenall,FR,,
-100.0,303.0,Java,1603629573325,4014801,Warred,FR,51775728991504,
 100.0,303.0,Java,1610558763202,1041110,goretexguy,US,,
 100.0,303.0,Java,1614720521521,3922731,Dartisan,LU,101995908419116,
 100.0,303.0,Java,1619694215034,4293777,,AT,,
@@ -978,6 +978,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,320.0,Java,1680774768515,5365556,kanelugodeu,FR,,
 100.0,320.0,Java,1681126885539,4695112,Maxime01,RO,76921182601493,
 100.0,320.0,Java,1683127248327,4068951,Kiks,FR,,
+100.0,320.0,Java,1708270082069,5965850,Johann,FR,,
 100.0,321.0,Java,1436069846426,966625,gaffyus,SG,,
 100.0,321.0,Java,1455695815078,1297312,Sephrenya,FR,18351795535773,
 100.0,321.0,Java,1468055240566,1486575,,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,322.0,Java,1460722624012,1384912,uSf,FR,4109067152505,
 100.0,322.0,Java,1465969045091,1215395,Javatlacati,MX,3119131971329,
 100.0,322.0,Java,1467541164614,1173078,Korangar,FR,,
-100.0,322.0,Java,1475680648752,1637594,Saracens,TR,7559166445586,

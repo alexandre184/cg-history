@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1838|time=2024-02-21T04:07:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1838|time=2024-02-22T04:07:12
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,martin,CA,1761380964089,
 100.0,70.0,Javascript,1627600247434,155774,dwarfie,FR,17785582865119,
@@ -497,6 +497,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,177.0,Javascript,1604494675588,4013791,LTNightshade,DE,52126062565051,
 100.0,177.0,Javascript,1623959282949,4308802,Ascodran,FR,63699964010463,
 100.0,177.0,Javascript,1673743197873,4732111,yu5uf,FR,84680506084569,
+100.0,177.0,Javascript,1708531044135,5941956,Engions,FR,119163365987484,
 100.0,178.0,Javascript,1436268621491,906002,Artur,RU,1816203553637,
 100.0,178.0,Javascript,1450633102747,1169220,Indobiany,RU,2849621315733,
 100.0,178.0,Javascript,1501882388666,1495642,AtomCrafty,DE,5134929486180,
@@ -766,7 +767,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,198.0,Javascript,1683832911989,5463426,Terry.D,FR,103882283439492,
 100.0,198.0,Javascript,1693444155377,1016299,ricardonunesdev,PT,3672394129984,
 100.0,198.0,Javascript,1697746549027,3444401,Marcika,HU,32602969709179,
-100.0,198.0,Javascript,1707733800491,5941956,Engions,FR,119163365987484,
 100.0,199.0,Javascript,1438298203485,221573,TiTi,FR,63573243211328,
 100.0,199.0,Javascript,1446451336669,1095446,tarbomb,FR,83100206722923,
 100.0,199.0,Javascript,1596541220172,894599,DidierC,FR,1756298465824,
@@ -866,7 +866,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,210.0,Javascript,1434922490246,934786,zsirlol,HU,1779561892554,
 100.0,210.0,Javascript,1472828723942,1044898,Shen,FR,5606985629881,
 100.0,210.0,Javascript,1524605752625,2534685,payns75,FR,,
-100.0,210.0,Javascript,1543317560216,1360294,otk2,FR,5795821467245,
+100.0,210.0,Javascript,1543317560216,1360294,otk,FR,5795821467245,
 100.0,210.0,Javascript,1572501877285,1588777,ClemC,FR,35766566727043,
 100.0,210.0,Javascript,1707683769439,3471887,sonik91,FR,59533080769099,
 100.0,211.0,Javascript,1437177136534,976022,Caribou,MT,1876737372412,

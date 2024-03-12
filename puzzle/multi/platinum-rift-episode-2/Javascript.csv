@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=123|time=2024-03-11T04:07:58
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=123|time=2024-03-12T04:07:47
 ,43.05,Javascript,1422265871596,253398,789003,Sharcoux,FR,,
 ,40.32,Javascript,1519836192706,1675147,730425,JeffDownie,GB,,
 ,39.87,Javascript,1440159634281,313946,933976,gx,LT,,
@@ -26,10 +26,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,24.36,Javascript,1422267667909,259386,622674,Strat0,FR,1732644841703,
 ,24.36,Javascript,1493481155833,1217542,1106797,abossi,FR,,
 ,23.07,Javascript,1481460074506,882885,1179357,avdg,BE,28437229401065,
-,22.94,Javascript,1474897688972,708181,904011,reserford,RU,,
+,23.06,Javascript,1474897688972,708181,904011,reserford,RU,,
 ,22.75,Javascript,1479491646435,800228,629655,Wolden-Dans,FR,3653109390599,
-,22.61,Javascript,1494430971520,1230597,1848087,Morahk,FR,22300976926940,
 ,22.58,Javascript,1462486376011,443512,1393911,neal_s,US,13162519781744,
+,22.52,Javascript,1494430971520,1230597,1848087,Morahk,FR,22300976926940,
 ,22.49,Javascript,1420041669933,255448,153925,peb73,FR,,
 ,21.44,Javascript,1422029469740,247397,810201,xathis,DE,11181800616978,
 ,20.77,Javascript,1459502945333,414200,229798,francoisvasnier,FR,12129799024785,
@@ -114,8 +114,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.62,Javascript,1511914505327,1575258,859523,jukimv1986,ES,7683034960632,
 ,0.62,Javascript,1467736577133,573119,1263825,Rayan909,FR,12092375859384,
 ,0.61,Javascript,1418763097302,247170,702904,PabloHenrick,BR,,
-,0.57,Javascript,1443375845712,322052,835032,JoepSuijkerbuijk,NL,,
 ,0.57,Javascript,1430059374652,303160,903368,Filip,SE,,
+,0.56,Javascript,1443375845712,322052,835032,JoepSuijkerbuijk,NL,,
 ,0.56,Javascript,1418836451759,259390,670484,,CA,,
 ,0.54,Javascript,1453481848803,370412,1256282,Death324,US,,
 ,0.51,Javascript,1430501926386,303684,864141,Kostja,UA,,

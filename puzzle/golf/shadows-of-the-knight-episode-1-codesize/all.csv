@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2702|time=2024-03-16T04:07:09
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2704|time=2024-03-17T04:08:03
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -494,6 +494,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,236.0,Python3,1681287407189,3729666,peerdb,NL,93424367328637,
 100.0,236.0,Dart,1683479549677,4341304,Remi.,FR,97662026388574,
 100.0,236.0,PHP,1683750778323,155881,Xeger,CH,104405127658237,
+100.0,236.0,Javascript,1710620346983,5868912,[alx],FR,116460107289435,
 100.0,237.0,C,1685900744775,4620106,lonequantum,FR,73903248957664,
 100.0,237.0,ObjectiveC,1685900787869,4620106,lonequantum,FR,73903248957664,
 100.0,237.0,Python3,1689426469619,3377745,AliceVol,FR,108488081454028,
@@ -791,6 +792,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,338.0,Lua,1699049021885,3992550,foreign,FR,50980824286436,
 100.0,338.0,C,1705066773500,4940293,ThanatosCG,FR,118339406750155,
 100.0,338.0,PHP,1705916914478,4638323,QuentinR54,FR,,
+100.0,338.0,C#,1710611891819,5868912,[alx],FR,116460107289435,
 100.0,340.0,Python3,1688487095220,4924788,ruffaye,FR,,
 100.0,340.0,C++,1698075673599,3327739,bissaka,NE,71315867386072,
 100.0,340.0,C++,1698309910115,4213251,FrancisTafe,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,546.0,C#,1697482446479,5742688,BeauBlue,RO,112705548709002,
 100.0,547.0,TypeScript,1705830958591,3665485,Kabhs,FR,75434721329853,
 100.0,550.0,Javascript,1682079664416,5219683,yzkodot,PH,94788441284923,
-100.0,550.0,Python3,1702143652409,5852911,Minervus00,BF,,
-100.0,555.0,Javascript,1703362247998,5844236,Eni,GB,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=602|time=2024-03-17T04:08:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=603|time=2024-03-18T04:07:37
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
 100.0,157.0,C++,1683451432414,2077805,bamilan,HU,,
@@ -338,6 +338,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,250.0,Python3,1690277083029,5291293,Vitness,RU,96928188242610,
 100.0,251.0,Javascript,1686438910269,5524405,lulito,ES,106522528700711,
 100.0,251.0,C#,1695216974301,1599187,LoremIpsum,FR,6798614464119,
+100.0,251.0,Python3,1710733332900,2802293,KarimGehad,MA,110740303513666,
 100.0,252.0,Python3,1680618414153,5365388,Floflo-Rigolo,FR,99683184562314,
 100.0,253.0,Python3,1709799962419,231653,kappy,FR,,
 100.0,254.0,C++,1703158319574,5690407,PuffyPigeon,MA,113077981230890,
@@ -478,6 +479,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 94.0,552.0,C++,1696617611010,5708087,TheMrH,DE,,
 94.0,686.0,Python3,1686336502769,1799001,eddernstein,FR,,
 94.0,913.0,Python3,1690808684205,5424574,gerbal,US,102310403702080,
+94.0,915.0,Javascript,1710670762506,5878345,Tai Tetsuyuki,FR,119818507708940,
 94.0,990.0,Python3,1699620865375,5776736,much2learn,FR,,
 90.0,687.0,Python3,1690665059992,2061467,MTL_YUL,CH,13619519201921,
 90.0,700.0,C++,1683474523432,4447108,MonkeyFeathers,NL,68439965851242,
@@ -487,7 +489,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 88.0,238.0,C#,1693569637679,1209476,Mandalo,FR,3070195563417,
 88.0,416.0,C++,1709732122942,5961623,Valo-P,FR,119229262480999,
 88.0,537.0,Javascript,1682253704815,4781324,HamzaM3,FR,89435125621405,
-88.0,916.0,Javascript,1710374393160,5878345,Tai Tetsuyuki,FR,119818507708940,
 86.0,631.0,C#,1693391163169,3797273,Pepito63,FR,44052520565453,
 86.0,653.0,PHP,1710536856428,6006748,eltren,ES,,
 86.0,889.0,C++,1707593350687,5954874,jotalamp,FI,,

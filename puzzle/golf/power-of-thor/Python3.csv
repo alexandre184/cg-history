@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11486|time=2024-03-18T04:07:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11492|time=2024-03-19T04:07:42
 100.0,52.0,Python3,1691951493222,2928146,LolCat,MU,22538133010433,
 100.0,62.0,Python3,1691074822468,4966586,Rohydre,FR,,
 100.0,71.0,Python3,1665429820381,3845610,pardouin,FR,60364063762936,
@@ -381,7 +381,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,112.0,Python3,1639163079810,3937043,Jaek,DZ,48656186648228,
 100.0,112.0,Python3,1646110327139,3514975,PhuRiNaT,TH,97597367576293,
 100.0,112.0,Python3,1653304532237,3187543,JustATree,GB,25297892462623,
-100.0,112.0,Python3,1658696425520,4763549,BlaiseEbuth,FR,107059760127848,
+100.0,112.0,Python3,1658696425520,4763549,BlaiseEbuth_,FR,107059760127848,
 100.0,112.0,Python3,1676732007422,5334853,Qessers,FR,,
 100.0,112.0,Python3,1680363380060,4270882,[ron],GB,,
 100.0,112.0,Python3,1681896412541,5300766,jddingemanse,ET,98376709796567,
@@ -664,6 +664,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,116.0,Python3,1660374719131,1348635,ferbos,FR,96159860267051,
 100.0,116.0,Python3,1660425158538,4639401,Citrate_Bios,MA,74567982358690,
 100.0,116.0,Python3,1661895024250,4994436,ldvcgllm,BE,,
+100.0,116.0,Python3,1662292658059,893541,wala,FR,97577641170180,
 100.0,116.0,Python3,1663331074923,5066309,SIR-EBI,AT,106824366128074,
 100.0,116.0,Python3,1663851517382,3138357,QzL,FR,24760409517282,
 100.0,116.0,Python3,1664120373410,3646346,Pingwi85,FR,39451600730667,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,122.0,Python3,1692115967909,5576111,Xwaler,FR,107317105771413,
 100.0,123.0,Python3,1432127276000,879928,Vinze7,FR,,
 100.0,123.0,Python3,1446564030054,1132076,Ming,HK,,
-100.0,123.0,Python3,1479284942383,1639807,kubked,PL,9601040293335,

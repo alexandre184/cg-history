@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8662|time=2024-03-25T04:08:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8665|time=2024-03-26T04:07:21
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -326,7 +326,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,68.0,Python3,1637930342317,1999741,hytak,NL,,
 100.0,68.0,Python3,1638303390127,4623285,LazyBadger,FR,74923761303345,
 100.0,68.0,Python3,1639667915888,4645607,TikiMatt,FR,,
-100.0,68.0,Python3,1639928683510,4537924,ArtesScytale,BE,,
+100.0,68.0,Python3,1639928683510,4537924,ArtesScytale,BE,121331549433012,
 100.0,68.0,Python3,1641556963804,4477724,Mitarano,DE,69546202548195,
 100.0,68.0,Python3,1642166901976,4543172,Stik_sans_le_C,FR,72041029474638,
 100.0,68.0,Python3,1643712717550,3214044,ErnestBidouille,FR,25557609590557,
@@ -367,6 +367,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,68.0,Python3,1707563262383,936495,LittleCrow,US,1852341854082,
 100.0,68.0,Python3,1708014218174,2432041,Genarog,FR,25785279156535,
 100.0,68.0,Python3,1708014760287,2569215,burton-aad,FR,,
+100.0,68.0,Python3,1711378113851,4259591,yedi,IT,85062726107842,
 100.0,69.0,Python3,1454073938211,638784,Yqnn,FR,2711674975713,
 100.0,69.0,Python3,1456152448953,971044,PJ_127,FR,,
 100.0,69.0,Python3,1459513631845,1128268,DubZzz,FR,4053201483190,
@@ -814,7 +815,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,73.0,Python3,1654875024460,1660518,cmite,FR,,
 100.0,73.0,Python3,1655075470805,4870604,willbeason,US,82827182662813,
 100.0,73.0,Python3,1655829116418,4567255,leroymilo,FR,72113087785760,
-100.0,73.0,Python3,1655908745792,4259591,yedi,IT,85062726107842,
 100.0,73.0,Python3,1655909562286,4958882,__Wrye__,IS,,
 100.0,73.0,Python3,1657024735045,4888782,odaxav,FR,94478025275138,
 100.0,73.0,Python3,1657629914342,4414812,S_A,GB,87008685446398,

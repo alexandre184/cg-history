@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11522|time=2024-03-25T04:08:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=11526|time=2024-03-26T04:07:21
 100.0,52.0,Python3,1691951493222,2928146,LolCat,MU,22538133010433,
 100.0,62.0,Python3,1691074822468,4966586,Rohydre,FR,,
 100.0,71.0,Python3,1665429820381,3845610,pardouin,FR,60364063762936,
@@ -543,7 +543,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,115.0,Python3,1630933842048,4484234,PolentaEater,IT,73425564241166,
 100.0,115.0,Python3,1632048339196,1409837,Meepophobia,AM,10971156445796,
 100.0,115.0,Python3,1633039537022,1784266,Harmaguedon,FR,10328445690157,
-100.0,115.0,Python3,1638558873730,4537924,ArtesScytale,BE,,
+100.0,115.0,Python3,1638558873730,4537924,ArtesScytale,BE,121331549433012,
 100.0,115.0,Python3,1644161553769,3420816,Floth,AU,31647122910092,
 100.0,115.0,Python3,1652523992657,4589241,Setra022,FR,107592209257167,
 100.0,115.0,Python3,1652744004489,3647844,rc95401,US,39486169555819,
@@ -569,6 +569,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,115.0,Python3,1704917500765,2432041,Genarog,FR,25785279156535,
 100.0,115.0,Python3,1705599680603,2569215,burton-aad,FR,,
 100.0,115.0,Python3,1710862581337,899805,Raizel,US,119528960848968,
+100.0,115.0,Python3,1711395869779,6017708,ChetBuddy,FR,120956362813399,
 100.0,116.0,Python3,1445522965997,1111689,Rogor,FR,,
 100.0,116.0,Python3,1452753876469,1233319,TravisTerry,US,,
 100.0,116.0,Python3,1477838859852,1151202,Lexin,RU,7693102783606,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,122.0,Python3,1667924242901,4626693,Desired,FR,91237144983342,
 100.0,122.0,Python3,1684925967227,2651233,arthurverrez,FR,104646100834460,
 100.0,122.0,Python3,1685193508627,2819076,moustique,FR,21175540697213,
-100.0,122.0,Python3,1692115967909,5576111,Xwaler,FR,107317105771413,

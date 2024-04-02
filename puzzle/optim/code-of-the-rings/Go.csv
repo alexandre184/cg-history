@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=98|time=2024-04-01T04:08:06
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=100|time=2024-04-02T04:08:00
 100.0,3428.0,Go,1616680928633,1952778,blast_beat,US,75539748345771,
 100.0,3833.0,Go,1540220249075,622213,Ornicare,FR,15812528520376,
 100.0,4290.0,Go,1435656817855,155868,bvaudour,FR,2001001015607,
@@ -65,6 +65,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,10061.0,Go,1668261397859,4508244,Yanun,TW,105808429125875,
 100.0,10097.0,Go,1463608801613,1316807,Edwardadd,GB,12355913786943,
 100.0,10892.0,Go,1435839099939,960245,zoulga,FR,1839982969561,
+100.0,11404.0,Go,1711981658805,4878817,nyurq,FR,,
 100.0,11489.0,Go,1460712819203,831221,YoonByoungHoon,KR,3823703308439,
 100.0,11489.0,Go,1517953997844,978300,AngryHamster,NL,63531085686360,
 100.0,11489.0,Go,1574087116954,3514077,bidzilya,RU,36941226205405,
@@ -97,3 +98,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,0.0,Go,1689943264127,3081133,PIOneers,FR,92175940249356,
 0.0,0.0,Go,1690976418177,5632220,Ariann,MY,109077505896538,
 0.0,0.0,Go,1698844181156,5785333,hello,ID,,
+0.0,0.0,Go,1712013890195,6034951,,CO,,

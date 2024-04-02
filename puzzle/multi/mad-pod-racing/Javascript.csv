@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=13982|time=2024-04-01T04:08:06
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=13984|time=2024-04-02T04:08:00
 6,33.34,Javascript,1478873279268,792382,1649376,Kujar,FR,7980653749506,
 6,32.92,Javascript,1464940066867,485352,630050,Chulepa,DE,3648993972565,
 6,32.9,Javascript,1697717842542,5081070,4517336,CamilleCamparmoQuatreVingt,FR,,
@@ -426,6 +426,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,1.58,Javascript,1707771908938,5312698,4152047,1HAD,RS,79362924640204,
 5,1.56,Javascript,1658085856020,4396715,4993715,4nth0ny,FR,87266140810414,
 5,1.55,Javascript,1656584485852,4373292,537735,davemime,FR,,
+5,1.54,Javascript,1712017118030,5354598,4146034,Heylee,FR,,
 5,1.52,Javascript,1707771947100,5312721,2075145,Asmodelta,PT,70444704912771,
 5,1.5,Javascript,1681934849729,4801969,5078143,marre94,SE,,
 5,1.47,Javascript,1686773802274,4971386,5189596,Bluelagoon,FR,105537761390623,
@@ -652,6 +653,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,-0.01,Javascript,1619185072534,3514606,3807710,-SC-,FR,57805222966170,
 5,-0.01,Javascript,1583630212065,2697651,3558064,Rencho,FR,36390242496949,
 5,-0.01,Javascript,1540250558040,2105887,1914253,Synoyx,FR,22564762265846,
+5,-0.01,Javascript,1711963114036,5354136,4830542,Ramasama,MG,119535225631443,
 5,-0.02,Javascript,1583554610586,2696812,3642464,aoneill01,US,40744143912092,
 5,-0.02,Javascript,1611235090044,3397476,3540433,Xenophon382,FR,,
 5,-0.02,Javascript,1573880480288,2601952,3036574,OzzzO,LV,35768061662734,
@@ -997,5 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,-3.28,Javascript,1483935654020,915767,1773311,keithriver,RU,10196403440371,
 5,-3.3,Javascript,1484252058547,919463,1773071,melkir,FR,10255097190259,
 5,-3.37,Javascript,1479583043985,801254,1694692,CSBMartin,AU,,
-5,-3.49,Javascript,1480155470501,809560,1579390,Azazeal,AU,,
-5,-3.5,Javascript,1474527637672,685823,1589272,darrylyeo,US,6826201774664,

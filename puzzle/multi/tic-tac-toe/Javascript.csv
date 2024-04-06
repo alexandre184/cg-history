@@ -1,5 +1,5 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=648|time=2024-04-05T04:08:52
-4,21.47,Javascript,1635979456012,3884740,3795745,Soboku,JP,71616261493295,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=648|time=2024-04-06T04:08:00
+4,21.51,Javascript,1635979456012,3884740,3795745,Soboku,JP,71616261493295,
 3,26.26,Javascript,1674505704865,4718501,3629685,Apofils,FR,,
 3,23.08,Javascript,1670756689071,4559638,4399354,PeterRockLife,CZ,66542126092671,
 3,22.72,Javascript,1687690358107,4985367,5558643,trincot,BE,107223468210677,
@@ -519,7 +519,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,14.24,Javascript,1693922188017,5044761,4281197,JM34000,FR,62413620748045,
 0,14.23,Javascript,1661115366287,4429794,4551707,Gfroush,FR,,
 0,14.1,Javascript,1700338451135,5109855,3422147,Cyprom,FR,60876469355244,
-0,13.76,Javascript,1629200100795,3793805,2660559,FinalSanchez,DE,19155126612814,
+0,13.86,Javascript,1629200100795,3793805,2660559,FinalSanchez,DE,19155126612814,
 0,13.75,Javascript,1701278760188,5120759,5799568,Env1,US,,
 0,13.75,Javascript,1691198580072,5023244,5629907,slomotor,CA,109079643419002,
 0,13.73,Javascript,1646060951805,4017253,4760019,MMihalakev,BG,,
@@ -635,6 +635,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,-1.12,Javascript,1630007988447,3803122,4025187,SomoKRoceS,IL,,
 0,-1.33,Javascript,1623263312278,3707375,4036060,King_Coda,US,63698325635472,
 0,-1.46,Javascript,1699426821704,5100013,5707193,Mark_01001010,PH,114150087385242,
+0,-1.49,Javascript,1606126542843,3307100,4049815,Code_G48R13L,SE,,
 0,-1.51,Javascript,1638451964108,3917502,969852,Fixks,FR,,
 0,-1.57,Javascript,1530310587006,1936810,2694886,Kickassdude,US,,
 0,-1.58,Javascript,1690054206923,5010482,5617055,hackerTEO,NG,,
@@ -642,7 +643,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,-1.65,Javascript,1696919898011,5073150,3323580,beicheng112,CN,,
 0,-1.68,Javascript,1682526904933,4808079,5453723,lvndo,US,,
 0,-1.69,Javascript,1698688578831,5091658,5443302,32edfcsc,US,102892305163669,
-0,-1.69,Javascript,1606126542843,3307100,4049815,Code_G48R13L,SE,,
 0,-1.7,Javascript,1545466131573,2196085,2916446,Imsure1200q,PH,45527340374232,
 0,-1.7,Javascript,1691102090244,5021540,5634644,Snop_flop,CM,109125800380191,
 0,-1.7,Javascript,1624218550998,3720159,4396371,fhgdjsfhgdsfjgjhfgksj,AU,,

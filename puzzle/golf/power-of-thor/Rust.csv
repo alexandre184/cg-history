@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=258|time=2024-04-05T04:08:52
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=259|time=2024-04-06T04:08:00
 100.0,131.0,Rust,1679838779568,4438505,Eric_[EGU],FR,114044329618574,
 100.0,143.0,Rust,1644659763436,1654818,tarapitha,EE,79401682508715,
 100.0,150.0,Rust,1641240719305,1483723,d-s-x,RU,4980051025170,
@@ -186,6 +186,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1608.0,Rust,1700999698930,5824599,silence,FR,,
 100.0,1641.0,Rust,1683787008485,3863665,Jacesheck,AU,,
 100.0,1650.0,Rust,1683230354384,2896216,MichaelScholten,NL,,
+100.0,1660.0,Rust,1712369980998,6038000,volgeen,SE,,
 100.0,1691.0,Rust,1618615082813,4279927,zolstein,US,,
 100.0,1696.0,Rust,1697745942132,3914703,BlackGeranium,FR,,
 100.0,1697.0,Rust,1609499829028,4110158,PaperZZ,DE,57706161582476,

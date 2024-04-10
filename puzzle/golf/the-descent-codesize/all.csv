@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3982|time=2024-04-09T04:08:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3987|time=2024-04-10T04:07:34
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -565,6 +565,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,56.0,Python3,1710422559064,4088570,runiformity173,US,95386522701678,
 100.0,56.0,Python3,1710544437735,5949436,bogues,FR,,
 100.0,56.0,Python3,1712066160932,6017708,ChetBuddy,FR,120956362813399,
+100.0,56.0,Python3,1712650311164,4434884,mandriic,UA,100678788871727,
+100.0,56.0,Python3,1712678488223,2408418,Syrihus,FR,33008421157553,
 100.0,57.0,Bash,1680803978005,334009,abouvier,FR,4681436111242,
 100.0,57.0,Javascript,1680921870255,2315623,Lydxn,CA,,
 100.0,57.0,Kotlin,1680946341862,3354337,Westicles,CX,79146641399080,
@@ -643,7 +645,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Python3,1681128195955,5409516,TomTom37,FR,101749106508586,
 100.0,60.0,Javascript,1681167955828,4966586,Rohydre,FR,,
 100.0,60.0,Python3,1681207933977,1641185,Mc_Coucouc,FR,7657115056725,
-100.0,60.0,Python3,1681293462968,2408418,Syrihus,FR,33008421157553,
 100.0,60.0,Perl,1681330476933,4341304,Remi.,FR,97662026388574,
 100.0,60.0,Python3,1681629550419,4293521,AnteCristo,FR,62915763090982,
 100.0,60.0,Python3,1681801422452,1183499,Fortuiteman,FR,102800889986717,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,69.0,Perl,1681044208279,3845610,pardouin,FR,60364063762936,
 100.0,69.0,PHP,1681224451494,3586725,obrozer,FR,38932740061063,
 100.0,69.0,Javascript,1681818639088,4587710,Smetalka,HR,,
-100.0,69.0,TypeScript,1682007078284,4438505,Eric_[EGU],FR,114044329618574,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1482|time=2024-04-09T04:08:51
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1482|time=2024-04-10T04:07:34
 100.0,176.0,Ruby,1700426237714,3380184,chouch,FR,,
 100.0,184.0,Perl,1681817890828,5436334,saito_ta,JP,102476026435385,
 100.0,184.0,Ruby,1695789132178,1429360,comp0zr,US,5127913573349,
@@ -324,6 +324,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,535.0,OCaml,1696364909947,2874091,5DN1L,GB,79633423380001,
 100.0,543.0,PHP,1699281744965,4105586,Django81,FR,56372383523115,
 100.0,547.0,Python3,1680795886937,2166104,LokiaAconit,FR,100515707097461,
+100.0,547.0,Perl,1712695011737,4752660,poulyC,BE,,
 100.0,548.0,Python3,1684517356377,5203926,Octaro,FR,,
 100.0,549.0,Go,1683199890216,3236959,sidyakina,AM,25768652080396,
 100.0,549.0,Python3,1701867815365,4097526,BugM4ker,FR,56304482032588,
@@ -812,7 +813,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1902.0,Python3,1680176560011,3470245,TheCuteMonster,AM,69823346508271,
 100.0,1909.0,Python3,1680176560011,3608871,Kartyn,FR,,
 100.0,1916.0,Python3,1680176440007,2241280,Anthonative,GB,,
-100.0,1919.0,Perl,1680176500010,4752660,poulyC,BE,,
 100.0,1921.0,Python3,1680176630006,4899513,TheOtherNameWasTaken,DE,85032863656818,
 100.0,1925.0,C++,1680176670003,3741491,inverb,PL,,
 100.0,1928.0,C++,1680176740007,2609070,Borkai,HU,76074980289061,
@@ -998,4 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,2428.0,Python3,1680176430005,3036160,ThomasLC,FR,,
 100.0,2430.0,Python3,1680176450004,5140378,presidentaz,AZ,96695988754078,
 100.0,2430.0,Python3,1680176450004,4985868,He_Who_Remains,IN,86921343395320,
-100.0,2430.0,Python3,1680176490007,5135663,Stepheine,FR,92185502012687,
+100.0,2430.0,Python3,1680176490007,5230291,ALI-KHAN,PK,95091540013474,

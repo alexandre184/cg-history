@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=43|time=2024-04-10T04:07:34
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=43|time=2024-04-11T04:07:35
 6,20.35,OCaml,1622576228720,3697112,925695,Boulet,FR,29121141951376,
 6,19.89,OCaml,1557821593198,2356720,2639926,PROF-LIV,FR,28512627154203,
 6,5.15,OCaml,1517608196279,1646718,2308590,teluob,FR,,
@@ -40,5 +40,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,14.23,OCaml,1557127114274,2349457,3337400,MPSI-LIV_Alex_Balthazar,FR,,
 0,2.26,OCaml,1561043457573,2426916,3337410,MPSI-LIV-WOAF,FR,28452623152906,
 0,2.21,OCaml,1557129843889,2349617,3337474,MPSI-LIV-xXxDarkBalthazarxXx,FR,,
-0,2.07,OCaml,1557693397728,2355626,3344690,MPSI2_Come,FR,,
-0,2.04,OCaml,1557129652926,2349610,3337470,MPSI-LIV-FRITEAU,FR,,
+0,2.16,OCaml,1557129652926,2349610,3337470,MPSI-LIV-FRITEAU,FR,,
+0,2.09,OCaml,1557693397728,2355626,3344690,MPSI2_Come,FR,,

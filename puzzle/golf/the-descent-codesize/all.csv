@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4020|time=2024-04-18T04:07:38
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4026|time=2024-04-19T04:07:45
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -871,7 +871,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,64.0,Javascript,1706197618414,1706476,Maboul95,FR,9338051370545,
 100.0,64.0,Python3,1706426973457,5801810,Silver,VN,,
 100.0,64.0,Python3,1707398196977,5780737,errmakov,RS,113761240462179,
-100.0,64.0,Python3,1708864047194,5946640,Frozen Owl,PL,118818242036589,
+100.0,64.0,Python3,1708864047194,5946640,Frozen Owl,PL,122448440491717,
 100.0,64.0,Python3,1709246617114,4145968,PLOTFINDER,FR,,
 100.0,64.0,Python3,1710235602424,2108962,DeveauP,FR,18954230009382,
 100.0,64.0,Python3,1710577629848,5931095,NuGgEt Mintsa,MG,119735221978835,
@@ -971,6 +971,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,67.0,Javascript,1709214631027,818780,Boris-Bodin,FR,121565300781109,
 100.0,67.0,Python3,1711221074590,4168824,Astrog92,FR,,
 100.0,67.0,Python3,1711799242841,5732885,M0nad,FR,118008525917824,
+100.0,67.0,Python3,1713472225455,2438514,davi_bart,IT,16905477283014,
 100.0,68.0,Javascript,1680863986534,158495,Cr3aHal0,FR,11235124705354,
 100.0,68.0,Javascript,1680988215114,4263196,yechielv,IL,87806028604243,
 100.0,68.0,PHP,1681602622477,4440854,Philippe.Chaissac,FR,101252441778129,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,68.0,Javascript,1701482812833,3567442,jS,CA,51347348008698,
 100.0,68.0,Python3,1702386748335,1375847,Gome,FR,,
 100.0,68.0,Python3,1705230572695,5245865,c_kerampran,FR,,
-100.0,68.0,Python3,1708683129976,4731505,Raulsm03,ES,94353146206938,

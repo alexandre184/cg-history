@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2833|time=2024-04-23T04:07:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2836|time=2024-04-24T04:07:47
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -256,6 +256,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,191.0,TypeScript,1684538100444,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,191.0,D,1687496836047,5429383,Tatur2000,FR,102119084943733,
 100.0,191.0,Python3,1690382496433,5456790,Lauriano,FR,,
+100.0,191.0,Python3,1713864798473,3561475,pthebaul,FR,36518828980023,
 100.0,192.0,Python3,1682384122156,3647844,rc95401,US,39486169555819,
 100.0,192.0,Bash,1683292474162,154806,piwai,FR,1956863959967,
 100.0,192.0,Python3,1686594071124,865548,Kktus,FR,95659128943351,
@@ -405,6 +406,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,213.0,TypeScript,1692617976515,1441239,Dyd,IT,71707560017158,
 100.0,213.0,Python3,1698918543589,5668712,Coco1314,FR,,
 100.0,213.0,Python3,1711161771649,2557590,raaperrotta,US,,
+100.0,213.0,Python3,1713898315886,5211956,VAutom,FR,96197080859640,
 100.0,214.0,TypeScript,1681314359597,1353795,TheCrucial,PL,18581166493021,
 100.0,214.0,Python3,1681894110101,4293521,AnteCristo,FR,62915763090982,
 100.0,214.0,Python3,1690283534053,1382590,Cristiano,ES,7128351616620,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,488.0,Java,1683068302255,5317121,frl44,FR,100011367604464,
 100.0,488.0,Python3,1707208544673,1131085,zakath,CH,,
 100.0,489.0,Java,1681116980539,351062,Neumann,FR,17173563008577,
-100.0,490.0,C#,1681132478929,351062,Neumann,FR,17173563008577,
-100.0,490.0,TypeScript,1683900955518,1284700,LeonardStutzer,DE,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2761|time=2024-05-08T04:06:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2763|time=2024-05-09T04:09:39
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -777,6 +777,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,179.0,C,1709380443320,4037601,Jelafo,DE,,
 100.0,179.0,ObjectiveC,1709380491741,4037601,Jelafo,DE,,
 100.0,179.0,Javascript,1711689465876,3254280,Monbrey,AU,63106200911315,
+100.0,179.0,C#,1715192528486,2735152,PaLaPapaye,FR,,
 100.0,180.0,Python3,1680861496285,2719604,vpoulailleau,FR,43338781560535,
 100.0,180.0,TypeScript,1682265573496,4832181,VisualDev-FR,FR,94025066322906,
 100.0,180.0,Python3,1683967705641,4395739,Andret0701,NO,66481065913422,
@@ -852,7 +853,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,188.0,Python3,1693212860572,272329,Arglanir,FR,3884009540055,
 100.0,189.0,Javascript,1695197213151,4928475,Alexandre_Grld,FR,93455407104021,
 100.0,189.0,Pascal,1697922070200,2874091,5DN1L,GB,79633423380001,
-100.0,189.0,Javascript,1714851978198,6068421,Swimma,US,,
+100.0,189.0,Javascript,1714851978198,6068421,Swimma,US,123323666551478,
 100.0,190.0,C++,1680874853104,5191042,Saphir123,FR,102291860878516,
 100.0,190.0,C#,1682333059423,5191042,Saphir123,FR,102291860878516,
 100.0,190.0,Python3,1693968654911,4902903,DGMar,EC,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,215.0,Groovy,1681855268806,792813,VilBoub,FR,72010225615995,
 100.0,215.0,Python3,1681898954878,1178320,Trunksistor,FR,62480066877864,
 100.0,215.0,C#,1683233986073,1939310,MasterOfUnderscore,PT,81080588549660,
-100.0,215.0,Python3,1684921643636,2341954,BetaCorn,FR,77239068916081,

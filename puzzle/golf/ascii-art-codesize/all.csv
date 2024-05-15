@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2772|time=2024-05-14T04:07:44
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2774|time=2024-05-15T04:08:13
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -239,7 +239,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,125.0,Groovy,1698004846979,2874091,5DN1L,GB,79633423380001,
 100.0,125.0,Python3,1699442318633,3366188,SteveWhite,AU,103448562571878,
 100.0,125.0,Python3,1707143191644,4438822,ludodul,FR,68181920388772,
-100.0,125.0,Python3,1715482365311,6063518,Az9,VN,,
+100.0,125.0,Python3,1715482365311,6063518,Az9,VN,123628927260310,
 100.0,126.0,Javascript,1681379250351,1353795,TheCrucial,PL,18581166493021,
 100.0,126.0,Javascript,1681562154000,5377138,mayan164,BE,99986908407422,
 100.0,126.0,Ruby,1682480388757,4460030,pinetail,JP,72860646030617,
@@ -891,6 +891,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,194.0,Javascript,1696767102225,5104095,Mendrika05,MG,121764583101364,
 100.0,194.0,Javascript,1699008234075,3750985,vexilla72,FR,69788861540753,
 100.0,194.0,C++,1699797669518,481564,mihei,RU,4454400756022,
+100.0,194.0,Ruby,1715723716823,4206982,slempel,US,59982987928921,
 100.0,195.0,Haskell,1682510156877,5191042,Saphir123,FR,102291860878516,
 100.0,195.0,PHP,1685303915881,1348635,ferbos,FR,96159860267051,
 100.0,195.0,Javascript,1703633521226,1113073,IvoRocha,PT,2521937558460,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,214.0,Python3,1696182005629,1274056,BoredKid,FR,116154420608537,
 100.0,214.0,Rust,1699047490061,2874091,5DN1L,GB,79633423380001,
 100.0,214.0,Javascript,1705361104858,1706476,Maboul95,FR,9338051370545,
-100.0,214.0,Python3,1708073203695,4981167,louis_bailly,FR,,

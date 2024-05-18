@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4114|time=2024-05-17T04:08:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4116|time=2024-05-18T04:07:49
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,45599449537807,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -572,7 +572,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,56.0,Python3,1694305377768,4902560,__Cerulean__,US,,
 100.0,56.0,Python3,1695233624151,4319239,-Cile-,FR,63442642187881,
 100.0,56.0,Ruby,1695838351556,3369801,kotDev,US,33745523796751,
-100.0,56.0,Python3,1696792148598,4698040,dhubleur,FR,77082367468855,
+100.0,56.0,Python3,1696792148598,4698040,[CG] dhubleur,FR,77082367468855,
 100.0,56.0,Python3,1697806310449,5211347,Biglover,SE,94664369285909,
 100.0,56.0,Python3,1698100785940,569247,LaurentBouvier,FR,16324240302815,
 100.0,56.0,OCaml,1699396091901,4438505,Eric_[EGU],FR,114044329618574,
@@ -907,6 +907,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,64.0,Python3,1712256349458,4172184,Enr5,US,59264228930973,
 100.0,64.0,Python3,1713814373978,3581724,ffgth,FR,37357984761390,
 100.0,64.0,Javascript,1715759919370,6070943,vetalded,UA,,
+100.0,64.0,Python3,1715969717757,6083788,pelele,MA,123795721642922,
 100.0,65.0,Javascript,1680792268049,5377138,mayan164,BE,99986908407422,
 100.0,65.0,Python3,1680812938922,4632649,username_already_taken,FR,79481081147132,
 100.0,65.0,Javascript,1680965466943,893541,wala,FR,97577641170180,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,67.0,Python3,1698671906317,5735168,SleepingM4ster,FR,,
 100.0,67.0,Javascript,1699048078142,3992550,foreign,FR,50980824286436,
 100.0,67.0,Javascript,1700127857918,5268104,Gesicht,FR,113862942518622,
-100.0,67.0,Bash,1701310030005,1857171,AdamB,PL,11687390029916,

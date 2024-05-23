@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2032|time=2024-05-22T04:08:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2033|time=2024-05-23T04:08:07
 100.0,726490.0,Javascript,1531571480886,1243582,Daugone,BE,19854187179229,
 100.0,705070.0,Javascript,1467823876972,805067,Magus,FR,24623991925371,
 100.0,363530.0,Javascript,1604611174272,3727272,paszo,PL,42451969612660,
@@ -296,6 +296,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,54570.0,Javascript,1615398104986,4147617,DerpyDashie,RU,,
 100.0,54480.0,Javascript,1668877078597,3785996,bitwiseio,DE,43390907176636,
 100.0,54450.0,Javascript,1599515328419,3959792,cynosura,GB,,
+100.0,54370.0,Javascript,1716370804423,5202654,darkDjango,FR,,
 100.0,54310.0,Javascript,1486736831902,220681,remib,FR,,
 100.0,54280.0,Javascript,1578494743435,3313645,tcr,FR,28970347821773,
 100.0,54100.0,Javascript,1475773858377,1521783,forrestone,IT,,
@@ -578,7 +579,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,43700.0,Javascript,1707832417989,5705366,julianomatt,FR,,
 100.0,43680.0,Javascript,1628936293018,4274497,wikedguy,GB,,
 100.0,43570.0,Javascript,1681577844066,5388800,Charly-007,DE,,
-100.0,43390.0,Javascript,1716324034183,5202654,darkDjango,FR,,
 100.0,43360.0,Javascript,1471338935813,1122567,diziaq,RU,5650174828606,
 100.0,43320.0,Javascript,1529224897006,2598688,yshing,HK,19100347855293,
 100.0,43260.0,Javascript,1611293443364,2575020,iDash,US,19404857844850,
@@ -862,6 +862,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,31450.0,Javascript,1687353161629,5089283,Llaurianne,DE,92682625199749,
 100.0,31420.0,Javascript,1480072616586,1672584,m.snytko,BY,8169541497844,
 100.0,31400.0,Javascript,1668712556791,1856237,LeBaguette,FR,12253061677924,
+100.0,31390.0,Javascript,1716408546327,5290569,bberger,FR,,
 100.0,31120.0,Javascript,1607254666849,4074046,TheQuote,NL,54254660022735,
 100.0,31010.0,Javascript,1540736410120,2942998,,FR,,
 100.0,30750.0,Javascript,1450430143162,1186774,Malthael,DE,2963447967810,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,21700.0,Javascript,1552483702005,1126419,seyhen,FR,24204548740158,
 100.0,21700.0,Javascript,1611065516729,1361754,Onitetsu,FR,57796782789756,
 100.0,21700.0,Javascript,1613512356649,4157626,KodFun,TR,97942865426904,
-100.0,21700.0,Javascript,1639499939054,3467356,dgascon,FR,50846982273727,

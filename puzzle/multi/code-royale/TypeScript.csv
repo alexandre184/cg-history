@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=143|time=2024-05-22T04:08:23
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=143|time=2024-05-23T04:08:07
 6,18.75,TypeScript,1622837440402,3701524,2998967,Gilde,FR,62190109872577,
 5,20.82,TypeScript,1591523839171,3006102,3740498,TODO_Slytherin,DE,43744246019681,
 5,18.56,TypeScript,1650008424238,4075275,380805,Xtendz,FR,100694504923582,
@@ -44,9 +44,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,15.97,TypeScript,1601469637502,3114784,3990455,thatlazyfox,AU,50772287268331,
 3,15.92,TypeScript,1591614866340,3007247,2117160,Waterpumpee,DE,,
 3,15.14,TypeScript,1610440702926,3387009,4124401,emrah_akc,TR,57057103925818,
+3,14.98,TypeScript,1610610782253,3389097,4048434,JoneLeong,MY,,
 3,14.93,TypeScript,1578788009333,2647348,1666180,Vrumfon,CA,39208066612729,
 3,14.84,TypeScript,1710194882880,5337890,4758155,AdrianSng,FR,,
-3,14.81,TypeScript,1610610782253,3389097,4048434,JoneLeong,MY,,
 3,14.67,TypeScript,1600610750395,3103075,3973364,r-julien,FR,50104608166752,
 3,14.28,TypeScript,1658177732320,4398262,4991744,coooola,FR,87181924273178,
 3,13.47,TypeScript,1584120525279,2702252,1544537,Noromin,FR,9373490972145,
@@ -129,7 +129,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,8.65,TypeScript,1660659596237,4425105,4792405,NobbinWood,GB,81752800823877,
 1,8.53,TypeScript,1715780328342,5379947,3331855,bdesim,UA,,
 1,5.61,TypeScript,1693768084351,5043400,5224161,TheItsNameless,DE,,
-0,20.82,TypeScript,1674840136208,4722775,5116132,Sidhuko,MX,97488760984422,
+0,20.72,TypeScript,1674840136208,4722775,5116132,Sidhuko,MX,97488760984422,
 0,8.53,TypeScript,1614326985707,3442436,1932218,BamViral,FR,11969526449888,
 0,8.32,TypeScript,1596653490166,3054276,3920703,Teatea,US,,
 0,8.27,TypeScript,1669476415468,4542137,3404368,Manguo,FR,92440602652794,

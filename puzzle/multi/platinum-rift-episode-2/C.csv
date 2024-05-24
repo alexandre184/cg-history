@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=84|time=2024-05-23T04:08:07
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=84|time=2024-05-24T04:08:17
 ,38.74,C,1472774653880,648720,886483,R4N4R4M4,FR,7943435133357,
 ,31.62,C,1475681130785,749417,165690,DrGrognon,FR,53368745752058,
 ,28.69,C,1591817625827,3009698,2582018,KCrown,US,18414580168026,
@@ -65,7 +65,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.57,C,1422290274832,247401,812874,rock,IN,,
 ,0.57,C,1419252471219,254664,608722,ANKUR806,IN,,
 ,0.56,C,1421792727961,254571,809280,bav,TN,,
+,0.56,C,1424567356179,282036,846145,ELMADANY,EG,,
 ,0.56,C,1422165554931,249173,812009,eddo,ID,,
+,0.56,C,1418913297913,253304,590949,vladba,FR,18302212275455,
 ,0.55,C,1419128301381,254468,737651,,DE,,
 ,0.55,C,1421514281684,259375,529275,plvicente,PT,23362079720329,
 ,0.54,C,1424950391349,299120,855758,kid,IN,,
@@ -81,5 +83,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.5,C,1483633341669,912068,999637,dinobogan,FR,61192341763607,
 ,0.5,C,1480009808296,807362,1645337,andrewstvns,ID,9209415094949,
 ,0.49,C,1429545741517,302691,890503,poo,US,,
-,0.49,C,1418913297913,253304,590949,vladba,FR,18302212275455,
-,0.48,C,1424567356179,282036,846145,ELMADANY,EG,,

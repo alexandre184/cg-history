@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2033|time=2024-05-24T04:08:17
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=2033|time=2024-05-25T04:08:06
 100.0,726490.0,Javascript,1531571480886,1243582,Daugone,BE,19854187179229,
 100.0,705070.0,Javascript,1467823876972,805067,Magus,FR,24623991925371,
 100.0,363530.0,Javascript,1604611174272,3727272,paszo,PL,42451969612660,
@@ -23,6 +23,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,142600.0,Javascript,1481530267959,1740189,RBeater,NL,,
 100.0,142600.0,Javascript,1526919333438,1675034,francois,FR,15464459859531,
 100.0,141050.0,Javascript,1450345768875,527749,Pds,FR,4195444247778,
+100.0,136800.0,Javascript,1716561018566,5202654,darkDjango,FR,,
 100.0,134860.0,Javascript,1481492795070,1737611,RPlusPlus,NL,9813637329269,
 100.0,132230.0,Javascript,1669910496714,4081047,Rezhay,FR,54568080107073,
 100.0,121130.0,Javascript,1689135479683,1269372,MooseTard,US,3471517528566,
@@ -228,7 +229,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,56960.0,Javascript,1469366271846,1489853,Rezmodeus,SE,5456754620815,
 100.0,56910.0,Javascript,1450970036499,494602,Bedervet,FR,,
 100.0,56770.0,Javascript,1560930694905,2438065,iter,FI,60213703884300,
-100.0,56760.0,Javascript,1716450253641,5202654,darkDjango,FR,,
 100.0,56740.0,Javascript,1661121240475,5033725,SimpleSimon,US,88687188152407,
 100.0,56660.0,Javascript,1620332190294,3861502,BullaDor,DE,45953805900096,
 100.0,56630.0,Javascript,1512571618630,1738247,PetervdV,NL,9600877925102,
@@ -958,7 +958,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,24880.0,Javascript,1673986290186,3127711,TimmyAndTheLordsOfTheUnderworld,FR,24675766066285,
 100.0,24860.0,Javascript,1534307345047,2514316,CandeAlvarez96,AR,,
 100.0,24860.0,Javascript,1560959972412,3387052,LarryW,,,
-100.0,24860.0,Javascript,1716511133325,5072670,earmuffs,CA,,
+100.0,24860.0,Javascript,1716511133325,5072670,JustinG.,CA,,
 100.0,24840.0,Javascript,1657797569989,4959833,Coced93,NO,87681089020349,
 100.0,24780.0,Javascript,1537973215351,2831344,LukaChassaing,FR,56313703867823,
 100.0,24730.0,Javascript,1705134770771,5789672,max,TW,,

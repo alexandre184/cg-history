@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=28095|time=2024-05-31T04:09:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=28101|time=2024-06-01T04:08:08
 100.0,29.0,Perl,1583420340367,1537792,AsaiYusuke,US,41785380851985,
 100.0,29.0,Perl,1586307156373,334009,abouvier,FR,4681436111242,
 100.0,29.0,Perl,1688507097675,2315623,Lydxn,CA,,
@@ -281,6 +281,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,48.0,Ruby,1697138042752,155774,dwarfie,FR,17785582865119,
 100.0,48.0,Ruby,1704024435274,333934,CrazyMerlyn,IE,20045015439951,
 100.0,48.0,Ruby,1714752696103,4460030,pinetail,JP,72860646030617,
+100.0,48.0,Perl,1717189922583,4122723,Hydrazer,PW,62269304810770,
 100.0,49.0,Ruby,1459725445197,512097,Stilgart,FR,69893904259383,
 100.0,49.0,Perl,1460815220909,154906,JBM,CH,,
 100.0,49.0,Perl,1466358826497,802230,Orabig,FR,1718532341458,
@@ -746,6 +747,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,54.0,Ruby,1701439806693,2914639,RobertWalmsley,US,88868085834439,
 100.0,54.0,Ruby,1702743229694,5859351,Reyn,GB,116154168682948,
 100.0,54.0,Ruby,1705715364462,3904540,Queuebee,NL,46905060497858,
+100.0,54.0,Ruby,1717159705688,5748659,_vcxl,GB,115255146663801,
 100.0,55.0,Perl,1454575977184,490905,lechium06_,PL,1716926865465,
 100.0,55.0,Perl,1457962824504,1211531,ciaojian,IT,3126381962847,
 100.0,55.0,Ruby,1461330987909,513549,y0p,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Javascript,1586749495172,334009,abouvier,FR,4681436111242,
 100.0,60.0,Javascript,1587422299057,3730057,Maxtreme,DE,42314728539566,
 100.0,60.0,Javascript,1587426001743,2837454,Inc_,DE,22024624258996,
-100.0,60.0,Javascript,1590621465340,225875,Leff,US,46674243497438,
-100.0,60.0,Ruby,1595200195540,3866090,Creuz,BR,46348525287569,

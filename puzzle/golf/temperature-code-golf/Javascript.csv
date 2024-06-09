@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3851|time=2024-06-08T04:07:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3851|time=2024-06-09T04:08:10
 100.0,59.0,Javascript,1472563268768,154372,Plopx,FR,7959085736890,
 100.0,59.0,Javascript,1596634256975,3913849,kingKong,FR,,
 100.0,59.0,Javascript,1607253682112,2565497,vladislao,RU,18197468031147,
@@ -458,6 +458,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,66.0,Javascript,1686595296908,5524405,lulito,ES,106522528700711,
 100.0,66.0,Javascript,1687718090238,400712,Freddy-Krueger,IL,44580408074142,
 100.0,66.0,Javascript,1712911529987,4120829,pipebits,MX,121959322622539,
+100.0,66.0,Javascript,1717906232074,6096083,Spoob,RS,,
 100.0,67.0,Javascript,1454105895630,199243,[CG]Nonofr,FR,1715936252943,
 100.0,67.0,Javascript,1454445591973,1195992,NickJammer,FR,,
 100.0,67.0,Javascript,1454629210603,1237668,lezeroq,BY,3317932257080,
@@ -638,7 +639,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,75.0,Javascript,1701253250676,3241188,Sawa974,RE,25802207789172,
 100.0,75.0,Javascript,1716007696028,6070398,Bryan,US,123320067214140,
 100.0,75.0,Javascript,1716473840906,6070943,vetalded,UA,,
-100.0,75.0,Javascript,1717551340152,6096083,Spoob,RS,,
 100.0,76.0,Javascript,1454154139904,1232851,docl,FR,24619215211946,
 100.0,76.0,Javascript,1498868667523,2060079,faud,FR,13488958525291,
 100.0,76.0,Javascript,1508708958963,1639616,Bogdacutu,RO,,
@@ -833,6 +833,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,83.0,Javascript,1655556424785,4394670,virex22,FR,85144240590614,
 100.0,83.0,Javascript,1679577175571,5377138,mayan164,BE,99986908407422,
 100.0,83.0,Javascript,1695454951794,5570813,Maxowy,PL,107096442152158,
+100.0,83.0,Javascript,1717876766542,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,84.0,Javascript,1454083030272,154967,trnsnt,FR,3237137369643,
 100.0,84.0,Javascript,1476771293923,1542430,MattR,PL,6031418039182,
 100.0,84.0,Javascript,1488972559757,1222305,Helicosaurus_Rex,FR,3172365824448,
@@ -952,7 +953,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,88.0,Javascript,1654026366085,4372857,Sirios,BE,67205527942183,
 100.0,88.0,Javascript,1666349397228,4418201,KLM-HEX,TG,,
 100.0,88.0,Javascript,1709129682385,4565079,Marconius,IE,72114421508704,
-100.0,88.0,Javascript,1717023444408,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,89.0,Javascript,1479981757167,827332,Metalshoot,FR,2091918679950,
 100.0,89.0,Javascript,1482506527178,1136521,nadrek,GB,116342389110594,
 100.0,89.0,Javascript,1484331021091,155777,Fab,FR,5119788585410,

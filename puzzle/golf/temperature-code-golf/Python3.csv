@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8845|time=2024-06-10T04:09:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=8850|time=2024-06-11T04:08:46
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -128,7 +128,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,66.0,Python3,1605152759371,3431759,ngxingyu,SG,,
 100.0,66.0,Python3,1619364746497,1939915,Fanfoue,JP,,
 100.0,66.0,Python3,1620822874128,2671038,1one,RU,19327450927528,
-100.0,66.0,Python3,1620936231584,3598201,LiudasStaniulis,LT,58937704207171,
+100.0,66.0,Python3,1620936231584,3598201,LiudasStaniulis,NL,58937704207171,
 100.0,66.0,Python3,1621879255361,4311752,Wondor,DE,124610185936570,
 100.0,66.0,Python3,1623130402093,1667868,parvus,BE,8050109177953,
 100.0,66.0,Python3,1623281683512,3046779,Kathrin,DE,23869551387688,
@@ -630,6 +630,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,71.0,Python3,1704890273027,5885791,renoyu,JP,117012888933231,
 100.0,71.0,Python3,1705661295517,2393033,Homnibus_N,FR,107759429855392,
 100.0,71.0,Python3,1707871438320,5359081,Noobkins,PL,104921161843304,
+100.0,71.0,Python3,1718003552071,2584820,GrandeBagheera,AU,108418223372093,
 100.0,72.0,Python3,1454014447873,218189,[CG]Maxime,FR,2925297592678,
 100.0,72.0,Python3,1454628502513,648983,Elliot,GB,1875283981324,
 100.0,72.0,Python3,1454815962140,221648,stephenvk,US,,
@@ -689,7 +690,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,72.0,Python3,1686053787657,3804618,MiniWall,BE,44160982245284,
 100.0,72.0,Python3,1707383702746,5744219,shakeyboy,ZA,112975060815728,
 100.0,72.0,Python3,1709912884937,1543570,Umbardacil,FR,10487053430560,
-100.0,72.0,Python3,1715603238845,2584820,GrandeBagheera,AU,108418223372093,
 100.0,73.0,Python3,1455366085006,1298532,shrumo,PL,,
 100.0,73.0,Python3,1462862198831,153678,dknn,FR,,
 100.0,73.0,Python3,1466185862008,1273026,BenZubrow,FR,3462241882844,

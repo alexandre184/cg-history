@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2971|time=2024-06-12T04:08:30
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2976|time=2024-06-13T04:08:37
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -646,6 +646,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,259.0,Javascript,1711405489625,4200491,CMarghin,MA,59376268362928,
 100.0,259.0,Python3,1716368138611,5462383,Darkwolf59,FR,104337983113693,
 100.0,260.0,Kotlin,1708777913209,3335921,vcoubray,FR,28402108918604,
+100.0,260.0,Python3,1718205586479,4451855,Chansi,BE,,
 100.0,261.0,Python3,1680970070466,4975287,Phalenopsis,FR,86804702287857,
 100.0,261.0,Python3,1703337484416,956759,anthoxo,FR,117359328336423,
 100.0,261.0,Python3,1715584752344,1747550,Rafalon,FR,10124714341951,
@@ -946,7 +947,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,391.0,C++,1703935904333,5309606,kharonlautturi,LI,,
 100.0,392.0,TypeScript,1691263113641,3444208,Anatoli,DE,32592586143834,
 100.0,392.0,Python3,1712912782340,5666351,SatoruGojo30,MG,114242365138072,
-100.0,393.0,Rust,1694964531526,4801044,TN19N,MA,108952404845497,
+100.0,393.0,Rust,1694964531526,4801044,TN19N,MA,125201140302257,
 100.0,393.0,Python3,1700658817085,652984,BibiSpirit42,FR,,
 100.0,394.0,Javascript,1715776413978,6075430,D0se,FR,,
 100.0,395.0,Rust,1681380121427,5191042,Saphir123,FR,102291860878516,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,429.0,Javascript,1681171958619,2590643,ElPeauDeLaBanana,FR,18428486778899,
 100.0,429.0,Java,1706165321432,3584022,pseudo12,FR,96104782530621,
 100.0,429.0,C++,1707244775231,4738366,freeman69,FR,,
-100.0,431.0,Java,1682697744627,2490008,ebicochineal,JP,43936521576530,

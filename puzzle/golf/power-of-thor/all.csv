@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=46246|time=2024-06-15T04:08:18
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=46253|time=2024-06-16T04:07:53
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -673,6 +673,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,99.0,Javascript,1684785556876,1664043,GloboGamer,LV,85826389244637,
 100.0,99.0,PHP,1688993818145,3413276,Piemert,NL,31359182987164,
 100.0,99.0,Javascript,1705397763076,4995915,wickedweasel,RU,115375944109019,
+100.0,99.0,Ruby,1718442862793,1163546,Pyou,FR,11268161804466,
 100.0,100.0,Ruby,1448135402720,558107,rudkoo,HU,2578913584394,
 100.0,100.0,Ruby,1458156576147,663913,SandorHerms,DE,,
 100.0,100.0,Javascript,1466342219050,1463005,goffreder,IT,4735465165069,
@@ -728,6 +729,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,101.0,Ruby,1692460403211,5141204,R164,RO,92367564760197,
 100.0,101.0,Ruby,1692781512465,5611606,L4zy-c4t,VN,109592687222567,
 100.0,101.0,Python3,1705791877596,3461753,oidrissi,MA,82537028208664,
+100.0,101.0,Python3,1718471943290,910148,Gregllama,FR,82803309538970,
 100.0,102.0,Javascript,1443829171524,1047991,MandM,PT,,
 100.0,102.0,Ruby,1454937847999,1221491,Augustus,PL,3471558491467,
 100.0,102.0,Python3,1459270346218,1364335,ArgShX,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,107.0,Bash,1481040581082,1654458,thirstycrow,CN,9438887574270,
 100.0,107.0,Javascript,1483777539994,1703408,GHajba,HU,110156506384802,
 100.0,107.0,Python3,1484171377898,1765419,Drac,FR,10094245948513,
-100.0,107.0,Python3,1492611912999,1942683,Techdark,FR,12085210316995,
-100.0,107.0,Javascript,1501827778125,1915856,bochsdbg,RU,,

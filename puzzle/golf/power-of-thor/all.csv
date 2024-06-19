@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=46275|time=2024-06-18T04:08:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=46301|time=2024-06-19T04:08:46
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -63,6 +63,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,54.0,Ruby,1712398008747,3410351,Deltaspace,RU,31254101171655,
 100.0,54.0,Ruby,1715193923781,4199011,_MarTiaN_,GE,60356707757448,
 100.0,54.0,Ruby,1717604224603,5573671,LeMasSon,FR,107252527944826,
+100.0,54.0,Ruby,1718721517155,6132028,NicknamedTwice,FR,125487265927087,
 100.0,55.0,PHP,1691658107477,2928146,LolCat,MU,22538133010433,
 100.0,55.0,Ruby,1697802718567,557990,Wazemo,PL,1724224108740,
 100.0,56.0,Perl,1686307970989,5436334,saito_ta,JP,102476026435385,
@@ -937,6 +938,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Python3,1704171333750,4756200,tueda,JP,,
 100.0,105.0,C,1707139253072,4537924,ArtesScytale,BE,121331549433012,
 100.0,105.0,Javascript,1711297873799,1113070,fraxken,FR,112522024219211,
+100.0,105.0,Javascript,1718733984778,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,106.0,Javascript,1436639321147,239695,regseb,FR,5344624092841,
 100.0,106.0,Javascript,1446251123710,1095446,tarbomb,FR,83100206722923,
 100.0,106.0,Javascript,1447334414895,1144327,Ben_da_Moose,US,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,107.0,Python3,1477743837401,333934,CrazyMerlyn,IE,20045015439951,
 100.0,107.0,Javascript,1479235689207,1590473,WesT,US,,
 100.0,107.0,Javascript,1481025699051,1022699,Baptistin,CH,8150635789753,
-100.0,107.0,Bash,1481040581082,1654458,thirstycrow,CN,9438887574270,
-100.0,107.0,Javascript,1483777539994,1703408,GHajba,HU,110156506384802,

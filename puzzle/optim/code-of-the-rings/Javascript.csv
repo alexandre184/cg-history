@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=676|time=2024-06-18T04:08:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=676|time=2024-06-19T04:08:46
 100.0,3189.0,Javascript,1466443018153,805067,Magus,FR,24623991925371,
 100.0,3504.0,Javascript,1435823829118,172938,kuzmaka,UA,1842478040420,
 100.0,3575.0,Javascript,1617562921903,3700629,serialgg,FR,41086567019728,
@@ -63,7 +63,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,5848.0,Javascript,1435577504803,348552,Paradox,CA,16629535987834,
 100.0,5858.0,Javascript,1681424267777,3561478,TJSteel,GB,43956444263632,
 100.0,5859.0,Javascript,1619975401202,1861852,Cramer,DE,13289802969874,
-100.0,5860.0,Javascript,1446570257673,860297,charlieamer,BA,,
+100.0,5860.0,Javascript,1446570257673,860297,charlieamer,BA,125502627505524,
 100.0,5860.0,Javascript,1606031796072,4041267,Looney1300,US,52852249934671,
 100.0,5860.0,Javascript,1620258203461,4300969,thomasgonda3,US,63048681225268,
 100.0,5860.0,Javascript,1652952967911,3864897,qb45,US,62392749671775,
@@ -201,6 +201,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,6001.0,Javascript,1708315761201,5951922,runebattledotcom,US,119402220255900,
 100.0,6001.0,Javascript,1711875155153,1356388,Daniel_Kirchner,HU,122156186326637,
 100.0,6001.0,Javascript,1711888467637,5377138,mayan164,BE,99986908407422,
+100.0,6001.0,Javascript,1718707469006,1104081,pnegre,ES,2586918557532,
 100.0,6003.0,Javascript,1654280566671,2765000,Nowan,BE,88026624631087,
 100.0,6005.0,Javascript,1715455135865,4921685,Tzumpi,LU,,
 100.0,6011.0,Javascript,1621574204703,2575020,iDash,US,19404857844850,
@@ -242,7 +243,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,6097.0,Javascript,1661317824999,864113,Bakagrey,RU,86677802324835,
 100.0,6097.0,Javascript,1689167708124,587374,Snosky,FR,43285486137227,
 100.0,6097.0,Javascript,1718200983203,6096821,Naduzify,FR,,
-100.0,6097.0,Javascript,1718457013319,1104081,pnegre,ES,2586918557532,
 100.0,6099.0,Javascript,1627060074386,3559724,dan_the_bloke,GB,,
 100.0,6099.0,Javascript,1690980893984,1209944,Tantalid,UA,,
 100.0,6117.0,Javascript,1707785213718,5780668,0dium,FR,115564988553628,

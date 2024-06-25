@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1137|time=2024-06-24T04:08:58
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1136|time=2024-06-25T04:08:53
 ,45.61,C++,1462744312737,455215,494104,Recar,GB,4953953776940,
 ,45.44,C++,1706181174861,5297305,5875970,Devonor,FR,,
 ,45.41,C++,1444321635778,357643,990110,Rogerup,BR,2038636261009,
@@ -391,7 +391,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,27.35,C++,1463694710316,465400,1438782,Dariost,IT,4484974071470,
 ,27.35,C++,1462993777931,455736,1176069,RubixNoob13,US,2936788030276,
 ,27.34,C++,1471103174847,626061,271945,aangairbender,UA,6101760651670,
-,27.34,C++,1716064625324,5382301,6086800,Matthieu,FR,123821767674416,
+,27.34,C++,1716064625324,5382301,6086800,Matthieu_9,FR,123821767674416,
 ,27.33,C++,1443903876836,341623,370891,scogliani,FR,57712547203486,
 ,27.33,C++,1443881854088,339108,790642,Groskilled,FR,60783285080393,
 ,27.32,C++,1456991448928,401328,1320948,Jestter,CL,4069462249936,
@@ -469,7 +469,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,24.64,C++,1443795273594,341171,1020432,skillsOverflow,FR,,
 ,24.64,C++,1521863283784,1744672,1094991,HyperTramp,FR,12289244217611,
 ,24.58,C++,1465590619233,495047,1049124,iliam14,IL,,
-,24.58,C++,1449570354938,367015,847578,mamenyaka,HU,,
 ,24.53,C++,1443683855522,340049,429850,Powazny,PL,2071249387024,
 ,24.48,C++,1460391771153,415573,1105518,LordDrew,UA,3949907124052,
 ,24.48,C++,1661110875749,4429740,3470270,Tabaxi3K,US,,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,8.87,C++,1452303131681,369575,1233954,HubertSpringer,PL,,
 ,8.87,C++,1456047601271,381308,520515,haivanka,BG,,
 ,8.87,C++,1451485188455,368852,1224300,29492216,TN,,
+,8.87,C++,1443444294086,342421,860351,Nowc,PL,,

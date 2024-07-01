@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3773|time=2024-06-30T04:08:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3775|time=2024-07-01T04:09:00
 100.0,89.0,Python3,1700968902034,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -338,7 +338,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,119.0,Python3,1660779326789,3187543,JustATree,GB,25297892462623,
 100.0,119.0,Python3,1669798322652,5038502,titiscan,FR,89313768498109,
 100.0,119.0,Python3,1677432842674,3978506,Bibliophage,GB,,
-100.0,119.0,Python3,1680292865001,4270882,ron_2,GB,,
+100.0,119.0,Python3,1680292865001,4270882,[ron],GB,,
 100.0,119.0,Python3,1689149151350,5599362,HomniBot,FR,,
 100.0,119.0,Python3,1689186493498,2393033,Homnibus_N,FR,107759429855392,
 100.0,119.0,Python3,1693186406082,5611606,L4zy-c4t,VN,109592687222567,
@@ -883,6 +883,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,139.0,Python3,1698601596406,1049356,blueboar2,GE,18366697418772,
 100.0,139.0,Python3,1711294807978,6020985,Killswitch57,BD,121111880277383,
 100.0,139.0,Python3,1715201981654,2252914,Malleek,FR,18829198596160,
+100.0,139.0,Python3,1719779154985,6161445,Nanapiou,FR,126156189258793,
 100.0,140.0,Python3,1558440248799,1660477,kakben,SE,14328066257940,
 100.0,140.0,Python3,1580136582354,3382273,hasleron,GB,39607083737997,
 100.0,140.0,Python3,1584708879208,3430477,ZakiFellah,DZ,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,144.0,Python3,1611857348512,3962423,Shagar,FR,,
 100.0,144.0,Python3,1613656717529,1693448,KoenduBuf,NL,65025161404567,
 100.0,144.0,Python3,1613946242271,2991446,Haksell,VC,23218663624022,
-100.0,144.0,Python3,1616317146761,2398608,M_C,FR,,

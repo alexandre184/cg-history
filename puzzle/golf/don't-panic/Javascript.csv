@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1886|time=2024-06-30T04:08:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1886|time=2024-07-01T04:09:00
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,MartinQc,CA,1761380964089,
 100.0,70.0,Javascript,1627600247434,155774,dwarfie,FR,17785582865119,
@@ -348,7 +348,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,158.0,Javascript,1588862443719,1706476,Maboul95,FR,9338051370545,
 100.0,158.0,Javascript,1604687820102,1304841,NitMpez,US,4780977304016,
 100.0,158.0,Javascript,1625588363342,2644772,BillyLombardy,FR,35481509328406,
-100.0,158.0,Javascript,1639920193834,4270882,ron_2,GB,,
+100.0,158.0,Javascript,1639920193834,4270882,[ron],GB,,
 100.0,158.0,Javascript,1691512333924,1944576,mcmoe,FR,26256696286737,
 100.0,159.0,Javascript,1444736267918,314027,CrazyTuna,NZ,2474116480252,
 100.0,159.0,Javascript,1486163285048,1809405,Ginkyu,BR,,
@@ -432,6 +432,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,169.0,Javascript,1621707760319,3590625,Njitram,NL,37776500346985,
 100.0,169.0,Javascript,1651691680109,4756200,tueda,JP,,
 100.0,169.0,Javascript,1672447956806,4779944,GlaceCoding,FR,104523969424630,
+100.0,169.0,Javascript,1719751013297,1751832,buikikaesu,RU,24659390839366,
 100.0,170.0,Javascript,1468060077613,199979,VonRickroll,FR,4699081038708,
 100.0,170.0,Javascript,1471683472431,1489925,DeSet,BG,5060331972589,
 100.0,170.0,Javascript,1474013528862,1495491,[Random]-J3ff3z,FR,25546988440003,
@@ -483,7 +484,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,174.0,Javascript,1486502225945,1340767,ThibM,LU,,
 100.0,174.0,Javascript,1527347186864,2591473,ListsOfArrays,US,19150776457506,
 100.0,174.0,Javascript,1553242460448,1076583,olimago,FR,20459502851836,
-100.0,174.0,Javascript,1586111819907,1751832,buikikaesu,RU,24659390839366,
 100.0,174.0,Javascript,1618855552671,335954,nmahoude,FR,19628800665378,
 100.0,174.0,Javascript,1626621983720,4085274,JeZzElLutin,FR,54795484589960,
 100.0,174.0,Javascript,1629063814230,2914867,DR_IQWDJ,UA,68080065107448,

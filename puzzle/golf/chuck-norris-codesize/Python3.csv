@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3785|time=2024-07-10T04:10:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3787|time=2024-07-11T04:10:13
 100.0,89.0,Python3,1700968902034,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -112,7 +112,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,106.0,Python3,1694282407161,4902560,__Cerulean__,US,,
 100.0,106.0,Python3,1703637396027,5807573,Stephen Kondaveti,US,120619186703150,
 100.0,106.0,Python3,1707962917924,5780668,0dium,FR,115564988553628,
-100.0,106.0,Python3,1717168879138,1179950,CodeVanguard,FR,115134327079567,
+100.0,106.0,Python3,1717168879138,1179950,CodeVanguard,FR,126606604825152,
 100.0,107.0,Python3,1554973914172,905122,nILS,DE,5705638332288,
 100.0,107.0,Python3,1557130664986,1001096,MyIIone,AT,4231449697357,
 100.0,107.0,Python3,1574454142398,3521670,geert,NL,,
@@ -505,6 +505,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,125.0,Python3,1709665080895,899805,Raizel_,US,119528960848968,
 100.0,125.0,Python3,1713282474846,4553947,TOGO,TG,,
 100.0,125.0,Python3,1715481742722,6063518,Az9_2,VN,123628927260310,
+100.0,125.0,Python3,1720608711285,4509203,tri1212,VN,,
 100.0,126.0,Python3,1553258840313,3044280,AminGholizad,BE,121108445695421,
 100.0,126.0,Python3,1585181474116,2719887,mrawson,GB,21268121517389,
 100.0,126.0,Python3,1586624870601,3757994,Pitmairen,NO,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,144.0,Python3,1602966486019,351385,fabmarcant,FR,14298375794819,
 100.0,144.0,Python3,1607029602963,2044556,nheir,FR,,
 100.0,144.0,Python3,1611857348512,3962423,Shagar,FR,,
-100.0,144.0,Python3,1613656717529,1693448,KoenduBuf,NL,65025161404567,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2941|time=2024-07-12T04:08:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2945|time=2024-07-13T04:08:15
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -357,7 +357,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,134.0,Groovy,1681211533050,3354337,Westicles,CX,79146641399080,
 100.0,134.0,Javascript,1681241634669,4156154,issogood,CH,59814183471795,
 100.0,134.0,Python3,1681857228119,3424280,Zener,FR,39512266910769,
-100.0,134.0,Ruby,1687791306639,5046761,DUDUO,TW,109983864678932,
+100.0,134.0,Ruby,1687791306639,5046761,Duo_duo,TW,126672302811982,
 100.0,134.0,Ruby,1687881502475,838693,justgigio,BR,103393846722292,
 100.0,134.0,Python3,1689682441484,5598331,FrankEnthusiasticInvestigator,FR,,
 100.0,134.0,Python3,1717804747045,4206742,RaymondHoogervorst,NL,100991146507208,
@@ -921,6 +921,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,190.0,Ruby,1698284185047,5446588,ERing,KR,,
 100.0,190.0,Python3,1702769189461,4638194,rafbiels,GB,76967944032265,
 100.0,190.0,C++,1716486195500,3433123,pribault,FR,105586660701771,
+100.0,190.0,Python3,1720771237324,3715590,AyD,FR,,
 100.0,191.0,Python3,1682376865646,4534919,gregouz,FR,93073446812232,
 100.0,191.0,C++,1682980537589,973040,papyjo,FR,15696776172839,
 100.0,191.0,Swift,1683152081291,1939310,MasterOfUnderscore,PT,81080588549660,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,202.0,Python3,1680817493621,4197527,zzzz...,FR,,
 100.0,202.0,Bash,1681249075981,1408492,Ptit-g,FR,4317392237915,
 100.0,202.0,F#,1683192394769,973040,papyjo,FR,15696776172839,
-100.0,202.0,C,1683652826987,4620106,lonequantum,FR,73903248957664,

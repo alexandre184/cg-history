@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1318|time=2024-07-15T04:10:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1318|time=2024-07-16T04:09:39
 100.0,95.0,Javascript,1680549535369,3380184,chouch,FR,,
 100.0,96.0,Javascript,1645821899154,1654818,tarapitha,EE,79401682508715,
 100.0,97.0,Javascript,1554114465022,1357614,OptiPanda,FR,25029501539760,
@@ -145,6 +145,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,139.0,Javascript,1675870073913,278492,Seb.code,FR,97785528916362,
 100.0,139.0,Javascript,1682117230779,4832181,VisualDev-FR,FR,94025066322906,
 100.0,139.0,Javascript,1716533500391,6070943,vetalded,UA,,
+100.0,139.0,Javascript,1721031814968,5024020,natthaphon,TH,88701760307123,
 100.0,140.0,Javascript,1584304929794,3035070,Ipso,FR,25682160338718,
 100.0,140.0,Javascript,1600442503719,3971654,EDumdum,BE,,
 100.0,140.0,Javascript,1604324855943,3076711,Sceurpien,HU,52730426530429,
@@ -867,7 +868,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,249.0,Javascript,1592349373677,1466631,Akrib,FR,17971797700592,
 100.0,249.0,Javascript,1615562031542,4228548,,DE,,
 100.0,249.0,Javascript,1635456276137,4571243,innerurge1,US,73610189872298,
-100.0,249.0,Javascript,1662913997044,5024020,natthaphon,TH,88701760307123,
 100.0,249.0,Javascript,1673274882954,3784062,ScorpioneOrzion,NL,,
 100.0,250.0,Javascript,1563320809884,1664344,Kaeru,FR,,
 100.0,250.0,Javascript,1573285778708,2455639,GomoryCut,CA,17236107353922,
@@ -997,5 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,322.0,Javascript,1657065248953,4451440,exploder_,MA,86088264639492,
 100.0,322.0,Javascript,1659450950103,4915265,Alexis.B.,FR,84685622064620,
 100.0,322.0,Javascript,1667233521168,3457031,YurkovAS,RU,33020204289704,
+100.0,322.0,Javascript,1721082741611,5806017,PiTiLeZarD,AU,114824305617387,
 100.0,323.0,Javascript,1674847557893,1625417,Keb,FR,,
-100.0,326.0,Javascript,1621553871436,1227646,gentilmente,AR,21228363804834,

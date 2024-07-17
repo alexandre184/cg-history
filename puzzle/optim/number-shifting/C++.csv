@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=94|time=2024-07-16T04:09:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=93|time=2024-07-17T04:08:47
 100.0,999.0,C++,1617182661010,3354337,Westicles,CX,79146641399080,
 100.0,999.0,C++,1626909113679,3949307,xevixevi,JP,51534829531760,
 100.0,321.0,C++,1700687150398,1601217,Heide,FR,24684492596453,
@@ -31,7 +31,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,15.0,C++,1689762647875,5594552,arlequ1,FR,,
 100.0,13.0,C++,1583072378178,2534573,xfaure,FR,17910871911861,
 100.0,13.0,C++,1708806178064,4897832,Dr Meyss',FR,83988905905404,
-100.0,13.0,C++,1721079612688,3699480,NoahMazard,FR,41026540820812,
 100.0,12.0,C++,1582200292562,734401,b0n5a1,FR,1848632360793,
 100.0,11.0,C++,1622463993617,1421071,Saturne,CH,,
 100.0,9.0,C++,1583623177998,1633855,pantrain,US,,
@@ -40,6 +39,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,8.0,C++,1612109022089,3675563,QuentinSauvage,FR,40545929563884,
 100.0,8.0,C++,1718195448423,2002449,hunggar,CA,,
 100.0,7.0,C++,1626637626502,4372857,Sirios,BE,67205527942183,
+100.0,7.0,C++,1721155113893,6166636,yaichi,JP,,
 100.0,6.0,C++,1687501207651,5406211,Saucisse42,FR,114673885599335,
 100.0,5.0,C++,1611393024313,4072753,mdstoy,JP,54294744903755,
 100.0,4.0,C++,1619199897782,4275953,fff1015,JP,63572060943838,
@@ -83,7 +83,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1.0,C++,1709525951098,5984133,Rly.brxy,US,,
 100.0,1.0,C++,1712426555919,6040627,senuzulme94,TR,,
 100.0,1.0,C++,1714098295615,6055431,sheryl,PH,,
-100.0,1.0,C++,1720338709210,6166636,yaichi,JP,,
 0.0,0.0,C++,1587534263257,1429360,comp0zr,US,5127913573349,
 0.0,0.0,C++,1589804130800,3774856,_O-MEGA,RO,52678207939005,
 0.0,0.0,C++,1606605017610,3939443,Lafihalas,RS,50177625665562,

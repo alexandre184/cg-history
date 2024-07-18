@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=670|time=2024-07-17T04:08:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=671|time=2024-07-18T04:08:55
 100.0,999.0,PHP,1616602923781,1629259,Marchete,ES,61997162908277,
 100.0,999.0,C++,1617182661010,3354337,Westicles,CX,79146641399080,
 100.0,999.0,C++,1626909113679,3949307,xevixevi,JP,51534829531760,
@@ -238,6 +238,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,16.0,Python3,1674684398439,5155332,Papoum,FR,92963761158432,
 100.0,16.0,Javascript,1681234776952,1664043,GloboGamer,LV,85826389244637,
 100.0,16.0,Python3,1683771957935,4075712,bsapozhnikov,US,,
+100.0,16.0,C++,1721239601533,6166636,yaichi,JP,,
 100.0,15.0,C#,1582325481227,1274026,Sethius,CA,26056881327252,
 100.0,15.0,PHP,1590581774012,3796951,Gerbil,US,,
 100.0,15.0,PHP,1606140601962,3496153,lndshs,FR,,
@@ -352,7 +353,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,7.0,Python3,1679132852923,899593,infomaniax,RO,79115444165839,
 100.0,7.0,Python3,1715604088340,2217084,ChickenJoe,PL,122697447079257,
 100.0,7.0,Python3,1720936855583,5223106,takkatao,JP,105483622777321,
-100.0,7.0,C++,1721155113893,6166636,yaichi,JP,,
 100.0,6.0,Python3,1583337401409,3101644,HerrHagner,DE,39056126752805,
 100.0,6.0,Swift,1589056708122,3808470,Clara.roal,NL,,
 100.0,6.0,TypeScript,1684231422773,3317583,Mjo,FR,,
@@ -644,6 +644,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1.0,Python3,1720438270475,6139184,Trenches,US,126517786931861,
 100.0,1.0,Python3,1720625250589,6097263,404_Not_Found_,IT,,
 100.0,1.0,Python3,1720901385328,6185661,yazdan1383,IR,,
+100.0,1.0,Python3,1721216746545,6190739,jamalonchicken12124342,GB,,
 0.0,0.0,Java,1579109684942,1341520,egaetan,FR,21055353954161,
 0.0,0.0,Python3,1583724762782,1755783,Nahgil2614,VN,15035081237895,
 0.0,0.0,C++,1587534263257,1429360,comp0zr,US,5127913573349,

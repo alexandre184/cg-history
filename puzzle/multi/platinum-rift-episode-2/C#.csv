@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=254|time=2024-07-21T04:08:18
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=254|time=2024-07-22T04:09:20
 ,43.68,C#,1422288114279,251252,403748,[CG]SaiksyApo,FR,73884622868350,
 ,42.19,C#,1591715914078,3008630,1378958,Illedan,NO,16222515698472,
 ,41.72,C#,1536470360830,2061537,1500515,eulerscheZahl,DE,43135502422075,
@@ -225,8 +225,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.79,C#,1434569043100,309165,941835,roskodav,CZ,,
 ,0.76,C#,1443525373236,325707,906441,Qyperion,UA,2118058446668,
 ,0.76,C#,1421602499643,247110,807944,bokorzslt,RO,,
+,0.76,C#,1430125525053,303209,899327,Sammal,HU,,
 ,0.76,C#,1456569086140,382921,1105675,7x3D3A7H,BG,2403816816361,
 ,0.76,C#,1420999224998,254434,797705,trachus,FR,,
+,0.75,C#,1419261151137,254626,184308,bouldeterre,FR,1909397675175,
 ,0.75,C#,1458570424697,412880,1264591,Pandaccolo,FR,3396538710201,
 ,0.74,C#,1422288052188,249066,620537,Ksenia,LV,4954147380489,
 ,0.74,C#,1429267868690,302432,892888,Victornor,DK,,
@@ -251,5 +253,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.7,C#,1442580866493,316958,1049178,MatnGames,IL,,
 ,0.7,C#,1418739882658,256202,490574,Iznaugood,FR,,
 ,0.69,C#,1418785100152,253973,333866,div,IN,,
-,0.69,C#,1419261151137,254626,184308,bouldeterre,FR,1909397675175,
-,0.55,C#,1430125525053,303209,899327,Sammal,HU,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1111|time=2024-07-22T04:09:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1112|time=2024-07-23T04:09:00
 100.0,130.0,Python3,1681273415210,2315623,Lydxn,CA,,
 100.0,132.0,Python3,1698965406468,4438505,Eric_[EGU],FR,114044329618574,
 100.0,134.0,Python3,1681284999045,4992786,[ovs],DE,,
@@ -240,6 +240,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,220.0,Python3,1698738220342,481988,DevKirill,RU,26384102822076,
 100.0,220.0,Python3,1705242402834,956638,Pi-Geometry,FR,50157040295797,
 100.0,220.0,Python3,1719869502436,2469268,DDesobry,FR,124517909929979,
+100.0,220.0,Python3,1721632471872,4424239,Broccoli14,US,68451044559194,
 100.0,221.0,Python3,1681487662616,4292379,Chairman_of_the_Borg,US,65369007071182,
 100.0,221.0,Python3,1684620119341,4258711,FredericLocquet,FR,125739728070045,
 100.0,221.0,Python3,1691007174988,4444651,Ghouljokes,US,,
@@ -572,8 +573,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,801.0,Python3,1717900258889,5832683,Constantine_,US,125787008103200,
 100.0,803.0,Python3,1680172170006,5401792,ZultaMorda,PL,100942300667849,
 100.0,803.0,Python3,1680172650004,5078046,threefoldmisery,RU,,
-100.0,803.0,Python3,1680172670007,5368052,,MN,,
 100.0,803.0,Python3,1680172670007,5368023,,MN,,
+100.0,803.0,Python3,1680172670007,5368052,,MN,,
 100.0,803.0,Python3,1682423409688,5449490,ahmad.eng,LB,,
 100.0,803.0,Python3,1714397654589,6066514,sol_2,JP,,
 100.0,806.0,Python3,1680172590006,5373985,Anis_Jemel,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,3436.0,Python3,1680172350002,2305648,FeuerKopf,FR,50396689420851,
 100.0,3443.0,Python3,1680172370034,5388163,Kepwell,FR,,
 100.0,3922.0,Python3,1705193368183,5897659,Pale_Rider,US,,
-100.0,4395.0,Python3,1680172530014,3504540,WildSpirit,FR,34801428572353,

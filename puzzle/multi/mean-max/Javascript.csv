@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=250|time=2024-07-24T04:08:48
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=250|time=2024-07-25T04:08:51
 5,21.44,Javascript,1513793000211,1603810,1498442,NSzx,FR,11252822347214,
 5,21.01,Javascript,1514275230449,1608833,1861852,Cramer,DE,13289802969874,
 5,20.73,Javascript,1513792536781,1603760,1343111,Thal,FR,4602256436099,
@@ -215,9 +215,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,8.11,Javascript,1656272002434,4367732,4946854,vincent_manuceau,FR,85580623642087,
 1,7.98,Javascript,1512737118164,1588713,1880136,jeromete,FR,11418228948006,
 1,7.94,Javascript,1717012778399,5391676,6092035,joburato,BR,,
-0,17.51,Javascript,1519544167213,1670945,2479139,Punchi,CL,17606885628241,
+0,17.41,Javascript,1519544167213,1670945,2479139,Punchi,CL,17606885628241,
 0,17.0,Javascript,1711275236202,5348157,4151657,b.d,TW,,
-0,16.82,Javascript,1563915868231,2452443,3414863,smsalisbury,US,,
+0,16.86,Javascript,1563915868231,2452443,3414863,smsalisbury,US,,
 0,16.56,Javascript,1711175123637,5347334,6021505,WaRtr0,FR,,
 0,12.94,Javascript,1651569860391,4249616,4555282,Ervan_ST,FR,,
 0,12.91,Javascript,1535483985360,2051193,2463236,Tandoorire,FR,21397342658309,
@@ -234,8 +234,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,5.96,Javascript,1589462065419,2929902,3817447,ottoman,TR,,
 0,5.9,Javascript,1519395049189,1668729,2477380,Bosch,US,17281482063715,
 0,5.9,Javascript,1522864330827,1759476,2544513,HotWheelsKid,US,,
+0,5.87,Javascript,1522065197650,1747928,1175669,V81,UA,17926338660257,
 0,5.87,Javascript,1540409059424,2107819,2937153,CapitalCoder266,US,22632132894771,
-0,5.8,Javascript,1522065197650,1747928,1175669,V81,UA,17926338660257,
 0,5.78,Javascript,1550242333225,2248377,3180675,Natihalia,US,25209100585610,
 0,5.76,Javascript,1568739357247,2491478,3471119,diegomcsilva,BR,,
 0,5.74,Javascript,1644226376810,3995856,4730320,LeDebutantJeconnaisRienAuCode,FR,,

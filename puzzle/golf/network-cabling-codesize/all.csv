@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2066|time=2024-07-24T04:08:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2065|time=2024-07-25T04:08:51
 100.0,74.0,Perl,1694366607941,2928146,LolCat,MU,22538133010433,
 100.0,75.0,Ruby,1683476036100,3380184,chouch,FR,,
 100.0,75.0,Perl,1684995059139,5436334,saito_ta,JP,102476026435385,
@@ -699,7 +699,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,250.0,C++,1690531232766,4189794,__balrog__,NZ,107381702318748,
 100.0,250.0,Python3,1701120930226,182536,dbo,FR,,
 100.0,251.0,Go,1692866304996,154806,piwai,FR,1956863959967,
-100.0,252.0,Javascript,1682332900125,5230934,name111111,DE,99712441266294,
 100.0,252.0,Python3,1684166623499,5428098,Elikyyu,FR,103793622779702,
 100.0,253.0,C++,1700137754152,4031451,pbou,FR,55429746348651,
 100.0,254.0,Javascript,1683713782949,2948040,Pouyou,FR,85786963166544,
@@ -988,8 +987,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,482.0,Java,1684177643022,5428098,Elikyyu,FR,103793622779702,
 100.0,483.0,Python3,1680174590003,5291205,Merisson,FR,96949443098885,
 100.0,483.0,Python3,1680174690010,5148981,koder_Kod_,KE,95338401542456,
-100.0,483.0,Python3,1680174690010,5135692,laPoDelOurs,FR,,
 100.0,483.0,Python3,1680174690010,5224173,waqarbutt,PK,,
+100.0,483.0,Python3,1680174690010,5135692,laPoDelOurs,FR,,
 100.0,483.0,Python3,1680174700007,5064241,Gunba,KR,,
 100.0,483.0,Python3,1680174700007,5160844,,KR,,
 100.0,483.0,Python3,1680174750004,4966050,Ibrahim_laklaa,MA,108347486799294,
@@ -999,3 +998,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,483.0,Python3,1703088262136,4358474,matteo.lupica,CH,116728587188179,
 100.0,487.0,Python3,1680174630005,4971467,guillain,FR,,
 100.0,488.0,Python3,1680174990005,3663476,Eiclan,BR,39878185775251,
+100.0,489.0,Python3,1701581029797,5842711,lleora,US,,

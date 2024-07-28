@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=28523|time=2024-07-27T04:08:14
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=28529|time=2024-07-28T04:08:16
 100.0,29.0,Perl,1583420340367,1537792,AsaiYusuke,US,41785380851985,
 100.0,29.0,Perl,1586307156373,334009,abouvier,FR,4681436111242,
 100.0,29.0,Perl,1688507097675,2315623,Lydxn,CA,,
@@ -116,6 +116,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,45.0,Ruby,1687806568140,838693,justgigio,BR,103393846722292,
 100.0,45.0,Bash,1688916856939,3893564,Andriamanitra,FI,46641547586781,
 100.0,45.0,Ruby,1690481975167,557990,Wazemo,PL,1724224108740,
+100.0,45.0,Ruby,1722095724718,6132028,NicknamedTwice,GB,125965443110464,
 100.0,46.0,Perl,1455661234763,545951,AntonT,RU,1979045068345,
 100.0,46.0,Ruby,1469974216767,1122412,TheNinja,AU,3823739809641,
 100.0,46.0,Perl,1472828778524,1498755,Nyvis,FR,,
@@ -150,7 +151,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,46.0,Ruby,1705146404651,4791882,FlorentC,FR,80217385484852,
 100.0,46.0,Ruby,1711453051326,5989100,iSAK,NO,,
 100.0,46.0,Ruby,1719891002117,1839941,Just4FunCoder,MY,80969549924201,
-100.0,46.0,Ruby,1720577528573,6132028,NicknamedTwice,GB,125965443110464,
 100.0,47.0,Ruby,1455283607952,1186273,knacky,FR,,
 100.0,47.0,Ruby,1457337700528,1038830,rubicon,PL,2504386701540,
 100.0,47.0,Perl,1458219451039,1296449,loveCoding,BE,3638627508334,
@@ -466,6 +466,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,50.0,Ruby,1686502603224,4376291,AlexWord,VE,98812607758153,
 100.0,50.0,Ruby,1699773969171,5800920,arkorwan,TH,,
 100.0,50.0,Ruby,1712459027732,4847251,Ha-ryo,JP,103979786891958,
+100.0,50.0,Ruby,1722139514781,5012617,lgrandco,VN,122659029782827,
 100.0,51.0,Bash,1454020981431,1201783,qsantos,FR,3181778176261,
 100.0,51.0,Ruby,1454144877965,574371,Dillysfriend,US,1890070725954,
 100.0,51.0,Ruby,1455472487097,545951,AntonT,RU,1979045068345,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Javascript,1556107897776,2418256,Pobrodilin,FI,,
 100.0,60.0,Javascript,1559738448141,2438065,iter,FI,60213703884300,
 100.0,60.0,Javascript,1561219094720,3373064,MauricioRobayo,CO,29836421267053,
-100.0,60.0,Javascript,1563303151586,351062,Neumann,FR,17173563008577,

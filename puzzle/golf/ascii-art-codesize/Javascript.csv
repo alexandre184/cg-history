@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=361|time=2024-08-02T04:09:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=362|time=2024-08-03T04:08:40
 100.0,96.0,Javascript,1680838444080,2315623,Lydxn,CA,,
 100.0,96.0,Javascript,1681218983292,952784,[CG]Simon,FR,15794417868476,
 100.0,96.0,Javascript,1681757745563,4341304,Remi.,FR,97662026388574,
@@ -68,6 +68,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,152.0,Javascript,1682584541669,1475413,AlucardDH,FR,4898493641535,
 100.0,153.0,Javascript,1684002747020,155881,Xeger,CH,104405127658237,
 100.0,153.0,Javascript,1709213817035,818780,Boris-Bodin,FR,125113543527056,
+100.0,153.0,Javascript,1722599289561,1751832,buikikaesu,RU,24659390839366,
 100.0,154.0,Javascript,1685835727745,5135323,__yel__p,FR,92869880984408,
 100.0,154.0,Javascript,1712275088673,3531261,Patatatarte,FR,48916883849044,
 100.0,155.0,Javascript,1682622811265,2452543,Maznek,FR,19088417820828,
@@ -120,7 +121,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,192.0,Javascript,1680796925847,158495,Cr3aHal0,FR,11235124705354,
 100.0,192.0,Javascript,1682945803261,5193590,SAOUDI-H,FR,93994881504496,
 100.0,192.0,Javascript,1694100955967,2948040,Pouyou,FR,85786963166544,
-100.0,192.0,Javascript,1722006470516,1751832,buikikaesu,RU,24659390839366,
 100.0,193.0,Javascript,1701210329507,782461,Demi-Sel,FR,,
 100.0,194.0,Javascript,1696767102225,5104095,Mendrika05,MG,121764583101364,
 100.0,194.0,Javascript,1699008234075,3750985,vexilla72,FR,69788861540753,
@@ -355,6 +355,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,2171.0,Javascript,1719314888569,5544970,Najoro14k,MG,,
 30.0,204.0,Javascript,1687775114392,5006267,Wiesiek,PL,,
 30.0,727.0,Javascript,1694684200022,5709955,nurfahmi,ID,111747442617087,
+0.0,381.0,Javascript,1722619014350,6210954,Mornar,HR,,
 0.0,386.0,Javascript,1685102547868,4344727,hcyx,SG,,
 0.0,539.0,Javascript,1694684183468,5709961,RZKYSYZ,ID,,
 0.0,561.0,Javascript,1695346164305,5722040,Zyllel,US,,

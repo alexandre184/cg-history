@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9002|time=2024-08-03T04:08:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9006|time=2024-08-04T04:09:27
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -111,6 +111,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,65.0,Python3,1686566235303,1855354,KiwiTae,FR,109683640425245,
 100.0,65.0,Python3,1691834761272,5571328,Alombaros,FR,107108602065468,
 100.0,65.0,Python3,1706929948793,4741765,Pndablob,US,118272688108335,
+100.0,65.0,Python3,1722661857451,5012617,lgrandco,VN,122659029782827,
 100.0,66.0,Python3,1455264597423,1122412,TheNinja,AU,3823739809641,
 100.0,66.0,Python3,1456172072877,1273014,jcg,FR,,
 100.0,66.0,Python3,1466381964712,394667,elvers,DE,,
@@ -158,7 +159,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,66.0,Python3,1713017863295,4491402,bregneau,FR,95353269150105,
 100.0,66.0,Python3,1715290688385,5212077,LaRollz,FR,,
 100.0,66.0,Python3,1716761248439,6076337,Frv,FR,,
-100.0,66.0,Python3,1722658324956,5012617,lgrandco,VN,122659029782827,
 100.0,67.0,Python3,1475376976484,1312473,StealthEye,NL,,
 100.0,67.0,Python3,1595382477612,2942240,John404,FR,22625480043076,
 100.0,67.0,Python3,1595973785239,1808211,Zjarr,CH,29680669400909,
@@ -208,6 +208,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,67.0,Python3,1708988731899,5030940,solvictor,FR,117564401873777,
 100.0,67.0,Python3,1714902586340,5271147,yoch,IL,96235642204607,
 100.0,67.0,Python3,1720291175226,4154334,amine-50,TN,96778947013276,
+100.0,67.0,Python3,1722716191469,5746502,Raphtalias,CR,126582563137126,
 100.0,68.0,Python3,1454521295453,600941,mrv,PL,,
 100.0,68.0,Python3,1455226050630,944713,Patrickdev,NL,,
 100.0,68.0,Python3,1458854334540,1183538,Petelag,FR,8931015065797,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,75.0,Python3,1483747209287,1453209,martin.wallace,CA,4664914553742,
 100.0,75.0,Python3,1484069589771,1679771,Elodie_,FR,52469448179769,
 100.0,75.0,Python3,1486508481395,1780436,Dambre,FR,,
-100.0,75.0,Python3,1486672325641,1823093,NoTrabaja,CA,,

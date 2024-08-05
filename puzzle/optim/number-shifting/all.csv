@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=677|time=2024-08-04T04:09:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=678|time=2024-08-05T04:09:23
 100.0,999.0,PHP,1616602923781,1629259,Marchete,ES,61997162908277,
 100.0,999.0,C++,1617182661010,3354337,Westicles,CX,79146641399080,
 100.0,999.0,C++,1626909113679,3949307,xevixevi,JP,51534829531760,
@@ -315,6 +315,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,9.0,C#,1698160640496,1720510,DeanTheMachine,CA,19926056859805,
 100.0,9.0,Python3,1700740444802,5802431,Onilaf,FR,114370760766846,
 100.0,9.0,Java,1704991123517,1229845,Jipe,FR,17144841257590,
+100.0,9.0,Python3,1722796317978,6144352,Pyth1,HU,,
 100.0,8.0,PHP,1583518630609,735487,amurushkin,RU,2111605585777,
 100.0,8.0,Python3,1584825186865,1600229,Emilem,NO,,
 100.0,8.0,Python3,1597589065087,2398608,M_C,FR,,
@@ -368,7 +369,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,5.0,Python3,1689510182939,4993857,WouterSolutions,NL,,
 100.0,5.0,Javascript,1696940178239,1274056,BoredKid,FR,116154420608537,
 100.0,5.0,Python3,1698407658913,4481912,Dr_Monkey,GB,69349348815883,
-100.0,5.0,Python3,1722717661716,6144352,Pyth1,HU,,
 100.0,4.0,PHP,1580126280615,3424530,LRocher,FR,57972349624681,
 100.0,4.0,PHP,1580803739184,888898,helgui,RU,22560718540069,
 100.0,4.0,Python3,1617286839104,3621947,vrabosh,RU,59738664564322,
@@ -383,6 +383,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,4.0,Python3,1692429992970,5142291,AceOfBase,UZ,,
 100.0,4.0,Python3,1703519718829,5624042,Theperk,FR,125520783386224,
 100.0,4.0,Javascript,1714841342184,5807573,Stephen Kondaveti,US,120619186703150,
+100.0,4.0,PHP,1722823897121,4618693,cedricdd,FR,85418008807758,
 100.0,3.0,Python3,1580316580893,3154694,TheAristos,GB,24978952121057,
 100.0,3.0,Java,1595704866609,1518732,Apfeloxid,DE,27685163757224,
 100.0,3.0,Kotlin,1600548836120,3863995,Apri1,RU,,

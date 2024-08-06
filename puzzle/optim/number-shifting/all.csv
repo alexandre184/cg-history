@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=678|time=2024-08-05T04:09:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=677|time=2024-08-06T04:10:02
 100.0,999.0,PHP,1616602923781,1629259,Marchete,ES,61997162908277,
 100.0,999.0,C++,1617182661010,3354337,Westicles,CX,79146641399080,
 100.0,999.0,C++,1626909113679,3949307,xevixevi,JP,51534829531760,
@@ -360,6 +360,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,6.0,TypeScript,1684231422773,3317583,Mjo,FR,,
 100.0,6.0,C++,1687501207651,5406211,Saucisse42,FR,114673885599335,
 100.0,6.0,Ruby,1701853208738,1725941,TFeld,DK,77240442360963,
+100.0,6.0,PHP,1722860015070,4618693,cedricdd,FR,85418008807758,
 100.0,5.0,Python3,1593642485827,3842838,Streusel,DE,,
 100.0,5.0,C++,1611393024313,4072753,mdstoy,JP,54294744903755,
 100.0,5.0,Python3,1626805394025,759147,kisszots,HU,57262007331411,
@@ -383,7 +384,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,4.0,Python3,1692429992970,5142291,AceOfBase,UZ,,
 100.0,4.0,Python3,1703519718829,5624042,Theperk,FR,125520783386224,
 100.0,4.0,Javascript,1714841342184,5807573,Stephen Kondaveti,US,120619186703150,
-100.0,4.0,PHP,1722823897121,4618693,cedricdd,FR,85418008807758,
 100.0,3.0,Python3,1580316580893,3154694,TheAristos,GB,24978952121057,
 100.0,3.0,Java,1595704866609,1518732,Apfeloxid,DE,27685163757224,
 100.0,3.0,Kotlin,1600548836120,3863995,Apri1,RU,,
@@ -563,7 +563,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1.0,C++,1684362238893,4862037,jferrer-,ES,83439783206374,
 100.0,1.0,C,1684700497579,5504073,rjfasdfgsdgdsfgd,GB,,
 100.0,1.0,Java,1684763254995,4546562,Trikstar,PT,,
-100.0,1.0,C++,1684866445897,5515147,karigane,JP,105601889269376,
 100.0,1.0,Python3,1685022221070,5519298,fairydust,AT,,
 100.0,1.0,C++,1685981615882,1542460,[CPC]totoleharicotvert,FR,6009849340344,
 100.0,1.0,Bash,1685991973046,5544047,,US,,

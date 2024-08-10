@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=101|time=2024-08-09T04:09:10
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=101|time=2024-08-10T04:09:45
 6,34.33,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,31.19,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,31.0,Clojure,1480636657283,850106,1674411,Boze,CA,,
@@ -66,7 +66,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,14.02,Clojure,1579948059466,2661320,3585327,FelixStridsberg,SE,,
 3,13.86,Clojure,1619574426903,3521852,3392548,servarl,RU,,
 3,13.81,Clojure,1475045375594,719759,1592894,maxagaze,NO,,
-3,13.17,Clojure,1486640842122,960953,827343,GIM,AT,,
+3,13.28,Clojure,1486640842122,960953,827343,GIM,AT,,
 3,12.48,Clojure,1518389739615,1656209,2433183,Jake562,US,16806668646275,
 3,12.35,Clojure,1661806170259,4435876,1757803,antko,RU,,
 3,12.26,Clojure,1467643818218,571380,982970,SrijayanthSridhar,IN,,
@@ -74,7 +74,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,11.7,Clojure,1474296922014,669459,1539559,shadowdancer,AR,,
 3,11.67,Clojure,1643761921004,3991308,4688096,StrykeTruanard,GB,76558046976779,
 3,11.41,Clojure,1560370495741,2420206,3009873,Kineolyan,FR,32394008868052,
-3,11.23,Clojure,1482963338559,905074,1762766,boskop,PT,,
+3,11.16,Clojure,1482963338559,905074,1762766,boskop,PT,,
 3,10.17,Clojure,1661268578954,4431059,2491829,anil9,SE,89130325695961,
 3,10.14,Clojure,1467661143543,571847,1460590,motor4ik,RU,4937058396762,
 3,9.71,Clojure,1499520730077,1389037,1129690,MichaelWright,US,,
@@ -99,4 +99,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,15.46,Clojure,1467713116131,572597,1423658,LeartS,IT,4387037627346,
 1,9.69,Clojure,1665127809739,4483345,5079756,turtleshark,SE,,
 1,9.63,Clojure,1652718639867,4288004,4903573,trananhgyh,VN,,
-1,0.71,Clojure,1636141561432,3886837,4588069,reblo83pro,US,,
+1,0.7,Clojure,1636141561432,3886837,4588069,reblo83pro,US,,

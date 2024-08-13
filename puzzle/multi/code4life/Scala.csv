@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=79|time=2024-08-12T06:35:37
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=79|time=2024-08-13T05:40:49
 5,22.85,Scala,1638708990723,3921921,1676711,Eeeval,FR,12979369709156,
 5,21.97,Scala,1578430853857,2643842,331880,Monstruo,MX,16575963540770,
 4,22.81,Scala,1584222555478,2703438,1944726,bourgeof,FR,12115914449796,
@@ -39,9 +39,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,14.24,Scala,1606847780221,3332837,3330020,FuriousTurtle,FR,69887544040338,
 1,14.24,Scala,1590943614181,2999186,3829502,ecee,TR,,
 1,14.24,Scala,1590223454615,2988555,3737841,neslihancetinkaya,TR,,
-1,2.36,Scala,1670498082245,4555575,4971776,Alben,FR,88964984879797,
-1,2.34,Scala,1590910830175,2998648,3735415,yaprakbulut,TR,41975101744281,
-1,2.34,Scala,1590076832192,2986078,3830749,YavuzerTemmuz,TR,,
+1,2.34,Scala,1670498082245,4555575,4971776,Alben,FR,88964984879797,
 1,2.34,Scala,1681716514205,4799638,5248214,jojokes,FR,,
 1,2.34,Scala,1697167652175,5075684,4797591,GoodGame001,KR,80377988068617,
 1,2.34,Scala,1593615818683,3026981,3778958,tgbglr,TR,,
@@ -55,7 +53,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,2.33,Scala,1591567212170,3006827,3852410,hahahahahahahahhahahahahahahahah,GB,,
 1,2.33,Scala,1688116656496,4990019,4717247,shubh_titan,IN,107893020614541,
 1,2.32,Scala,1590448722156,2992203,3834155,nonickwierdo,GT,,
+1,2.32,Scala,1590076832192,2986078,3830749,YavuzerTemmuz,TR,,
 1,2.32,Scala,1719871770184,5519847,6164052,0x98320dedot,RU,,
+1,2.32,Scala,1590910830175,2998648,3735415,yaprakbulut,TR,41975101744281,
 1,2.32,Scala,1590935894196,2999049,3844006,RashadAliyev98,TR,,
 1,2.32,Scala,1590910830825,2998649,3734056,CanberkAtbinici,TR,,
 1,2.32,Scala,1593637186182,3027135,3844049,aydin_krmz,TR,46407122620338,
@@ -76,5 +76,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,2.34,Scala,1590958416416,2999444,3832915,FatimeNur_Celik,TR,,
 0,-0.57,Scala,1638362017187,3915920,3245233,Flasssh_,CH,72955569323559,
 0,-0.6,Scala,1590915547849,2998718,3836444,ArasSmurfAcc,TR,,
-0,-0.62,Scala,1590953768086,2999341,3823576,gizemm,TR,,
+0,-0.63,Scala,1590953768086,2999341,3823576,gizemm,TR,,
 0,-0.66,Scala,1590957341209,2999416,3810641,Kardelen_Kuscek,TR,,

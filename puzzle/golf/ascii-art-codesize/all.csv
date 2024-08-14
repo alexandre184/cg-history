@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3009|time=2024-08-13T05:40:49
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3012|time=2024-08-14T07:52:46
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -108,6 +108,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,104.0,TypeScript,1681757844698,4341304,Remi.,FR,97662026388574,
 100.0,104.0,TypeScript,1692716259592,3918583,mikmak,FR,48134583112917,
 100.0,105.0,Ruby,1688631750667,1566335,BeardedWhale,SE,36571449875674,
+100.0,105.0,Ruby,1723544929751,973040,papyjo,FR,15696776172839,
 100.0,106.0,Javascript,1680731311940,4166555,Natanalel,SE,65894864102793,
 100.0,106.0,Python3,1680783512822,5365556,kanelugodeu,FR,,
 100.0,106.0,Javascript,1680947817909,3354337,Westicles,CX,79146641399080,
@@ -472,6 +473,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,142.0,Python3,1710775809445,5963774,hedgehog_2,UA,,
 100.0,142.0,Python3,1711556021820,2139722,AHD267,FR,14128293918441,
 100.0,142.0,Python3,1718748702614,1394530,Idleless,CA,4170046072282,
+100.0,142.0,Perl,1723583258007,973040,papyjo,FR,15696776172839,
 100.0,143.0,TypeScript,1681062989911,893541,wala,FR,97577641170180,
 100.0,143.0,Python3,1683300786497,1880197,bicklil,FR,48428120491412,
 100.0,143.0,Python3,1683557994298,4258711,FredericLocquet,FR,125739728070045,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,197.0,Python3,1701771935964,2715508,Anth_,SE,43943627200135,
 100.0,197.0,Python3,1704889416421,5885791,renoyu,JP,117012888933231,
 100.0,197.0,C,1710103189511,3230824,blenderfan,AT,25779704152434,
-100.0,197.0,Python3,1721389946765,4527804,JOUTIN,FR,96636360972176,
-100.0,197.0,Python3,1722479944716,5877585,sirius1,KR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1564|time=2024-08-14T07:52:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1565|time=2024-08-15T04:08:52
 100.0,176.0,Ruby,1700426237714,3380184,chouch,FR,,
 100.0,184.0,Perl,1681817890828,5436334,saito_ta,JP,102476026435385,
 100.0,184.0,Ruby,1695789132178,1429360,comp0zr,US,5127913573349,
@@ -595,6 +595,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1083.0,Python3,1680176500010,4339597,Casstel,CZ,,
 100.0,1089.0,Python3,1680176570017,4291628,Genoyd,FR,62652246756272,
 100.0,1091.0,Javascript,1680176570017,4119534,owloff,IE,,
+100.0,1091.0,C++,1723623822553,6166636,yaichi,JP,,
 100.0,1092.0,Javascript,1680176730036,259584,ooflorent,FR,,
 100.0,1093.0,Ruby,1680176440007,2507488,luluvalentine,CD,18581441222734,
 100.0,1097.0,Python3,1680176670003,738829,AkinaSorrow,FR,,
@@ -672,8 +673,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1282.0,Python3,1680176550004,2695681,Sparow,FR,19676617947328,
 100.0,1285.0,Python3,1697148013782,5706817,BenBreaksThings,US,111672965282698,
 100.0,1286.0,PHP,1680176550004,4888782,odaxav,FR,94478025275138,
-100.0,1292.0,Python3,1680176450004,3034268,ppp57,FR,,
 100.0,1292.0,Python3,1680176450004,3988638,smike,DE,68444065653880,
+100.0,1292.0,Python3,1680176450004,3034268,ppp57,FR,,
 100.0,1294.0,Python3,1680176570017,983665,erez,IL,1974997764921,
 100.0,1295.0,Python3,1680176690004,813395,dimpopo,LV,3834844900332,
 100.0,1301.0,Python3,1680176490007,1006171,Sokas,PT,2012102176159,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,2211.0,Ruby,1680176680014,4826689,flookkrup,TH,82883001828475,
 100.0,2211.0,Ruby,1680176800005,1579042,Hulous,FR,72120208833937,
 100.0,2213.0,C#,1680176500010,4656164,0FuV,FR,,
-100.0,2223.0,Python3,1680176390011,3005561,rezak.aziz,FR,,

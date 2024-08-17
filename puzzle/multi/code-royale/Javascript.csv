@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=538|time=2024-08-16T04:09:03
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=538|time=2024-08-17T04:08:52
 6,21.79,Javascript,1699808193458,5104313,5723071,MatSchaeff,CH,112973082508858,
 5,20.93,Javascript,1591694763483,3008260,3718653,invi2k,DE,,
 5,20.32,Javascript,1544027640698,2150566,1836058,SeebOmega,FR,111595923133884,
@@ -14,8 +14,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,15.64,Javascript,1680556442318,4787785,5397591,Gortar,FR,100798384982022,
 5,14.92,Javascript,1668320474006,4524171,2607343,BiggityBang,US,18549969940435,
 5,14.61,Javascript,1671164775084,4583397,2800214,tashman01,US,41688905429765,
-5,11.25,Javascript,1640897400037,3955640,3573721,Kheops,FR,47496100144083,
-5,11.21,Javascript,1602299744108,3126774,2110350,EgorKluch,RU,30550244968725,
+5,11.29,Javascript,1602299744108,3126774,2110350,EgorKluch,RU,30550244968725,
+5,11.06,Javascript,1640897400037,3955640,3573721,Kheops,FR,47496100144083,
 4,19.82,Javascript,1697627925477,5080033,4953074,jwpapi,DE,85905306926845,
 4,19.78,Javascript,1569517145161,2500590,3492840,Christian_Jaime,MX,95138923383129,
 4,19.6,Javascript,1602476200781,3129324,840468,Skflowne,FR,,
@@ -488,6 +488,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,7.77,Javascript,1668575041878,4527062,3432823,PepperedJerky,US,,
 0,7.76,Javascript,1528798061236,1884453,2443732,jurczakos,PL,16902363637968,
 0,7.67,Javascript,1554603578571,2323759,2551250,Brussell,US,63935300074923,
+0,7.66,Javascript,1585347723562,2729262,3735745,KareemTheDream,US,41991023799349,
 0,7.66,Javascript,1690146430887,5011293,5617680,aicha1234,FR,,
 0,7.62,Javascript,1597840758504,3068183,3940166,OnlyForMyCode,AT,,
 0,7.61,Javascript,1685547150727,4902101,4894274,Huguinho,BR,83731145158482,
@@ -498,7 +499,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,7.51,Javascript,1527147404205,1861523,2611135,Purple_Arrow,GB,,
 0,7.48,Javascript,1528351559567,1877316,152907,FrMe,FR,9797198581385,
 0,7.42,Javascript,1717684460488,5399441,6116059,VanillaScript,US,,
-0,7.4,Javascript,1585347723562,2729262,3735745,KareemTheDream,US,41991023799349,
 0,7.34,Javascript,1672524938615,4659587,5268369,Syedacoder,GB,,
 0,7.34,Javascript,1650613137014,4100554,4851206,RedTideAlgea,TR,,
 0,7.32,Javascript,1641390965645,3960810,1058927,Zjotas,LT,,

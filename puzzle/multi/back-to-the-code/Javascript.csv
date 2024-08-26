@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=418|time=2024-08-25T04:08:47
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=418|time=2024-08-26T04:09:37
 ,42.87,Javascript,1571041050726,2570353,252533,AlexSurin,RU,75568268871335,
 ,41.56,Javascript,1443824921786,345550,569223,Glutamatt,FR,2034977404463,
 ,39.57,Javascript,1635671690607,3880568,311423,kirzyka,UA,5244779889243,
@@ -369,6 +369,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,8.88,Javascript,1471600331793,632123,1485462,LamSonFei,FR,4992683759913,
 ,8.85,Javascript,1455831133698,379662,1284074,mojang5000,US,,
 ,8.84,Javascript,1443839052287,348198,1072873,DanieLlama,ZA,2528389688887,
+,8.84,Javascript,1454392341181,371342,1274435,Nickna,SE,,
 ,8.83,Javascript,1449687302817,367198,1197880,jerichozis,UA,3002458749140,
 ,8.83,Javascript,1443439539089,357509,1068559,Chabu,JP,,
 ,8.83,Javascript,1443304898880,339000,314333,Jcbalmeida,BR,,
@@ -377,7 +378,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,8.81,Javascript,1447436455703,364065,1145053,MattSiunami,CA,2678977659651,
 ,8.81,Javascript,1443305293870,343840,1064613,Elk,ES,,
 ,8.81,Javascript,1499981609690,1396222,2093403,Pablin,AR,,
-,8.8,Javascript,1454392341181,371342,1274435,Nickna,SE,,
 ,8.8,Javascript,1458099280345,411942,1357506,nowinsky,AU,,
 ,8.8,Javascript,1445103469611,360804,1049915,DrZoidcent,FR,2167717664004,
 ,8.79,Javascript,1444609425881,358228,1011737,MII_Man,US,10312768816988,
@@ -394,9 +394,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,8.74,Javascript,1443379730895,344764,1042081,gouayave,FR,,
 ,8.74,Javascript,1458639779892,412988,360581,[CG]TontonRevolver,FR,3344847915402,
 ,8.7,Javascript,1444819077816,358550,1104639,Anshr,UA,,
-,8.08,Javascript,1516741591567,1634560,2400938,Gaiel,BE,16450990810131,
+,7.87,Javascript,1516741591567,1634560,2400938,Gaiel,BE,16450990810131,
 ,5.1,Javascript,1451435445867,368795,1218188,Byamarro,PL,,
-,4.98,Javascript,1455027069976,374300,234303,Rehb,US,,
+,4.96,Javascript,1455027069976,374300,234303,Rehb,US,,
 ,4.57,Javascript,1504103201220,1438530,1525005,Runy,IN,62756269273875,
 ,3.76,Javascript,1482586895889,900747,1618260,MarkTellez,MX,114859600076447,
 ,2.8,Javascript,1680343052310,4785346,5388800,Charly-007,DE,,

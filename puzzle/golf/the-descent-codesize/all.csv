@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4601|time=2024-08-26T04:09:37
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4606|time=2024-08-27T04:11:01
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,127666725990808,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -75,6 +75,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,27.0,Ruby,1719241661577,6132028,NicknamedTwice,GB,127813288492906,
 100.0,27.0,Ruby,1719477933923,5450541,Simonsays,FR,128248461791748,
 100.0,27.0,Ruby,1722137475072,5012617,lgrandco,VN,122659029782827,
+100.0,27.0,Ruby,1724705138848,2647507,ArnaudLothe,FR,18963196181716,
 100.0,28.0,Ruby,1680793497216,792813,VilBoub,FR,72010225615995,
 100.0,28.0,Ruby,1680862873909,973040,papyjo,FR,15696776172839,
 100.0,28.0,Ruby,1682227623696,3646346,Pingwi85,FR,39451600730667,
@@ -669,6 +670,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,56.0,Python3,1718585828456,5723482,matipau,DE,,
 100.0,56.0,Python3,1720416355785,6140736,picatrai,FR,125979926186686,
 100.0,56.0,Python3,1724591261969,1291259,Loupsalio,FR,82188422117537,
+100.0,56.0,Python3,1724711307588,3765537,Sentience,FR,126083968863824,
 100.0,57.0,Javascript,1680921870255,2315623,Lydxn,CA,,
 100.0,57.0,Kotlin,1680946341862,3354337,Westicles,CX,79146641399080,
 100.0,57.0,Kotlin,1680949946401,2923506,darkhorse64,FR,23496414257567,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,64.0,Python3,1698859109940,870040,Tris7an,FR,13332465660327,
 100.0,64.0,Python3,1698861311266,5668712,Coco1314,FR,,
 100.0,64.0,Python3,1699137310334,5276491,Tryeri,NO,,
-100.0,64.0,Python3,1700641373874,4773215,lgrandmorcel,FR,80175749209623,
-100.0,64.0,Ruby,1702541008112,3478374,DarkInfern010,FR,101845183074164,

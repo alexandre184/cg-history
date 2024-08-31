@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=28681|time=2024-08-30T04:09:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=28701|time=2024-08-31T04:09:14
 100.0,29.0,Perl,1583420340367,1537792,AsaiYusuke,US,41785380851985,
 100.0,29.0,Perl,1586307156373,334009,abouvier,FR,4681436111242,
 100.0,29.0,Perl,1688507097675,2315623,Lydxn,CA,,
@@ -184,7 +184,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,47.0,Perl,1634086062752,3516345,Jp82,FR,63600965075245,
 100.0,47.0,Ruby,1634496241785,1630890,Wld,DE,54135389391511,
 100.0,47.0,Ruby,1636236548944,1566335,BeardedWhale,SE,36571449875674,
-100.0,47.0,Ruby,1638373634288,3792309,schachmatt,DE,58313205988826,
+100.0,47.0,Ruby,1638373634288,3792309,schachmatt,BE,58313205988826,
 100.0,47.0,Ruby,1639497138859,4622964,Haradwaith,FR,,
 100.0,47.0,Ruby,1647884823034,3657275,jujurocking,FR,,
 100.0,47.0,Ruby,1647941782378,3598201,LiudasStaniulis,NL,58937704207171,
@@ -526,6 +526,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,51.0,Ruby,1683562444115,4258711,FredericLocquet,FR,125739728070045,
 100.0,51.0,Ruby,1686290879342,2716466,DonLarry,VE,92921584513853,
 100.0,51.0,Ruby,1718044207139,4275900,Aino,DE,80529806734661,
+100.0,51.0,Ruby,1725056393347,5746502,Raphtalias,CR,128425828325194,
 100.0,52.0,Perl,1454675337716,1086214,bor,UA,2314950405832,
 100.0,52.0,Ruby,1454689779491,574656,dmpage,US,1759291406309,
 100.0,52.0,Perl,1459870300144,1176520,coding_duck,PL,3079309856299,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Javascript,1548364538774,1759335,metahom,AM,40546489176319,
 100.0,60.0,Ruby,1549056603956,1796070,MinorScale,FR,37637848458775,
 100.0,60.0,Ruby,1553319427013,1411735,lordaniel,CO,21095312804350,
-100.0,60.0,Javascript,1556107897776,2418256,Pobrodilin,FI,,

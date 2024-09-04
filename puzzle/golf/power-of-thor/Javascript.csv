@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6083|time=2024-09-03T04:09:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6084|time=2024-09-04T04:09:36
 100.0,57.0,Javascript,1690264997741,4966586,Rohydre,FR,,
 100.0,60.0,Javascript,1678546230422,4438505,Eric_[EGU],FR,114044329618574,
 100.0,60.0,Javascript,1680090816342,4341304,Remi.,FR,97662026388574,
@@ -34,6 +34,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,88.0,Javascript,1688121234615,3918583,mikmak,FR,48134583112917,
 100.0,89.0,Javascript,1628193274835,2288263,dbdr,UA,43448306132121,
 100.0,89.0,Javascript,1682093295784,4832181,VisualDev-FR,FR,94025066322906,
+100.0,89.0,Javascript,1725401411901,558770,lD,FR,7979637651523,
 100.0,90.0,Javascript,1463423786731,416762,Khao,CA,2035557596161,
 100.0,90.0,Javascript,1653331821746,893541,wala,FR,97577641170180,
 100.0,90.0,Javascript,1674570897380,981878,nicolasD,FR,22576267267565,
@@ -224,7 +225,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,107.0,Javascript,1713961092339,5573671,LeMasSon,FR,107252527944826,
 100.0,108.0,Javascript,1437746035956,981084,pio95,PL,,
 100.0,108.0,Javascript,1456590655439,1316751,volodimir,UA,,
-100.0,108.0,Javascript,1480027091292,558770,lD,FR,7979637651523,
 100.0,108.0,Javascript,1481052030384,1656351,Castosaurus,YT,21643540184535,
 100.0,108.0,Javascript,1501321586149,970985,bologna,FR,13834648468780,
 100.0,108.0,Javascript,1581590952556,3510173,Reinis-Mazeiks,LV,37663464036857,
@@ -740,7 +740,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,124.0,Javascript,1639992899782,4453872,Martin17,FR,68772183591612,
 100.0,124.0,Javascript,1658248499344,4991744,coooola,FR,87181924273178,
 100.0,124.0,Javascript,1665165517276,5115337,ClimateChangeFighter,FR,,
-100.0,124.0,Javascript,1724659830727,6185254,QNhat,VN,,
+100.0,124.0,Javascript,1724659830727,6185254,QNhat,VN,128838744434781,
 100.0,125.0,Javascript,1438273607425,954763,InTheGround,FR,,
 100.0,125.0,Javascript,1462720724162,1417472,bennettp123,AU,4354763837042,
 100.0,125.0,Javascript,1463271978610,1435693,TrAce,DE,,

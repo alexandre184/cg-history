@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=260|time=2024-09-07T04:09:56
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=261|time=2024-09-08T04:09:12
 5,25.35,Javascript,1579639138030,2657222,1360360,zombitrafik,PL,39230624991993,
 4,23.67,Javascript,1507760480351,1478885,2158982,Barbossa,FR,14839412862089,
 4,21.88,Javascript,1507138677521,1473137,281777,Soreine,FR,2341973804339,
@@ -181,6 +181,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,21.05,Javascript,1578918336183,2648451,3165495,aaafgcfg,RU,35023505891202,
 0,21.03,Javascript,1704660401883,5263172,5905922,fakeAcc,IR,117356525414878,
 0,20.8,Javascript,1719167870139,5494910,4596525,AidenRoman,FR,125785162114831,
+0,20.58,Javascript,1725701190977,5569689,5980133,Tonyankhanh,VN,127089828362032,
 0,20.57,Javascript,1455214120536,375094,630050,Chulepa,DE,3648993972565,
 0,20.51,Javascript,1434913547411,309454,856890,CthulhuFhtagn,HU,,
 0,19.87,Javascript,1721581307708,5538915,1579042,Hulous,FR,72120208833937,
@@ -194,7 +195,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,15.37,Javascript,1456314505488,382349,1288071,SuperMamie,FR,3501201999735,
 0,15.15,Javascript,1492122467314,1133746,1400060,manolopm,ES,69588024154950,
 0,14.78,Javascript,1458761650705,413212,1314362,Synio,FR,4014597815339,
-0,14.74,Javascript,1446079221421,362449,1004498,minami_oratta,JP,,
+0,14.69,Javascript,1446079221421,362449,1004498,minami_oratta,JP,,
 0,14.42,Javascript,1456192395909,382177,1276624,Dubsta,JP,3453882339421,
 0,14.13,Javascript,1608385969667,3361623,3935258,Ching367436,TW,48585928916970,
 0,14.09,Javascript,1470292007114,615112,1493822,TheBoss11235813,AU,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14053|time=2024-09-09T04:09:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14057|time=2024-09-10T04:09:51
 100.0,56.0,Bash,1696189932639,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,57.0,Ruby,1450099402243,154372,Plopx,FR,7959085736890,
 100.0,60.0,Perl,1449957330749,154372,Plopx,FR,7959085736890,
@@ -757,6 +757,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,139.0,Javascript,1674028920335,5280865,TheVeiler,FR,118162881583099,
 100.0,139.0,Javascript,1684158471238,5428439,Armon,US,102977282106504,
 100.0,139.0,Clojure,1692024292940,4438505,Eric_[EGU],FR,114044329618574,
+100.0,139.0,Javascript,1725876435053,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,140.0,Python3,1430600635000,218189,[CG]Maxime,FR,2925297592678,
 100.0,140.0,PHP,1435165240676,616339,AlexeyRastaturin,RU,1747469083760,
 100.0,140.0,PHP,1441574065861,320053,Zbug,FR,40560165927950,
@@ -805,7 +806,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,143.0,Dart,1645903960010,1654818,tarapitha,EE,79401682508715,
 100.0,143.0,C++,1675894602249,4438505,Eric_[EGU],FR,114044329618574,
 100.0,143.0,Go,1683114010751,3354337,Westicles,CX,79146641399080,
-100.0,143.0,Javascript,1683533064935,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,143.0,C++,1684701033428,2315158,luigi_gelato,DE,,
 100.0,143.0,Dart,1690448341226,154806,piwai,FR,1956863959967,
 100.0,143.0,Dart,1717193657277,1179950,CodeVanguard,FR,126606604825152,
@@ -847,6 +847,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,146.0,Javascript,1679686909040,2924895,trictrac,FR,23056996012330,
 100.0,146.0,Javascript,1680081949162,5408849,poulet_demoniaque,FR,,
 100.0,146.0,Javascript,1686486407480,4819330,rocambille,FR,82228789327154,
+100.0,146.0,Perl,1725926721387,6115420,scresto,FR,127667866173827,
 100.0,147.0,Javascript,1435831307076,952534,Slapstick,HK,1807164990711,
 100.0,147.0,C#,1436913475741,371603,MartinQc,CA,1761380964089,
 100.0,147.0,Scala,1463741338103,1001096,MyIIone,AT,4231449697357,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,154.0,ObjectiveC,1675821358558,4641581,hoody7,PL,,
 100.0,154.0,Javascript,1692017057026,5597029,Guillaume67,FR,107900945781102,
 100.0,154.0,Javascript,1692133517269,1473079,Zylar,US,4875610554885,
-100.0,155.0,Python3,1476879040105,848604,Sablier,FR,5344362713317,

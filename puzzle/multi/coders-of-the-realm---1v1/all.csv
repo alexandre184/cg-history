@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=82|time=2024-09-15T04:09:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=82|time=2024-09-16T04:10:26
 3,40.41,C#,1609232716114,3372725,1500515,eulerscheZahl,DE,43135502422075,
 3,34.97,C++,1648323763804,4047345,2311105,kovi,HU,20774306904131,
 3,34.66,Rust,1583572718420,2696881,2288263,dbdr,UA,43448306132121,
@@ -51,7 +51,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,11.43,Python3,1716666833474,5387847,1179950,CodeVanguard,FR,126606604825152,
 0,5.19,Python3,1643215411467,3985064,4183089,PringleOrange,GB,,
 0,5.18,C++,1621643638005,3681038,354788,Lexer31,FR,60198468830213,
-0,5.18,Java,1658133334806,4397285,4282042,aCatAI,MT,62256727195192,
+0,5.18,Java,1658133334806,4397285,4282042,AI4Games,PL,62256727195192,
 0,5.18,Go,1667688016249,4517303,5169092,megacoder1,US,,
 0,5.18,C++,1692336263560,5032413,2364617,RomainPicot,FR,121006507095295,
 0,5.18,Python3,1658131956602,4397230,2779063,LegendsOfCodeAndMagic,PL,20656797636376,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4691|time=2024-09-19T04:10:00
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4701|time=2024-09-20T04:09:47
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,127666725990808,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -517,6 +517,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,53.0,Python3,1723818643918,6225359,AngryStatic,NZ,,
 100.0,53.0,Bash,1725759271177,5818971,sht_2,PL,,
 100.0,53.0,Python3,1726673893371,4115282,Deferlis,FR,,
+100.0,53.0,Ruby,1726733909553,1227148,Schneewittchen,DE,124893627574596,
 100.0,54.0,Python3,1681445867645,2491616,abt8601,TW,113139385453588,
 100.0,54.0,Python3,1681491465669,4451820,Teiglin,FR,75444428976198,
 100.0,54.0,Python3,1682414541140,1939310,MasterOfUnderscore,PT,81080588549660,
@@ -734,6 +735,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,58.0,Python3,1713296906287,5873354,Besti,FR,126487746235384,
 100.0,58.0,Python3,1715333372855,5212077,LaRollz,FR,,
 100.0,58.0,Python3,1715346268021,4286616,Oddrea,FR,83788366979785,
+100.0,58.0,Ruby,1726750614873,1747550,Rafalon,FR,10124714341951,
 100.0,59.0,Javascript,1680892589262,2288263,dbdr,UA,43448306132121,
 100.0,59.0,Python3,1681217114111,163666,sapfeer0k,DE,92240260347902,
 100.0,59.0,Python3,1681421495004,4292379,Chairman_of_the_Borg,US,65369007071182,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,64.0,Python3,1685985792379,2049982,refa,FI,40889681927806,
 100.0,64.0,Python3,1686196526220,5504482,kgnet88,DE,104865921430403,
 100.0,64.0,Python3,1686461409964,992691,tredden,US,1920053008535,
-100.0,64.0,Python3,1686588089201,5452147,Supremium,DE,106249540634482,
-100.0,64.0,Javascript,1686656229064,5537887,st3v,HU,110770529513909,

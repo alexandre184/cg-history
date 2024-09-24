@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=47459|time=2024-09-23T04:10:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=47471|time=2024-09-24T04:10:11
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -133,6 +133,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,76.0,Python3,1675781238760,4641581,hoody7,PL,,
 100.0,76.0,Python3,1681019758502,4263196,yechielv,IL,87806028604243,
 100.0,76.0,Javascript,1692282576526,557990,Wazemo,PL,1724224108740,
+100.0,76.0,Python3,1727130593357,3120635,Chessjawa,US,113079880850455,
 100.0,77.0,Ruby,1595232474806,735487,amurushkin,RU,2111605585777,
 100.0,77.0,C,1712702949983,2377220,arstneio,RU,,
 100.0,77.0,ObjectiveC,1712703040713,2377220,arstneio,RU,,
@@ -166,6 +167,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,80.0,Python3,1702066160568,1917961,Seoman,FR,,
 100.0,80.0,Javascript,1703693940315,5807573,Stephen Kondaveti,US,120619186703150,
 100.0,80.0,Python3,1709431751135,4257588,WhoTho,US,73384865831537,
+100.0,80.0,Python3,1727102245819,5440994,Ronak Surana,IN,128038262215359,
 100.0,81.0,Ruby,1462029827678,884725,zoty314,HU,,
 100.0,81.0,Ruby,1475782630255,1599292,shinesoul,ID,,
 100.0,81.0,Ruby,1479826619400,1568093,b0ot,AE,6694372640439,
@@ -480,7 +482,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,91.0,C,1681134079078,3354337,Westicles,CX,79146641399080,
 100.0,91.0,ObjectiveC,1681134139982,3354337,Westicles,CX,79146641399080,
 100.0,91.0,C,1690024588514,154806,piwai,FR,1956863959967,
-100.0,91.0,Python3,1698010042773,3120635,Chessjawa,US,113079880850455,
 100.0,91.0,Ruby,1707973592407,154996,shashwat986,IN,39427621192030,
 100.0,92.0,Ruby,1444906875397,936495,LittleCrow,US,1852341854082,
 100.0,92.0,Ruby,1447923700527,1131084,pmod,CZ,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,106.0,C,1637700703801,1399382,Regulus136,FR,4335723819637,
 100.0,106.0,Ruby,1647033247949,4182801,micha4w,CH,58743643393835,
 100.0,106.0,Ruby,1647034854501,4183089,PringleOrange,GB,,
-100.0,106.0,Python3,1647629637930,3716258,NotRobot,US,80349526172452,

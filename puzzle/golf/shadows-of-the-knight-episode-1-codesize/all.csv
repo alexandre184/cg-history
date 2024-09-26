@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3268|time=2024-09-25T04:10:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3271|time=2024-09-26T04:10:30
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -552,7 +552,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,225.0,Python3,1689178691906,5393628,FCip,IT,,
 100.0,225.0,Python3,1699047725803,3727077,Manwi23,CH,42360341161981,
 100.0,225.0,Python3,1699279127624,5573671,LeMasSon,FR,107252527944826,
-100.0,225.0,Python3,1699606824136,894260,breizhGeek,FR,,
+100.0,225.0,Python3,1699606824136,894260,archybreizh,FR,,
 100.0,225.0,Go,1700473447333,3418200,Anodin,FR,91417847473966,
 100.0,225.0,Python3,1718114820336,4656757,linterne,FR,75596503077289,
 100.0,226.0,C#,1681035968982,3354337,Westicles,CX,79146641399080,
@@ -796,6 +796,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,280.0,Ruby,1690761695838,5192841,vip.delete,RS,105744064201678,
 100.0,280.0,C++,1694872558375,5179712,Stirner555,MA,96563027644931,
 100.0,280.0,Javascript,1705514603942,399039,psign,FR,127130708638966,
+100.0,280.0,Python3,1727290635715,6272490,alex1n0,SK,,
 100.0,281.0,Lua,1684537764954,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,281.0,Java,1698052992798,3918583,mikmak,FR,48134583112917,
 100.0,281.0,Java,1715124137965,4341304,Remi.,FR,97662026388574,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,354.0,Python3,1682538632330,5351493,Komus,FR,,
 100.0,354.0,Python3,1686411585300,5496466,MyBilly,FR,104526226790025,
 100.0,354.0,Java,1693209200293,1357614,OptiPanda,FR,25029501539760,
-100.0,354.0,Python3,1715085229005,2862624,Martyyyy,FR,,

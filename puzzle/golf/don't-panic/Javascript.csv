@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1908|time=2024-10-03T04:10:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1909|time=2024-10-04T04:10:15
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,MartinQc,CA,1761380964089,
 100.0,70.0,Javascript,1627600247434,155774,dwarfie,FR,17785582865119,
@@ -158,7 +158,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,128.0,Javascript,1595951510942,490588,Uljahn,RU,23956705948685,
 100.0,128.0,Javascript,1607811444513,4011783,sylbouns,FR,51693040520151,
 100.0,128.0,Javascript,1608945063579,3647844,rc95401,US,39486169555819,
-100.0,128.0,Javascript,1618566759312,1179950,CodeVanguard,FR,126606604825152,
+100.0,128.0,Javascript,1618566759312,1179950,CodeVanguard,US,126606604825152,
 100.0,128.0,Javascript,1621716831137,4326026,Alhyor_Z7,FR,63781660044312,
 100.0,128.0,Javascript,1621733069330,3574688,RaulButuc,GB,69501041689910,
 100.0,128.0,Javascript,1622372689198,3973359,KAbel,HU,58683122994198,
@@ -614,6 +614,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,185.0,Javascript,1679327398153,3855258,Starfighter,FR,57681805205585,
 100.0,185.0,Javascript,1684032177657,5406211,Saucisse42,FR,114673885599335,
 100.0,185.0,Javascript,1689679825993,1850459,PSaver,FR,103986480840437,
+100.0,185.0,Javascript,1727949714610,5748741,SlowSnakPierre,FR,116785586087097,
 100.0,186.0,Javascript,1444631181237,1049237,darkman,RS,2207549076230,
 100.0,186.0,Javascript,1481859330102,1181768,dio_O,BR,9247621527483,
 100.0,186.0,Javascript,1521162155270,1334917,lowlighter,FR,29644824263001,
@@ -913,7 +914,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,211.0,Javascript,1676922480610,3495297,Iwazaru,FR,,
 100.0,211.0,Javascript,1686723916991,5537887,st3v,HU,110770529513909,
 100.0,211.0,Javascript,1700494093205,4695398,NikolayBliznets,RU,77365427822836,
-100.0,211.0,Javascript,1704815911307,5748741,SlowSnakPierre,FR,116785586087097,
 100.0,212.0,Javascript,1433372624000,660713,n3svarbu,GB,,
 100.0,212.0,Javascript,1482615849549,913960,MrLeon,FR,9249869505272,
 100.0,212.0,Javascript,1486519683454,961270,imel,MA,41803607670982,

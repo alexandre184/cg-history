@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2304|time=2024-10-11T04:10:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2305|time=2024-10-12T04:09:49
 100.0,31.0,Perl,1681462065231,5436334,saito_ta,JP,102476026435385,
 100.0,31.0,Perl,1692993388511,2928146,LolCat,MU,22538133010433,
 100.0,32.0,Perl,1680847097265,2315623,Lydxn,CA,,
@@ -88,6 +88,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,63.0,Ruby,1681029537289,948764,Katie,GB,2150180090592,
 100.0,63.0,Ruby,1707978111171,154996,shashwat986,IN,39427621192030,
 100.0,63.0,Javascript,1709844753070,3380184,chouch,FR,,
+100.0,63.0,Ruby,1728704197685,173928,lacrosse,HU,49137985463837,
 100.0,64.0,Ruby,1686327020451,3703485,anter69,HU,41141446684299,
 100.0,64.0,Ruby,1710584284896,4789438,Enowise,FR,80414525920185,
 100.0,64.0,Ruby,1720575810036,6132028,NicknamedTwice,GB,127813288492906,
@@ -911,8 +912,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,263.0,Javascript,1680175420007,5332090,xamtheone,US,98317544462026,
 100.0,263.0,Java,1685793454391,1348635,ferbos,FR,96159860267051,
 100.0,264.0,Python3,1680175540015,5064400,wjin,KR,,
-100.0,264.0,Python3,1680175610008,5110492,AndjelaRadak2022203126,RS,,
 100.0,264.0,Python3,1680175610008,5128075,AndrijaMilovanovic2022201439,RS,92328602949475,
+100.0,264.0,Python3,1680175610008,5110492,AndjelaRadak2022203126,RS,,
 100.0,264.0,Javascript,1686857472672,425462,Azt-yur,RU,16224786627212,
 100.0,264.0,Java,1692389396144,2202771,Kaplone,FR,23792369424472,
 100.0,264.0,Python3,1728571081462,6300810,branoow,SK,130693563281518,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,314.0,C#,1687422343554,5177607,Nyx54,FR,93420161141099,
 100.0,314.0,Python3,1693748868227,1404251,CodeOfChaos,DE,,
 100.0,314.0,C++,1726563831201,6042516,dragospin2win,FR,130568245259687,
-100.0,318.0,Go,1680175710008,1442344,PavelRaskin,GE,,

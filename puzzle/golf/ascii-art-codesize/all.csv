@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3164|time=2024-10-11T04:10:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3167|time=2024-10-12T04:09:49
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -46,6 +46,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,88.0,Ruby,1706970209499,4789438,Enowise,FR,80414525920185,
 100.0,88.0,Perl,1716315139539,5778568,fun840,US,,
 100.0,89.0,Ruby,1681292578943,5326078,T14v1n4,RE,101837722760856,
+100.0,89.0,Ruby,1728702615906,173928,lacrosse,HU,49137985463837,
 100.0,90.0,Ruby,1693661141710,2928146,LolCat,MU,22538133010433,
 100.0,90.0,Ruby,1704082521790,333934,CrazyMerlyn,IE,20045015439951,
 100.0,90.0,Perl,1728305192923,6115420,scresto,FR,127667866173827,
@@ -812,6 +813,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,169.0,Python3,1714389208856,1747550,Rafalon,FR,10124714341951,
 100.0,169.0,Python3,1727884207461,4666032,liooxes,CH,,
 100.0,169.0,Python3,1728138794098,5905755,LifeofLion,FR,119963465263661,
+100.0,169.0,Javascript,1728677282463,5773258,NEY_UHT,FR,113458782553208,
 100.0,170.0,Python3,1683790260911,4785778,Pharallaxe,BE,80756163394679,
 100.0,170.0,Python3,1686856435766,425462,Azt-yur,RU,16224786627212,
 100.0,170.0,Javascript,1688462770070,3904053,Back2toxic,DE,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,189.0,Javascript,1714851978198,6068421,Swimma,US,123323666551478,
 100.0,190.0,C++,1680874853104,5191042,Saphir123,FR,102291860878516,
 100.0,190.0,C#,1682333059423,5191042,Saphir123,FR,102291860878516,
-100.0,190.0,Python3,1693968654911,4902903,DGMar,EC,,
-100.0,190.0,Ruby,1698284185047,5446588,ERing,KR,,

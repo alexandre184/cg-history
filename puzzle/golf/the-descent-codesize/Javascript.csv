@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=541|time=2024-10-19T04:09:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=541|time=2024-10-20T04:10:10
 100.0,54.0,Javascript,1682960308849,3380184,chouch,FR,,
 100.0,54.0,Javascript,1683035343774,1093968,milosMATRIXrepic,RS,117470302748056,
 100.0,54.0,Javascript,1689508844990,2452543,Maznek,FR,19088417820828,
@@ -48,6 +48,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,61.0,Javascript,1717701379323,6092995,vinhhien381,VN,125956607785196,
 100.0,61.0,Javascript,1720694185415,1028993,Xanadrel,FR,2092929424433,
 100.0,61.0,Javascript,1723204792348,3992550,foreign,FR,50980824286436,
+100.0,61.0,Javascript,1729387291904,5377138,mayan164,BE,99986908407422,
 100.0,62.0,Javascript,1681407528045,2491616,abt8601,TW,113139385453588,
 100.0,62.0,Javascript,1688682388303,4275624,UnknownException,CA,,
 100.0,62.0,Javascript,1695771124840,814685,AthosPyte,NO,5617445240242,
@@ -74,7 +75,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,64.0,Javascript,1715759919370,6070943,vetalded,UA,,
 100.0,64.0,Javascript,1719307086279,1751832,buikikaesu,RU,24659390839366,
 100.0,64.0,Javascript,1727534906414,6148167,Bowie41,FR,126122807050705,
-100.0,65.0,Javascript,1680792268049,5377138,mayan164,BE,99986908407422,
 100.0,65.0,Javascript,1680965466943,893541,wala,FR,97577641170180,
 100.0,65.0,Javascript,1681197373857,5358413,Corentin2000,FR,99371165250814,
 100.0,65.0,Javascript,1681292475350,2451652,code_of_the_dead,FR,18798469788923,
@@ -371,8 +371,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,683.0,Javascript,1721662636405,6193722,ddZ6ii_,FR,126921762923675,
 100.0,690.0,Javascript,1680168640004,2883499,N4N4_K4Y,,,
 100.0,692.0,Javascript,1680168760020,807882,GFarkas,HU,,
-100.0,696.0,Javascript,1680168510009,4598690,Daftbeat,MX,,
 100.0,696.0,Javascript,1680168510009,5417283,VossPlays,US,,
+100.0,696.0,Javascript,1680168510009,4598690,Daftbeat,MX,,
 100.0,696.0,Javascript,1680168590005,5413579,vic-147,PY,101445521184629,
 100.0,696.0,Javascript,1680168650003,5413859,YakumoKoto,CN,,
 100.0,696.0,Javascript,1680168650003,5413789,Dhxl,PE,,

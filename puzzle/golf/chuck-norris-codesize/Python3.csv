@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3924|time=2024-10-22T04:10:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3928|time=2024-10-23T04:10:36
 100.0,89.0,Python3,1700968902034,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -272,7 +272,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,115.0,Python3,1711709344369,1545901,bartlo,FR,,
 100.0,115.0,Python3,1716269299525,2584820,GrandeBagheera,AU,108418223372093,
 100.0,115.0,Python3,1719441768759,4951347,acith,FR,85757822569052,
-100.0,115.0,Python3,1724757647416,5746502,Raphtalias,CR,131853725620134,
+100.0,115.0,Python3,1724757647416,5746502,Raphtalias,CR,131986924592699,
 100.0,115.0,Python3,1727549434515,936271,Chkoupinator,FR,63680800481745,
 100.0,116.0,Python3,1554494294609,3203557,burnpanck,CH,25666559702940,
 100.0,116.0,Python3,1565066128259,3090691,faris,US,26727400671444,
@@ -648,6 +648,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,129.0,Python3,1699979247421,2881601,Camion,FR,21862505601310,
 100.0,129.0,Python3,1706144038232,1536085,Wladek,PL,7749586185627,
 100.0,129.0,Python3,1723456546506,6100011,chierin,JP,125135303954605,
+100.0,129.0,Python3,1729592651503,5829515,Stef_3,FR,126317747529452,
 100.0,130.0,Python3,1564358247065,1390495,GeoCon,UA,34638586226224,
 100.0,130.0,Python3,1569017514421,1920520,brady,DE,12243350869311,
 100.0,130.0,Python3,1578866277551,3621446,panLing,CZ,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,143.0,Python3,1553206264748,2050543,Cherubael,DK,13150128776541,
 100.0,143.0,Python3,1553358179290,2978856,[4.0]aras.senova,TR,23075998397070,
 100.0,143.0,Python3,1594009354571,3884286,RomaR,AR,,
-100.0,143.0,Python3,1594050584399,3797725,matcl,FR,,

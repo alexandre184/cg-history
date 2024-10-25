@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=147|time=2024-10-24T04:10:45
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=148|time=2024-10-25T04:11:17
 6,18.59,TypeScript,1622837440402,3701524,2998967,Gilde,FR,62190109872577,
 5,21.34,TypeScript,1591523839171,3006102,3740498,TODO_Slytherin,DE,43744246019681,
 5,17.95,TypeScript,1650008424238,4075275,380805,Xtendz,FR,100694504923582,
@@ -52,8 +52,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,14.53,TypeScript,1600610750395,3103075,3973364,r-julien,FR,50104608166752,
 3,13.89,TypeScript,1584120525279,2702252,1544537,Noromin,FR,9373490972145,
 3,13.63,TypeScript,1713532702283,5366289,6055153,hedint,RU,122474126524245,
-3,13.47,TypeScript,1728564522307,5594868,6306468,PE.,FR,,
-3,13.32,TypeScript,1602083072408,3123438,2259958,AntoineSavajols,FR,51167689246033,
+3,13.35,TypeScript,1728564522307,5594868,6306468,PE.,FR,,
+3,13.23,TypeScript,1602083072408,3123438,2259958,AntoineSavajols,FR,51167689246033,
 3,12.97,TypeScript,1649939831523,4074253,4372210,ShaD_01,FR,,
 3,12.65,TypeScript,1574287302230,2606804,3568736,enigmatic,US,37058446187382,
 3,12.57,TypeScript,1594081344805,3030162,3842838,Streusel,DE,,
@@ -134,6 +134,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,8.01,TypeScript,1660659596237,4425105,4792405,NobbinWood,GB,81752800823877,
 1,5.75,TypeScript,1693768084351,5043400,5224161,TheItsNameless,DE,,
 1,2.53,TypeScript,1717173192326,5393637,5116132,Sidhuko,MX,97488760984422,
+0,20.97,TypeScript,1729773376481,5604506,2079789,Chambers,DE,,
 0,8.69,TypeScript,1614326985707,3442436,1932218,BamViral,FR,11969526449888,
 0,8.38,TypeScript,1669476415468,4542137,3404368,Manguo,FR,92440602652794,
 0,8.3,TypeScript,1596653490166,3054276,3920703,Teatea,US,,
@@ -145,4 +146,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,7.12,TypeScript,1601668452219,3117915,3567442,jS,CA,51347348008698,
 0,-7.16,TypeScript,1712146618101,5355350,6032097,BorellaEder,GB,,
 0,-7.66,TypeScript,1672761870936,4673450,4549122,vlav98,FR,95347008277178,
-0,-8.3,TypeScript,1612736537930,3422062,4180001,Xiaoxin,CN,,
+0,-8.31,TypeScript,1612736537930,3422062,4180001,Xiaoxin,CN,,

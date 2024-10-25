@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=705|time=2024-10-24T04:10:45
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=705|time=2024-10-25T04:11:17
 5,20.3,Javascript,1649237250751,4064304,3795745,Soboku,JP,71616261493295,
 5,16.42,Javascript,1628587192967,3786145,1360360,zombitrafik,PL,39230624991993,
 5,15.92,Javascript,1674904928553,4723294,3413813,Hvosten,PL,63052087147847,
@@ -550,6 +550,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.46,Javascript,1608302214662,3360059,4111936,momo424242,FR,,
 1,21.46,Javascript,1606139008477,3309168,4028167,Alhassan,TR,,
 1,21.46,Javascript,1606139008477,3309249,4013446,Kaaedan,FR,,
+1,21.46,Javascript,1606139008477,3308367,1565174,paranoidandroidiot,TR,48910245879633,
 1,21.45,Javascript,1606139008477,3313511,4066419,5t3v0,DE,,
 1,21.45,Javascript,1606139008477,3310146,1005961,Rosman,ES,116407005221672,
 1,21.45,Javascript,1606139008477,3309627,3804465,LHelias,FR,44061229156045,
@@ -564,7 +565,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.44,Javascript,1606139008477,3309590,4054125,jessydamoiseau,FR,53556049910154,
 1,21.44,Javascript,1606139008477,3311741,4062047,Ronron1024,FR,53867267892459,
 1,21.44,Javascript,1606139008477,3308802,3335039,indiehjaerta,SE,,
-1,21.44,Javascript,1606139008477,3308367,1565174,paranoidandroidiot,TR,48910245879633,
 1,21.44,Javascript,1606139008477,3311727,3710728,N3G_Code,FR,41437423733782,
 1,21.44,Javascript,1606139008477,3313690,1860486,Nezael,FR,54142426084822,
 1,21.44,Javascript,1606139008477,3313909,4063522,Burdas,ES,,
@@ -656,7 +656,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.38,Javascript,1606139008477,3314390,3889007,StuartRulez,AU,,
 1,21.36,Javascript,1663323088282,4451950,5074528,Otepskie,PH,89951105080553,
 1,21.34,Javascript,1698934782544,5094600,5283678,Toavina77,MG,113550742169303,
-1,21.3,Javascript,1628164252314,3780370,3342448,NDDT,DE,,
+1,21.34,Javascript,1628164252314,3780370,3342448,NDDT,DE,,
 1,18.64,Javascript,1606139008477,3310928,3152760,LucasM,BR,,
 1,16.98,Javascript,1606139008477,3311109,4055624,Tooraa,FR,,
 1,16.74,Javascript,1606139008477,3308945,4072335,sjoroos,SE,,

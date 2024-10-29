@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3402|time=2024-10-28T04:10:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3404|time=2024-10-29T04:11:03
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -156,6 +156,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,171.0,Ruby,1720101908313,6043581,Rwanounounou,FR,122027324927378,
 100.0,171.0,Python3,1721765708488,5024020,natthaphon,TH,88701760307123,
 100.0,171.0,Python3,1727861412591,5673422,aai1,JP,,
+100.0,171.0,Python3,1730106457552,5271147,yoch,IL,96235642204607,
 100.0,172.0,Javascript,1686577791219,2315158,luigi_gelato,DE,,
 100.0,172.0,Python3,1696501234917,3457544,Unaxee,FR,54140808713728,
 100.0,172.0,PHP,1702637963705,5851611,Rémiz,FR,117020903773330,
@@ -171,7 +172,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,173.0,Python3,1707529328226,3904540,Queuebee,NL,46905060497858,
 100.0,173.0,Python3,1725550699600,4037601,Jelafo,DE,,
 100.0,174.0,Perl,1686682232070,5135323,__yel__p,FR,92869880984408,
-100.0,174.0,Python3,1687935217832,5271147,yoch,IL,96235642204607,
 100.0,174.0,Ruby,1687962443971,5046761,Duo_duo,TW,126672302811982,
 100.0,174.0,Python3,1689630327972,4208158,Tiouz,FR,72554823729381,
 100.0,174.0,Python3,1709672488436,2924895,trictrac,FR,23056996012330,
@@ -522,6 +522,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,218.0,Python3,1716959125050,5739016,png victim,PH,115259385941665,
 100.0,218.0,Python3,1719423250963,4260340,cogfrog,US,,
 100.0,218.0,C++,1726856435962,3235897,Zylo,PL,25779784253696,
+100.0,218.0,Python3,1730159024611,6338504,Xe3box,DE,,
 100.0,219.0,Ruby,1680802401735,5326078,T14v1n4,RE,101837722760856,
 100.0,219.0,Python3,1686043576972,5021033,atmanali,FR,88680001134760,
 100.0,219.0,Python3,1709163221351,5807573,Stephen Kondaveti,US,120619186703150,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,342.0,Python3,1705096212682,1375731,RomainF,FR,,
 100.0,343.0,Javascript,1682705871119,2490008,ebicochineal,JP,43936521576530,
 100.0,343.0,Java,1688222253492,3677709,idzol,RU,,
-100.0,343.0,Python3,1721120279464,4384115,BendieBiene,DE,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=866|time=2024-10-31T04:11:25
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=867|time=2024-11-01T04:10:36
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -605,6 +605,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,380.0,TypeScript,1723846401093,969500,AnasShami,PS,42660504203254,
 100.0,383.0,Java,1684319329376,4870055,Avalon974,RE,,
 100.0,388.0,Javascript,1718933345906,4559916,Karne,FR,71854946860727,
+100.0,388.0,Java,1730368755031,4481025,,DE,,
 100.0,390.0,C#,1713440747241,3899168,BlackWraith,AU,,
 100.0,396.0,Go,1726864417522,3817827,optplx,FR,63033484457851,
 100.0,397.0,Javascript,1689203033912,4410918,aroary,US,92090269465555,
@@ -658,6 +659,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,582.0,Python3,1698035154720,5736284,Dexokami,CR,113733503190355,
 100.0,603.0,Python3,1715312039463,6076963,mathysEthical,FR,123418569143735,
 100.0,638.0,Dart,1712446748796,4254450,lu-noos,FR,63471723602995,
+100.0,639.0,Python3,1730386572768,4531255,Nymus,FR,,
 100.0,640.0,Ruby,1722335516789,5575451,Paul_Erdos,US,127399684305233,
 100.0,650.0,Python3,1698771654038,5089202,Pramist,GB,114764825263140,
 100.0,655.0,C#,1699395202172,5282214,marwahh,TN,,
@@ -741,7 +743,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 76.0,505.0,C#,1701728241653,989810,holyshaman,DK,,
 74.0,401.0,Javascript,1721135079924,2688290,czahrov,PL,19556511797109,
 70.0,130.0,Python3,1721781435211,5862063,Sukomanic,CA,124785889957975,
-70.0,692.0,Python3,1729002594506,4531255,Nymus,FR,,
 66.0,1156.0,Python3,1695024694175,3483399,Kabosy,FR,107057280289746,
 64.0,198.0,Python3,1727540242694,3594324,Salmonaxe,ZA,38003108760737,
 56.0,192.0,Go,1694437974481,5660920,mangosaftlama,DE,110256400710206,

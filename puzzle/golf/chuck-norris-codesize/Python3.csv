@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3943|time=2024-11-01T04:10:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3946|time=2024-11-02T04:10:07
 100.0,89.0,Python3,1700968902034,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -151,6 +151,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,108.0,Python3,1700609693646,3418200,Anodin,FR,91417847473966,
 100.0,108.0,Python3,1704014413105,333934,CrazyMerlyn,IE,20045015439951,
 100.0,108.0,Python3,1722906518446,4548021,Axolador,FR,72582224628090,
+100.0,108.0,Python3,1730504551961,4262724,Epeira,FR,,
 100.0,109.0,Python3,1553787600125,2669104,KBurov,US,19292152791924,
 100.0,109.0,Python3,1570306797189,1520032,Hydrophob,DE,,
 100.0,109.0,Python3,1570778231262,839539,madCasper,KR,11219541628592,
@@ -272,7 +273,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,115.0,Python3,1711709344369,1545901,bartlo,FR,,
 100.0,115.0,Python3,1716269299525,2584820,GrandeBagheera,AU,108418223372093,
 100.0,115.0,Python3,1719441768759,4951347,acith,FR,85757822569052,
-100.0,115.0,Python3,1724757647416,5746502,Raphtalias,CR,131986924592699,
+100.0,115.0,Python3,1724757647416,5746502,Raphtalias,CR,132521504759389,
 100.0,115.0,Python3,1727549434515,936271,Chkoupinator,FR,63680800481745,
 100.0,116.0,Python3,1554494294609,3203557,burnpanck,CH,25666559702940,
 100.0,116.0,Python3,1565066128259,3090691,faris,US,26727400671444,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,142.0,Python3,1702901492348,5748659,_vcxl,GB,115255146663801,
 100.0,142.0,Python3,1726342337693,1811761,Spacequokka,FR,78004684137514,
 100.0,142.0,Python3,1726496624901,5440994,Ronak Surana,IN,128038262215359,
-100.0,143.0,Python3,1553206264748,2050543,Cherubael,DK,13150128776541,

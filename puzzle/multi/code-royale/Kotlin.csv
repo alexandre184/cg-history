@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=84|time=2024-11-06T04:11:35
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=84|time=2024-11-07T04:10:03
 6,21.78,Kotlin,1625373271198,3740747,1845617,Shingy,AU,26010702723839,
 6,21.64,Kotlin,1660639102127,4424786,1597335,Fizimatik,BY,88480780169435,
 6,2.83,Kotlin,1528920252137,1887290,1487392,Razielwar,FR,12761113272803,
@@ -36,7 +36,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,8.42,Kotlin,1531076088164,1943357,1223140,kgautron,FR,12231900040573,
 3,7.3,Kotlin,1578099574325,2640643,2900714,ClaudiuHNS,RO,,
 3,7.19,Kotlin,1605829605089,3260350,4061750,dStulle,DE,53854800950845,
-3,1.8,Kotlin,1555930951538,2337714,659935,Melman,PL,9420688872076,
+3,1.68,Kotlin,1555930951538,2337714,659935,Melman,PL,9420688872076,
 3,1.49,Kotlin,1607041079227,3337787,1624708,lifran,US,54053746330759,
 3,0.3,Kotlin,1552840783009,2300113,1516975,TheBo,DE,,
 3,0.19,Kotlin,1560023146731,2416065,1548000,Whiteouter,CZ,33161062429262,
@@ -71,7 +71,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,9.88,Kotlin,1667204418232,4512666,4033763,Parohy,SK,,
 1,9.83,Kotlin,1544960834912,2183279,2462764,RagingCoder,HU,,
 1,9.67,Kotlin,1651747138411,4268159,4762361,AnnaMarch,FR,,
-1,9.3,Kotlin,1564934705088,2460268,1727535,qr-3,DE,,
+1,9.39,Kotlin,1564934705088,2460268,1727535,qr-3,DE,,
 1,9.25,Kotlin,1569493465382,2499415,1808011,freininghaus,DE,,
 1,9.08,Kotlin,1663083199070,4449121,3645441,Maxetselina,FR,,
 1,8.9,Kotlin,1611527156455,3402068,4157211,Omusie,RU,57968628073069,
@@ -80,6 +80,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,3.0,Kotlin,1532821679172,1977989,2227556,elKei,DE,32402862593272,
 0,7.42,Kotlin,1576098275503,2623934,3552130,R0manos,UA,38170601863960,
 0,7.32,Kotlin,1527375964811,1866370,1449054,MrAloneMahasupachai,TH,,
-0,6.67,Kotlin,1598344079748,3074403,3947567,Mokafela,IR,,
+0,6.66,Kotlin,1598344079748,3074403,3947567,Mokafela,IR,,
 0,-7.72,Kotlin,1664304162966,4471315,4582669,TheAwesomeGuy,GB,75645627806216,
 0,-8.27,Kotlin,1597938571697,3069376,2333314,Vawi,FR,47861640497445,

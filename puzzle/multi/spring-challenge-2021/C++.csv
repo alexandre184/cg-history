@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1539|time=2024-11-13T04:10:40
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1538|time=2024-11-14T04:10:39
 5,43.95,C++,1621268741623,3665384,1400179,reCurse,CA,58850847098890,
 5,40.39,C++,1718318799184,5429427,3457031,YurkovAS,RU,33020204289704,
 5,36.23,C++,1621436871978,3676222,1082988,Saelyos,FR,6965824947540,
@@ -750,7 +750,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.5,C++,1621268741623,3671707,831494,Mimvdb,NL,,
 3,24.49,C++,1621268741623,3671004,3811717,saikatoto,JP,44313103026589,
 3,24.45,C++,1621268741623,3667632,3715523,keserasera_77,JP,63407281209315,
-3,24.34,C++,1621268741623,3669265,2066063,NightRaiden,FR,,
 3,24.34,C++,1621268741623,3669003,3516802,IAPoDquoi,FR,,
 3,24.31,C++,1621268741623,3666353,4058391,salihfc,TR,54137006194451,
 3,24.26,C++,1621268741623,3666360,4024948,laserbeat,LT,63502864319903,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,25.63,C++,1621268741623,3666462,4309197,alephnul,DE,64006602646328,
 2,25.53,C++,1621268741623,3670825,4059331,douze,FR,53755803343080,
 2,25.47,C++,1622565388331,3696875,4332259,ScottytheHotty,US,63913241361346,
+2,25.47,C++,1621268741623,3666044,4325043,milkcoffee,JP,63884722601646,

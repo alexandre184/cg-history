@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29267|time=2024-11-15T04:11:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29268|time=2024-11-16T04:10:17
 100.0,29.0,Perl,1583420340367,1537792,AsaiYusuke,US,41785380851985,
 100.0,29.0,Perl,1586307156373,334009,abouvier,FR,4681436111242,
 100.0,29.0,Perl,1688507097675,2315623,Lydxn,CA,,
@@ -118,7 +118,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,45.0,Bash,1688916856939,3893564,Andriamanitra,FI,46641547586781,
 100.0,45.0,Ruby,1690481975167,557990,Wazemo,PL,1724224108740,
 100.0,45.0,Ruby,1722095724718,6132028,NicknamedTwice,GB,127813288492906,
-100.0,45.0,Ruby,1724277737758,5748659,_vcxl,GB,115255146663801,
 100.0,46.0,Perl,1455661234763,545951,AntonT,RU,1979045068345,
 100.0,46.0,Ruby,1469974216767,1122412,TheNinja,AU,3823739809641,
 100.0,46.0,Perl,1472828778524,1498755,Nyvis,FR,,
@@ -982,7 +981,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,59.0,Javascript,1682956311582,3380184,chouch,FR,,
 100.0,59.0,Ruby,1692476025124,5141204,R164,RO,92367564760197,
 100.0,59.0,Ruby,1695138066412,2510517,Turtlefight,DE,17686753344865,
-100.0,59.0,Perl,1701905844805,5748659,_vcxl,GB,115255146663801,
 100.0,60.0,Ruby,1460203864050,1000893,TristanBrismontier,CA,1996520259989,
 100.0,60.0,Javascript,1468325245915,513549,y0p,FR,,
 100.0,60.0,Javascript,1474121475185,1399382,Regulus136,FR,4335723819637,
@@ -999,3 +997,5 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Javascript,1518316885152,1853956,yoannk,FR,108956788280248,
 100.0,60.0,Javascript,1526854517286,2553302,mmottet,FR,18061071472251,
 100.0,60.0,Javascript,1527989694836,1353795,TheCrucial,PL,18581166493021,
+100.0,60.0,Javascript,1532997317038,1055481,TerenceTsang,HK,4140409655381,
+100.0,60.0,Javascript,1539610034185,1202933,NullOps,AU,13683198089751,

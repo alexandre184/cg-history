@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6167|time=2024-11-15T04:11:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=6166|time=2024-11-16T04:10:17
 100.0,57.0,Javascript,1690264997741,4966586,Rohydre,FR,,
 100.0,60.0,Javascript,1678546230422,4438505,Eric_[EGU],FR,114044329618574,
 100.0,60.0,Javascript,1680090816342,4341304,Remi.,FR,97662026388574,
@@ -161,6 +161,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,104.0,Javascript,1664219872529,5014463,EnzoLEBRUN,FR,87980101342007,
 100.0,104.0,Javascript,1668804809115,1105849,Savagge,RS,3657630992739,
 100.0,104.0,Javascript,1726876130776,3235897,Zylo,PL,25779784253696,
+100.0,104.0,Javascript,1731711173861,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,105.0,Javascript,1443311232519,1060171,Aurora,HU,2191708908911,
 100.0,105.0,Javascript,1472078234670,1164044,Visual,BG,5482099319684,
 100.0,105.0,Javascript,1479127530115,1179357,avdg,BE,28437229401065,
@@ -180,7 +181,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Javascript,1659989335166,4200491,CMarghin,MA,59376268362928,
 100.0,105.0,Javascript,1664304104551,5025755,TomBAN,FR,88564120622158,
 100.0,105.0,Javascript,1711297873799,1113070,fraxken,FR,112522024219211,
-100.0,105.0,Javascript,1718733984778,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,105.0,Javascript,1730763735470,3681367,Salutations,FR,,
 100.0,106.0,Javascript,1436639321147,239695,regseb,FR,5344624092841,
 100.0,106.0,Javascript,1446251123710,1095446,tarbomb,FR,83100206722923,
@@ -598,7 +598,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,118.0,Javascript,1683910892121,4084909,bluehipy,DE,59108125311613,
 100.0,118.0,Javascript,1718444544802,1163546,Pyou,FR,11268161804466,
 100.0,118.0,Javascript,1723203582305,3992550,foreign,FR,50980824286436,
-100.0,118.0,Javascript,1731498371012,6334373,Elhp,ES,,
+100.0,118.0,Javascript,1731498371012,6334373,Elhp,ES,133443509428635,
 100.0,119.0,Javascript,1437667457500,981349,MaciejS,PL,,
 100.0,119.0,Javascript,1449150981997,1169220,Indobiany,RU,2849621315733,
 100.0,119.0,Javascript,1483188597597,1738090,MrMoove,FR,10076698240417,

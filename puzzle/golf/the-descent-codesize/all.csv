@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5009|time=2024-11-16T04:10:17
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5012|time=2024-11-17T04:10:22
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,127666725990808,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -666,6 +666,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,55.0,Python3,1728477213993,6315597,,IN,,
 100.0,55.0,Python3,1730535113492,5911694,rodyv,AT,,
 100.0,55.0,Python3,1731687197285,1693588,AlxC,FR,130566240266631,
+100.0,55.0,Python3,1731750786760,5586880,Zimtrolle,DE,133473848195158,
 100.0,56.0,PHP,1680945356120,2288263,dbdr,UA,43448306132121,
 100.0,56.0,OCaml,1680958546877,3354337,Westicles,CX,79146641399080,
 100.0,56.0,PHP,1680959336845,3354337,Westicles,CX,79146641399080,
@@ -824,6 +825,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,59.0,Python3,1728946150884,1830625,-Rutger-,NL,,
 100.0,59.0,Javascript,1730908121940,3681367,Salutations,FR,,
 100.0,59.0,Ruby,1731662574054,2375283,VirusX,UA,46597081793240,
+100.0,59.0,Python3,1731773306303,4272137,[CG]Linkyu,FR,61815668643127,
 100.0,60.0,Python3,1680793654529,1733943,Bouga,FR,11865098962186,
 100.0,60.0,Python3,1680797326434,5135299,Antsurf,FR,94127108637688,
 100.0,60.0,Javascript,1680816051328,481564,mihei,RU,4454400756022,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,62.0,Python3,1718909005638,2074414,Lecerf,FR,16583388096318,
 100.0,62.0,Python3,1720770361559,3715590,AyD,FR,,
 100.0,62.0,Bash,1723627121651,5012617,lgrandco,VN,122659029782827,
-100.0,62.0,Python3,1727421743227,6207801,][L][,FR,128554188373182,
-100.0,62.0,Javascript,1729503995102,903179,maksmas,EE,101274743228150,

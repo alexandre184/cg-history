@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=542|time=2024-11-21T04:11:06
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=542|time=2024-11-22T04:11:03
 6,21.79,Javascript,1699808193458,5104313,5723071,MatSchaeff,CH,112973082508858,
 5,20.95,Javascript,1591694763483,3008260,3718653,invi2k,DE,,
 5,20.5,Javascript,1544027640698,2150566,1836058,SeebOmega,FR,111595923133884,
@@ -381,7 +381,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,12.62,Javascript,1658548406874,4403423,5002320,SmallTalker,JP,87562240365056,
 1,12.59,Javascript,1649362897212,4066059,4288193,MniDK09,FR,,
 1,12.59,Javascript,1527494379162,1867521,2633393,ArturGarlacz,PL,,
-1,12.38,Javascript,1560518901285,2421756,2524664,Drainman,FR,17809931963384,
+1,12.51,Javascript,1560518901285,2421756,2524664,Drainman,FR,17809931963384,
 1,12.25,Javascript,1584063280659,2701647,1870098,nubinub,FR,,
 1,12.17,Javascript,1566047364887,2469158,3416811,AiresNor,BR,31509321098100,
 1,12.06,Javascript,1572742440484,2589220,867266,Neverever,DE,,
@@ -436,7 +436,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,9.23,Javascript,1663270642340,4451355,5078869,layer8,CH,114739381236925,
 1,9.15,Javascript,1660636446126,4424747,4237414,Lighteagle,ID,,
 1,9.14,Javascript,1580852540532,2671728,2253267,snowfrogdev,CA,91617025510820,
-1,9.11,Javascript,1674760696802,4721718,5295681,ImortalBacon,US,,
+1,9.04,Javascript,1674760696802,4721718,5295681,ImortalBacon,US,,
 1,9.04,Javascript,1535493288186,2051292,2803626,Kolvin,US,,
 1,8.45,Javascript,1548440889434,2229932,3126419,delta47,CN,24655322102310,
 1,8.43,Javascript,1604747430416,3165754,3568802,Lokournan,FR,65377781497231,
@@ -523,7 +523,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,6.69,Javascript,1571768993552,2579132,3532662,TYLER,US,,
 0,6.66,Javascript,1581272883736,2675377,3670563,PascalC,ZA,40060401241447,
 0,6.63,Javascript,1698752871551,5092387,5783720,ceezur,US,,
-0,6.03,Javascript,1696111481083,5065764,5735401,oliver3,US,,
+0,6.01,Javascript,1696111481083,5065764,5735401,oliver3,US,,
 0,5.15,Javascript,1719029937612,5483208,5964020,SuperDron,UA,119292983605176,
 0,4.68,Javascript,1675112813197,4725287,5312775,SodoKun,VE,104002940670306,
 0,4.23,Javascript,1606370883292,3321058,1602130,Peek,US,,

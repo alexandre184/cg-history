@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=883|time=2024-11-23T04:10:22
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=884|time=2024-11-24T04:10:16
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -69,6 +69,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,174.0,Java,1691247741171,3300181,louisiuol,FR,,
 100.0,174.0,Java,1720608247041,5756584,PBandJ2,DE,113563760892091,
 100.0,174.0,TypeScript,1728648114352,3681367,Salutations,FR,,
+100.0,174.0,Python3,1732351987143,1687534,Drizzt_Drone38,FR,,
 100.0,175.0,C,1680436289428,2924895,trictrac,FR,23056996012330,
 100.0,175.0,C#,1680438051138,1500515,eulerscheZahl,DE,43135502422075,
 100.0,175.0,C++,1691047377988,972894,resty-daze,CN,4833160251412,
@@ -210,7 +211,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,189.0,Python3,1721378428982,2341447,algmyr,CH,16056481834828,
 100.0,189.0,Python3,1724240681922,3517922,Alex85,FR,83645305351315,
 100.0,189.0,C,1725371156333,5431732,maelemiel,FR,102252841695704,
-100.0,189.0,Python3,1732308967488,1687534,Drizzt_Drone38,FR,,
 100.0,190.0,Javascript,1680883268589,5079960,Volkan_Guller,FR,90287022009233,
 100.0,190.0,Java,1681238429621,4292379,Chairman_of_the_Borg,US,65369007071182,
 100.0,190.0,C++,1692080218517,530441,Prime541,FR,75513904859150,
@@ -754,6 +754,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 82.0,912.0,Python3,1683901655883,5494772,satoyuyapyaa,JP,,
 80.0,250.0,Python3,1718964681449,5624042,Theperk,FR,125520783386224,
 78.0,261.0,Python3,1730480185465,6183730,barabanpan,UA,130663001780578,
+78.0,575.0,Python3,1732385258825,3322285,EnidLareg,FR,43066025741695,
 78.0,1091.0,Javascript,1692207057458,4659054,TobakElod,HU,,
 76.0,505.0,C#,1701728241653,989810,holyshaman,DK,,
 74.0,401.0,Javascript,1721135079924,2688290,czahrov,PL,19556511797109,

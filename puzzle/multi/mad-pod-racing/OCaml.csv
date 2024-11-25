@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=64|time=2024-11-24T04:10:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=64|time=2024-11-25T04:11:14
 6,33.08,OCaml,1547438460643,2219543,925695,Boulet,FR,29121141951376,
 6,24.79,OCaml,1643122347296,3983738,4679312,thib93,FR,,
 5,38.31,OCaml,1597343911674,3062089,154354,Fougere,FR,19964083097688,
@@ -7,8 +7,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,29.7,OCaml,1522010852181,1747194,2522160,Jujube,FR,17841648516484,
 5,24.43,OCaml,1553022473949,2305373,1498581,ShamoX,FR,,
 5,23.81,OCaml,1496181292893,1307688,359529,vg0r,FR,21959982471260,
-5,21.64,OCaml,1636831612235,3895189,4595282,Distic,FR,,
-5,15.77,OCaml,1595808804027,3043576,908208,Belackarad,GB,,
+5,21.78,OCaml,1636831612235,3895189,4595282,Distic,FR,,
+5,15.72,OCaml,1595808804027,3043576,908208,Belackarad,GB,,
 5,9.08,OCaml,1486579588579,959795,1818596,wec,FR,11019766097430,
 5,0.28,OCaml,1517863327079,1649879,2308590,teluob,FR,,
 5,-0.1,OCaml,1530836846258,1941236,1452353,alphaUMi,FR,,
@@ -61,5 +61,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,10.06,OCaml,1598344187579,3074406,3938495,o11s,NZ,52644949220387,
 2,0.82,OCaml,1606971376679,3336053,4091797,kunger99,US,,
 1,15.37,OCaml,1724007928326,5556141,6232084,aotehusantoehustaoeu,US,,
-1,15.27,OCaml,1463326545223,460806,1127109,abeaumont,ES,2575500989089,
+1,15.25,OCaml,1463326545223,460806,1127109,abeaumont,ES,2575500989089,
 1,1.38,OCaml,1730204795069,5608226,4670931,yodar101,DE,,

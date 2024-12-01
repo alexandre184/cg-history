@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5062|time=2024-11-30T04:10:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5065|time=2024-12-01T04:14:08
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,127666725990808,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -316,6 +316,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,49.0,Python3,1730869099146,4454770,AbrahamJLR,VE,95056724366920,
 100.0,49.0,Python3,1732544111434,6115420,scresto,FR,134250545163285,
 100.0,49.0,Python3,1732909280041,4037601,Jelafo,DE,,
+100.0,49.0,Python3,1733007268997,4003567,FoxAlfabravo_101,FR,58959080146419,
 100.0,50.0,Kotlin,1680945925395,3996809,VizGhar,SK,82217880354500,
 100.0,50.0,Kotlin,1680946761635,2288263,dbdr,UA,43448306132121,
 100.0,50.0,Python3,1681304258906,4110073,souta_1326,JP,57746784258907,
@@ -850,7 +851,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Python3,1681851139021,4258711,FredericLocquet,FR,125739728070045,
 100.0,60.0,Python3,1682002092603,4745511,Markus88,AT,,
 100.0,60.0,Javascript,1682286536866,155774,dwarfie,FR,17785582865119,
-100.0,60.0,Javascript,1682503395124,3513265,DaNinja,IE,35022107863170,
+100.0,60.0,Javascript,1682503395124,3513265,DaNinja,JP,35022107863170,
 100.0,60.0,Python3,1683977987861,4866464,vjules,FR,,
 100.0,60.0,Javascript,1684711105304,2371389,Franta,CZ,16642908084028,
 100.0,60.0,Javascript,1685003466634,177235,Justalk,FR,83912529145807,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,62.0,Python3,1702566164778,4814175,Japalenos,FR,80997244701779,
 100.0,62.0,Python3,1702841537376,4136008,jerry_laevis,FR,,
 100.0,62.0,Javascript,1706564834167,5280865,TheVeiler,FR,118162881583099,
-100.0,62.0,Python3,1708536805365,1694829,Tanvir_Ahmed,BD,112382364245265,

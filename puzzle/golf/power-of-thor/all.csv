@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=48556|time=2024-12-08T04:10:41
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=48571|time=2024-12-09T04:11:28
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -137,6 +137,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,76.0,Python3,1675781238760,4641581,hoody7,PL,,
 100.0,76.0,Python3,1681019758502,4263196,yechielv,IL,87806028604243,
 100.0,76.0,Javascript,1692282576526,557990,Wazemo,PL,1724224108740,
+100.0,76.0,Ruby,1733692906700,6357418,rcoder1,HN,133469083510240,
 100.0,77.0,Ruby,1595232474806,735487,amurushkin,RU,2111605585777,
 100.0,77.0,C,1712702949983,2377220,arstneio,RU,,
 100.0,77.0,ObjectiveC,1712703040713,2377220,arstneio,RU,,
@@ -335,6 +336,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,88.0,Ruby,1718639889049,603699,c-monster,US,125193160278870,
 100.0,88.0,Ruby,1718960702588,6043581,Rwanounounou,FR,122027324927378,
 100.0,88.0,Javascript,1727903854763,558770,lD,FR,7979637651523,
+100.0,88.0,Python3,1733690579350,6357418,rcoder1,HN,133469083510240,
 100.0,89.0,Ruby,1436242716264,464006,Ryugate,JP,1720477560450,
 100.0,89.0,Ruby,1454847540882,411945,Ripoder,UA,16212372198279,
 100.0,89.0,Ruby,1454911168485,1155071,Khdoop,BG,2942347979654,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,106.0,Python3,1565712560613,3434762,LabyNeurony,FR,32306402089781,
 100.0,106.0,Javascript,1568490640453,1923902,gkalpak,GR,33993501409918,
 100.0,106.0,Python3,1581895237218,3657691,D3structor,ES,,
-100.0,106.0,Python3,1583014314089,3692788,Naaranja,FR,43065044713589,
-100.0,106.0,Javascript,1598358974596,204179,resistcorp,FR,44032889515354,

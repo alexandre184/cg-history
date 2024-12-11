@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4320|time=2024-12-10T04:18:14
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4321|time=2024-12-11T04:11:30
 100.0,70.0,Python3,1683416717945,3354337,Westicles,CX,79146641399080,
 100.0,73.0,Python3,1665432106363,3845610,pardouin,FR,60364063762936,
 100.0,76.0,Python3,1680716899135,4341304,Remi.,FR,97662026388574,
@@ -171,6 +171,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,163.0,Python3,1652270511689,1802967,Meruem,FR,31992166318610,
 100.0,163.0,Python3,1690976641619,3965571,Smekarn,SE,50557362213985,
 100.0,163.0,Python3,1708133267758,181432,pjwerneck,BR,133926881809401,
+100.0,163.0,Python3,1733872615455,5485744,jrl86,FR,,
 100.0,164.0,Python3,1434448836672,879928,Vinze7,FR,,
 100.0,164.0,Python3,1468612883244,821152,dianhenglau,MY,5654614166010,
 100.0,164.0,Python3,1500347268447,1378506,MattGately,US,,
@@ -506,6 +507,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,180.0,Python3,1712397371059,3410351,Deltaspace,RU,31254101171655,
 100.0,180.0,Python3,1730573328697,4146560,DrNoChance,GB,127507440631570,
 100.0,180.0,Python3,1733502286157,3583775,Lethic,RU,75283363447241,
+100.0,180.0,Python3,1733830705628,5567903,Skarcz,CZ,,
 100.0,181.0,Python3,1456769669031,1084203,lipkab,HU,4097167211081,
 100.0,181.0,Python3,1471978922834,1188691,WhatdaWhat,US,,
 100.0,181.0,Python3,1477132673054,1479264,ArbustRe,FR,4956547000583,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,196.0,Python3,1641211821154,3817827,optplx,FR,63033484457851,
 100.0,196.0,Python3,1646600765210,4755370,TheoFrancois75,FR,79259220079408,
 100.0,196.0,Python3,1648822003221,4149204,Raiku,FR,57824600768884,
-100.0,196.0,Python3,1648916638501,1109979,Gloopy,FR,5855023276100,
-100.0,196.0,Python3,1656595428308,4437700,_Skeletor,LT,67852206921540,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=260|time=2024-12-12T04:11:19
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=260|time=2024-12-13T04:11:21
 5,22.78,Javascript,1512175514020,1578715,1343111,Thal,FR,4602256436099,
 5,17.51,Javascript,1486209771890,949626,1443458,devhanoy,FR,10428769670292,
 5,16.57,Javascript,1620823898010,3618614,3807710,-SC-,FR,57805222966170,
@@ -183,9 +183,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,9.83,Javascript,1523099596666,1764619,1386924,Ylec,FR,4182391658006,
 2,9.76,Javascript,1564656675177,2458175,1109881,Salsiccia_affumicata,IT,11631190889877,
 2,9.53,Javascript,1488801740337,1075580,1400060,manolopm,ES,69588024154950,
+2,9.53,Javascript,1674419374590,4717345,2315158,luigi_gelato,DE,,
 2,9.52,Javascript,1485129808570,933711,1488290,AndreApp,BR,,
 2,9.47,Javascript,1614866150192,3449431,3917160,lDarkness,CA,,
-2,9.45,Javascript,1674419374590,4717345,2315158,luigi_gelato,DE,,
 2,9.29,Javascript,1549826017820,2244326,1969165,Pomee,FR,,
 2,9.25,Javascript,1485648574548,942661,834196,GiannisSte,GR,2709699266668,
 2,9.23,Javascript,1610475150497,3387569,2600177,FrancoM,AR,62237881749235,
@@ -195,8 +195,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,8.07,Javascript,1512065024071,1577142,594635,Solid,IS,52510643792425,
 2,7.77,Javascript,1519475935106,1669972,1515087,bloepe,DE,5439955127283,
 2,7.31,Javascript,1484060604216,917156,1641995,skAstro,CH,,
-2,5.25,Javascript,1481904174601,890808,1676162,xyz42,DE,,
-2,4.42,Javascript,1515715910216,1623870,1635903,ElGuercio,IT,16606505366311,
+2,5.2,Javascript,1481904174601,890808,1676162,xyz42,DE,,
+2,4.55,Javascript,1515715910216,1623870,1635903,ElGuercio,IT,16606505366311,
 2,4.01,Javascript,1587130968814,2804608,3162413,thescriv,FR,42815466759904,
 2,3.8,Javascript,1499700453062,1391123,2086201,mchl12,NL,50637883083035,
 1,20.42,Javascript,1680712189680,4789476,5418514,paulagibrim,BR,,

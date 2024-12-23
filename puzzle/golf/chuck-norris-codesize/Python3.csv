@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4000|time=2024-12-22T04:09:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4000|time=2024-12-23T04:10:36
 100.0,89.0,Python3,1700968902034,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -282,6 +282,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,115.0,Python3,1724757647416,5746502,Raphtalias,CR,133180321051139,
 100.0,115.0,Python3,1727549434515,936271,Chkoupinator,FR,63680800481745,
 100.0,115.0,Python3,1732457225339,1688486,Barl,FR,,
+100.0,115.0,Python3,1734888117865,5485744,jrl86,FR,,
 100.0,116.0,Python3,1554494294609,3203557,burnpanck,CH,25666559702940,
 100.0,116.0,Python3,1565066128259,3090691,faris,US,26727400671444,
 100.0,116.0,Python3,1570392570801,1535449,Kisioj,PL,5855157999885,
@@ -631,7 +632,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,128.0,Python3,1714632632453,6038687,Conductor,IT,121798562382307,
 100.0,128.0,Python3,1729031757711,1830625,-Rutger-,NL,,
 100.0,128.0,Python3,1729353279933,453753,Icemore,SG,,
-100.0,128.0,Python3,1733921946446,5485744,jrl86,FR,,
 100.0,129.0,Python3,1553373106556,1903031,hard-coded,KR,27487549921318,
 100.0,129.0,Python3,1555554425617,2638940,Pergunta2,PT,25943128463369,
 100.0,129.0,Python3,1558281397946,1496550,fmatray,FR,5571620428196,
@@ -740,7 +740,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,132.0,Python3,1634304297660,1869363,Ruukas,DK,111916164193936,
 100.0,132.0,Python3,1645103116999,4083537,DavidAvsajanishvili,GE,55847109957826,
 100.0,132.0,Python3,1653742029455,4589241,Setra022,FR,107592209257167,
-100.0,132.0,Python3,1657828378145,4897675,Tybos,FR,,
+100.0,132.0,Python3,1657828378145,4897675,Tybos,CH,,
 100.0,132.0,Python3,1660583735067,1121668,tinoooooo,TH,89196860145658,
 100.0,132.0,Python3,1662840301472,3328889,N4n4k1,FR,,
 100.0,132.0,Python3,1679686374103,4740180,guigui_p,FR,85110863078033,

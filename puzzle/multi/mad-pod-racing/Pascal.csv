@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=131|time=2024-12-23T04:10:36
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=131|time=2024-12-24T04:10:31
 5,34.32,Pascal,1578637596894,2645738,3629215,Kayode,US,,
 5,27.55,Pascal,1645898962513,4015388,4718620,Hieronymus,DE,77855568768142,
 5,1.86,Pascal,1678650277366,4764310,1650736,platzwart,DE,,
@@ -99,8 +99,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,7.14,Pascal,1475215506773,730714,1562234,J-Wag,US,7140721616660,
 3,6.85,Pascal,1487941865413,984783,1800451,Iwoks,FR,10830025728633,
 3,6.31,Pascal,1630836916749,3813461,3210529,EddyZ,FR,,
-3,5.81,Pascal,1707405255511,5309077,5952387,Corpsman,DE,118898826384653,
-3,2.98,Pascal,1605155631364,3173882,2901581,KHR,VN,,
+3,5.8,Pascal,1707405255511,5309077,5952387,Corpsman,DE,118898826384653,
+3,2.92,Pascal,1605155631364,3173882,2901581,KHR,VN,,
 3,2.47,Pascal,1687248516290,4977978,1190477,codeplayer,FR,,
 3,-5.64,Pascal,1565109220696,2461457,999192,Idefix,FR,9858267503181,
 2,20.32,Pascal,1496427852091,1311569,2027792,kiYo,CH,12922353984033,
@@ -116,7 +116,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,11.54,Pascal,1495151784067,1273913,2004233,MrShoor,US,,
 2,9.65,Pascal,1481330041085,881346,1495262,djniks,US,,
 2,7.78,Pascal,1466472922017,505760,1203689,SampledMan,US,,
-2,7.0,Pascal,1632661212309,3842653,4528765,Luan16,ZA,,
+2,6.99,Pascal,1632661212309,3842653,4528765,Luan16,ZA,,
 2,0.83,Pascal,1526666593813,1856252,2622344,BlackIce,DE,,
 1,15.41,Pascal,1543870982225,2148366,3020605,AstroFest-2018-Mariana-Zhuk,UA,23633797203163,
 1,15.33,Pascal,1467750832256,573479,1486709,HOffen,DE,,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=446|time=2024-12-28T04:09:49
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=446|time=2024-12-29T04:09:53
 ,46.18,C++,1539035001758,2090524,1400179,reCurse,CA,58850847098890,
 ,45.15,C++,1556085762517,2339355,1629259,Marchete,ES,61997162908277,
 ,42.36,C++,1654497858120,4313158,2376044,NecroSchmurf_IV,FR,81736923758256,
@@ -371,6 +371,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.87,C++,1523618325812,1771686,2241559,eskeln,UA,16149555164631,
 ,0.87,C++,1419451058567,256970,749594,PHPert,NL,,
 ,0.87,C++,1449300765882,366545,1186774,Malthael,DE,2963447967810,
+,0.86,C++,1418812679994,253917,188245,latentninja,IN,,
 ,0.85,C++,1418819274167,249127,494132,MartynasMiniotas,LT,,
 ,0.85,C++,1449259132726,366477,1192495,AlexielTms,FR,3124605768000,
 ,0.85,C++,1489430882346,1092290,1447295,Roszondas,RU,4628811002487,
@@ -391,6 +392,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.8,C++,1423738503633,269816,838259,Giperbore1,RU,,
 ,0.8,C++,1430228397417,303356,905321,Tfp123,GB,,
 ,0.8,C++,1421926100576,254467,284070,gildas,AU,,
+,0.8,C++,1421992045978,254466,810667,,IN,,
 ,0.79,C++,1418939445068,254446,645995,,UA,,
 ,0.79,C++,1720079765662,5522198,6164460,learntocode1412,VN,,
 ,0.79,C++,1467194551680,538193,925294,Jesaipo,FR,95349242396397,
@@ -405,6 +407,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.78,C++,1419481214312,254689,693611,,IN,,
 ,0.78,C++,1434095095495,308650,939824,alextrax,IL,,
 ,0.78,C++,1424458251353,281586,533622,ksamykandil,EG,,
+,0.78,C++,1419381024299,256971,364871,Yogeshwar,IN,,
 ,0.78,C++,1419181579257,253303,739404,,US,,
 ,0.78,C++,1421786970598,254556,809243,kashef,EG,,
 ,0.78,C++,1473932596806,664182,1535987,thisiswhereitype,GB,,
@@ -441,7 +444,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.73,C++,1419052388172,254659,663150,zeke8402,US,3397814991129,
 ,0.73,C++,1436862472212,311234,975604,,EG,,
 ,0.73,C++,1418992677290,257084,711335,Neowin,US,,
-,0.73,C++,1421992045978,254466,810667,,IN,,
 ,0.73,C++,1436515059322,310950,971788,,BN,,
-,0.61,C++,1418812679994,253917,188245,latentninja,IN,,
-,0.58,C++,1419381024299,256971,364871,Yogeshwar,IN,,

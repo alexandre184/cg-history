@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1006|time=2025-01-02T04:10:22
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1005|time=2025-01-03T04:10:32
 4,35.91,Python3,1728838982896,5596813,1593992,nierin,FR,6909840889019,
 4,32.29,Python3,1584731202088,2709863,2970414,Fangel,FR,23748356777542,
 4,30.3,Python3,1584699846376,2708339,3436443,Flo_2,FR,32793283199584,
@@ -412,7 +412,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,16.03,Python3,1702769804211,5141546,4992075,RogersMath,US,123092925862446,
 2,15.99,Python3,1615668742906,3461286,4227759,sdf_iain,US,,
 2,15.91,Python3,1584699978914,2708637,1506762,Monkey_Brain,CH,,
-2,15.9,Python3,1693474230413,5041141,4847242,IvanLendl,FR,,
 2,15.87,Python3,1584699292748,2707221,2565116,Jimmy404,US,,
 2,15.87,Python3,1690484169694,5014853,1571916,pixelated,US,6844238306013,
 2,15.86,Python3,1700579186493,5112256,2130387,sChmarc,DE,60174243237865,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,6.17,Python3,1724691512094,5561038,5684971,AbhinavBajaj,IN,,
 0,5.57,Python3,1735219295305,5688496,6429605,modern_minecraft,GB,136372622047521,
 0,3.76,Python3,1584699901094,2708465,3516768,matiberk,AR,35124485267783,
+0,3.75,Python3,1584699288955,2707212,1850671,buggystyle,FR,11455503159365,

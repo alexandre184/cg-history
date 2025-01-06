@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2440|time=2025-01-05T04:09:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2441|time=2025-01-06T04:10:36
 100.0,31.0,Perl,1681462065231,5436334,saito_ta,JP,102476026435385,
 100.0,31.0,Perl,1692993388511,2928146,LolCat,MU,22538133010433,
 100.0,32.0,Perl,1680847097265,2315623,Lydxn,CA,,
@@ -373,7 +373,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,93.0,Python3,1733685047492,6019752,Rann,ID,135152708038565,
 100.0,94.0,Python3,1680175530003,3731945,[CG]ClementHammel,FR,93777485620816,
 100.0,94.0,Ruby,1683476821197,1802967,Meruem,FR,31992166318610,
-100.0,94.0,Python3,1690989945498,5006317,Ali-Kanbar,LB,,
+100.0,94.0,Python3,1690989945498,5006317,Ali-Kanbar,LB,136692969219284,
 100.0,94.0,Python3,1705608230613,3904540,Queuebee,NL,46905060497858,
 100.0,94.0,Python3,1710444226485,4785778,Pharallaxe,BE,80756163394679,
 100.0,94.0,Python3,1711382870178,4914385,nico4633,FR,,
@@ -493,6 +493,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,109.0,C++,1725276875881,3235897,Zylo,PL,25779784253696,
 100.0,109.0,C++,1726775515894,1399382,Regulus136,FR,4335723819637,
 100.0,109.0,Python3,1735959449493,1675720,AxFab,FR,15422957143535,
+100.0,109.0,Python3,1736120156278,1830625,-Rutger-,NL,,
 100.0,110.0,Python3,1680808474065,5365556,kanelugodeu,FR,,
 100.0,110.0,Python3,1682185272769,4695112,Maxime01,RO,76921182601493,
 100.0,110.0,Python3,1690291120801,1382590,Cristiano,ES,7128351616620,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,267.0,Python3,1680175540015,5099590,,KR,,
 100.0,267.0,Python3,1680175670012,4240162,blueCypher,RO,82500087525448,
 100.0,267.0,Java,1721152793899,897547,Layfown,FR,12554826471482,
-100.0,269.0,Javascript,1680175670012,4776299,soh75,FR,92676047072976,

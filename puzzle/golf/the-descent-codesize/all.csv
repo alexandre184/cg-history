@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5192|time=2025-01-09T04:10:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5200|time=2025-01-10T04:10:35
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,127666725990808,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -760,6 +760,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,56.0,Python3,1734735014445,3876827,Molrn,FR,132072787568172,
 100.0,56.0,Python3,1734760934186,2959345,xsi256,JP,134567000820534,
 100.0,56.0,Python3,1735058512085,2914006,unicornician,DE,22684862647396,
+100.0,56.0,Python3,1736417769028,1904082,WIlChrist,FR,113083226652352,
 100.0,57.0,Javascript,1680921870255,2315623,Lydxn,CA,,
 100.0,57.0,Kotlin,1680946341862,3354337,Westicles,CX,79146641399080,
 100.0,57.0,Kotlin,1680949946401,2923506,darkhorse64,FR,23496414257567,
@@ -788,6 +789,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,57.0,Python3,1727516252889,6292234,TomasNeupauer,SK,130090960745958,
 100.0,57.0,Python3,1729761319656,4781104,personne1248,FR,,
 100.0,57.0,Ruby,1730229395438,6274961,BeckyTuxedo,MY,129267442612276,
+100.0,57.0,Python3,1736462393885,6434272,Metalowy,PL,,
 100.0,58.0,Ruby,1681022464262,4592610,SiddharthShyniben,IN,74035242117015,
 100.0,58.0,Javascript,1681201323410,4341304,Remi.,FR,97662026388574,
 100.0,58.0,Javascript,1682273721801,2565497,vladislao,RU,18197468031147,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,62.0,C,1680939008138,4341304,Remi.,FR,97662026388574,
 100.0,62.0,ObjectiveC,1680939034629,4341304,Remi.,FR,97662026388574,
 100.0,62.0,C,1680940142222,2288263,dbdr,UA,43448306132121,
-100.0,62.0,ObjectiveC,1680940196674,2288263,dbdr,UA,43448306132121,
-100.0,62.0,C,1680956784510,3354337,Westicles,CX,79146641399080,

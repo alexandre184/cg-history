@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=48905|time=2025-01-12T04:10:10
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=48915|time=2025-01-13T04:10:54
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -78,6 +78,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,57.0,Ruby,1656924472670,4759510,Darleanow,FR,79782263306586,
 100.0,57.0,Ruby,1662566605820,2142961,masterpoo,FR,43088841158401,
 100.0,57.0,Javascript,1690264997741,4966586,Rohydre,FR,,
+100.0,57.0,Ruby,1736683091144,6283415,iShowCode,TR,,
 100.0,58.0,Ruby,1631390360822,1073247,_NikJ,RS,2509638482149,
 100.0,58.0,Ruby,1640172861764,4641581,hoody7,PL,,
 100.0,58.0,Ruby,1712535624871,5805750,curraco,ES,114522123369358,
@@ -199,6 +200,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,82.0,Python3,1680770578214,5365556,kanelugodeu,FR,,
 100.0,82.0,Swift,1693662821509,2928146,LolCat,MU,22538133010433,
 100.0,82.0,Ruby,1711016013894,3376384,tierrarica616,CU,29892445962458,
+100.0,82.0,Python3,1736682767184,6283415,iShowCode,TR,,
 100.0,83.0,Ruby,1501490840039,2021126,FPSCUBE,FR,12916810121106,
 100.0,83.0,Python3,1637573209163,490588,Uljahn,RU,23956705948685,
 100.0,83.0,Python3,1645747059573,4619569,moustave,FR,85343827289252,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,106.0,Javascript,1446251123710,1095446,tarbomb,FR,83100206722923,
 100.0,106.0,Javascript,1447334414895,1144327,Ben_da_Moose,US,,
 100.0,106.0,Javascript,1450292923507,1188192,mandrak3,DE,2953906491344,
-100.0,106.0,Python3,1477430604055,1527408,NiXerasse,RU,5690944765234,
-100.0,106.0,Bash,1482078867102,425114,gluk47,RS,3114458536182,

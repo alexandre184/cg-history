@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=172|time=2025-01-14T04:09:57
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=172|time=2025-01-15T04:10:09
 6,27.13,Perl,1610308275961,3385685,4117944,BenjaminBrumaire,FR,57138088503605,
 6,11.72,Perl,1523465041155,1769612,1991984,MicheL,FR,18593518277662,
 5,36.5,Perl,1676447549806,4740260,4687360,thomas.schuerger,DE,77623682146098,
@@ -146,7 +146,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,10.6,Perl,1475050260143,720081,1611018,sisko,NZ,,
 3,10.28,Perl,1632947050981,3846855,4533685,piaf,CA,,
 3,9.79,Perl,1537796051358,2078497,2868749,uwe,DE,,
-3,9.63,Perl,1551797793274,2264162,908342,RetroVem,HU,32046744170581,
+3,9.76,Perl,1551797793274,2264162,908342,RetroVem,HU,32046744170581,
 3,8.7,Perl,1474653990547,690624,1586038,Personwithhat,US,,
 3,8.58,Perl,1521282184511,1733896,2513355,psychon,FR,,
 3,8.52,Perl,1652211509027,4279073,4893398,standbythree,CA,85235784604869,
@@ -159,8 +159,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,14.88,Perl,1467300088055,546762,1482134,marax,FR,,
 2,14.52,Perl,1470916228979,623505,1507868,WojoMc,PL,,
 2,13.22,Perl,1492645804055,1178531,1953001,perljam,US,12202154990936,
-2,11.86,Perl,1605703865593,3244714,4068640,DerChristianS,DE,,
-2,9.56,Perl,1598488476294,3076225,3951381,Buggless,CL,,
+2,11.84,Perl,1605703865593,3244714,4068640,DerChristianS,DE,,
+2,9.46,Perl,1598488476294,3076225,3951381,Buggless,CL,,
 2,9.17,Perl,1606927714294,3335108,4091103,BChe,PT,,
 2,8.01,Perl,1473274821429,654049,1532239,Adifo,BE,,
 2,6.15,Perl,1502330260075,1420179,2126291,RolandoQuiros,CR,13880238956004,

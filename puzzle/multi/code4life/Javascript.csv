@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=338|time=2025-01-16T04:09:47
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=338|time=2025-01-17T04:10:19
 5,25.38,Javascript,1519149447677,1665371,1861852,Cramer,DE,13289802969874,
 5,22.03,Javascript,1519847952087,1675367,1707060,FreemanLambda,AT,116895866036631,
 5,22.0,Javascript,1580579911885,2667510,416762,Khao,CA,2035557596161,
@@ -291,6 +291,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,12.85,Javascript,1683501848375,4817412,3665606,UndersunIO,FR,111583289780781,
 0,12.85,Javascript,1595617578588,3041641,3467873,JordanBerger,FR,33506003832796,
 0,12.85,Javascript,1612368083343,3416433,2860327,TranNhatLinh,VN,,
+0,12.83,Javascript,1553878293179,2315986,2839667,Ravishan,LK,25667795255207,
 0,12.82,Javascript,1727972652028,5590290,6307848,Bayous76,FR,,
 0,12.81,Javascript,1699783360410,5104057,5801888,akulbek,RU,,
 0,12.8,Javascript,1540151536932,2104753,2872849,Maela,FR,53790148643310,
@@ -298,7 +299,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,12.77,Javascript,1616763042732,3476609,4248386,veerunica,SE,,
 0,12.77,Javascript,1532078449439,1959586,1880136,jeromete,FR,11418228948006,
 0,12.75,Javascript,1647187780633,4032357,4787855,Fresh_coder,US,80112907235547,
-0,12.75,Javascript,1553878293179,2315986,2839667,Ravishan,LK,25667795255207,
 0,12.75,Javascript,1612947371487,3424671,4090352,yunus-emreee67,TR,,
 0,12.74,Javascript,1617810353254,3491168,4267016,louislspn,FR,61588341064812,
 0,12.72,Javascript,1517573061690,1645819,2445390,TrAkA1s,LV,,
@@ -322,7 +322,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,9.05,Javascript,1696496700332,5069164,5197378,JulienGuilbaud,FR,112546144733353,
 0,7.28,Javascript,1700165438801,5108225,5804634,davidDalsace,FR,,
 0,6.83,Javascript,1526147910917,1850360,1856647,saulane,FR,,
-0,3.16,Javascript,1710232875803,5338164,814685,AthosPyte,NO,5617445240242,
+0,3.04,Javascript,1710232875803,5338164,814685,AthosPyte,NO,5617445240242,
 0,2.09,Javascript,1554454834119,2322200,3126419,delta47,CN,24655322102310,
 0,1.46,Javascript,1689793246811,5007710,5456722,CodeWithMarley,US,103809906752965,
 0,1.45,Javascript,1523824790445,1774572,2522561,ncxzxcvbvcx,RU,,

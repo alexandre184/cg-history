@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=38|time=2025-01-21T04:10:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=38|time=2025-01-22T04:10:21
 3,15.91,Bash,1583424247521,2695270,1487168,FatIvan,GB,12794968553694,
 3,15.56,Bash,1571937210251,2580960,2306291,BadBurger,FI,15669153254878,
 1,25.37,Bash,1522528758010,1755140,1408492,Ptit-g,FR,4317392237915,
@@ -22,7 +22,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,7.34,Bash,1631618793427,3829635,4512086,smallfrog,TW,70425709983613,
 0,7.3,Bash,1621441535174,3676396,4349990,Gvainator,US,,
 0,7.16,Bash,1626968432636,3762509,4440977,HEIST,PH,,
-0,6.95,Bash,1633048856523,3848045,4537212,blocman7,US,71112484206708,
+0,7.12,Bash,1633048856523,3848045,4537212,blocman7,US,71112484206708,
 0,6.65,Bash,1706275160252,5298343,5935040,tensai_da,VN,,
 0,6.04,Bash,1719745329402,5517860,6160517,skywalker9892,IN,,
 0,6.01,Bash,1682465457324,4807418,5452706,Mahlon,US,,
@@ -30,7 +30,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,5.88,Bash,1733339525620,5640719,5245852,guy23,US,,
 0,5.85,Bash,1628848591946,3790350,4452094,masongtxr,VN,68351848802888,
 0,5.84,Bash,1641908308418,3967301,4687706,oceanescorpion,FR,,
-0,4.96,Bash,1716358041720,5384478,6071914,zach_8,SG,,
+0,5.12,Bash,1716358041720,5384478,6071914,zach_8,SG,,
 0,-0.63,Bash,1695661822009,5060824,5643434,tony-chopper4,US,127961144819713,
 0,-1.39,Bash,1627817509082,3775089,4426423,justas27,LT,,
 0,-1.4,Bash,1716470393403,5385965,6091825,mohramed,FR,,

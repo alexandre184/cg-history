@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=237|time=2025-01-27T04:10:25
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=237|time=2025-01-28T04:10:17
 6,38.68,Haskell,1665368051473,4486437,5114798,np.binh,VN,,
 6,38.5,Haskell,1665143752282,4483767,5107677,lingcoding,VN,,
 6,38.15,Haskell,1591261783563,3002994,2491651,Nedog,TW,17474883264870,
@@ -20,7 +20,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,29.38,Haskell,1476419843808,759640,1395166,dogggg,US,7624233151044,
 5,27.13,Haskell,1688468405596,4994101,3844632,hasklet,PL,90734700399773,
 5,25.37,Haskell,1604769942874,3166441,3996096,Sakisan,BE,51025781973491,
-5,23.08,Haskell,1520193032872,1690484,1454522,santolucito,US,4668620131421,
+5,23.0,Haskell,1520193032872,1690484,1454522,santolucito,US,4668620131421,
 5,18.53,Haskell,1603114851867,3139654,2289515,Relu_Avali,SE,15445404812779,
 5,12.16,Haskell,1493229068442,1213748,1036108,eiriksfa,NO,,
 5,1.31,Haskell,1597569442249,3064932,271931,funky_bibimbap,SG,,
@@ -48,7 +48,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,16.31,Haskell,1498489345546,1349879,1811122,Emmatipate,SE,13169591307646,
 4,16.27,Haskell,1467702053269,572324,1429848,LudoBike,FR,81824744216351,
 4,16.26,Haskell,1522735584104,1757471,2431241,timCF,EE,,
-4,16.24,Haskell,1603068408026,3138985,1385902,Skeleton.T,JP,16408298930815,
+4,16.15,Haskell,1603068408026,3138985,1385902,Skeleton.T,JP,16408298930815,
 4,16.09,Haskell,1490617973664,1111930,1581404,Archimidis,GR,,
 4,15.89,Haskell,1524828140451,1818912,2138632,shriekingnoise,AR,,
 4,15.61,Haskell,1506624675372,1467950,903499,tauli,DE,,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=103|time=2025-02-01T04:09:49
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=103|time=2025-02-02T04:09:22
 6,33.98,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,31.22,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,30.37,Clojure,1480636657283,850106,1674411,Boze,CA,,
@@ -64,7 +64,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,14.3,Clojure,1473440440851,657837,1520914,pickten,US,,
 3,14.01,Clojure,1579948059466,2661320,3585327,FelixStridsberg,SE,,
 3,13.84,Clojure,1619574426903,3521852,3392548,servarl,RU,,
-3,13.66,Clojure,1475045375594,719759,1592894,maxagaze,NO,,
+3,13.77,Clojure,1475045375594,719759,1592894,maxagaze,NO,,
 3,13.65,Clojure,1619412884020,3517896,2026441,artur.zabeyvorota,NO,,
 3,13.31,Clojure,1687268880694,4979308,1500269,e-user,DE,,
 3,13.27,Clojure,1733346177419,5640782,6387475,speedyspeedboi69,US,,
@@ -73,7 +73,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,12.76,Clojure,1661806170259,4435876,1757803,antko,RU,,
 3,12.06,Clojure,1474296922014,669459,1539559,shadowdancer,AR,,
 3,12.03,Clojure,1590765217615,2996570,1574921,Variance,US,,
-3,11.74,Clojure,1643761921004,3991308,4688096,StrykeTruanard,GB,76558046976779,
+3,11.82,Clojure,1643761921004,3991308,4688096,StrykeTruanard,GB,76558046976779,
 3,11.68,Clojure,1467643818218,571380,982970,SrijayanthSridhar,IN,,
 3,11.38,Clojure,1560370495741,2420206,3009873,Kineolyan,FR,32394008868052,
 3,11.08,Clojure,1482963338559,905074,1762766,boskop,PT,,
@@ -82,7 +82,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,9.57,Clojure,1476479313338,761362,1573123,LBJ,DK,,
 3,9.57,Clojure,1661268578954,4431059,2491829,anil9,SE,89130325695961,
 3,8.57,Clojure,1525741707286,1845778,2043161,cantido,US,13147824263518,
-3,3.18,Clojure,1466035041315,499399,1428969,Cpt.Kolute,DE,4673151121497,
+3,3.34,Clojure,1466035041315,499399,1428969,Cpt.Kolute,DE,4673151121497,
 3,-3.32,Clojure,1494189572401,1225943,1007647,NagMacFeegle,DE,,
 2,16.86,Clojure,1466243856474,502190,1470126,Menschenkindlein,UA,,
 2,16.1,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,

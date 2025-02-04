@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29641|time=2025-02-03T04:10:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=29648|time=2025-02-04T04:10:10
 100.0,29.0,Perl,1583420340367,1537792,AsaiYusuke,US,41785380851985,
 100.0,29.0,Perl,1586307156373,334009,abouvier,FR,4681436111242,
 100.0,29.0,Perl,1688507097675,2315623,Lydxn,CA,,
@@ -34,6 +34,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,38.0,Ruby,1680808238416,2923506,darkhorse64,FR,23496414257567,
 100.0,38.0,Ruby,1681060382574,3713253,zteffano,DK,107572721282082,
 100.0,38.0,Ruby,1733613571172,6132028,NicknamedTwice,GB,136778820182751,
+100.0,38.0,Ruby,1738621579601,6451491,skibidi11,US,,
 100.0,39.0,Perl,1583265413316,1654818,tarapitha,EE,79401682508715,
 100.0,39.0,PHP,1617768157944,1654818,tarapitha,EE,79401682508715,
 100.0,39.0,Perl,1662329636823,5011615,Kyran1212,GB,,
@@ -775,6 +776,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,54.0,Ruby,1724429332135,3824067,thoip2,FR,82434949516630,
 100.0,54.0,Ruby,1728321003741,5192217,Harry.B.,GB,130769403588418,
 100.0,54.0,Ruby,1730912321012,4261456,zachmae,FR,65480448221177,
+100.0,54.0,Ruby,1738623723351,5485744,jrl86,FR,,
 100.0,55.0,Perl,1454575977184,490905,lechium06_,PL,1716926865465,
 100.0,55.0,Perl,1457962824504,1211531,ciaojian,IT,3126381962847,
 100.0,55.0,Ruby,1461330987909,513549,y0p,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Ruby,1484848719704,1273087,Niklex,US,5329784597912,
 100.0,60.0,Javascript,1488014403638,1534273,Jooraz,PL,5835893270083,
 100.0,60.0,Javascript,1490696312741,233627,SlipOne,HU,4994821803578,
-100.0,60.0,Javascript,1497015766665,1250366,Ookami,TR,9293970212210,
-100.0,60.0,Javascript,1507639233089,1390607,Ivan_Derzhylo,UA,67601821029462,

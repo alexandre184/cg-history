@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=949|time=2025-02-24T04:10:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=952|time=2025-02-25T04:10:54
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -387,6 +387,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,206.0,C#,1722518586001,3532428,NoOverflow,FR,35509882728364,
 100.0,206.0,Python3,1725628957304,2371897,__Quentin__,FR,,
 100.0,206.0,Python3,1729110215536,6232311,Nedland,CH,128929463128077,
+100.0,206.0,C#,1740393703353,5509708,Extraordinary_Montezuma,AU,105393624793905,
 100.0,207.0,Rust,1703672414834,5859777,Polurax,FR,,
 100.0,207.0,Python3,1709818957387,904209,Myrtille44,FR,3615545652024,
 100.0,207.0,Python3,1718978757393,1732589,Pyrian,FR,23070146094882,
@@ -472,6 +473,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,221.0,Python3,1697346270249,3120635,Chessjawa,US,113079880850455,
 100.0,221.0,Kotlin,1703174125910,4325119,Klimpergeist,DE,63682169998518,
 100.0,221.0,Python3,1739783569149,1953786,ludowsky,FR,14499107805962,
+100.0,221.0,Python3,1740410893944,6353702,ChrisCollins,US,,
 100.0,222.0,Python3,1695045597481,4055680,JOKER5,FR,64070144639254,
 100.0,222.0,Python3,1713298372598,6038687,Conductor,IT,121798562382307,
 100.0,222.0,Python3,1716707343488,5732885,M0nad,FR,118008525917824,
@@ -948,3 +950,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,1300.0,C#,1726239114871,6279033,sinca_hane,LV,,
 0.0,1300.0,Python3,1726342536388,5905800,Alexey300479,RU,117495083193982,
 0.0,1300.0,Python3,1729027641842,484004,aCat,PL,4210501575817,
+0.0,1300.0,Javascript,1740381540317,6507722,Ashifunnoooo,IR,140209928818478,

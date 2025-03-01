@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9489|time=2025-02-28T04:11:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=9494|time=2025-03-01T04:10:12
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -544,6 +544,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,70.0,Python3,1724151334474,1591363,icai,CZ,,
 100.0,70.0,Python3,1735150172285,783337,Dewey,FR,111812900231909,
 100.0,70.0,Python3,1738452184131,6072755,thibaultm,FR,137691045689928,
+100.0,70.0,Python3,1740760007959,4288792,HossamEL2006,MA,89244348198287,
 100.0,71.0,Python3,1454293772105,389632,ma,DE,4401140998452,
 100.0,71.0,Python3,1454700924215,574656,dmpage,US,1759291406309,
 100.0,71.0,Python3,1459545794180,1320020,Gianlu,IT,,
@@ -588,7 +589,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,71.0,Python3,1569417416648,1538472,Pana-Kota,IE,33897663113096,
 100.0,71.0,Python3,1570194963980,2411860,Aurelien-Quillet,IE,66460061394511,
 100.0,71.0,Python3,1573687056802,3421806,Raminou,FR,31684407265500,
-100.0,71.0,Python3,1574692768713,3304818,Sarbelow,FR,,
+100.0,71.0,Python3,1574692768713,3304818,teo_lb,FR,,
 100.0,71.0,Python3,1576086067559,1293284,NaraJeamfry,ES,43821565327057,
 100.0,71.0,Python3,1584092568907,3705338,SharpEdgeMarshall,IT,41222362126530,
 100.0,71.0,Python3,1584092902848,1236083,glumia,IT,3361952595263,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,74.0,Python3,1669214389443,4841063,Naxus,FR,104762183855753,
 100.0,74.0,Python3,1672507937607,1130240,ALupAI,IT,,
 100.0,74.0,Python3,1673624424308,4372857,Sirios,BE,67205527942183,
-100.0,74.0,Python3,1674678291142,947662,Liam,CA,97007422790430,

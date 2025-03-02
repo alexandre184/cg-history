@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=74|time=2025-03-01T04:10:12
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=74|time=2025-03-02T04:09:56
 5,18.83,Rust,1658989017464,4407982,3918583,mikmak,FR,48134583112917,
 5,18.3,Rust,1563468746036,2446672,934381,PolyB,FR,,
 5,16.34,Rust,1616096208777,3467779,1838549,orangesnowfox,US,17617755701518,
@@ -31,7 +31,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,18.28,Rust,1593608980249,3026944,1579924,sourlime,ES,6439910692366,
 3,17.64,Rust,1651578128405,4249828,4414819,Michael_Rouart,FR,,
 3,17.61,Rust,1509933958446,1503184,2017774,lweberk,CL,,
-3,17.47,Rust,1642461593056,3974561,1757125,deux2tens,US,,
+3,17.38,Rust,1642461593056,3974561,1757125,deux2tens,US,,
 3,16.81,Rust,1614621328174,3446075,2994864,LeSeulArtichaut,FR,59794648799253,
 3,16.68,Rust,1684259470527,4826582,5488703,c4v4n,US,,
 3,16.64,Rust,1702297456154,5135097,5795379,Nizerlak,PL,,
@@ -56,7 +56,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,1.59,Rust,1489793661017,1098321,817627,geot,HU,3738338490760,
 3,1.58,Rust,1603453412217,3145612,3467981,ThomasGreaux,FR,,
 3,1.57,Rust,1490263051902,1105654,1038953,P_B_J,FR,4972986404230,
-3,0.9,Rust,1539387669324,2094387,193776,tatref,FR,,
+3,1.06,Rust,1539387669324,2094387,193776,tatref,FR,,
 2,16.3,Rust,1717012511264,5391670,6096553,GaeelBradshaw,FR,124337562786636,
 2,15.67,Rust,1719672086195,5517022,4495714,BenInTheBox,CH,73225085524186,
 2,14.37,Rust,1532293224131,1962938,2355500,Esteth,GB,,

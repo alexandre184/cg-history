@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=43|time=2025-03-05T04:11:01
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=43|time=2025-03-06T04:11:07
 ,38.0,Scala,1443978264489,339810,207714,TrueLaurel,FR,12624489148067,
 ,37.38,Scala,1517602148227,1646602,331880,Monstruo,MX,16575963540770,
 ,36.33,Scala,1581713805863,2679414,1740037,ereiam,FR,12669494111004,
@@ -9,7 +9,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,22.25,Scala,1443724770960,340438,512207,Aun,FR,1913752936183,
 ,20.74,Scala,1526278023017,1851767,2158902,Snowbart,BE,14173545643497,
 ,20.21,Scala,1443956918085,356780,1047881,GreenTea,UA,2204623765167,
-,19.96,Scala,1546666949979,2210628,1717345,kotobotov,RU,69054102294709,
+,19.9,Scala,1546666949979,2210628,1717345,kotobotov,RU,69054102294709,
 ,19.75,Scala,1443913216109,339933,301922,tyrcho,FR,1742081719876,
 ,19.7,Scala,1443974797721,348626,937933,Richmond,FR,,
 ,19.47,Scala,1443786603810,346786,336685,particulitis,FR,2144919904470,
@@ -27,7 +27,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,13.9,Scala,1443970020988,352929,809428,Andonescu,RO,3737593052788,
 ,13.74,Scala,1443914533855,349705,235663,MicheleM,IT,13420069470925,
 ,13.49,Scala,1443566642185,351078,808780,nautilus,RO,,
-,13.44,Scala,1466543535532,506785,1192837,davidB,FR,3812849123499,
+,13.34,Scala,1466543535532,506785,1192837,davidB,FR,3812849123499,
 ,13.26,Scala,1443701530850,347363,835054,mkUltra,IT,10559068978628,
 ,13.16,Scala,1443371017631,339145,957467,StopKran,RU,63377807690000,
 ,13.04,Scala,1443895421479,356029,844860,Pawel_Majewski,PL,28805108817576,
@@ -40,5 +40,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,4.28,Scala,1443483300818,344728,835883,Sundayufo,CZ,,
 ,4.27,Scala,1461792870780,417913,1410600,DenParabelum,UA,,
 ,3.68,Scala,1448975414651,365819,916219,Made2Code,ES,,
-,3.08,Scala,1465954031395,498565,1431187,Dextto,KR,,
+,3.05,Scala,1465954031395,498565,1431187,Dextto,KR,,
 ,1.98,Scala,1443981571521,357056,933299,ThibautRobert,FR,,

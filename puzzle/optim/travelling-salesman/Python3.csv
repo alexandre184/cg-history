@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=510|time=2025-03-06T04:11:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=513|time=2025-03-07T04:11:04
 100.0,201382.0,Python3,1676893989401,2522090,MSmits,NL,17784428403916,
 100.0,201382.0,Python3,1698239164669,1630890,Wld,DE,54135389391511,
 100.0,201382.0,Python3,1719340308252,3523247,alexcercos,ES,36269364412881,
@@ -149,6 +149,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,246872.0,Python3,1655973449791,999637,dinobogan,FR,61192341763607,
 100.0,247175.0,Python3,1675083611706,4652686,Victorr,FR,103046583877529,
 100.0,247472.0,Python3,1683831757054,3353015,Salted,CA,78606329541070,
+100.0,247509.0,Python3,1741247976444,6489304,GoodLLM,PL,140356147035921,
 100.0,247586.0,Python3,1727992102122,5110438,Bulito,FR,91189363293250,
 100.0,247828.0,Python3,1675083917508,5135598,Boeuf_Bourguignon,FR,94430085061476,
 100.0,247996.0,Python3,1657918076574,2628455,PDF,FR,41957802274948,
@@ -402,6 +403,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,250555.0,Python3,1737599390142,3993960,leil17,SG,,
 100.0,250555.0,Python3,1737661506019,6403816,sleepy_code,BD,,
 100.0,250555.0,Python3,1739134504038,5428775,WaddaSon,FR,102088740020560,
+100.0,250555.0,Python3,1741255786975,5056137,Subbye,LU,,
 100.0,251611.0,Python3,1663092576230,4954542,Drunkey,VG,92116981289466,
 100.0,252185.0,Python3,1679924651320,5397960,Hkotumayonos,IN,100854028962999,
 100.0,253965.0,Python3,1664942682875,5103633,mksll,RU,103892468584038,
@@ -509,3 +511,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,0.0,Python3,1727781535764,6149818,Fantasias,NL,,
 0.0,0.0,Python3,1732339964990,6374409,,RU,,
 0.0,0.0,Python3,1736082765381,6439343,Jelal,PH,,
+0.0,0.0,Python3,1741253101766,6523688,BOOM_SHAKLAKA,DE,,

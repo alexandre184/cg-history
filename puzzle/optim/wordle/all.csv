@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=960|time=2025-03-06T04:11:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=962|time=2025-03-07T04:11:04
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -582,7 +582,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,255.0,Python3,1698326921328,153086,bagage,FR,52650125647959,
 100.0,255.0,TypeScript,1699793100517,1291259,Loupsalio,FR,82188422117537,
 100.0,255.0,Python3,1719411902887,6118734,LangeCatSnake,CH,124864564870733,
-100.0,255.0,Javascript,1740953936298,6362261,DarkPit59,BE,140539624224369,
+100.0,255.0,Javascript,1740953936298,6362261,DarkPit59,FR,140539624224369,
 100.0,256.0,C#,1685275587326,4743761,IchiSamaFR,FR,80574088210686,
 100.0,256.0,Javascript,1693497527892,774181,AlethieaNeo,FR,77975663919229,
 100.0,256.0,C++,1697633853228,5211347,Biglover,SE,94664369285909,
@@ -828,6 +828,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 82.0,449.0,Python3,1680539106635,4756693,MorningWalk,JP,82433047491756,
 82.0,912.0,Python3,1683901655883,5494772,satoyuyapyaa,JP,,
 80.0,250.0,Python3,1718964681449,5624042,Theperk,FR,125520783386224,
+78.0,419.0,C++,1741260190964,4438505,Eric_[EGU],FR,114044329618574,
 78.0,1091.0,Javascript,1692207057458,4659054,elodt,HU,,
 76.0,505.0,C#,1701728241653,989810,holyshaman,DK,,
 74.0,401.0,Javascript,1721135079924,2688290,czahrov,PL,19556511797109,
@@ -959,3 +960,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,1300.0,Python3,1726342536388,5905800,Alexey300479,RU,117495083193982,
 0.0,1300.0,Python3,1729027641842,484004,aCat,PL,4210501575817,
 0.0,1300.0,Javascript,1740381540317,6507722,Ashifunnoooo,IR,140209928818478,
+0.0,1300.0,Python3,1741252582095,6523688,BOOM_SHAKLAKA,DE,,

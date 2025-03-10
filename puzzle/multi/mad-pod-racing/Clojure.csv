@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=103|time=2025-03-09T04:08:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=103|time=2025-03-10T04:09:09
 6,33.98,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,31.11,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,30.37,Clojure,1480636657283,850106,1674411,Boze,CA,,
@@ -63,7 +63,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,14.27,Clojure,1473440440851,657837,1520914,pickten,US,,
 3,14.26,Clojure,1623079181815,3704699,2663223,NikiTonsky,DE,19207506482624,
 3,13.84,Clojure,1619574426903,3521852,3392548,servarl,RU,,
-3,13.82,Clojure,1619412884020,3517896,2026441,artur.zabeyvorota,NO,,
+3,13.84,Clojure,1619412884020,3517896,2026441,artur.zabeyvorota,NO,,
 3,13.63,Clojure,1579948059466,2661320,3585327,FelixStridsberg,SE,,
 3,13.48,Clojure,1733346177419,5640782,6387475,speedyspeedboi69,US,,
 3,13.44,Clojure,1475045375594,719759,1592894,maxagaze,NO,,
@@ -71,8 +71,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,13.1,Clojure,1661806170259,4435876,1757803,antko,RU,,
 3,12.92,Clojure,1518389739615,1656209,2433183,Jake562,US,16806668646275,
 3,12.81,Clojure,1486640842122,960953,827343,GIM,AT,,
-3,12.13,Clojure,1474296922014,669459,1539559,shadowdancer,AR,,
 3,12.1,Clojure,1590765217615,2996570,1574921,Variance,US,,
+3,12.08,Clojure,1474296922014,669459,1539559,shadowdancer,AR,,
 3,12.02,Clojure,1643761921004,3991308,4688096,StrykeTruanard,GB,76558046976779,
 3,11.67,Clojure,1467643818218,571380,982970,SrijayanthSridhar,IN,,
 3,11.57,Clojure,1560370495741,2420206,3009873,Kineolyan,FR,32394008868052,
@@ -88,7 +88,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,16.07,Clojure,1466657314565,508524,1473738,JonathanBristow,US,,
 2,16.07,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
 2,15.57,Clojure,1475256776076,733540,1069512,ClashTheBunny,US,,
-2,14.5,Clojure,1692809998292,5036214,4685354,murry2018,KR,,
+2,14.41,Clojure,1692809998292,5036214,4685354,murry2018,KR,,
 2,13.2,Clojure,1636975738099,3896843,4375759,phedny,NL,65590442117916,
 2,13.19,Clojure,1508881493593,1491806,311823,hettomei,FR,3356147074607,
 2,13.17,Clojure,1586160658379,2757911,3733855,opusdei,IN,110978967138696,

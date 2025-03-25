@@ -31,7 +31,14 @@ def events(puzzle, old_prefix = "")
       begin
         leaderboard = JSON.parse(IO.read("tmp/#{folder}/#{lang}.json"))#, symbolize_names: true)
       rescue => exception
-        leaderboard = post(URI_LEADERBOARD, [leaderboardId, nil, nil, {active: true, column: "LANGUAGE", filter: lang}])
+        begin
+          leaderboard = post(URI_LEADERBOARD, [leaderboardId, nil, nil, {active: true, column: "LANGUAGE", filter: lang}])
+        rescue Net::ReadTimeout
+          # can now occur on big leaderboard, aka mad-pod-racing
+          # skip it
+          p [:timeout, leaderboardId, lang]
+          next
+        end
         IO.write("tmp/#{folder}/#{lang}.json", leaderboard.to_json)
       end
       count, filteredCount = leaderboard.values_at("count", "filteredCount")

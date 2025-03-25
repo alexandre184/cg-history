@@ -22,7 +22,7 @@ For my use it's already way more that I wanted. But if you think of another usec
 # site available at localhost:8000
 python3 -m http.server --directory docs
 
-bash script/udpate_cg_history.sh
+bash script/update_cg_history.sh
 ```
 
 ## Caveat
@@ -44,7 +44,7 @@ For multi: No submission date before 2023-02-07
 - [ ] Add a user diff page (this one could actually be cool!)
 - [x] dbdr history
 - [x] generate old events?
-- [ ] CRON job
+- [x] CRON job
 - [ ] fix cp script
 - [ ] ...
 

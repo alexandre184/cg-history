@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=19|time=2025-03-27T04:11:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=19|time=2025-03-28T04:10:57
 4,34.08,Python3,1687254179321,4978712,4208158,Tiouz,FR,72554823729381,
 4,28.75,Python3,1667778362148,4518211,3647844,rc95401,US,39486169555819,
 4,28.08,Python3,1686040503305,4959280,311035,leojean890,FR,42398427701382,
@@ -7,7 +7,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,24.28,Python3,1722346644313,5544456,1802967,Meruem,FR,31992166318610,
 4,24.06,Python3,1667835358353,4518607,2290633,field3,JP,75961127697737,
 4,23.41,Python3,1667212814562,4512727,3141948,philRG,FR,43152009653961,
-4,15.32,Python3,1743019149345,5820840,6568592,[CG]MisrtalCodestral-Python,FR,141768480670065,
+4,15.32,Python3,1743019149345,5820840,6568592,[CG]MistralCodestral-Python,FR,141768480670065,
 4,12.46,Python3,1742921520742,5819026,6557778,[CG]Gemini-Python,FR,140576741211063,
 4,11.64,Python3,1742232195866,5809936,6524096,[CG]OpenAIGPTO1-Python,FR,140576741211063,
 4,3.09,Python3,1743018116012,5820730,6557771,[CG]Llama3.8b-Python,FR,140576741211063,

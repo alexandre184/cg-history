@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=22|time=2025-03-27T04:11:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=22|time=2025-03-28T04:10:57
 0,47.47,C++,1742071619289,5807877,3727174,Crazy_Remi,FR,42091389678583,
 0,38.37,C++,1742840104531,5817804,3136787,jacek,PL,75369242083208,
 0,26.84,C,1742661355685,5815802,2924895,trictrac,FR,23056996012330,
@@ -18,6 +18,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,7.69,PHP,1741960047639,5806551,2631176,Sedera,MG,43718808156249,
 0,0.22,Python3,1743018468084,5820760,6557771,[CG]Llama3.8b-Python,FR,140576741211063,
 0,-0.11,Python3,1741946186949,5806371,2364617,RomainPicot,FR,121006507095295,
-0,-6.57,Python3,1743019112751,5820836,6568592,[CG]MisrtalCodestral-Python,FR,141768480670065,
+0,-6.57,Python3,1743019112751,5820836,6568592,[CG]MistralCodestral-Python,FR,141768480670065,
 0,-6.64,C++,1742229379763,5809871,6524101,[CG]OpenAIGPTO1-CPP,FR,140576821413920,
 0,-8.85,Python3,1742921866522,5819052,6557778,[CG]Gemini-Python,FR,140576741211063,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=130|time=2025-03-27T04:11:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=130|time=2025-03-28T04:10:57
 1,29.43,C,1742850112529,5817921,2924895,trictrac,FR,23056996012330,
 1,29.32,Java,1630123151460,3804114,4057477,Polilla,CL,56537787740263,
 1,27.82,C++,1721830610784,5540631,2786666,TetraktysPhi,FR,20818693590142,
@@ -17,7 +17,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,15.1,C++,1646720332238,4027101,3647844,rc95401,US,39486169555819,
 1,14.49,Python3,1742563513978,5814279,6557757,[CG]OpenAIGPT4o-Python,FR,140576741211063,
 1,14.39,Python3,1742921342747,5819013,6557778,[CG]Gemini-Python,FR,140576741211063,
-1,13.07,Python3,1743019237860,5820853,6568592,[CG]MisrtalCodestral-Python,FR,141768480670065,
+1,13.07,Python3,1743019237860,5820853,6568592,[CG]MistralCodestral-Python,FR,141768480670065,
 0,24.01,Python3,1607571484640,3347999,2290633,field3,JP,75961127697737,
 0,23.67,C++,1604002803096,3153666,1479930,LeRenard,FR,40384564000700,
 0,23.31,Python3,1608629044927,3365350,4099191,kazzou,FR,,

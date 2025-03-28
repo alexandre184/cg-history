@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=94|time=2025-03-27T04:11:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=94|time=2025-03-28T04:10:57
 3,30.76,C#,1737064802978,5752627,2824008,OccitanieFreelancer,FR,22557072925785,
 3,30.32,C#,1660396874805,4422825,1186250,Gabbek,PL,3084076624888,
 3,30.11,C++,1661108226822,4429726,2311105,kovi,HU,20774306904131,
@@ -45,7 +45,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,0.12,Python3,1743019327066,5820864,6557771,[CG]Llama3.8b-Python,FR,140576741211063,
 3,0.12,Python3,1742894845681,5818608,6557765,[CG]Claude3.7Sonnet-Python,FR,140576741211063,
 3,-0.04,C++,1742229896436,5809883,6524101,[CG]OpenAIGPTO1-CPP,FR,140576821413920,
-3,-0.19,Python3,1743018488588,5820763,6568592,[CG]MisrtalCodestral-Python,FR,141768480670065,
+3,-0.19,Python3,1743018488588,5820763,6568592,[CG]MistralCodestral-Python,FR,141768480670065,
 2,26.81,Scala,1582367271113,2684934,1740037,ereiam,FR,12669494111004,
 2,24.85,C++,1725117946595,5564759,5964020,SuperDron,UA,119292983605176,
 2,24.01,D,1685800126547,4931073,4277867,About,SM,65816469118906,

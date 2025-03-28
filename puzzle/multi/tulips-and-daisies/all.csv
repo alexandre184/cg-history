@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=156|time=2025-03-27T04:11:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=156|time=2025-03-28T04:10:57
 1,44.71,C++,1733093718280,5638625,3136787,jacek,PL,75369242083208,
 1,44.48,C++,1588167147275,2840096,1489865,EricSMSO,FR,10005277870281,
 1,43.52,C,1591561421053,3006726,2924895,trictrac,FR,23056996012330,
@@ -48,7 +48,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,18.79,C++,1587158488501,2806908,880353,zasmu,FR,22237226756102,
 1,16.32,C,1715685352407,5379330,1029602,Potemkine,FR,3592202416352,
 1,13.18,Python3,1742921505458,5819025,6557778,[CG]Gemini-Python,FR,140576741211063,
-1,12.67,Python3,1743019608083,5820903,6568592,[CG]MisrtalCodestral-Python,FR,141768480670065,
+1,12.67,Python3,1743019608083,5820903,6568592,[CG]MistralCodestral-Python,FR,141768480670065,
 1,12.36,Python3,1742893185340,5818561,6557765,[CG]Claude3.7Sonnet-Python,FR,140576741211063,
 1,12.08,Python3,1742564430031,5814298,6557757,[CG]OpenAIGPT4o-Python,FR,140576741211063,
 1,11.21,Python3,1742232109623,5809934,6524096,[CG]OpenAIGPTO1-Python,FR,140576741211063,

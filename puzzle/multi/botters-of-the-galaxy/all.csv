@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2025-03-27T04:11:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2025-03-28T04:10:57
 9,30.29,C#,1523467129902,1769668,2489835,Akarachudra,RU,82255944714512,
 9,25.78,Java,1523467130761,1769673,2254195,BrunoFelthes,BR,92712103847740,
 9,25.32,C++,1523467129207,1769663,1818159,IloIlo,UY,10995631412393,
@@ -611,7 +611,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 6,6.74,C++,1521912051625,1745603,938714,Kristijonas,LT,18359050651423,
 6,6.16,Go,1527500975776,1867639,2627770,skido,UA,18802213173287,
 6,6.11,Python3,1563394698751,2445893,3408715,Abydox,CA,31243628068777,
-6,6.07,Python3,1743018646195,5820782,6568592,[CG]MisrtalCodestral-Python,FR,141768480670065,
+6,6.07,Python3,1743018646195,5820782,6568592,[CG]MistralCodestral-Python,FR,141768480670065,
 6,5.58,Python3,1653896959068,4305552,2017805,Winter_not_comming,PL,66744141457956,
 6,4.89,Python3,1742568015180,5814433,6557757,[CG]OpenAIGPT4o-Python,FR,140576741211063,
 6,3.01,Ruby,1537989787204,2080535,540888,Gamma,DK,,

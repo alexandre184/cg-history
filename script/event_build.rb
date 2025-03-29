@@ -33,6 +33,10 @@ def events(puzzle, old_prefix = "")
       rescue => exception
         begin
           leaderboard = post(URI_LEADERBOARD, [leaderboardId, nil, nil, {active: true, column: "LANGUAGE", filter: lang}])
+          if leaderboard.nil? # skip also null leaderboard that can now occur
+            p [:null, leaderboardId, lang]
+            next
+          end
         rescue Net::ReadTimeout
           # can now occur on big leaderboard, aka mad-pod-racing
           # skip it

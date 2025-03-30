@@ -1,7 +1,7 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=22|time=2025-03-29T08:47:04
-0,26.26,Python3,1702030781161,5132018,1802967,Meruem,FR,31992166318610,
-0,25.05,Python3,1743232205325,5824077,6557778,[CG]Gemini-Python,FR,140576741211063,
-0,23.07,Python3,1742892325561,5818540,6557765,[CG]Claude3.7Sonnet-Python,FR,140576741211063,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=22|time=2025-03-30T04:10:06
+0,26.61,Python3,1702030781161,5132018,1802967,Meruem,FR,31992166318610,
+0,25.5,Python3,1743232205325,5824077,6557778,[CG]Gemini-Python,FR,140576741211063,
+0,23.2,Python3,1742892325561,5818540,6557765,[CG]Claude3.7Sonnet-Python,FR,140576741211063,
 0,22.27,Python3,1707747996986,5312299,2290633,field3,JP,75961127697737,
 0,20.24,Python3,1699700733081,5103365,3141948,philRG,FR,43152009653961,
 0,20.07,Python3,1742230707759,5809902,6524096,[CG]OpenAIGPTO1-Python,FR,140576741211063,

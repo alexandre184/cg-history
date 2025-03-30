@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4002|time=2025-03-29T08:47:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4003|time=2025-03-30T04:10:06
 100.0,59.0,Javascript,1472563268768,154372,Plopx,FR,7959085736890,
 100.0,59.0,Javascript,1596634256975,3913849,kingKong,FR,,
 100.0,59.0,Javascript,1607253682112,2565497,vladislao,RU,18197468031147,
@@ -42,7 +42,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Javascript,1600875079053,1045485,Jessie,FR,9025608819920,
 100.0,60.0,Javascript,1612945612493,4095128,Voltmachine,BG,56919066754571,
 100.0,60.0,Javascript,1615468211031,3230794,tutubalin,RU,25714480415254,
-100.0,60.0,Javascript,1618566175130,1179950,Avatar3,FR,141748143719833,
+100.0,60.0,Javascript,1618566175130,1179950,Avatar3,FR,141922867390601,
 100.0,60.0,Javascript,1620036006835,4156154,issogood,CH,59814183471795,
 100.0,60.0,Javascript,1621355743958,2371389,Franta,CZ,16642908084028,
 100.0,60.0,Javascript,1622788634370,2315158,luigi_gelato,DE,,
@@ -559,6 +559,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,70.0,Javascript,1681652813501,4749616,El0i,FR,85828085921056,
 100.0,70.0,Javascript,1686484129021,4819330,rocambille,FR,82228789327154,
 100.0,70.0,Javascript,1725729857239,6165945,Jihkro,US,126381624283432,
+100.0,70.0,Javascript,1743247842379,156188,DorianWilde,FR,1753926884442,
 100.0,71.0,Javascript,1455012902897,365796,CvxFous,FR,2892223124232,
 100.0,71.0,Javascript,1471171573089,476478,Silver,US,,
 100.0,71.0,Javascript,1477074673556,1655250,Bibo,SK,7869611725328,
@@ -841,7 +842,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,83.0,Javascript,1574375709249,1981179,4ndr3s,ES,12476591605432,
 100.0,83.0,Javascript,1574664829052,3577417,TorkelV,NO,,
 100.0,83.0,Javascript,1595685610031,3903942,ngoc,VN,,
-100.0,83.0,Javascript,1603620262871,156188,DorianWilde,FR,1753926884442,
 100.0,83.0,Javascript,1608309539517,4111880,Inviqa.nil,DE,56000928550482,
 100.0,83.0,Javascript,1615409308776,4168646,RaccoonWithSpork,US,59168085376989,
 100.0,83.0,Javascript,1633814253742,4119534,owloff,IE,,

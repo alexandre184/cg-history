@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=310|time=2025-04-05T04:10:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=310|time=2025-04-06T04:10:17
 100.0,131.0,Rust,1679838779568,4438505,Eric_[EGU],FR,114044329618574,
 100.0,143.0,Rust,1644659763436,1654818,tarapitha,EE,79401682508715,
 100.0,150.0,Rust,1641240719305,1483723,d-s-x,RU,4980051025170,
@@ -126,7 +126,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,564.0,Rust,1536124793877,2830703,singron,US,,
 100.0,568.0,Rust,1589603379196,1294784,Janosimas,NL,71365320822808,
 100.0,572.0,Rust,1743706437098,6531621,williamsal,CA,,
-100.0,573.0,Rust,1621522975180,1179950,Avatar3,FR,142002769792348,
+100.0,573.0,Rust,1621522975180,1179950,Avatar3,FR,142208467229793,
 100.0,573.0,Rust,1677037642818,5352133,Kioljin,US,99065229875499,
 100.0,579.0,Rust,1678484198537,5384718,maiseaux,JP,,
 100.0,580.0,Rust,1553402325344,2725239,Zandy156,US,35237029461849,
@@ -219,6 +219,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1644.0,Rust,1724928159181,6242010,RebornLP,PT,,
 100.0,1650.0,Rust,1683230354384,2896216,MichaelScholten,NL,,
 100.0,1660.0,Rust,1712369980998,6038000,volgeen,SE,,
+100.0,1665.0,Rust,1743888003470,2538423,jihele,FR,,
 100.0,1691.0,Rust,1618615082813,4279927,zolstein,US,,
 100.0,1696.0,Rust,1697745942132,3914703,BlackGeranium,FR,,
 100.0,1697.0,Rust,1609499829028,4110158,PaperZZ,DE,57706161582476,
@@ -251,7 +252,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1834.0,Rust,1694309397403,3225493,Raznoo,US,111295100446192,
 100.0,1836.0,Rust,1736243828448,1598280,Mercuriusds,DE,6760182896305,
 100.0,1843.0,Rust,1692146711594,4403713,Turtle331,DE,,
-100.0,1865.0,Rust,1552179535621,2538423,jihele,FR,,
 100.0,1868.0,Rust,1692456627234,5172467,TheDudeThatCodez,US,,
 100.0,1872.0,Rust,1678977463823,4325008,sushiro-,JP,,
 100.0,1872.0,Rust,1733149011080,4360274,zesk06,FR,65002585469411,

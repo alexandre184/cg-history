@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2025-04-09T04:11:13
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2025-04-10T04:11:18
 9,30.29,C#,1523467129902,1769668,2489835,Akarachudra,RU,82255944714512,
 9,25.78,Java,1523467130761,1769673,2254195,BrunoFelthes,BR,92712103847740,
 9,25.32,C++,1523467129207,1769663,1818159,IloIlo,UY,10995631412393,
@@ -740,12 +740,12 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,,,,,5354290,TypA,PL,106536785768922,
 5,,,,,3699033,Bitwise,PL,42305589620554,
 5,,,,,1246479,Bastien_Baloup,FR,120625587146664,
-5,,,,,5365386,REDRL,BE,135525322285049,
 5,,,,,4875803,Coast_To_Ghost,FR,84171705906547,
 5,,,,,5010590,Noidkoko83,FR,87908148572570,
 5,,,,,1447603,Konvegs,DE,4751933743118,
-5,,,,,321003,mixam85,FR,5361636327163,
 5,,,,,6138066,Mark23654,PH,125517163275867,
+5,,,,,321003,mixam85,FR,5361636327163,
+5,,,,,5365386,REDRL,BE,135525322285049,
 5,,,,,2395414,JakenHerman,US,16341447245487,
 5,,,,,2357262,MaorKachalon,IL,,
 5,,,,,2249782,tokifuko,RU,,
@@ -780,7 +780,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,24.17,Python3,1739191780590,5776935,5573671,LeMasSon,FR,107252527944826,
 3,23.29,Python3,1717279996986,5394928,4311752,Wondor,DE,124610185936570,
 3,21.18,C++,1730387121595,5610325,5164522,Nikhilj11,IN,,
-3,20.98,C++,1643402545103,3987388,4018953,zTTK,BH,99798786084209,
 3,20.66,C++,1679504242659,4774631,4935965,AlirezaEbrahimi,IR,85279164805932,
 3,19.98,Python3,1730482921852,5611598,1447504,VinRin9117,SG,,
 3,19.97,Python3,1659097731082,4409343,1917886,AlAlex,FR,37335644774028,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,11.1,Javascript,1521843135304,1744386,1449025,Renegade,US,4618347131788,
 3,11.09,Python3,1555795136233,2336879,3321766,AllTheKingsMen,US,85347681949465,
 3,11.09,Go,1717350720314,5395641,2650111,FroznPanda,DE,128607124755275,
+3,11.05,Java,1522296900152,1751843,2354059,ObviousTroll,CA,15947032402921,

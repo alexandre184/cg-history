@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=610|time=2025-04-20T04:56:55
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=610|time=2025-04-21T04:12:46
 6,27.18,Javascript,1587301862539,2816340,3725862,Kklykov,RU,41757829553095,
 6,22.95,Javascript,1509095730409,1493999,1861852,Cramer,DE,13289802969874,
 6,22.84,Javascript,1490805022112,1114597,1398702,Hota,FR,4341467322789,
@@ -128,7 +128,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,19.17,Javascript,1533565958127,2002368,2780512,--------------,JP,,
 3,19.15,Javascript,1499166780688,1384694,2050937,azerothl,FR,13281915362497,
 3,19.14,Javascript,1588175717920,2840297,1779120,ofirl,IL,,
-3,19.03,Javascript,1495071488084,1268283,1564309,gravitypx,US,63098363593200,
+3,19.04,Javascript,1495071488084,1268283,1564309,gravitypx,US,63098363593200,
 3,19.03,Javascript,1490619034476,1111964,620104,benlaod,FR,9769944534403,
 3,19.02,Javascript,1620332480187,3550033,4284701,Tutto,SE,,
 3,19.0,Javascript,1588844855112,2852059,3316008,Tom-Beijner,SE,43781309205379,
@@ -337,10 +337,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,8.54,Javascript,1618248256690,3498596,2975403,Elastrik,FR,23013286765692,
 3,8.14,Javascript,1673298804450,4698867,5266735,Hydroman,IL,96308148281760,
 3,8.11,Javascript,1651615542716,4257239,1447713,WhatnotX,SK,44292387199353,
-3,5.99,Javascript,1505565718712,1453362,1696346,palaseul,FR,9069711841676,
 3,5.95,Javascript,1622704938171,3698922,3755687,RayGun,AU,43823986043346,
-3,3.52,Javascript,1489339912159,1090751,1607251,baboulaf,FR,18176849207993,
+3,5.92,Javascript,1505565718712,1453362,1696346,palaseul,FR,9069711841676,
 3,3.48,Javascript,1631837419309,3832851,2472633,LoyN,HU,,
+3,3.48,Javascript,1489339912159,1090751,1607251,baboulaf,FR,18176849207993,
 3,2.74,Javascript,1492701381080,1182442,327986,Koutaku,FR,,
 3,1.56,Javascript,1505847206204,1456371,2173247,Minitmar,NO,,
 3,1.56,Javascript,1612231183727,3414538,4168013,Pngchng,NL,,

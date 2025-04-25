@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3542|time=2025-04-24T09:06:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3544|time=2025-04-25T04:11:17
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -53,6 +53,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,90.0,Ruby,1704082521790,333934,CrazyMerlyn,IE,20045015439951,
 100.0,91.0,Python3,1680822425122,2315623,Lydxn,CA,,
 100.0,91.0,PHP,1693659825389,2928146,LolCat,MU,22538133010433,
+100.0,91.0,Ruby,1745500250994,953901,MathieuMahe,FR,,
 100.0,92.0,Ruby,1681066155591,893541,wala,FR,97577641170180,
 100.0,92.0,Perl,1683398977116,2325449,otpv,CA,36646766447960,
 100.0,92.0,Ruby,1686246494537,4124688,Murat_Eroglu,TR,91676687994670,
@@ -700,6 +701,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,153.0,Python3,1732892064353,3091781,Chomb,FR,79323548176444,
 100.0,153.0,Python3,1733236128283,3795982,flds,FR,52607580751689,
 100.0,153.0,Javascript,1745372696253,3710624,FRHT,DZ,107030520292228,
+100.0,153.0,Python3,1745521939975,6605739,Did06,FR,142850928261190,
 100.0,154.0,Kotlin,1680868866978,3502478,tachan,JP,,
 100.0,154.0,Python3,1684100686880,1903031,hard-coded,KR,27487549921318,
 100.0,154.0,Javascript,1685835727745,5135323,__yel__p,FR,92869880984408,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,177.0,C,1708982103930,3338191,C_breeze,GB,61183647505459,
 100.0,177.0,Python3,1710546109616,5949436,bogues,FR,,
 100.0,177.0,Python3,1725352227408,4316926,Estos,FR,128413549980983,
-100.0,177.0,Python3,1727473044636,5193480,Seckmeth,FR,106974980143297,
-100.0,177.0,Python3,1735337615633,4390977,mrq0340a,FR,105579260198482,

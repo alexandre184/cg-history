@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=44|time=2025-04-24T09:06:40
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=45|time=2025-04-25T04:11:17
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,158.0,Rust,1705750811911,4257906,NotSureWhyThisWorks,AU,115801307841624,
 100.0,162.0,Rust,1706694829651,3918583,mikmak,FR,48134583112917,
@@ -39,6 +39,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1043.0,Rust,1733675190943,6385710,s-de-beer,FR,,
 100.0,1300.0,Rust,1711276725443,6022822,armin_4,DE,,
 98.0,422.0,Rust,1715439712254,3382273,hasleron,GB,39607083737997,
+98.0,975.0,Rust,1745549347414,488971,qwertyu123,RU,,
 92.0,324.0,Rust,1720600577264,6116944,bolshoy,GB,,
 0.0,50.0,Rust,1678368169263,4044949,Exanc,FR,75434945111960,
 0.0,50.0,Rust,1678659454815,5386522,wetheredge,US,,

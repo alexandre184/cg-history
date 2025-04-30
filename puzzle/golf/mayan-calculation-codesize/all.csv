@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1730|time=2025-04-29T04:11:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1731|time=2025-04-30T04:11:17
 100.0,176.0,Ruby,1700426237714,3380184,chouch,FR,,
 100.0,184.0,Perl,1681817890828,5436334,saito_ta,JP,102476026435385,
 100.0,184.0,Ruby,1695789132178,1429360,comp0zr,US,5127913573349,
@@ -269,6 +269,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,391.0,Javascript,1689940050401,154806,piwai,FR,1956863959967,
 100.0,391.0,C++,1712579294930,4275200,Laars,NL,126346921239013,
 100.0,391.0,Python3,1737021626147,6307808,tripleXXX,UA,,
+100.0,393.0,Javascript,1745939625152,4587646,Alex.js,FR,,
 100.0,394.0,Clojure,1681179950205,3354337,Westicles,CX,79146641399080,
 100.0,394.0,Dart,1681180262721,3354337,Westicles,CX,79146641399080,
 100.0,394.0,Python3,1706624678656,4274938,Chi_Iroh,FR,78466249220541,
@@ -901,7 +902,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1571.0,Python3,1680176440007,700378,cyrilb38,FR,,
 100.0,1573.0,Go,1680176510003,1804095,Poilo,FR,14981463645891,
 100.0,1580.0,Python3,1680176690004,4124472,Valdez001,BR,59074109068018,
-100.0,1581.0,Python3,1680176430005,1482926,UtenteSconosciuto,IT,62094782428658,
+100.0,1581.0,Python3,1680176430005,1482926,UtenteSconosciuto,IT,143212468185136,
 100.0,1582.0,VB.NET,1708885703128,5807573,Stephen Kondaveti,US,120619186703150,
 100.0,1583.0,Python3,1680176430005,4579254,Visage.Merior,GB,,
 100.0,1584.0,C++,1680879662643,2923506,darkhorse64,FR,23496414257567,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1869.0,Python3,1680176620003,4595389,Yatagan,FR,73836429585208,
 100.0,1871.0,Python3,1680176570017,4519199,mangefruits,FR,,
 100.0,1872.0,Python3,1680176800005,3702791,Kalamuwu,US,80660805830970,
-100.0,1877.0,C++,1680176690004,4736260,salvoScr,IT,126364267457361,

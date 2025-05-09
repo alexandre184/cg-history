@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-05-08T04:13:27
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-05-09T04:12:45
 100.0,14337.0,C++,1542072096337,329200,BlitzProg,FR,7407206403800,
 100.0,13983.0,C++,1694084727856,3513265,DaNinja,JP,35022107863170,
 100.0,13905.0,C++,1607006548436,3533119,wlesavo,RU,44695284080274,
@@ -268,6 +268,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,3084.0,Java,1494256272247,1464932,Tiramon,DE,12287237914571,
 100.0,3084.0,Rust,1726069483924,5354517,AndreasHuber,CH,103693383515460,
 100.0,3081.0,Python3,1495929265695,1170712,Djo0012,CA,8090268414289,
+100.0,3074.0,Python3,1746695245375,4855628,oginom,JP,140355583317606,
 100.0,3072.0,C++,1610402281007,1485015,Murky,SE,12301401087788,
 100.0,3070.0,Perl,1453498541848,984210,daikinee,FR,,
 100.0,3070.0,Java,1561966377610,1968855,ThePurificator,FR,12329456921169,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,2532.0,Python3,1673963058726,4904327,shwe6,IN,,
 100.0,2532.0,Python3,1674036084646,4527804,JOUTIN,FR,96636360972176,
 100.0,2532.0,Python3,1674112020063,4826689,flookkrup,TH,82883001828475,
-100.0,2532.0,Python3,1674128072221,5070166,Franek._.,PL,90884748498997,

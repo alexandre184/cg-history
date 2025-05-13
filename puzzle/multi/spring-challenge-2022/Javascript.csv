@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=581|time=2025-05-12T04:14:00
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=581|time=2025-05-13T04:13:12
 5,31.85,Javascript,1651740737170,4266490,4779944,GlaceCoding,FR,104523969424630,
 5,30.79,Javascript,1651729487703,4265920,4863188,kouin,CA,82597487919104,
 5,28.88,Javascript,1651673633908,4262078,4235021,Amvr,FR,62727602684118,
@@ -385,7 +385,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,17.45,Javascript,1651741208803,4267524,1773968,romamik,CY,82177706899046,
 2,17.37,Javascript,1651674374372,4263644,2407461,MavNZ,NZ,16622046998462,
 2,17.36,Javascript,1717340124958,5395466,5964020,SuperDron,UA,119292983605176,
-2,17.36,Javascript,1651674641594,4264217,4622506,Hypnosphere,FR,74068766457727,
+2,17.3,Javascript,1651674641594,4264217,4622506,Hypnosphere,FR,74068766457727,
 2,16.82,Javascript,1651673886987,4262625,3785901,chobo2102,CY,50486884204150,
 2,16.72,Javascript,1651672972943,4260954,4797763,MattJones089,GB,,
 2,16.71,Javascript,1651671675270,4258370,4868388,SirTwoface,DE,,
@@ -470,7 +470,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,6.64,Javascript,1651741252630,4267614,4833167,matteo1123,US,81548704804158,
 2,5.06,Javascript,1651671922608,4258880,4860539,CrasherBit,IT,,
 2,-3.85,Javascript,1651674059552,4263035,4848107,huggingback,US,,
-1,21.16,Javascript,1661436909886,4432550,4776254,iONa,PT,89144143196913,
+1,21.03,Javascript,1661436909886,4432550,4776254,iONa,PT,89144143196913,
 1,20.16,Javascript,1651673272349,4261398,4817376,RickBM,KR,,
 1,19.9,Javascript,1651674583700,4264093,1396594,aroy314,FR,19218012804049,
 1,19.86,Javascript,1651672093223,4259261,4869663,SHARONX,BD,,
@@ -566,7 +566,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,5.59,Javascript,1651672027183,4259139,4597033,mmont429,GB,,
 1,4.91,Javascript,1652643485079,4286736,4865356,mrakhman,FR,,
 1,-0.94,Javascript,1651740957809,4266967,1424675,ADriH,FR,,
-0,15.61,Javascript,1651671566291,4258177,4798497,ytaya,MA,81884064819696,
+0,15.6,Javascript,1651671566291,4258177,4798497,ytaya,MA,81884064819696,
 0,13.7,Javascript,1651671593167,4258225,3754441,DiangoGav,VE,,
 0,13.36,Javascript,1651673580054,4261976,4531002,bartui,FR,,
 0,13.25,Javascript,1651672301894,4259748,4865034,ved08,IN,,

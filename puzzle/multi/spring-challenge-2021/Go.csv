@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=140|time=2025-05-25T04:16:39
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=140|time=2025-05-26T04:15:58
 5,23.72,Go,1621375182092,3674785,2007852,Zorg1,FR,16542412157988,
 5,21.46,Go,1621754932911,3682591,4154326,montplusa,JP,137868120763877,
 5,20.27,Go,1621586276405,3679639,1144135,Kh42z,FR,4466724052795,
@@ -93,8 +93,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,27.37,Go,1621268741623,3668521,3821031,Helios-DiTi,FR,114127664278963,
 2,25.71,Go,1621268741623,3668080,903179,maksmas,EE,101274743228150,
 2,25.25,Go,1660058396525,4419065,527749,Pds,FR,4195444247778,
+2,25.03,Go,1621268741623,3665580,1556311,yanchen,CA,63974747874079,
 2,25.03,Go,1639328022733,3931452,1657644,moogle,FR,10319201237183,
-2,25.02,Go,1621268741623,3665580,1556311,yanchen,CA,63974747874079,
 2,24.99,Go,1621268741623,3667970,418239,arch1tect0r,CY,,
 2,24.84,Go,1621268741623,3669149,2828412,fermeaux,FR,23471531115369,
 2,24.5,Go,1621268741623,3669385,3668382,vchapman,US,,
@@ -138,4 +138,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,1.02,Go,1624685362710,3728425,4405122,Why123,ID,,
 0,1.02,Go,1647189909387,4032395,4788426,Newcoder.com,CA,,
 0,1.0,Go,1641243411590,3959139,4676806,benjbbbbbbbbb,US,,
-0,0.99,Go,1643663169494,3990394,4721745,hazel2,US,,
+0,0.98,Go,1643663169494,3990394,4721745,hazel2,US,,

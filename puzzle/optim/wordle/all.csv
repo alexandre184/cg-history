@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-05-27T04:15:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-05-28T04:25:08
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -429,6 +429,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,206.0,Python3,1729110215536,6232311,Nedland,CH,128929463128077,
 100.0,206.0,C#,1740393703353,5509708,Extraordinary_Montezuma,AU,105393624793905,
 100.0,206.0,Python3,1741955644038,5911694,rodyv,AT,,
+100.0,206.0,TypeScript,1748381514467,4058503,TerryMalone,GB,144595786431142,
 100.0,207.0,Rust,1703672414834,5859777,Polurax,FR,,
 100.0,207.0,Python3,1709818957387,904209,Myrtille44,FR,3615545652024,
 100.0,207.0,Python3,1718978757393,1732589,Pyrian,FR,23070146094882,
@@ -658,6 +659,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,264.0,Javascript,1724826740526,4192192,4lienb0y,DE,128467105375282,
 100.0,265.0,Python3,1731356390922,1641185,Mc_Coucouc,FR,7657115056725,
 100.0,265.0,Python3,1746039089373,3770904,MarinBto,FR,,
+100.0,265.0,Python3,1748391879721,4147444,andjf,US,,
 100.0,266.0,C#,1695667639302,4229158,thmshd,DE,116784508470513,
 100.0,267.0,Java,1687907161315,3106766,Jufo,SK,106533223127047,
 100.0,267.0,TypeScript,1695059712226,1604295,SergeiShirokov,ES,12159441339558,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,50.0,Python3,1721293407442,4134848,Papycleme,FR,58533585716170,
 0.0,50.0,Python3,1721861239934,6195595,,JP,,
 0.0,50.0,Python3,1744829381407,6594627,Laelzho,US,142695347080786,
-0.0,50.0,C#,1747847857494,6652057,J0k,US,,
-0.0,100.0,Python3,1687439671613,4848095,nightwalkerinthedark,MA,82182920581284,

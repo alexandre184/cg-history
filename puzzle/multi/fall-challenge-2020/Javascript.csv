@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=705|time=2025-05-30T04:14:01
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=705|time=2025-05-31T04:12:49
 5,20.24,Javascript,1649237250751,4064304,3795745,Soboku,JP,71616261493295,
 5,16.59,Javascript,1628587192967,3786145,1360360,zombitrafik,PL,39230624991993,
 5,15.44,Javascript,1674904928553,4723294,3413813,Hvosten,PL,63052087147847,
@@ -488,6 +488,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.55,Javascript,1606139008477,3311026,3806996,CrayolaGreen,US,44147047375665,
 1,21.55,Javascript,1707601172469,5310892,5068826,GatoPan,BE,89796264433086,
 1,21.55,Javascript,1606139008477,3307771,1208688,Bidijoe45,ES,,
+1,21.55,Javascript,1606139008477,3314319,4055947,RedCDawn,BE,,
 1,21.54,Javascript,1606139008477,3308586,4054250,Clumsywolfy,NL,53560340209314,
 1,21.54,Javascript,1607297002215,3343011,4095349,Bayugoon,CA,,
 1,21.54,Javascript,1606139008477,3312349,1703514,Alejandrov,CO,10618771384264,
@@ -498,7 +499,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.54,Javascript,1606139008477,3309350,3585167,immjs,FR,57452709515182,
 1,21.54,Javascript,1606139008477,3308477,3516375,TheBasti,GB,,
 1,21.53,Javascript,1606139008477,3308230,3749529,TeddyXDev,FR,42332023792547,
-1,21.53,Javascript,1606139008477,3314319,4055947,RedCDawn,BE,,
 1,21.53,Javascript,1606139008477,3308840,1050805,natridge,FR,3828826424397,
 1,21.52,Javascript,1606139008477,3314181,4063313,JaanisC,LV,,
 1,21.52,Javascript,1606139008477,3308231,3763368,SQUARE,MA,63200404326156,
@@ -656,7 +656,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.39,Javascript,1637294532327,3900964,4564096,Wanpow,VN,72651801799581,
 1,21.38,Javascript,1606139008477,3311687,813445,Pticed,FR,,
 1,21.38,Javascript,1628461544620,3784448,890750,bdrnglm,FR,68562905120479,
-1,21.27,Javascript,1606139008477,3314214,1490071,Konlador,LT,5387649046180,
+1,21.3,Javascript,1606139008477,3314214,1490071,Konlador,LT,5387649046180,
 1,19.09,Javascript,1606139008477,3310928,3152760,LucasM,BR,,
 1,16.9,Javascript,1606139008477,3311109,4055624,Tooraa,FR,,
 1,16.74,Javascript,1606139008477,3308945,4072335,sjoroos,SE,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10196|time=2025-06-05T04:17:46
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10200|time=2025-06-06T04:16:09
 100.0,64.0,Bash,1709412717232,3380184,chouch,FR,,
 100.0,65.0,Perl,1700968265634,1537792,AsaiYusuke,US,41785380851985,
 100.0,65.0,Bash,1700968343813,1537792,AsaiYusuke,US,41785380851985,
@@ -584,7 +584,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,106.0,Ruby,1627778173122,1156852,CoolStoryBro,GB,5702298127915,
 100.0,106.0,C,1643208874661,4511711,MrDut,FR,,
 100.0,106.0,Python3,1647426233404,4316168,bolmos-o,FR,63320023224200,
-100.0,106.0,Python3,1653940091920,4454770,AbrahamJLR,VE,95056724366920,
+100.0,106.0,Python3,1653940091920,4454770,AbrahamJLR,VE,145245760026670,
 100.0,106.0,Python3,1663077296423,3998980,bamax,FR,55292626245560,
 100.0,106.0,Python3,1666655807036,1095091,TSUKA,JP,,
 100.0,106.0,Bash,1673359320168,329048,Eniwilan,FR,83502421528333,
@@ -712,6 +712,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,109.0,Ruby,1734341831433,6384522,Copentin,FR,,
 100.0,109.0,Ruby,1739196123005,4096032,ti-ra-mi-su,JP,137800629350694,
 100.0,109.0,Python3,1746530726757,1917350,pokop,IL,11797309020921,
+100.0,109.0,Ruby,1749182260406,3774585,Gaurav...,AE,134766043659164,
 100.0,110.0,Python3,1553576668096,3030808,skps2010,TW,,
 100.0,110.0,ObjectiveC,1553687612906,1341520,egaetan,FR,21055353954161,
 100.0,110.0,Python3,1554552717054,1114834,k4ng0u,FR,26037223936643,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,117.0,C#,1692900618758,2928146,LolCat,MU,22538133010433,
 100.0,117.0,Javascript,1699820902645,4031451,pbou,FR,55429746348651,
 100.0,117.0,C,1702893639591,1917961,Seoman,FR,,
-100.0,117.0,Python3,1729446229255,4903313,Harry_James_Potter-Evans-Verres,DE,84153500304912,

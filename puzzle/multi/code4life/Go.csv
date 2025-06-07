@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=94|time=2025-06-06T04:16:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=94|time=2025-06-07T04:12:44
 5,23.67,Go,1539716280585,2098037,1607522,RoboStac,GB,11333369102997,
 5,23.45,Go,1551116259579,2257281,1061242,Csipcsirip,HU,136123488672706,
 5,22.91,Go,1519153048698,1665432,1368122,galthaus,US,9903386499213,
@@ -74,9 +74,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,14.3,Go,1642097662192,3969753,1261796,asphaltbuffet,US,3375392763899,
 1,14.29,Go,1642823482207,3979745,3744992,taffypuck,CA,63689004085024,
 1,14.28,Go,1744992780411,5840159,1106043,Teiken,FR,,
+1,14.28,Go,1664704309367,4476729,2572524,cheesycoffee,ID,,
 1,14.28,Go,1642353886228,3972874,1747462,xardalph,FR,,
 1,14.28,Go,1624117396325,3718886,942392,Metanoob,FR,81480427823239,
-1,14.24,Go,1664704309367,4476729,2572524,cheesycoffee,ID,,
 1,2.52,Go,1550617871244,2252106,3192409,jeremy-carbonne,FR,,
 0,13.04,Go,1704752086245,5274207,5210132,izzy_2,US,116236188493164,
 0,13.01,Go,1614797313834,3448526,4215866,nukezy,US,59924748248269,
@@ -92,4 +92,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,12.74,Go,1744474172699,5835114,6597808,Why4ie,ID,,
 0,-0.01,Go,1735979533343,5724145,6438652,kakgem,MY,,
 0,-0.02,Go,1617119981988,3481519,4254045,2kpro,US,61505524726045,
-0,-0.03,Go,1607100405513,3338774,4094252,Haywire-prog,US,55133803497349,
+0,-0.04,Go,1607100405513,3338774,4094252,Haywire-prog,US,55133803497349,

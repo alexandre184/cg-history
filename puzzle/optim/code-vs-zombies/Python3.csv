@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-06-13T04:17:49
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-06-14T04:13:09
 100.0,502530.0,Python3,1743633290281,2980709,ninnghazad,DE,23095056907672,
 100.0,299860.0,Python3,1728457936567,3342366,alphazor0,DZ,124779680506957,
 100.0,273310.0,Python3,1512554696480,622213,Ornicare,FR,15812528520376,
@@ -439,7 +439,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,62540.0,Python3,1685211311837,5478045,DanyaV,RU,,
 100.0,62540.0,Python3,1685377497993,830337,Kronoc,IE,13925721319847,
 100.0,62540.0,Python3,1744927939276,3273910,Herrfalco,FR,,
-100.0,62540.0,Python3,1744937931580,6605739,DidFM,FR,144701040285674,
+100.0,62540.0,Python3,1744937931580,6605739,DidFM,FR,145636221057198,
 100.0,62540.0,Python3,1749721124018,6632153,pipopi,LU,,
 100.0,62540.0,Python3,1749763245425,6683660,spekinos,FR,,
 100.0,62530.0,Python3,1621276710303,1586579,Asmo0,NO,,
@@ -602,6 +602,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60780.0,Python3,1748347430578,6380406,kukimano69,HU,144376405048857,
 100.0,60780.0,Python3,1749380050743,6677154,Satish_2547,IN,,
 100.0,60780.0,Python3,1749458119362,6600709,Lluria,ES,144537602384651,
+100.0,60780.0,Python3,1749865972237,6036901,MinhAn,VN,135147587387165,
 100.0,60770.0,Python3,1625526737815,4111448,Severogor,RU,,
 100.0,60770.0,Python3,1656445997715,4897675,Tybos,CH,,
 100.0,60770.0,Python3,1730959253075,6344197,SamuelPW,US,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,57450.0,Python3,1669388196421,4946800,Vincent-T,FR,91044263967013,
 100.0,57440.0,Python3,1611438649430,4152572,jacumol,CO,57858988522123,
 100.0,57400.0,Python3,1503435005109,1282167,Spaceninja,US,3492751245228,
-100.0,57390.0,Python3,1719858354317,5193480,Seckmeth,FR,106974980143297,

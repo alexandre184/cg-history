@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=611|time=2025-06-16T04:22:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=611|time=2025-06-17T04:18:47
 100.0,129.0,Go,1749756366173,177235,Justalk,FR,83912529145807,
 100.0,130.0,Go,1647621873505,2928146,LolCat,MU,22538133010433,
 100.0,130.0,Go,1680221805084,3845610,pardouin,FR,60364063762936,
@@ -196,6 +196,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,239.0,Go,1637963592275,970660,Brizee,GB,,
 100.0,241.0,Go,1478342056180,1672238,Tharro,BE,,
 100.0,241.0,Go,1669215858320,4841063,Naxus,FR,104762183855753,
+100.0,241.0,Go,1750076250938,3999693,ln-dev05,FR,66651286231911,
 100.0,242.0,Go,1638751163287,1210508,Norihiori,FR,3082657031854,
 100.0,243.0,Go,1696254159739,5737597,beltransen,ES,,
 100.0,246.0,Go,1539177513228,2786666,TetraktysPhi,FR,20818693590142,
@@ -278,7 +279,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,431.0,Go,1435265739044,153678,dknn,FR,,
 100.0,433.0,Go,1444487245925,1079687,ThomasGuillier,FR,,
 100.0,434.0,Go,1742629768093,6560875,NeonGreenLemon,AT,,
-100.0,441.0,Go,1617626263793,3999693,ln-dev05,FR,66651286231911,
 100.0,445.0,Go,1709867281034,4724939,ToneCodes,US,,
 100.0,448.0,Go,1699481657673,2588181,TomaszMikus,GB,,
 100.0,464.0,Go,1545082985921,2418470,FlorianRaith,DE,23961949522269,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=464|time=2025-06-18T04:18:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=465|time=2025-06-19T04:18:20
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,163.0,Python3,1691492345484,1802967,Meruem,FR,31992166318610,
 100.0,165.0,Python3,1717788399134,4395739,Andret0701,NO,144316164534873,
@@ -131,6 +131,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,195.0,Python3,1710857493188,5774153,someonelsentierly,US,,
 100.0,195.0,Python3,1711837780019,6014600,AntonPolianskii,RU,,
 100.0,195.0,Python3,1747326835435,4171997,Maexel,CH,63501325212128,
+100.0,195.0,Python3,1750234625472,3490356,Nijima,FR,,
 100.0,196.0,Python3,1694794770556,5582750,ddmarkas,FR,,
 100.0,196.0,Python3,1705161374298,3664322,cclaude42,FR,75899369879616,
 100.0,196.0,Python3,1712246888066,2833929,pcourrousse,FR,92388388185960,
@@ -168,7 +169,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,202.0,Python3,1711712036304,1694829,Tanvir_Ahmed,BD,112382364245265,
 100.0,202.0,Python3,1723871591893,5276240,Banta2000,CH,125707040833146,
 100.0,202.0,Python3,1741812102009,2285325,ManuMike,FR,,
-100.0,202.0,Python3,1750177556472,3490356,Nijima,FR,,
 100.0,203.0,Python3,1687439805395,4717726,Alexis [Nexure],FR,81506465307341,
 100.0,203.0,Python3,1717603765548,3406987,Radu_Sav,RO,31332302715659,
 100.0,203.0,Python3,1737655079012,4393608,galloj,CZ,,
@@ -401,6 +401,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 26.0,556.0,Python3,1689763901976,4707829,LukasGtrd,FR,77629185402549,
 26.0,1019.0,Python3,1726751683758,6260685,kitarotao,TH,128685509012395,
 4.0,1102.0,Python3,1687551272197,5561384,Hakim-SAGHIR,FR,106913967080806,
+2.0,1276.0,Python3,1750272320717,6681759,,FR,,
 0.0,50.0,Python3,1677685696915,1480426,Hikari42,FR,26186426461576,
 0.0,50.0,Python3,1677847327482,3556476,YohanC,FR,36507960164459,
 0.0,50.0,Python3,1678015335881,5367919,UNICORN_9000,IT,99890201676006,

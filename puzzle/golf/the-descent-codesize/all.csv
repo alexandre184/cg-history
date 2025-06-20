@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5813|time=2025-06-19T04:18:20
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5817|time=2025-06-20T04:16:59
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,127666725990808,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -707,6 +707,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,54.0,Python3,1749854534891,2747964,Sinketsu,RU,20399132450901,
 100.0,54.0,Python3,1749924910014,6602351,matter1024,IN,142705385023430,
 100.0,54.0,Python3,1750180683952,1066745,DepartmentOfRedundancy,FR,107574148016271,
+100.0,54.0,Python3,1750320668727,5280474,Raaton,FR,145929104353156,
 100.0,55.0,Python3,1680825189695,2793264,hyphz,GB,43864585520531,
 100.0,55.0,Python3,1680859657722,4230724,SefioR13,FR,60411344362349,
 100.0,55.0,Python3,1680868001632,2731276,panda42,DE,20365034647350,
@@ -861,6 +862,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,56.0,Python3,1739381014546,6374789,ofdaer,JP,,
 100.0,56.0,Python3,1742633841383,4018262,ChunFong,TW,52126006354294,
 100.0,56.0,Python3,1742936695482,6302811,JimmyX304,US,,
+100.0,56.0,Python3,1750327004864,6691309,Sorio29,FR,,
 100.0,57.0,Javascript,1680921870255,2315623,Lydxn,CA,,
 100.0,57.0,Kotlin,1680946341862,3354337,Westicles,CX,79146641399080,
 100.0,57.0,Kotlin,1680949946401,2923506,darkhorse64,FR,23496414257567,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Python3,1685195643597,4345048,Karmaster,FR,103061749316988,
 100.0,60.0,Python3,1686305156236,5402755,MadMaxO,BR,100983786956390,
 100.0,60.0,Python3,1687601235296,4044949,Exanc,FR,75434945111960,
-100.0,60.0,Python3,1688117930798,3879605,snark-_,FR,,
-100.0,60.0,Python3,1688392315883,1953786,ludowsky,FR,14499107805962,

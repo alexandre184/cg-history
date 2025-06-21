@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=50819|time=2025-06-20T04:16:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=50832|time=2025-06-21T04:14:59
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -472,6 +472,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,89.0,Python3,1725808806659,6165945,Jihkro,US,126381624283432,
 100.0,89.0,Ruby,1736549632135,2786692,gjeanner,FR,138621123461562,
 100.0,89.0,Ruby,1738620807347,5485744,jrl86,FR,,
+100.0,89.0,Bash,1750426448293,4785778,Pharallaxe,FR,80756163394679,
 100.0,90.0,Ruby,1436151647754,760568,alex_slynko,IE,1961915966528,
 100.0,90.0,Javascript,1463423786731,416762,Khao,CA,2035557596161,
 100.0,90.0,Ruby,1541163628138,2726969,alokhmutov,RU,20844254865169,
@@ -980,6 +981,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,104.0,Javascript,1731711173861,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,104.0,Ruby,1739799351574,4587710,Smetalka,HR,,
 100.0,104.0,Python3,1744653041530,5529745,loulouef,FR,,
+100.0,104.0,Ruby,1750464635616,4380587,anp,RO,143639267904154,
 100.0,105.0,Ruby,1439769266168,826008,Savlik5,CZ,2007016563918,
 100.0,105.0,Javascript,1443311232519,1060171,Aurora,HU,2191708908911,
 100.0,105.0,Javascript,1472078234670,1164044,Visual,BG,5482099319684,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Javascript,1596505797376,3840544,calico32,US,117953985264304,
 100.0,105.0,Javascript,1596994469774,186179,Nagrarok,FR,95596601515650,
 100.0,105.0,Ruby,1602692933292,4008421,gannts,DE,,
-100.0,105.0,Javascript,1602902173744,420043,maxim_mazurok,AU,110161421460174,
-100.0,105.0,Javascript,1616435544111,4095128,Voltmachine,BG,56919066754571,

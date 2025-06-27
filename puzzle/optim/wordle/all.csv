@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-06-26T04:19:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-06-27T04:19:11
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -369,6 +369,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,198.0,Python3,1728373561415,4527784,FlAvril,FR,90961467048393,
 100.0,198.0,Python3,1744562925367,5824154,crazy_monkey,FR,124858265873735,
 100.0,198.0,Rust,1749665872921,1407420,kiril76,CH,145194122574303,
+100.0,198.0,Rust,1750984835813,4011015,booniepepper,US,51875769917480,
 100.0,199.0,C#,1686432992430,2379270,Pmz,FR,,
 100.0,199.0,Python3,1689085262084,5196730,pqul,FR,105366649791363,
 100.0,199.0,Python3,1694783749544,3873666,brthyyjp,JP,,
@@ -920,7 +921,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 86.0,653.0,PHP,1710536856428,6006748,eltren,ES,,
 86.0,889.0,C++,1707593350687,5954874,jotalamp,FI,,
 86.0,945.0,Javascript,1724444508800,5492056,Candorada,TD,105744342854445,
-84.0,386.0,TypeScript,1750775668722,6694156,Cobran,FR,,
+84.0,386.0,TypeScript,1750775668722,6694156,Cobran,FR,146409102674453,
 84.0,444.0,Rust,1745787512287,6366512,LevFarkas,NL,,
 82.0,406.0,Python3,1695368964198,4488110,Spackenhans,DE,69614640230698,
 82.0,449.0,Python3,1680539106635,4756693,MorningWalk,JP,82433047491756,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,50.0,TypeScript,1679116081286,5371156,0x21~,MX,100356163750729,
 0.0,50.0,C#,1679138306414,843148,DmitryEliseev,RU,,
 0.0,50.0,Python3,1679164122206,4592615,nico87py,FR,73336726142751,
-0.0,50.0,Python3,1679179211918,5250304,luoar,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5845|time=2025-06-27T04:19:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=5850|time=2025-06-28T04:13:31
 100.0,27.0,Ruby,1680183810084,154937,[CG]BOUGA,FR,1884036222374,
 100.0,27.0,Ruby,1680184115290,3847872,[CG]Gaspar,FR,127666725990808,
 100.0,27.0,Ruby,1680184351175,952784,[CG]Simon,FR,15794417868476,
@@ -153,6 +153,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,40.0,Ruby,1690253784949,5343045,l1keacat,BY,98675208808651,
 100.0,40.0,Ruby,1692010586153,557990,Wazemo,PL,1724224108740,
 100.0,40.0,Ruby,1720166492745,6092845,Javamine,FR,124156707184786,
+100.0,40.0,Ruby,1751007252071,4302149,ejini6969,MY,67346722838343,
 100.0,41.0,Bash,1680996143265,2315623,Lydxn,CA,,
 100.0,41.0,Ruby,1681850614437,4258711,FredericLocquet,FR,125739728070045,
 100.0,41.0,Ruby,1682331638780,3946840,DirkieDurky,NL,114985523071010,
@@ -645,6 +646,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,53.0,Ruby,1745194429097,5538865,alphaben.dev,MA,142520440975249,
 100.0,53.0,Ruby,1745194481807,5541075,abdelmathin,MA,118130566868021,
 100.0,53.0,Kotlin,1749404642272,3351131,osmedile,FR,,
+100.0,53.0,Python3,1751001987864,4302149,ejini6969,MY,67346722838343,
 100.0,54.0,Python3,1681445867645,2491616,abt8601,TW,113139385453588,
 100.0,54.0,Python3,1681491465669,4451820,Teiglin,FR,75444428976198,
 100.0,54.0,Python3,1682414541140,1939310,MasterOfUnderscore,PT,81080588549660,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,60.0,Python3,1682002092603,4745511,Markus88,AT,,
 100.0,60.0,Javascript,1682286536866,155774,dwarfie,FR,17785582865119,
 100.0,60.0,Javascript,1682503395124,3513265,DaNinja,JP,35022107863170,
-100.0,60.0,Python3,1683977987861,4866464,vjules,FR,,
-100.0,60.0,Javascript,1684711105304,2371389,Franta,CZ,16642908084028,

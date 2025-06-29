@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-06-28T04:13:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-06-29T04:26:17
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -314,6 +314,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,193.0,Python3,1725467154006,5746502,Raphtalias,CR,144915581488498,
 100.0,193.0,Python3,1744310070389,3326403,DieBaheit,DE,84728942135621,
 100.0,193.0,Python3,1747540613495,4252224,dawolff,CA,144086081824510,
+100.0,193.0,Python3,1751158195607,6705099,mmammel,US,,
 100.0,194.0,C++,1683712902100,5246622,RinSakamichi,JP,95551565543088,
 100.0,194.0,Python3,1688745444360,4022852,matez,HU,52169541376994,
 100.0,194.0,Python3,1692228515875,5576111,Xwaler,FR,107317105771413,
@@ -561,6 +562,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,225.0,C#,1720233777594,3478043,grunkalunca,US,,
 100.0,225.0,C#,1730334758727,4547346,Ikoi,BE,72168760241687,
 100.0,225.0,Python3,1734093895204,6139537,grdleo,FR,,
+100.0,225.0,C++,1751142813235,3770928,kuhqku,JP,42937722857604,
 100.0,226.0,Lua,1683999425580,2992583,Nullptr12k,US,23233395388464,
 100.0,226.0,C++,1689344193323,5589930,c10wn,RU,,
 100.0,226.0,Go,1722083734354,3789840,Gaasen,SE,44631161434596,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,50.0,C++,1679098817756,5398027,QuietBlue,CN,100727181723357,
 0.0,50.0,C++,1679101890857,5384809,montaglue,IL,104760488775794,
 0.0,50.0,TypeScript,1679116081286,5371156,0x21~,MX,100356163750729,
-0.0,50.0,C#,1679138306414,843148,DmitryEliseev,RU,,
-0.0,50.0,Python3,1679164122206,4592615,nico87py,FR,73336726142751,

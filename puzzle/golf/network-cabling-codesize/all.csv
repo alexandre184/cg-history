@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2514|time=2025-07-07T04:25:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2516|time=2025-07-08T04:20:49
 100.0,73.0,Ruby,1745017899320,2536538,Pduhard-,FR,141372882868918,
 100.0,74.0,Perl,1694366607941,2928146,LolCat,MU,22538133010433,
 100.0,74.0,Perl,1747117072688,4438505,Eric_[EGU],FR,114044329618574,
@@ -367,6 +367,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,145.0,Javascript,1686264692238,2371389,Franta,CZ,16642908084028,
 100.0,145.0,Python3,1686517944814,2315158,luigi_gelato,DE,,
 100.0,145.0,Python3,1697880096102,5211347,Biglover,SE,94664369285909,
+100.0,145.0,Python3,1751923222506,6640566,Evertir,NL,,
 100.0,146.0,PHP,1680805816523,4966586,Rohydre,FR,,
 100.0,146.0,Ruby,1680806709714,4197527,zzzz...,FR,,
 100.0,146.0,Groovy,1681024095182,3354337,Westicles,CX,79146641399080,
@@ -379,6 +380,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,146.0,Python3,1724474738431,4614331,Abh1,IN,75919527883403,
 100.0,146.0,Kotlin,1743648030036,2536538,Pduhard-,FR,141372882868918,
 100.0,146.0,Python3,1750624826729,5193480,Seckmeth,FR,106974980143297,
+100.0,146.0,Python3,1751946486477,6730572,f1uffycatsarecute,US,,
 100.0,147.0,Javascript,1686566809830,2315158,luigi_gelato,DE,,
 100.0,147.0,Javascript,1690268836823,2874091,5DN1L,GB,134264063920528,
 100.0,147.0,Python3,1690467130520,1382590,Cristiano,ES,7128351616620,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,290.0,C++,1741591374819,5872081,IGOX008,MA,116988746003884,
 100.0,290.0,Java,1749572506374,3710624,FRHT,DZ,107030520292228,
 100.0,291.0,Python3,1680174810004,5007634,Morgi,PL,88229986062686,
-100.0,292.0,Java,1725338869899,4275624,UnknownException,CA,,
-100.0,292.0,Rust,1737764399249,5818971,sht_2,PL,138656726356304,

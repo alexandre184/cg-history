@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4052|time=2025-07-10T04:22:28
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4055|time=2025-07-11T04:27:39
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -311,6 +311,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,186.0,Python3,1730907188091,3950687,vkreuz,CZ,78514289834184,
 100.0,186.0,Python3,1738933266754,2252914,Malleek,FR,18829198596160,
 100.0,186.0,Javascript,1743353826570,992329,BeeGee,NL,5817423526804,
+100.0,186.0,Python3,1752182545303,4393608,galloj,CZ,,
 100.0,187.0,C++,1686993592054,1399382,Regulus136,FR,4335723819637,
 100.0,187.0,Python3,1694868709642,270881,Maurice_Moss,FR,30069480173944,
 100.0,187.0,Python3,1695127329829,1694829,Tanvir_Ahmed,BD,112382364245265,
@@ -557,6 +558,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,212.0,Python3,1735062715587,3478374,DarkInfern010,FR,101845183074164,
 100.0,212.0,TypeScript,1751962331281,177235,Justalk,FR,83912529145807,
 100.0,212.0,Python3,1751972897280,1124045,Nikbo,DE,,
+100.0,212.0,Python3,1752164007041,6662598,Pafin,FR,146570184568124,
 100.0,213.0,Python3,1682761699130,5360471,a01sa01to,JP,,
 100.0,213.0,Python3,1682845207852,3803540,TheCodeWitcher,FR,43970608022255,
 100.0,213.0,Python3,1686421037934,5402755,MadMaxO,BR,100983786956390,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,285.0,Ruby,1724118915115,2434422,GilMaN,IL,,
 100.0,286.0,C#,1709275591249,3417150,KubaJ,PL,31610569397670,
 100.0,287.0,Python3,1681053163841,4508271,avarage-gguy,US,117450885572071,
-100.0,287.0,Javascript,1684003172728,2202771,Kaplone,FR,23792369424472,
-100.0,287.0,Python3,1695909304519,5641426,Rlmuru,FR,,

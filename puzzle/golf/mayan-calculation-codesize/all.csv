@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1757|time=2025-07-11T04:27:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1758|time=2025-07-12T04:22:04
 100.0,176.0,Ruby,1700426237714,3380184,chouch,FR,,
 100.0,184.0,Perl,1681817890828,5436334,saito_ta,JP,102476026435385,
 100.0,184.0,Ruby,1695789132178,1429360,comp0zr,US,5127913573349,
@@ -49,6 +49,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,276.0,Ruby,1697888185493,557990,Wazemo,PL,1724224108740,
 100.0,277.0,Javascript,1731189798650,3681367,Salutations,FR,,
 100.0,280.0,Javascript,1686637117210,3502478,tachan,JP,,
+100.0,280.0,Python3,1752236321215,6469784,anlu85,SE,,
 100.0,281.0,Javascript,1736551650452,1474519,Sny_de_Treves,FR,59444303531011,
 100.0,282.0,Ruby,1681081135201,3845610,pardouin,FR,60364063762936,
 100.0,283.0,TypeScript,1700055007103,1093968,milosMATRIXrepic,RS,117470302748056,
@@ -801,8 +802,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1285.0,Python3,1697148013782,5706817,BenBreaksThings,US,111672965282698,
 100.0,1286.0,PHP,1680176550004,4888782,odaxav,FR,94478025275138,
 100.0,1289.0,D,1742825723698,1179950,SangokuSuperSayan,US,146806340517525,
-100.0,1292.0,Python3,1680176450004,3034268,ppp57,FR,,
 100.0,1292.0,Python3,1680176450004,3988638,smike,DE,68444065653880,
+100.0,1292.0,Python3,1680176450004,3034268,ppp57,FR,,
 100.0,1294.0,Python3,1680176570017,983665,erez,IL,1974997764921,
 100.0,1295.0,Python3,1680176690004,813395,dimpopo,LV,3834844900332,
 100.0,1301.0,Python3,1680176490007,1006171,Sokas,PT,2012102176159,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1800.0,Python3,1680176570017,2049617,zenithude_web,FR,30416421664571,
 100.0,1804.0,Python3,1717361293442,6094853,jordanbardella,FR,126378367639046,
 100.0,1808.0,Python3,1680176750004,2234298,kant1,FR,75581665803469,
-100.0,1812.0,Python3,1680176680014,2677877,KyanBlevins,US,75540586313988,

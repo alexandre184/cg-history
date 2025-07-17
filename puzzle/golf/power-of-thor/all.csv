@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51122|time=2025-07-16T04:29:10
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51135|time=2025-07-17T04:28:49
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -474,6 +474,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,89.0,Ruby,1736549632135,2786692,gjeanner,FR,138621123461562,
 100.0,89.0,Ruby,1738620807347,5485744,jrl86,FR,,
 100.0,89.0,Bash,1750426448293,4785778,Pharallaxe,FR,80756163394679,
+100.0,89.0,Javascript,1752678058729,6743804,,FR,,
 100.0,90.0,Ruby,1436151647754,760568,alex_slynko,IE,1961915966528,
 100.0,90.0,Javascript,1463423786731,416762,Khao,CA,2035557596161,
 100.0,90.0,Ruby,1541163628138,2726969,alokhmutov,RU,20844254865169,
@@ -712,6 +713,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,98.0,Python3,1707663377206,3015376,gaha,PL,146517263824349,
 100.0,98.0,Javascript,1724715849425,4995915,wickedweasel,RU,115375944109019,
 100.0,98.0,C,1728674539311,6132028,NicknamedTwice,GB,136778820182751,
+100.0,98.0,Javascript,1752674103092,6742681,Jordhan,FR,,
 100.0,99.0,PHP,1440586078447,153057,PierralF,FR,1762452918913,
 100.0,99.0,Bash,1519625079001,1740037,ereiam,FR,12669494111004,
 100.0,99.0,Javascript,1594963265875,3808031,_proton,US,44172683522650,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Javascript,1559316959607,2876928,Doatti,FI,,
 100.0,105.0,Python3,1584212860223,3711954,kpjl,FR,,
 100.0,105.0,Javascript,1595683516788,3903942,ngoc,VN,,
-100.0,105.0,Javascript,1596505797376,3840544,calico32,US,117953985264304,
-100.0,105.0,Javascript,1596994469774,186179,Nagrarok,FR,95596601515650,

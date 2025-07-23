@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3685|time=2025-07-22T04:29:56
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3688|time=2025-07-23T04:31:25
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -488,6 +488,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,136.0,Python3,1725977374915,820474,Vial-d_j,FR,,
 100.0,136.0,Python3,1728592639275,2309107,JMZ_,GB,,
 100.0,136.0,Python3,1745191959722,1309948,Runner87,IT,6963904733897,
+100.0,136.0,Javascript,1753188863514,6097941,42alex42,LU,124826909634015,
 100.0,137.0,Python3,1680705067526,153965,[CG]Keelhaul,FR,4367050238110,
 100.0,137.0,Python3,1684878891373,270881,Maurice_Moss,FR,30069480173944,
 100.0,137.0,Python3,1686981112726,4619569,moustave,FR,85343827289252,
@@ -866,6 +867,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,163.0,Scala,1723714676627,2874091,5DN1L,GB,134264063920528,
 100.0,163.0,Kotlin,1729871903938,1441239,Dyd,IT,71707560017158,
 100.0,163.0,Python3,1750034825669,322526,Pepperonies,FR,10994552378057,
+100.0,163.0,Python3,1753196978250,6750755,kuertoes,DE,,
 100.0,164.0,Python3,1683022857761,5279809,tcooke,AU,106040884315189,
 100.0,164.0,Python3,1683535873511,4653208,SteDf,SG,75564725332288,
 100.0,164.0,Javascript,1683583693857,5427842,lindman,SE,103367125307036,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,172.0,Python3,1751013495686,3766476,mhouppin,FR,42786381490263,
 100.0,172.0,Python3,1752746931982,6732084,PJSans,US,147042223344487,
 100.0,173.0,C,1681552410539,4110073,souta_1326,JP,57746784258907,
-100.0,173.0,Python3,1682339193254,4204757,Azenor,FR,,
-100.0,173.0,TypeScript,1682586324768,1475413,AlucardDH,FR,4898493641535,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-07-26T04:27:06
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-07-27T04:34:59
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
 100.0,155.0,PHP,1707447048790,4618693,cedricdd,FR,85418008807758,
@@ -500,6 +500,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,213.0,Python3,1728953860783,2223862,brotherapollo,US,119148468531063,
 100.0,213.0,Python3,1731617571071,4796670,RyanThe27th,US,,
 100.0,213.0,Java,1737370220204,6099679,b7241m,BE,137486780560803,
+100.0,213.0,Python3,1753542666937,3782334,VociNur,FR,78275823293330,
 100.0,214.0,Javascript,1684363202490,3561478,TJSteel,GB,43956444263632,
 100.0,214.0,C#,1702826824529,5854752,Jasanto,TN,122673222008413,
 100.0,214.0,Python3,1710527686911,3978506,Bibliophage,GB,,
@@ -509,6 +510,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,214.0,C++,1730653640071,3274956,LeProfesseur,FR,,
 100.0,214.0,Python3,1734794366864,939866,TelePario,AT,1759963440277,
 100.0,214.0,Kotlin,1741116981286,4117067,Alkenorn,FR,,
+100.0,214.0,Python3,1753553935403,6040012,Sigmanificient,FR,121852769255786,
 100.0,215.0,Javascript,1689671555555,4040965,Twistman,FR,,
 100.0,215.0,Python3,1698183894464,5743228,sgpostbox,GB,,
 100.0,215.0,TypeScript,1699915940845,4006527,RakaWhaim,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,50.0,Python3,1678711361286,5067884,bearnaise,FR,93588901573131,
 0.0,50.0,Python3,1678711587683,5135601,zoom1870,FR,,
 0.0,50.0,TypeScript,1678715938659,1475413,AlucardDH,FR,4898493641535,
-0.0,50.0,Python3,1678724629862,2532156,Yonue,FR,99618407824969,
-0.0,50.0,Java,1678742614468,3512052,Xamacor,FR,99842627846431,

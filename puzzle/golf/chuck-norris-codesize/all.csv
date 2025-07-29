@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10320|time=2025-07-28T04:36:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10322|time=2025-07-29T04:38:20
 100.0,64.0,Bash,1709412717232,3380184,chouch,FR,,
 100.0,65.0,Perl,1700968265634,1537792,AsaiYusuke,US,41785380851985,
 100.0,65.0,Bash,1700968343813,1537792,AsaiYusuke,US,41785380851985,
@@ -681,6 +681,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,108.0,Python3,1730504551961,4262724,Epeira,FR,,
 100.0,108.0,Javascript,1730632125075,3681367,Salutations,FR,,
 100.0,108.0,Ruby,1740474706068,5447409,Crqptx,NL,113216743313757,
+100.0,108.0,Javascript,1753729757051,2924895,trictrac,FR,23056996012330,
 100.0,109.0,C,1553684826328,1341520,egaetan,FR,21055353954161,
 100.0,109.0,Python3,1553787600125,2669104,KBurov,US,19292152791924,
 100.0,109.0,Perl,1554569528195,2786666,TetraktysPhi,FR,20818693590142,
@@ -979,7 +980,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,117.0,Python3,1557162438761,2903283,Clement-Warneys,FR,22109033999902,
 100.0,117.0,Python3,1568389259860,1096228,XiaotianZuo,CN,2328944354325,
 100.0,117.0,C++,1584142556432,709490,Sinlepuissant,FR,2102604527472,
-100.0,117.0,Javascript,1588658022549,3513265,DaNinja,JP,35022107863170,
+100.0,117.0,Javascript,1588658022549,3513265,DaNinja,IE,35022107863170,
 100.0,117.0,Python3,1596663163744,1784266,Harma,FR,10328445690157,
 100.0,117.0,Javascript,1599727123238,2888129,terazoid,UA,49682242574474,
 100.0,117.0,Python3,1599869197974,3933471,pankdm,US,48993301017493,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,117.0,Python3,1655492803343,4693705,Zmagar,GE,80035769372422,
 100.0,117.0,Python3,1662465726593,4866820,tinuviel60,FR,89131368063618,
 100.0,117.0,Python3,1665049132681,5116630,,HU,,
-100.0,117.0,Ruby,1667040026087,1052387,RomaricM,FR,92642125599822,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3717|time=2025-08-08T04:35:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=3720|time=2025-08-09T04:19:31
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,67.0,Bash,1681734057576,5436334,saito_ta,JP,102476026435385,
 100.0,68.0,Perl,1680835790747,2315623,Lydxn,CA,,
@@ -154,6 +154,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,108.0,Ruby,1746219488622,2924895,trictrac,FR,23056996012330,
 100.0,108.0,Ruby,1749629882138,6455934,Tum-tum,RU,,
 100.0,108.0,Ruby,1754607532223,6445994,Hamzaizhappy786,PK,136949385618602,
+100.0,108.0,Python3,1754663181816,6777875,gohoro,FR,,
 100.0,109.0,Ruby,1680724153810,4966586,Rohydre,FR,,
 100.0,109.0,TypeScript,1693617790394,4047152,Willard21,US,53068420450889,
 100.0,109.0,C,1693649830365,2928146,LolCat,MU,22538133010433,
@@ -201,7 +202,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,114.0,Ruby,1745770048809,6455447,aidan1012,US,137364206751646,
 100.0,114.0,Python3,1751455463583,6469784,anlu85,SE,,
 100.0,114.0,Python3,1754423566679,5004795,Simonhal,NO,,
-100.0,114.0,Python3,1754607948965,6777875,gohoro,FR,,
 100.0,115.0,Python3,1685323685367,4509203,tri1212,VN,,
 100.0,115.0,Ruby,1689963931582,5343045,l1keacat,BY,98675208808651,
 100.0,115.0,Haskell,1693653683443,2928146,LolCat,MU,22538133010433,
@@ -853,6 +853,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,160.0,Python3,1730823168741,5911694,rodyv,AT,,
 100.0,160.0,Javascript,1751608092164,177235,Justalk,FR,83912529145807,
 100.0,160.0,Javascript,1753729397078,2924895,trictrac,FR,23056996012330,
+100.0,160.0,Swift,1754691779615,6777875,gohoro,FR,,
 100.0,161.0,Haskell,1680730994878,4166555,Natanalel,SE,65894864102793,
 100.0,161.0,Python3,1683296364070,4462819,Sergueille,FR,68688366245835,
 100.0,161.0,Python3,1686662646781,3779078,Bysta_NDER,FR,57791082270683,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,170.0,C,1701545304892,1766582,smugiss,LT,,
 100.0,170.0,Python3,1712322355814,5082089,Annabell,DE,90266041928984,
 100.0,170.0,Python3,1745944376178,3715590,AyD,FR,,
-100.0,170.0,Ruby,1751616966255,1436049,Anoyakh,FR,147628228280240,

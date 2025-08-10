@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=342|time=2025-08-09T04:19:31
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=342|time=2025-08-10T04:31:18
 5,23.88,Javascript,1651497935959,4248325,158495,Cr3aHal0,FR,11235124705354,
 5,21.97,Javascript,1751798821896,5910631,3795745,Soboku,JP,71616261493295,
 5,21.69,Javascript,1711406006167,5349375,818780,Boris-Bodin,FR,125113543527056,
@@ -332,12 +332,12 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,1.47,Javascript,1627667976749,3773049,4445226,BooleanCat,FR,,
 0,1.02,Javascript,1730428524784,5610798,6304495,TheWizardChu,PH,130619501250389,
 0,0.63,Javascript,1676739256925,4743962,5348944,MurderBasket,GB,,
-0,0.09,Javascript,1653322625850,4297273,4899893,minttwisted,US,,
-0,-0.3,Javascript,1561698720260,2432209,3396264,ObsacTheOverseer,TH,30604941570885,
+0,0.27,Javascript,1653322625850,4297273,4899893,minttwisted,US,,
 0,-0.46,Javascript,1560469946141,2421364,3381576,gboi2019,US,29980180138513,
 0,-0.51,Javascript,1568816654783,2492102,3481752,Nateguana,US,,
+0,-0.53,Javascript,1561698720260,2432209,3396264,ObsacTheOverseer,TH,30604941570885,
+0,-0.58,Javascript,1653483187130,4299791,4917244,sareenz,MM,,
 0,-0.95,Javascript,1570723816256,2545686,3522256,NPoli86,US,35256507989429,
-0,-1.01,Javascript,1653483187130,4299791,4917244,sareenz,MM,,
 0,-1.28,Javascript,1590587825021,2993878,3838673,auto_tune_the_desroyer,US,,
-0,-2.05,Javascript,1603958402831,3152735,1933057,AndreiAlbei,RO,11981484749496,
-0,-2.09,Javascript,1543918711443,2148682,3011735,Savit,DE,,
+0,-1.69,Javascript,1543918711443,2148682,3011735,Savit,DE,,
+0,-2.0,Javascript,1603958402831,3152735,1933057,AndreiAlbei,RO,11981484749496,

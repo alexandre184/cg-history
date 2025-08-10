@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1458|time=2025-08-09T04:19:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1458|time=2025-08-10T04:31:18
 100.0,64.0,Python3,1700691260861,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,91.0,Python3,1680822425122,2315623,Lydxn,CA,,
 100.0,95.0,Python3,1680761758650,4876171,j4at,TN,83445448969831,
@@ -58,6 +58,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,115.0,Python3,1711056996113,4380587,anp,RO,143639267904154,
 100.0,115.0,Python3,1719495850251,4460030,pinetail,JP,72860646030617,
 100.0,115.0,Python3,1720988034350,5024020,natthaphon,TH,88701760307123,
+100.0,115.0,Python3,1754776569399,6144352,Pyth1,HU,,
 100.0,116.0,Python3,1684186156452,1950948,tssw,SK,,
 100.0,116.0,Python3,1687168492129,2889053,anderium,NL,128012228609894,
 100.0,116.0,Python3,1692224586013,4956459,Aldoggen,BE,86555608192248,
@@ -110,7 +111,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,123.0,Python3,1692777662212,1876212,PFischbeck,DE,14113662061799,
 100.0,123.0,Python3,1707784924537,4112360,TopFirmino,IT,56468246794455,
 100.0,123.0,Python3,1739317203559,1684020,tom_,FR,68400349015363,
-100.0,123.0,Python3,1754225162183,6144352,Pyth1,HU,,
 100.0,124.0,Python3,1701860140363,5551153,mihail123123123,GR,,
 100.0,124.0,Python3,1734476395686,336746,luxcem,FR,3498521001447,
 100.0,124.0,Python3,1740404491175,2798117,Wyz-rD,FR,20882484600600,
@@ -354,7 +354,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,150.0,Python3,1719302584978,6132028,NicknamedTwice,GB,136778820182751,
 100.0,150.0,Python3,1723641736300,5864862,pepper_,FR,116301729350428,
 100.0,150.0,Python3,1729196643833,1124311,Cataboum,FR,12665428019544,
-100.0,150.0,Python3,1753345523214,6750755,kuertoes,DE,,
+100.0,150.0,Python3,1753345523214,6750755,kuertoes,DE,148591464048183,
 100.0,151.0,Python3,1685927823963,4999954,spacejoey86,GB,,
 100.0,151.0,Python3,1686596685844,3970082,AkumaNemui,FR,50732246432133,
 100.0,151.0,Python3,1691096888239,5018077,krajo,CH,88410449981424,

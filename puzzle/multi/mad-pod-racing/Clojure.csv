@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=104|time=2025-08-12T04:19:50
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=104|time=2025-08-13T04:20:36
 6,33.69,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,30.87,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,30.39,Clojure,1472915116380,650397,951363,agent[j],US,5505013487233,
@@ -47,10 +47,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,11.45,Clojure,1709213930125,5329399,1530801,nha,GB,5790746749053,
 4,11.43,Clojure,1687266475913,4979172,1731529,vzakate,RU,,
 4,1.88,Clojure,1635210169210,3874847,4456990,Tafi,DK,,
-3,16.53,Clojure,1661936784426,4437164,5055949,oneiromanticore,DE,,
+3,16.46,Clojure,1661936784426,4437164,5055949,oneiromanticore,DE,,
 3,16.19,Clojure,1474490394516,684369,1527165,saeidscorp,US,,
+3,16.01,Clojure,1646051858789,4016902,4167598,motoshira,JP,116668086714828,
 3,15.95,Clojure,1626791582290,3759731,4437787,gavv,HK,67859647883069,
-3,15.93,Clojure,1646051858789,4016902,4167598,motoshira,JP,116668086714828,
 3,15.73,Clojure,1498914538614,1374433,1038079,donbonifacio,PT,13149716020058,
 3,15.67,Clojure,1726171328621,5573833,6277461,MeatAndBreath,US,129338603996789,
 3,15.62,Clojure,1494609199101,1233592,1574977,Nevyn,US,6367538812033,
@@ -76,7 +76,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,12.34,Clojure,1590765217615,2996570,1574921,Variance,US,,
 3,12.28,Clojure,1474296922014,669459,1539559,shadowdancer,AR,,
 3,11.37,Clojure,1560370495741,2420206,3009873,Kineolyan,FR,32394008868052,
-3,10.94,Clojure,1661268578954,4431059,2491829,anil9,SE,89130325695961,
+3,11.05,Clojure,1661268578954,4431059,2491829,anil9,SE,89130325695961,
 3,10.8,Clojure,1467643818218,571380,982970,SrijayanthSridhar,IN,,
 3,10.79,Clojure,1482963338559,905074,1762766,boskop,PT,,
 3,10.73,Clojure,1467661143543,571847,1460590,motor4ik,RU,4937058396762,

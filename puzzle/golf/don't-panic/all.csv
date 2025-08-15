@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14960|time=2025-08-14T04:20:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14961|time=2025-08-15T04:20:54
 100.0,56.0,Bash,1696189932639,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,57.0,Ruby,1450099402243,154372,Plopx,FR,7959085736890,
 100.0,60.0,Perl,1449957330749,154372,Plopx,FR,7959085736890,
@@ -862,6 +862,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,146.0,Javascript,1680081949162,5408849,poulet_demoniaque,FR,,
 100.0,146.0,Javascript,1686486407480,4819330,rocambille,FR,143878445142147,
 100.0,146.0,Ruby,1726855913482,4037601,Jelafo,DE,,
+100.0,146.0,Javascript,1755215915619,2452543,Maznek,FR,19088417820828,
 100.0,147.0,Javascript,1435831307076,952534,Slapstick,HK,1807164990711,
 100.0,147.0,C#,1436913475741,371603,MartinQc,CA,1761380964089,
 100.0,147.0,Scala,1463741338103,1001096,MyIIone,AT,4231449697357,
@@ -965,6 +966,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,151.0,Javascript,1681605981137,3322952,FabioSungurlian,UY,113134182268221,
 100.0,151.0,Javascript,1694025547375,1111280,CarlWalsh,US,4659997556357,
 100.0,151.0,Scala,1694108809757,2928146,LolCat,MU,22538133010433,
+100.0,151.0,Javascript,1755218660085,1231500,hello1235711,HU,,
 100.0,152.0,ObjectiveC,1434206849000,828213,anst,FR,1734651202684,
 100.0,152.0,C,1434206951000,828213,anst,FR,1734651202684,
 100.0,152.0,Javascript,1434316486551,740424,vmeurisse,FR,2106597540539,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,153.0,Python3,1649840682899,4438822,ludodul,FR,68181920388772,
 100.0,153.0,Javascript,1660276317042,1348635,ferbos,FR,96159860267051,
 100.0,153.0,Python3,1682182048862,4832181,VisualDev-FR,FR,94025066322906,
-100.0,153.0,Perl,1700131095779,1324974,ViktorCs,HU,4515823207881,
-100.0,153.0,Javascript,1706903306110,4897374,Terfio,DE,118165926589285,

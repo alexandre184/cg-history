@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=217|time=2025-08-20T04:12:50
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=217|time=2025-08-21T04:12:29
 5,23.6,Javascript,1480958644056,872230,1398702,Hota,FR,4341467322789,
 5,22.11,Javascript,1480219537743,815786,1408329,Sacriyana,FR,4289607501439,
 5,21.4,Javascript,1470261616678,614810,416762,Khao,CA,2035557596161,
@@ -55,7 +55,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,16.97,Javascript,1478005358149,781852,1440262,DeafGecko,GB,4606373769108,
 4,16.58,Javascript,1477929751025,781008,1386924,Ylec,FR,4182391658006,
 4,16.47,Javascript,1476925305453,766928,157377,McKelian,FR,116973028542274,
-4,16.34,Javascript,1755623388667,6016190,1600224,Popolapino,FR,15314589039604,
 4,16.26,Javascript,1570154172429,2509039,314562,Mechar,FI,3832913620992,
 4,16.15,Javascript,1479130498914,795320,1653052,fbosco,IT,7821315128596,
 4,16.02,Javascript,1477886552581,780356,1016299,ricardonunesdev,PT,3672394129984,
@@ -79,8 +78,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,13.08,Javascript,1470174733678,613224,1185349,Barni,HU,2912286328976,
 4,13.07,Javascript,1471391471955,629353,1428921,jBigman,FR,126762707413351,
 4,13.06,Javascript,1582235124345,2683704,1193408,DoubleZeroSteph,FR,3015400557516,
-4,12.73,Javascript,1469772098417,607241,1420817,TheMagicShop,FR,4468522326390,
-4,12.33,Javascript,1470087716314,611972,1372349,NinjaDoggy,US,5338452207730,
+4,12.88,Javascript,1469772098417,607241,1420817,TheMagicShop,FR,4468522326390,
+4,12.66,Javascript,1470087716314,611972,1372349,NinjaDoggy,US,5338452207730,
+4,11.0,Javascript,1755703329544,6017090,1600224,Popolapino,FR,15314589039604,
 4,5.89,Javascript,1477474941804,773697,937813,moon_moon,FR,2140505744599,
 4,4.02,Javascript,1469656335232,605186,1499685,Safreen,RO,,
 2,20.82,Javascript,1545376524342,2194108,1931766,vicXiett,MY,19447106780551,

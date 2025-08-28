@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=707|time=2025-08-27T04:11:20
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=707|time=2025-08-28T04:14:08
 5,20.05,Javascript,1649237250751,4064304,3795745,Soboku,JP,71616261493295,
 5,16.59,Javascript,1628587192967,3786145,1360360,zombitrafik,PL,39230624991993,
 5,15.42,Javascript,1674904928553,4723294,3413813,Hvosten,PL,63052087147847,
@@ -522,6 +522,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.48,Javascript,1606139008477,3308586,4054250,Clumsywolfy,NL,53560340209314,
 1,21.48,Javascript,1606139008477,3308244,3974955,MystiquePanda,US,51543680500455,
 1,21.48,Javascript,1626036284344,3750409,4422763,Skiff31,UA,,
+1,21.48,Javascript,1698909148518,5094279,5437512,FredCR7,MG,102545247030609,
 1,21.48,Javascript,1606139008477,3313302,4066104,trash_dev,US,53998200212012,
 1,21.48,Javascript,1606139008477,3313548,3845547,MichaelZarif,EG,124557121763309,
 1,21.48,Javascript,1606139008477,3309407,4057224,TheSaltyKid,BE,,
@@ -539,7 +540,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.47,Javascript,1606139008477,3307791,3814215,dungmidside,VN,53603181836279,
 1,21.47,Javascript,1606139008477,3309134,1680709,Aknilan,FR,29878986393404,
 1,21.47,Javascript,1606139008477,3310164,3809982,Svbrizz,FR,,
-1,21.47,Javascript,1698909148518,5094279,5437512,FredCR7,MG,102545247030609,
 1,21.46,Javascript,1606139008477,3314040,4046171,lepetitdevfr,FR,54136262423668,
 1,21.46,Javascript,1606139008477,3307950,3734108,daniel-sanchez9211,BR,,
 1,21.46,Javascript,1606139008477,3308130,3836745,Omax,FR,53577648446290,
@@ -688,7 +688,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,9.23,Javascript,1606139008477,3313332,2405338,Bl4sio,HU,,
 1,9.23,Javascript,1608452140497,3362543,4111752,Jordane,FR,,
 0,10.03,Javascript,1606139008477,3307388,4063548,TestingSmthn,AR,,
-0,9.77,Javascript,1606139008477,3314107,2921913,Joel2608,FR,,
+0,9.75,Javascript,1606139008477,3314107,2921913,Joel2608,FR,,
 0,7.17,Javascript,1606139008477,3308005,3547240,clarablack,QA,54455242368712,
 0,7.14,Javascript,1606139008477,3309988,3545956,therealyubraj,NP,113966529519045,
 0,7.11,Javascript,1613496078331,3431611,1323703,KornelToth,HU,,

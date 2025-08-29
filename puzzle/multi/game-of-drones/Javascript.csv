@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=362|time=2025-08-28T04:14:08
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=362|time=2025-08-29T04:11:16
 5,26.69,Javascript,1504723662431,1444850,805067,Magus,FR,24623991925371,
 5,22.56,Javascript,1574716867133,2610994,2115491,Haashi,FR,13769252859943,
 5,21.95,Javascript,1573749256570,2599882,1649376,Kujar,FR,7980653749506,
@@ -331,6 +331,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,10.73,Javascript,1502964045206,1425718,559377,ERokas,FR,,
 1,10.7,Javascript,1507733117105,1478428,2225618,terrawheat,GB,,
 1,8.73,Javascript,1582806041184,2689104,3697169,LinkIsACake1,FR,,
+0,11.01,Javascript,1581171548224,2674487,3674486,IziRuss,FR,,
 0,10.96,Javascript,1607084490167,3338348,571264,Jikardo,BG,,
 0,10.96,Javascript,1642684891814,3977516,1058927,Zjotas,LT,,
 0,10.96,Javascript,1582114790497,2682315,3687628,NicolasFRANCISCO,FR,,
@@ -340,7 +341,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,10.93,Javascript,1533209335388,1990712,2770579,LARK,PH,,
 0,10.89,Javascript,1647459747848,4035873,4791697,SolidMarrow9967,US,80269301415674,
 0,10.89,Javascript,1573768466513,2600290,2498576,TheNormalPerson,IL,17535804431641,
-0,10.88,Javascript,1581171548224,2674487,3674486,IziRuss,FR,,
 0,10.87,Javascript,1448231630459,364827,1170878,Scub,BE,34693968049558,
 0,10.86,Javascript,1515320927906,1619715,2144786,stoytam,RU,,
 0,10.85,Javascript,1589131017270,2892625,3810189,JIANCHEN,FR,,
@@ -353,8 +353,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,10.78,Javascript,1503561235253,1432854,1677918,CA,FR,8341569165435,
 0,10.78,Javascript,1504847139896,1446226,1901670,suku,IN,,
 0,10.77,Javascript,1706329083153,5299065,5927803,zhizho,IR,,
-0,10.75,Javascript,1503597459248,1433418,2146056,babyShifu,IN,53109342153105,
 0,10.75,Javascript,1738056883082,5763569,6468161,Deveil,PK,,
+0,10.74,Javascript,1503597459248,1433418,2146056,babyShifu,IN,53109342153105,
 0,10.73,Javascript,1526841867899,1857869,2258103,Jennypatrick,MG,87563845801129,
 0,10.73,Javascript,1416007606190,188470,600304,,US,,
 0,10.7,Javascript,1741035489349,5796678,6519821,juicewrld200,US,140476541037726,

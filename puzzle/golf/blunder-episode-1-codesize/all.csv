@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1614|time=2025-08-29T04:11:16
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1615|time=2025-08-30T04:10:15
 100.0,237.0,Ruby,1716322503390,3380184,chouch,FR,,
 100.0,262.0,Perl,1699916572975,4438505,Eric_[EGU],FR,114044329618574,
 100.0,268.0,Perl,1681806699684,5436334,saito_ta,JP,102476026435385,
@@ -413,6 +413,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1059.0,PHP,1684079644775,4258711,FredericLocquet,FR,125739728070045,
 100.0,1059.0,Python3,1711733939487,5897921,A_22,CZ,118928780223222,
 100.0,1059.0,Javascript,1723626262444,5298641,RTJ,FR,97115384435155,
+100.0,1061.0,Java,1756472740428,4213251,FrancisTafe,FR,,
 100.0,1074.0,Python3,1754427396059,3750985,vexilla72,FR,69788861540753,
 100.0,1086.0,Python3,1735395413926,4390977,Z4th,FR,105579260198482,
 100.0,1096.0,C++,1707139626541,2160651,soca,FR,14211997962464,
@@ -847,8 +848,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,3624.0,Python3,1680174050003,4716569,DocteurLulu,FR,77783363956959,
 100.0,3633.0,Python3,1680173920007,3611618,PythonAV,FR,89332349877374,
 100.0,3635.0,C++,1680173790006,5182979,AnwilShienOli,PH,94425283486512,
-100.0,3635.0,C++,1680173810040,5277095,Alaeddine_Brahem,FR,,
 100.0,3635.0,C++,1680173810040,4904327,shwe6,IN,,
+100.0,3635.0,C++,1680173810040,5277095,Alaeddine_Brahem,FR,,
 100.0,3635.0,C++,1680173920007,4582669,TheAwesomeGuy,GB,75645627806216,
 100.0,3640.0,Go,1680173970008,1398275,Quentin_B,FR,,
 100.0,3641.0,Python3,1680174110005,4606525,ksgk,,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,4396.0,Python3,1680173810040,700378,cyrilb38,FR,,
 100.0,4400.0,Python3,1680173860009,5153421,pere-mission,FR,,
 100.0,4402.0,C++,1680174050003,1746746,dohai90,KR,66317949256312,
-100.0,4409.0,Javascript,1680174110005,1976585,TheMadOcarina,FR,12413669510547,

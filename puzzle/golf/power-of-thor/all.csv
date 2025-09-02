@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51616|time=2025-09-01T11:09:03
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51629|time=2025-09-02T04:11:43
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -548,6 +548,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,92.0,Javascript,1705397174720,4537924,ArtesScytale,BE,121331549433012,
 100.0,92.0,Perl,1709016412477,4806550,Rafarafa,ES,80946308795008,
 100.0,92.0,Ruby,1719579804798,4232454,Sinel_V,MG,70712842418618,
+100.0,92.0,Javascript,1756728767013,5150000,meeter,FR,137315342692600,
 100.0,93.0,Javascript,1471034203895,1489925,DeSet,BG,5060331972589,
 100.0,93.0,Ruby,1476191340280,1646815,tiagoshibata,BR,,
 100.0,93.0,Ruby,1487226606089,1508255,shadowX[Dorin-E],MD,10178721110150,
@@ -564,7 +565,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,93.0,Ruby,1710961937504,5966021,noCode,DE,,
 100.0,93.0,Javascript,1717171165007,3298988,kjghfrtsdh5412123,FI,101491804514502,
 100.0,93.0,Python3,1731371398800,4585293,Gu3n0,FR,131164447193799,
-100.0,93.0,Javascript,1736325932722,5150000,meeter,FR,137315342692600,
 100.0,93.0,Python3,1748992918714,6664646,Akernet,SE,,
 100.0,94.0,Ruby,1445527667213,1052630,_,BY,,
 100.0,94.0,Ruby,1445899765128,1038830,rubicon,PL,2504386701540,
@@ -927,6 +927,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,103.0,Pascal,1712606144041,4438505,Eric_[EGU],FR,114044329618574,
 100.0,103.0,C++,1717222626740,557990,Wazemo,PL,1724224108740,
 100.0,103.0,Ruby,1734213668814,3919237,Quick_Kick,UA,47895168215128,
+100.0,103.0,Python3,1756727593241,6788640,nybthering,GB,,
 100.0,104.0,Perl,1435270134185,943556,DollarAkshay,IN,18256210360824,
 100.0,104.0,Javascript,1468256520652,1048348,Disciple.of.Ada,US,4750606204700,
 100.0,104.0,Javascript,1487089561809,1706476,Maboul95,FR,9338051370545,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Javascript,1494499174374,587769,infusion,DE,2936450004591,
 100.0,105.0,Javascript,1516894622263,389786,menu,DE,,
 100.0,105.0,Perl,1526893167598,2584779,quirck,RU,18381413562499,
-100.0,105.0,Javascript,1559316959607,2876928,Doatti,FI,,

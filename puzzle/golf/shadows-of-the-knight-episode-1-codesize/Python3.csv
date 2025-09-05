@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1515|time=2025-09-04T04:10:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1515|time=2025-09-05T04:19:24
 100.0,130.0,Python3,1681273415210,2315623,Lydxn,CA,,
 100.0,132.0,Python3,1698965406468,4438505,Eric_[EGU],FR,114044329618574,
 100.0,134.0,Python3,1681284999045,4992786,[ovs],DE,,
@@ -211,6 +211,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,197.0,Python3,1705601639894,3664322,cclaude42,FR,75899369879616,
 100.0,197.0,Python3,1717610754258,1394530,Idleless,CA,4170046072282,
 100.0,197.0,Python3,1747837379205,6629237,oyvevju,NO,,
+100.0,197.0,Python3,1756992362704,6602351,__Matter__,IN,142705385023430,
 100.0,198.0,Python3,1698065982631,3327739,bissaka,NE,71315867386072,
 100.0,198.0,Python3,1699955289667,5797290,Pyromanouche,FR,,
 100.0,198.0,Python3,1702746609607,5235018,Spaghettificated,PL,99956084963470,
@@ -302,7 +303,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,214.0,Python3,1690409451192,5594552,arlequ1,FR,,
 100.0,214.0,Python3,1712377058193,1545901,bartlo,FR,,
 100.0,214.0,Python3,1729590236870,5209597,pquline,FR,130357765143286,
-100.0,214.0,Python3,1756805053637,6602351,__Matter__,IN,142705385023430,
 100.0,215.0,Python3,1683058428544,5203926,Octaro,FR,,
 100.0,215.0,Python3,1683648649590,2980709,ninnghazad,DE,23095056907672,
 100.0,215.0,Python3,1685145062218,5457020,Whomstve,PL,,
@@ -804,8 +804,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,801.0,Python3,1717900258889,5832683,Constantine_,US,142633562869625,
 100.0,803.0,Python3,1680172170006,5401792,ZultaMorda,PL,100942300667849,
 100.0,803.0,Python3,1680172650004,5078046,threefoldmisery,RU,,
-100.0,803.0,Python3,1680172670007,5368052,,MN,,
 100.0,803.0,Python3,1680172670007,5368023,,MN,,
+100.0,803.0,Python3,1680172670007,5368052,,MN,,
 100.0,803.0,Python3,1682423409688,5449490,ahmad.eng,LB,,
 100.0,803.0,Python3,1714397654589,6066514,sol_2,JP,,
 100.0,806.0,Python3,1680172590006,5373985,Anis_Jemel,FR,,

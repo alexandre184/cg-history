@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51675|time=2025-09-06T04:10:10
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51687|time=2025-09-07T04:10:14
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -475,6 +475,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,89.0,Ruby,1738620807347,5485744,jrl86,FR,,
 100.0,89.0,Bash,1750426448293,4785778,Pharallaxe,FR,80756163394679,
 100.0,89.0,Javascript,1752678058729,6743804,,FR,,
+100.0,89.0,Ruby,1757154353905,3305510,TBali,HU,26750785092441,
 100.0,90.0,Ruby,1436151647754,760568,alex_slynko,IE,1961915966528,
 100.0,90.0,Javascript,1463423786731,416762,Khao,CA,2035557596161,
 100.0,90.0,Ruby,1541163628138,2726969,alokhmutov,RU,20844254865169,
@@ -556,7 +557,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,93.0,Perl,1595279472230,1854246,Counterbalance,NL,26367790351026,
 100.0,93.0,Ruby,1604945484044,1321503,crokis,FR,52883842157236,
 100.0,93.0,Ruby,1609243021313,4038295,rmnShk,NP,131150463618116,
-100.0,93.0,Ruby,1611507346440,3305510,TBali,HU,26750785092441,
 100.0,93.0,Ruby,1657947571312,4989036,tomonacci,US,,
 100.0,93.0,Ruby,1659300098113,1442344,PavelRaskin,GE,,
 100.0,93.0,Javascript,1683517731053,1903031,hard-coded,KR,27487549921318,
@@ -895,7 +895,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,102.0,Python3,1728150826288,3034268,ppp57,FR,,
 100.0,102.0,Javascript,1731503519974,4037601,Jelafo,DE,,
 100.0,102.0,Bash,1732027285100,4037601,Jelafo,DE,,
-100.0,102.0,Javascript,1736576097163,4782227,ArgoZ,FR,147748269236179,
+100.0,102.0,Javascript,1736576097163,4782227,ArgoZ,FR,149860422641201,
 100.0,102.0,Python3,1745755587238,6017708,ChetBuddy,FR,120956362813399,
 100.0,102.0,Python3,1746394740028,6628171,BradyVDZ,CA,,
 100.0,103.0,Ruby,1454753414740,717675,someone9999,CA,,

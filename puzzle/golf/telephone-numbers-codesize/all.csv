@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2795|time=2025-09-06T04:10:10
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2797|time=2025-09-07T04:10:14
 100.0,31.0,Perl,1681462065231,5436334,saito_ta,JP,102476026435385,
 100.0,31.0,Perl,1692993388511,2928146,LolCat,MU,22538133010433,
 100.0,32.0,Perl,1680847097265,2315623,Lydxn,CA,,
@@ -493,7 +493,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,99.0,Python3,1719847248351,631323,herve056,FR,11494731136934,
 100.0,99.0,Python3,1723036760618,6189409,ChinKid,PH,127230162388628,
 100.0,99.0,Python3,1725562404929,1811761,Spacequokka,FR,78004684137514,
-100.0,99.0,Javascript,1736643227901,4782227,ArgoZ,FR,147748269236179,
+100.0,99.0,Javascript,1736643227901,4782227,ArgoZ,FR,149860422641201,
 100.0,99.0,Python3,1737603722771,5212758,ruier,CN,94598409917739,
 100.0,100.0,Perl,1680787946099,4966586,Rohydre,FR,,
 100.0,100.0,C++,1681166371713,3845610,pardouin,FR,60364063762936,
@@ -984,6 +984,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,187.0,C++,1698702751857,973040,papyjo,FR,15696776172839,
 100.0,187.0,C++,1705964647501,962495,eboot,FR,55086804311206,
 100.0,187.0,Javascript,1755155753111,1747550,Rafalon,FR,10124714341951,
+100.0,187.0,Lua,1757212282959,6491200,Xenia_F,DE,,
 100.0,188.0,Ruby,1680791903231,1527403,Di_Masta,BG,5689020242575,
 100.0,188.0,Scala,1680876191000,1077559,PhOeNyX,FR,2248934338554,
 100.0,188.0,Python3,1682496404284,5174919,CozmixOff,FR,93350080771140,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,190.0,C,1681320954403,5377812,mcplanet,AT,,
 100.0,190.0,Python3,1710843068636,2533793,frosqh,FR,18067034410293,
 100.0,190.0,Javascript,1735398612201,1019783,danku9,PS,136454469741010,
-100.0,190.0,Javascript,1749651401717,6075430,D0se,FR,,

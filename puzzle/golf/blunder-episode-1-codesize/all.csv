@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1618|time=2025-09-10T04:10:22
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1620|time=2025-09-11T04:10:41
 100.0,237.0,Ruby,1716322503390,3380184,chouch,FR,,
 100.0,262.0,Perl,1699916572975,4438505,Eric_[EGU],FR,114044329618574,
 100.0,268.0,Perl,1681806699684,5436334,saito_ta,JP,102476026435385,
@@ -389,6 +389,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,936.0,C#,1687675875099,5429383,Tatur2000,FR,102119084943733,
 100.0,937.0,Python3,1690354413619,4306157,Leuti,CH,106396707673388,
 100.0,940.0,C,1747022028081,897912,boganvogon,AU,142591526779239,
+100.0,946.0,C++,1757505841024,4213251,FrancisTafe,FR,,
 100.0,948.0,Python3,1696079091956,4281108,william16,FR,,
 100.0,953.0,Javascript,1686429302749,5377138,mayan164,BE,99986908407422,
 100.0,957.0,PHP,1703701740232,5851611,Rémiz,FR,117020903773330,
@@ -575,6 +576,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,2145.0,Python3,1751442320470,5446682,shreyas20,IN,,
 100.0,2161.0,PHP,1680173730003,5332090,xamtheone,US,98317544462026,
 100.0,2163.0,Python3,1680173800003,5221495,Kerosyn,FR,,
+100.0,2164.0,Python3,1757495985415,6641911,Nakoshi,FR,143821560247409,
 100.0,2181.0,Python3,1689807110281,3214641,Neicul,FR,25566448504624,
 100.0,2191.0,Python3,1680173930006,1241661,jukkes,FR,78839465686770,
 100.0,2196.0,C++,1680173810040,2748753,sovietriority,RU,20391800492193,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,4354.0,Rust,1680174050003,2626778,Fingolfin,CA,,
 100.0,4355.0,C++,1680174050003,4677131,zedred,CH,,
 100.0,4373.0,C,1680173930006,3782553,Dan29,AR,43323828446598,
-100.0,4391.0,Python3,1680173970008,3212828,CyD,FR,88907162564508,
-100.0,4396.0,Python3,1680173810040,700378,cyrilb38,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15055|time=2025-09-18T04:11:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15058|time=2025-09-19T04:11:14
 100.0,56.0,Bash,1696189932639,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,57.0,Ruby,1450099402243,154372,Plopx,FR,7959085736890,
 100.0,60.0,Perl,1449957330749,154372,Plopx,FR,7959085736890,
@@ -162,6 +162,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,93.0,ObjectiveC,1438303798348,371603,MartinQc,CA,1761380964089,
 100.0,93.0,Javascript,1447362092238,1039809,Azziliz,FR,2174385385699,
 100.0,93.0,Lua,1682907124437,3354337,Westicles,CX,79146641399080,
+100.0,93.0,Python3,1758184060557,1179950,Cg_TheLegend,JP,150073908102931,
 100.0,94.0,Python3,1435091912587,557990,Wazemo,PL,1724224108740,
 100.0,94.0,Bash,1458176090346,886483,R4N4R4M4,FR,7943435133357,
 100.0,94.0,Python3,1461790271277,848989,revever,FR,3260982337452,
@@ -500,6 +501,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,123.0,Javascript,1619092464927,2451652,code_of_the_dead,FR,18798469788923,
 100.0,123.0,Python3,1684081472298,4992786,[ovs],DE,,
 100.0,123.0,C,1732552246121,6115420,scresto,FR,137702907699482,
+100.0,123.0,PHP,1758198870115,1179950,Cg_TheLegend,JP,150073908102931,
 100.0,124.0,C,1431225497000,199767,sam,FR,,
 100.0,124.0,Perl,1433438192000,432266,alxn1101r,RU,,
 100.0,124.0,Javascript,1447281819391,1144979,MatteoSpreafico,IT,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,153.0,Python3,1609347403423,2135916,Oioi,FR,20262005724221,
 100.0,153.0,Javascript,1617423427023,4256559,pkostua,RU,,
 100.0,153.0,PHP,1627133813923,709490,Sinlepuissant,FR,2102604527472,
-100.0,153.0,Python3,1649840682899,4438822,ludodul,FR,68181920388772,
-100.0,153.0,Javascript,1660276317042,1348635,ferbos,FR,96159860267051,

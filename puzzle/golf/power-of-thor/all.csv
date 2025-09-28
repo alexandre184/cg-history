@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51873|time=2025-09-27T04:10:18
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51877|time=2025-09-28T04:10:37
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -516,6 +516,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,91.0,C,1690024588514,154806,piwai,FR,1956863959967,
 100.0,91.0,Ruby,1707973592407,154996,shashwat986,IN,39427621192030,
 100.0,91.0,C++,1729340116049,6115420,scresto,FR,137702907699482,
+100.0,91.0,Python3,1759022772174,4903313,Harry_James_Potter-Evans-Verres,CH,84153500304912,
 100.0,92.0,Ruby,1444906875397,936495,LittleCrow,US,1852341854082,
 100.0,92.0,Ruby,1447923700527,1131084,pmod,CZ,,
 100.0,92.0,Ruby,1482674483848,1410353,luminyan,BE,13267194518543,
@@ -807,6 +808,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,101.0,Python3,1733757811714,4541943,division,FR,135228861491332,
 100.0,101.0,Python3,1737136282093,6307808,tripleXXX,UA,,
 100.0,101.0,Python3,1746456691751,1796641,sweenig,US,,
+100.0,101.0,Python3,1759009554603,3765537,Sentience,FR,141441504003573,
 100.0,102.0,Javascript,1443829171524,1047991,MandM,PT,,
 100.0,102.0,Ruby,1454937847999,1221491,Augustus,PL,3471558491467,
 100.0,102.0,Python3,1459270346218,1364335,ArgShX,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Ruby,1481463521378,440476,yowa,JP,7092718935506,
 100.0,105.0,Ruby,1484509386858,1377377,Klumbe,DE,,
 100.0,105.0,Ruby,1487184815480,1829314,202,BG,10832674222341,
-100.0,105.0,Javascript,1494499174374,587769,infusion,DE,2936450004591,
-100.0,105.0,Javascript,1516894622263,389786,menu,DE,,

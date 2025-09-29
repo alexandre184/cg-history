@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=174|time=2025-09-28T04:10:37
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=174|time=2025-09-29T04:11:42
 6,27.81,Perl,1610308275961,3385685,4117944,BenjaminBrumaire,FR,57138088503605,
 6,13.15,Perl,1523465041155,1769612,1991984,MicheL,FR,18593518277662,
 5,35.88,Perl,1676447549806,4740260,4687360,thomas.schuerger,DE,77623682146098,
@@ -84,8 +84,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,13.1,Perl,1527269819527,1864327,1767868,Blazze,DE,,
 4,13.09,Perl,1571328711329,2573957,1879830,JeanMichelCodeur,FR,,
 4,12.92,Perl,1567185264927,2478458,3433317,PeteAroundTheBush,FR,33248380340148,
+4,12.67,Perl,1545704702082,2198987,1086214,bor,UA,2314950405832,
 4,12.61,Perl,1569848695929,2505018,1644660,aramilialon,IT,,
-4,12.55,Perl,1545704702082,2198987,1086214,bor,UA,2314950405832,
 4,12.52,Perl,1665061804287,4482362,2337430,zhean,FR,15801664156771,
 4,12.51,Perl,1570528997329,2531547,1736077,tempomeister,US,,
 4,12.43,Perl,1579024055214,2650006,2154718,JaceBeleren,RO,,
@@ -144,7 +144,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,11.49,Perl,1473340960966,655477,1533914,[CPC]cab,FR,,
 3,10.51,Perl,1494420945565,1230350,1982449,FrogMorton,US,,
 3,10.35,Perl,1547639826663,2221701,2473593,xurc,RU,24597680518022,
-3,10.3,Perl,1537796051358,2078497,2868749,uwe,DE,,
+3,10.22,Perl,1537796051358,2078497,2868749,uwe,DE,,
 3,10.19,Perl,1475050260143,720081,1611018,sisko,NZ,,
 3,10.08,Perl,1632947050981,3846855,4533685,piaf,CA,,
 3,9.25,Perl,1551797793274,2264162,908342,RetroVem,HU,32046744170581,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=248|time=2025-09-28T04:10:37
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=248|time=2025-09-29T04:11:42
 4,21.47,Javascript,1472306361216,642018,416762,Khao,CA,2035557596161,
 4,20.22,Javascript,1665801509751,4493396,3489223,KarloHubai,RS,88425880005143,
 4,16.55,Javascript,1755007814369,6009835,1201796,P.Greze,FR,3522907180370,
@@ -225,7 +225,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,14.58,Javascript,1466431306466,504974,365796,CvxFous,FR,2892223124232,
 0,14.57,Javascript,1471901384191,635675,738134,cristom-co,CO,5529073122710,
 0,14.46,Javascript,1525727768297,1845643,2253267,snowfrogdev,CA,91617025510820,
-0,14.35,Javascript,1475140362393,726152,1322924,OviiMcl,RO,,
+0,14.39,Javascript,1475140362393,726152,1322924,OviiMcl,RO,,
 0,14.04,Javascript,1466175022608,501184,1390227,scorbiere,CA,5248281669953,
 0,13.99,Javascript,1467839594676,574933,1487398,Bonusaben,DK,20874590335566,
 0,13.54,Javascript,1510830218994,1513721,2308479,[SC]_I_need_Healing,TH,,
@@ -236,7 +236,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,11.49,Javascript,1718193283802,5415563,6127681,W4113,FR,,
 0,11.49,Javascript,1526406948785,1853225,2258103,Jennypatrick,MG,87563845801129,
 0,10.66,Javascript,1548625130861,2233404,1388660,Maeevick,FR,72284526964436,
-0,9.21,Javascript,1538005703436,2080762,2006348,Koji02,JP,,
+0,9.31,Javascript,1538005703436,2080762,2006348,Koji02,JP,,
 0,8.89,Javascript,1482111908525,893937,1618260,MarkTellez,MX,114859600076447,
 0,7.76,Javascript,1466574615583,507069,858602,Suigetsusake,FR,4851932107261,
 0,5.87,Javascript,1590278714555,2989652,3394874,jacrispy,US,,
@@ -245,5 +245,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,5.34,Javascript,1467728237450,572948,199243,[CG]Nonofr,FR,1715936252943,
 0,5.28,Javascript,1684174564368,4825677,5499980,bob197,US,,
 0,5.27,Javascript,1467911193741,576034,1488334,GetRektM8,AS,5024658269124,
-0,1.93,Javascript,1472610453786,646041,1477646,jasartstudios,US,,
+0,1.97,Javascript,1472610453786,646041,1477646,jasartstudios,US,,
 0,-1.72,Javascript,1466622303143,507957,1473441,CodingLordGamer,US,,

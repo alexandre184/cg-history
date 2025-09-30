@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51883|time=2025-09-29T04:11:42
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=51893|time=2025-09-30T04:11:30
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -185,6 +185,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,80.0,Javascript,1738340514388,1201796,P.Greze,FR,3522907180370,
 100.0,80.0,Python3,1744664824886,4149818,Rocket05,GB,57894749237710,
 100.0,80.0,TypeScript,1751963192616,177235,Justalk,FR,83912529145807,
+100.0,80.0,Python3,1759173309729,6661855,icecubersmom,NO,145738363081455,
 100.0,81.0,Ruby,1462029827678,884725,zoty314,HU,,
 100.0,81.0,Ruby,1475782630255,1599292,shinesoul,ID,,
 100.0,81.0,Ruby,1479826619400,1568093,b0ot,AE,6694372640439,
@@ -242,6 +243,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,85.0,C,1697805134988,557990,Wazemo,PL,1724224108740,
 100.0,85.0,Python3,1712162165360,6019143,Pythonically,GB,121196349519592,
 100.0,85.0,Python3,1745262860668,4754096,yfoucade,FR,,
+100.0,85.0,Python3,1759151215003,4903313,Harry_James_Potter-Evans-Verres,CH,84153500304912,
 100.0,86.0,Ruby,1539521905861,2615786,nyiti,HU,,
 100.0,86.0,Ruby,1613943036177,2991446,Haksell,VC,23218663624022,
 100.0,86.0,Ruby,1637918024253,3335896,martynas-sm,LT,117495526235652,
@@ -516,7 +518,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,91.0,C,1690024588514,154806,piwai,FR,1956863959967,
 100.0,91.0,Ruby,1707973592407,154996,shashwat986,IN,39427621192030,
 100.0,91.0,C++,1729340116049,6115420,scresto,FR,137702907699482,
-100.0,91.0,Python3,1759022772174,4903313,Harry_James_Potter-Evans-Verres,CH,84153500304912,
 100.0,92.0,Ruby,1444906875397,936495,LittleCrow,US,1852341854082,
 100.0,92.0,Ruby,1447923700527,1131084,pmod,CZ,,
 100.0,92.0,Ruby,1482674483848,1410353,luminyan,BE,13267194518543,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Javascript,1480321240237,1528929,Blackfich,FR,95780209684968,
 100.0,105.0,Ruby,1481463521378,440476,yowa,JP,7092718935506,
 100.0,105.0,Ruby,1484509386858,1377377,Klumbe,DE,,
-100.0,105.0,Ruby,1487184815480,1829314,202,BG,10832674222341,

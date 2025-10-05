@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=241|time=2025-10-04T04:10:07
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=241|time=2025-10-05T04:10:36
 6,38.49,Haskell,1665143752282,4483767,5107677,lingcoding,VN,,
 6,37.81,Haskell,1665368051473,4486437,5114798,np.binh,VN,,
 6,37.58,Haskell,1591261783563,3002994,2491651,Nedog,TW,17474883264870,
@@ -9,7 +9,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 6,25.05,Haskell,1521300890812,1734321,746260,rhr,JP,16966043214606,
 6,15.54,Haskell,1529886127716,1931103,1990491,obreitwi,DE,15653875836459,
 6,12.42,Haskell,1640030202198,3944276,1333232,ntj,HU,3756176929801,
-5,38.22,Haskell,1587352331297,2821154,2491616,abt8601,TW,113139385453588,
+5,38.35,Haskell,1587352331297,2821154,2491616,abt8601,TW,113139385453588,
 5,34.67,Haskell,1613166102553,3428225,4147626,ratthaprypiroonrojn,TH,,
 5,33.53,Haskell,1501754306353,1414973,2117086,RealitySink,NL,,
 5,31.54,Haskell,1464700789328,480274,154906,JBM,CH,,
@@ -197,7 +197,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,9.37,Haskell,1480986834087,873022,1716461,DAG,FR,,
 3,8.62,Haskell,1495345439697,1287448,1966207,Visic,US,12305854603041,
 3,8.19,Haskell,1738672586355,5771070,6468766,Chronos-Vitaqua,GB,137835103455399,
-3,7.86,Haskell,1495014319172,1263401,668902,Tayacan,DK,,
+3,7.8,Haskell,1495014319172,1263401,668902,Tayacan,DK,,
 3,7.05,Haskell,1466374245532,504288,798730,Picklejar,DE,,
 3,6.53,Haskell,1582758338891,2688808,3695567,JanUlrich,DE,,
 3,5.33,Haskell,1488756350972,1075010,1869420,Chronoes,EE,11307829732356,
@@ -219,8 +219,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,14.34,Haskell,1657632380247,4390885,4988256,flyingpeanut,GR,,
 2,14.16,Haskell,1603923213743,3152494,4031656,kirelagin,US,52448288441775,
 2,13.95,Haskell,1465394119018,492236,330488,Shakadak,FR,,
+2,13.94,Haskell,1685369181428,4879827,5429271,djv1982,ES,,
 2,13.94,Haskell,1617242074223,3482994,2111350,Mr.Rara,US,20573579094146,
-2,13.81,Haskell,1685369181428,4879827,5429271,djv1982,ES,,
 2,13.69,Haskell,1538660407352,2087045,2891233,Nickname1234567890,GR,,
 2,12.76,Haskell,1534010820209,2015491,2790178,nhaskins,CA,,
 2,12.69,Haskell,1614920878332,3450243,3438426,mingmingrr,US,,

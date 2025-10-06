@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2825|time=2025-10-05T04:10:36
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2827|time=2025-10-06T04:11:02
 100.0,31.0,Perl,1681462065231,5436334,saito_ta,JP,102476026435385,
 100.0,31.0,Perl,1692993388511,2928146,LolCat,MU,22538133010433,
 100.0,32.0,Perl,1680847097265,2315623,Lydxn,CA,,
@@ -316,6 +316,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,84.0,Python3,1713342064041,1880197,bicklil,FR,48428120491412,
 100.0,84.0,Python3,1715246276670,3336089,titano,FR,29006088793205,
 100.0,84.0,Python3,1750000779309,4785778,Pharallaxe,FR,80756163394679,
+100.0,84.0,Python3,1759690147934,4903313,Harry_James_Potter-Evans-Verres,CH,84153500304912,
 100.0,85.0,C,1681030518827,3354337,Westicles,CX,79146641399080,
 100.0,85.0,ObjectiveC,1681030551244,3354337,Westicles,CX,79146641399080,
 100.0,85.0,Javascript,1681208147073,952784,[CG]Simon,FR,15794417868476,
@@ -356,6 +357,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,87.0,Python3,1754580349989,5807573,Stephen Kondaveti,US,120619186703150,
 100.0,87.0,Python3,1756390025160,6202937,JulieChv,CZ,134470168410779,
 100.0,87.0,Ruby,1759295973037,3705601,ido_the_pro,IL,60403028988195,
+100.0,87.0,Python3,1759681945597,4618693,cedricdd,FR,85418008807758,
 100.0,88.0,Python3,1680786628836,4966586,Rohydre,FR,,
 100.0,88.0,Javascript,1681239803083,3647844,rc95401,US,39486169555819,
 100.0,88.0,TypeScript,1685309761829,2315158,luigi_gelato,DE,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,186.0,Python3,1713986097842,2911340,TimotheeOlives,FR,,
 100.0,187.0,Python3,1696249530732,4003601,Mathieu1988,FR,,
 100.0,187.0,C++,1697138517076,3750985,vexilla72,FR,69788861540753,
-100.0,187.0,C++,1698702751857,973040,papyjo,FR,15696776172839,
-100.0,187.0,C++,1705964647501,962495,eboot,FR,55086804311206,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=583|time=2025-10-06T04:11:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=583|time=2025-10-07T04:11:19
 5,33.96,Javascript,1651729487703,4265920,4863188,kouin,CA,82597487919104,
 5,30.08,Javascript,1651740737170,4266490,4779944,GlaceCoding,FR,104523969424630,
 5,27.17,Javascript,1651753161960,4268396,4315982,ttranche,FR,125104608018671,
@@ -533,7 +533,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,9.98,Javascript,1651671867531,4258768,4863474,tada123,VN,,
 1,9.86,Javascript,1651740642732,4266288,2162392,ThomasWita,FR,,
 1,9.48,Javascript,1651674159029,4263216,4622858,Gennesi,FR,,
-1,8.73,Javascript,1651673337314,4261498,4870442,Bloody_Mallory,FR,,
+1,8.65,Javascript,1651673337314,4261498,4870442,Bloody_Mallory,FR,,
 1,8.58,Javascript,1651740988205,4267041,4861482,teamax,FR,,
 1,8.11,Javascript,1651741182842,4267460,4845496,ShibaCoder,VN,81942788444537,
 1,7.93,Javascript,1734196111281,5648937,1637790,hmassonn,FR,10288833606687,
@@ -576,8 +576,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,11.76,Javascript,1701936006492,5130761,2855808,Teletupy,DE,131575825683191,
 0,6.87,Javascript,1651672948075,4260904,4411601,Manor,FR,,
 0,1.14,Javascript,1651741236125,4267590,4392163,youmer,MA,120024305023522,
-0,1.1,Javascript,1651672427420,4259952,3971858,bohem_ian,CA,,
 0,1.09,Javascript,1651672566534,4260226,4872499,Djordje123,RS,,
+0,1.09,Javascript,1651672427420,4259952,3971858,bohem_ian,CA,,
 0,1.07,Javascript,1661244658351,4430768,2585741,Waiting_for_player....,MX,51354286825574,
 0,1.04,Javascript,1735954242748,5723424,3966826,many_dimensions,GR,,
 0,1.01,Javascript,1651671854094,4258741,4869958,Ghost981,US,,

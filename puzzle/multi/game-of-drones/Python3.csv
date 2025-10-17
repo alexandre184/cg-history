@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2025-10-16T04:11:17
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2025-10-17T04:11:35
 5,26.98,Python3,1525200971849,1838226,1841051,0xbeefed,GB,17119043174583,
 5,26.82,Python3,1504848642883,1446236,2055377,Covfefe,PK,13638589725708,
 5,24.79,Python3,1638279250187,3914532,4592681,Urutar,DE,75116249775823,
@@ -969,7 +969,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,8.42,Python3,1597479284427,3064066,3935247,polki,TW,,
 1,8.4,Python3,1502942432688,1425425,1379577,RoelofVanDenBerg,DE,,
 1,8.38,Python3,1718692915437,5457292,5794568,Ratu78,FR,,
-0,11.07,Python3,1742169207200,5808956,5895338,Westong660,US,140392763783716,
+0,11.3,Python3,1742169207200,5808956,5895338,Westong660,US,140392763783716,
+0,11.2,Python3,1760624142222,6068235,4244127,Abdou122,FR,,
 0,11.01,Python3,1706125678436,5296810,5436839,hoveeeer,FR,118165388006967,
 0,11.0,Python3,1573768455655,2600289,2498578,YisraelHessler,IL,107774782676562,
 0,10.99,Python3,1740081343242,5786695,6503158,queef-eater69,US,,
@@ -986,7 +987,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,10.94,Python3,1535415366646,2050547,2006348,Koji02,JP,,
 0,10.94,Python3,1695764419894,5062252,5305494,Sylou_Codage,FR,101745781564980,
 0,10.94,Python3,1584415158050,2704953,3715127,lotosmui,BR,,
+0,10.94,Python3,1752658684872,5921271,6743339,nitin628,NP,,
 0,10.93,Python3,1584230866273,2703526,3717173,fafa1011,DZ,,
+0,10.93,Python3,1702022809448,5131885,2364617,RomainPicot,FR,121006507095295,
 0,10.93,Python3,1699877068059,5104889,5042711,GhostKiller9100,IN,,
 0,10.92,Python3,1719406383701,5513638,6148410,portself,IN,,
 0,10.92,Python3,1734680273112,5660575,6422701,SeigneurDudule,FR,,
@@ -996,6 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,10.91,Python3,1504843830047,1446209,2160496,SandipDey,IN,,
 0,10.91,Python3,1606953222671,3335843,4065704,GuillaumeMohimont,BE,,
 0,10.9,Python3,1715185367770,5376592,6076570,benny87,US,,
-0,10.89,Python3,1503664472766,1434204,1624594,Uzefix,BG,,
-0,10.89,Python3,1718349464779,5430745,6132595,wripfhaw,BG,,
-0,10.89,Python3,1747387374646,5864089,6644723,strangerkids,MY,,

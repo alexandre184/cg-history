@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1552|time=2025-10-21T04:11:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1553|time=2025-10-22T04:12:20
 100.0,130.0,Python3,1681273415210,2315623,Lydxn,CA,,
 100.0,132.0,Python3,1698965406468,4438505,Eric_[EGU],FR,114044329618574,
 100.0,134.0,Python3,1681284999045,4992786,[ovs],DE,,
@@ -236,6 +236,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,200.0,Python3,1738524074042,481564,mihei,RU,4454400756022,
 100.0,200.0,Python3,1751608215292,5280474,Raton_,FR,145929104353156,
 100.0,200.0,Python3,1757590566140,1337394,--CC--,FR,43441965271155,
+100.0,200.0,Python3,1761072089636,6380937,pkocourek,NL,135049083327441,
 100.0,201.0,Python3,1686175748167,5135323,__yel__p,FR,92869880984408,
 100.0,201.0,Python3,1713364176066,4391280,RRRoumy,FR,80308763022657,
 100.0,201.0,Python3,1736552200209,2786692,gjeanner,FR,138621123461562,
@@ -801,8 +802,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,768.0,Python3,1695554588512,4488110,Spackenhans,DE,69614640230698,
 100.0,768.0,Python3,1754913727140,6520568,Achour_Bouzera,FR,140506165260831,
 100.0,769.0,Python3,1685927972109,5224821,mortalkombatlegend,AE,120112247682028,
-100.0,770.0,Python3,1680172130005,5277912,ATGBOOM,IN,,
 100.0,770.0,Python3,1680172130005,3345149,vivleo,FR,32778362843911,
+100.0,770.0,Python3,1680172130005,5277912,ATGBOOM,IN,,
 100.0,770.0,Python3,1680172310417,4718738,SecretUser0,DE,,
 100.0,771.0,Python3,1680172550004,5380308,lamarrd,US,,
 100.0,773.0,Python3,1680172170006,5408971,Sudo_lcot,FR,101428765318214,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,997.0,Python3,1743671801120,5895563,CODE CLASHER,PK,,
 100.0,998.0,Python3,1714560619878,6068770,diablorojo,US,,
 100.0,999.0,Python3,1680172610005,5373149,,RU,,
-100.0,999.0,Python3,1688647059916,5592614,,GB,,

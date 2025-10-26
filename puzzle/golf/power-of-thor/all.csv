@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=52123|time=2025-10-25T04:11:00
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=52137|time=2025-10-26T04:11:15
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -105,6 +105,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,67.0,Javascript,1712075005719,1675034,francois,FR,15464459859531,
 100.0,67.0,Perl,1731948893628,6115420,scresto,FR,137702907699482,
 100.0,67.0,Javascript,1749721748015,177235,Justalk,FR,83912529145807,
+100.0,67.0,Javascript,1761400438856,4618693,cedricdd,FR,85418008807758,
 100.0,68.0,Bash,1641910077318,4341304,Remi.,FR,97662026388574,
 100.0,68.0,Ruby,1669641136741,1186273,knacky,FR,,
 100.0,68.0,TypeScript,1680247326490,4341304,Remi.,FR,97662026388574,
@@ -147,6 +148,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,76.0,Python3,1675781238760,4641581,hoody7,PL,,
 100.0,76.0,Python3,1681019758502,4263196,yechielv,IL,87806028604243,
 100.0,76.0,Javascript,1692282576526,557990,Wazemo,PL,1724224108740,
+100.0,76.0,PHP,1761400984535,4618693,cedricdd,FR,85418008807758,
 100.0,77.0,Ruby,1595232474806,735487,amurushkin,RU,2111605585777,
 100.0,77.0,C,1712702949983,2377220,arstneio,RU,,
 100.0,77.0,ObjectiveC,1712703040713,2377220,arstneio,RU,,
@@ -273,7 +275,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,87.0,Ruby,1704041594792,2445835,..--..,RU,,
 100.0,87.0,Perl,1728675044143,6132028,NicknamedTwice,GB,136778820182751,
 100.0,87.0,Bash,1750058789342,1839941,Just4FunCoder,MY,80969549924201,
-100.0,87.0,PHP,1761307085815,4618693,cedricdd,FR,85418008807758,
 100.0,88.0,Ruby,1454186898842,1177793,ShurickD,RU,2847737705286,
 100.0,88.0,Ruby,1454602192438,511862,Shishu94,FR,2651622773563,
 100.0,88.0,Ruby,1466372185778,1449264,Gadzy.fr,FR,9503688067841,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,104.0,Python3,1723675865010,710240,Regedit,DE,95839680589324,
 100.0,104.0,Javascript,1731711173861,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,104.0,Ruby,1739799351574,4587710,Smetalka,HR,,
-100.0,104.0,Python3,1744653041530,5529745,loulouef,FR,,

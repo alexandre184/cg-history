@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=410|time=2025-11-02T04:13:11
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=410|time=2025-11-03T04:18:18
 6,35.39,Scala,1545174854468,2190393,331880,Monstruo,MX,16575963540770,
 6,23.7,Scala,1632440004208,3839561,1816399,lugu,FR,11009904972872,
 6,6.79,Scala,1529525964660,1913951,207714,TrueLaurel,FR,12624489148067,
@@ -360,7 +360,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,15.49,Scala,1654534839463,4313638,4922833,sr.Verde,PT,,
 2,13.09,Scala,1589093597220,2887482,3458725,Avalander,SE,44244684984928,
 2,12.96,Scala,1529148233195,1895428,2676368,Scala,NL,,
-2,12.18,Scala,1616621076268,3474698,4247664,Lillysilly,LT,60765686929337,
+2,12.16,Scala,1616621076268,3474698,4247664,Lillysilly,LT,60765686929337,
 2,11.51,Scala,1654331780642,4311212,1829186,Gepro,AT,10848283151194,
 2,10.89,Scala,1701731283901,5128437,5835658,Case_2,US,115519726138631,
 2,8.67,Scala,1708198550278,5317934,5964091,zeggel,RU,,
@@ -378,7 +378,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,0.7,Scala,1474743534154,694492,1607203,Dudikus,GB,,
 2,0.69,Scala,1540213316813,2105290,1688958,maxoute,FR,,
 2,0.69,Scala,1469612400056,604009,1501421,Satsuma,FI,,
-2,0.69,Scala,1501024444185,1407956,1047149,EduardoRamos,BR,,
 2,0.69,Scala,1507893681079,1480220,1512727,Tyboune,FR,,
 2,0.69,Scala,1563443527594,2446383,841504,MurrayT,NZ,,
 2,0.69,Scala,1567710188888,2482669,2609108,WillyMontaz,FR,,
@@ -390,6 +389,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,0.68,Scala,1467029724047,525392,1478597,gbecan,FR,,
 2,0.68,Scala,1547834236359,2223897,3117011,sebi88,HU,,
 2,0.68,Scala,1571776562241,2579229,1468614,G4rgamel,CZ,,
+2,0.68,Scala,1501024444185,1407956,1047149,EduardoRamos,BR,,
 1,15.5,Scala,1647202822544,4032644,4788704,ElManuelitos,IT,,
 1,15.46,Scala,1599144019055,3083371,3797016,hauke,DK,44538862524460,
 1,15.32,Scala,1607329719770,3343610,4086867,SOJU,KR,54967904523560,

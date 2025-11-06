@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=56|time=2025-11-05T04:13:12
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=56|time=2025-11-06T04:15:34
 5,23.1,TypeScript,1761647523461,6077930,4517336,CamilleCamparmoQuatreVingt,FR,,
 5,22.42,TypeScript,1623433573771,3709743,2998967,Gilde,FR,62190109872577,
 5,21.37,TypeScript,1654292428027,4310979,2300301,DKC,NL,84079806564633,
@@ -23,6 +23,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,13.57,TypeScript,1618933642294,3510544,3477071,CookieMonster2703,CH,33824304033552,
 3,13.49,TypeScript,1683581406998,4818302,2909004,MiniJez,FR,,
 3,12.19,TypeScript,1716652926011,5387706,6087568,Pandeul_2,CA,,
+2,27.0,TypeScript,1762360570506,6085253,4298257,Hastar_aa_gaya_hai,IN,113463867403295,
 2,23.05,TypeScript,1731531269242,5621014,6346292,klowar,RU,132921748911500,
 2,22.77,TypeScript,1649001707512,4061744,957775,Fabientat,FR,39056485466494,
 2,22.61,TypeScript,1603842435274,3151472,1215882,Gi11i4m,BE,44281801023827,
@@ -44,9 +45,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,17.55,TypeScript,1666268931913,4500977,200826,coolDev,FR,21463925957457,
 2,15.61,TypeScript,1730967918519,5616207,4990038,coucou5826,BE,,
 2,12.82,TypeScript,1678781847555,4765414,3320602,rb4code,DE,,
-1,23.92,TypeScript,1762230839548,6083917,4298257,Hastar_aa_gaya_hai,IN,113463867403295,
-1,21.27,TypeScript,1637691426284,3906413,4620339,schmalzm11123,HU,,
-1,17.8,TypeScript,1679485402007,4774298,5368536,BIL_INVEST,LU,101079187062122,
+1,20.89,TypeScript,1637691426284,3906413,4620339,schmalzm11123,HU,,
+1,17.77,TypeScript,1679485402007,4774298,5368536,BIL_INVEST,LU,101079187062122,
 1,16.92,TypeScript,1759476638237,6056542,5848082,shini,FR,,
 0,20.86,TypeScript,1631729604749,3831637,4412322,wjulien,FR,68349480720620,
 0,17.83,TypeScript,1637688456498,3906321,4619980,Gyoztes_csapat,HU,,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2066|time=2025-11-05T04:13:12
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2066|time=2025-11-06T04:15:34
 ,46.18,C++,1539035001758,2090524,1400179,reCurse,CA,58850847098890,
 ,45.15,C++,1556085762517,2339355,1629259,Marchete,ES,61997162908277,
 ,44.87,Rust,1560201040475,2418174,2288263,dbdr,UA,43448306132121,
@@ -876,7 +876,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,20.47,C++,1491057255753,1118733,1306541,Steuh,FR,15808915160175,
 ,20.39,Python,1437399897027,311604,974487,Kitpz2,PL,,
 ,20.35,Java,1421957630794,247109,588783,adwiii,US,1717886703184,
-,20.33,TypeScript,1762302909399,6084463,6913501,0xAnarchy,NL,,
 ,20.32,Rust,1591476404275,3005652,1298794,Husenap,SE,81287588995481,
 ,20.32,C++,1515871855722,1625341,1449433,Rolf,ES,11401424939145,
 ,20.32,Java,1622834998291,3701461,4369383,tburakdirlik,TR,,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,18.65,Java,1418771731292,247248,335818,TyraEl,FR,,
 ,18.65,Kotlin,1687099007976,4975762,5079549,Elo72,FR,,
 ,18.65,Java,1419413296619,255743,292748,javapower,FR,,
+,18.63,C#,1421838501143,254563,520696,nico91470fr,FR,1781420114075,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=264|time=2025-11-12T04:13:36
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=264|time=2025-11-13T04:15:43
 5,22.08,Javascript,1512175514020,1578715,1343111,Thal,FR,4602256436099,
 5,17.91,Javascript,1486209771890,949626,1443458,devhanoy,FR,10428769670292,
 5,16.52,Javascript,1620823898010,3618614,3807710,-SC-,FR,57805222966170,
@@ -160,9 +160,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,-0.1,Javascript,1482949539985,904645,1589272,darrylyeo,US,6826201774664,
 3,-0.13,Javascript,1482362626751,897798,1179357,avdg,BE,28437229401065,
 3,-0.15,Javascript,1485191736025,934397,969000,KB,DE,116203607528695,
-2,15.75,Javascript,1600905646243,3107250,1055043,EvaldasSakinis,LT,45161684055119,
+2,15.51,Javascript,1600905646243,3107250,1055043,EvaldasSakinis,LT,45161684055119,
 2,15.13,Javascript,1551363408371,2259717,2662675,redline,RU,32285225120121,
-2,14.98,Javascript,1625394314182,3740981,1768606,Drallieiv,FR,10173893493075,
+2,15.0,Javascript,1625394314182,3740981,1768606,Drallieiv,FR,10173893493075,
 2,14.89,Javascript,1604835842296,3167490,610276,Miraries,ME,17848652516390,
 2,14.87,Javascript,1501695191116,1414369,2118425,geekuillaume,FR,,
 2,14.86,Javascript,1540047090257,2103297,1985168,greg823,US,65365281571948,
@@ -220,7 +220,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,13.57,Javascript,1501703614193,1414516,2118424,Johnmgt,FR,,
 1,13.18,Javascript,1493500496061,1217901,1970485,darkmelcof,FR,,
 1,13.18,Javascript,1627775250186,3774557,4448718,vitormoura,BR,,
-1,12.54,Javascript,1762453593462,6086516,6818342,1A25_nullxundefined,IN,,
+1,12.54,Javascript,1762453593462,6086516,6818342,nullORundefined,IN,,
 1,12.53,Javascript,1490533916148,1110539,1877983,OliverS,DE,,
 1,12.51,Javascript,1568977831187,2493636,2363270,phentnil,US,,
 1,12.35,Javascript,1681047964498,4792755,5418689,Marcos61,BR,,

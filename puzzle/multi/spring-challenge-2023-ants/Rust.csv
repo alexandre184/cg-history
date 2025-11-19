@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=176|time=2025-11-18T04:13:36
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=176|time=2025-11-19T04:13:08
 5,28.4,Rust,1685980513449,4955599,2288263,dbdr,UA,43448306132121,
 5,28.08,Rust,1685980093611,4954757,2012297,Maksim1744,RU,48776240257553,
 5,24.78,Rust,1686502419696,4967313,4440113,Blazde,GB,69548844472630,
@@ -132,7 +132,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,10.64,Rust,1685981187559,4956862,4300424,kurnevsky,PL,131301589513990,
 2,9.52,Rust,1686138057072,4961478,5287596,BoggieTheBog,GB,96950684253495,
 2,9.14,Rust,1742334370589,5811368,3839774,gurvan_lullien,FR,50166403046090,
-2,0.04,Rust,1685980689468,4955928,4846124,aper_la_vipere,FR,82768581500303,
+2,-0.07,Rust,1685980689468,4955928,4846124,aper_la_vipere,FR,82768581500303,
 1,21.83,Rust,1685979691968,4953969,1548844,Semaphor3,FR,40676289257937,
 1,20.44,Rust,1685979916204,4954424,1290727,Korguy,FR,,
 1,20.43,Rust,1686483461165,4966912,5542665,MoreColdOnes,US,,

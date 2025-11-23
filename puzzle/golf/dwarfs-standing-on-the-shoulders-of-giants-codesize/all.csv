@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2222|time=2025-11-22T04:10:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2223|time=2025-11-23T04:23:57
 100.0,36.0,Ruby,1745018083634,2536538,Pduhard-,FR,141372882868918,
 100.0,36.0,PHP,1761065338546,4618693,cedricdd,FR,85418008807758,
 100.0,38.0,Perl,1697740636153,4438505,Eric_[EGU],FR,114044329618574,
@@ -19,6 +19,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,63.0,Perl,1733307297028,6115420,scresto,FR,137702907699482,
 100.0,64.0,Lua,1682459766769,4263196,yechielv,IL,87806028604243,
 100.0,65.0,OCaml,1682460161737,4263196,yechielv,IL,87806028604243,
+100.0,65.0,TypeScript,1763811019227,4618693,cedricdd,FR,85418008807758,
 100.0,66.0,Javascript,1763232635144,154806,piwai,FR,1956863959967,
 100.0,68.0,Ruby,1695814198772,199646,netoctone,IE,,
 100.0,69.0,Bash,1743444025888,2536538,Pduhard-,FR,141372882868918,
@@ -894,8 +895,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,528.0,Java,1713472662085,4120425,Matda,FR,121766428787394,
 100.0,529.0,Python3,1680174350006,5107453,OgnjenMilenkovic2022240239,RS,91059383383235,
 100.0,529.0,Python3,1680174350006,5115845,ReljaSavic2022240148,RS,,
-100.0,529.0,Python3,1680174390004,5119123,JovanMihajlovic2022202505,RS,,
 100.0,529.0,Python3,1680174390004,5115851,MilanMilosevic2022240391,RS,,
+100.0,529.0,Python3,1680174390004,5119123,JovanMihajlovic2022202505,RS,,
 100.0,530.0,Javascript,1751618984382,1436049,Anoyakh,FR,147628228280240,
 100.0,533.0,TypeScript,1680174290005,4990918,Ivangelion,RS,,
 100.0,533.0,Python3,1762380622598,6874696,divingeek,FR,151450021378370,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,678.0,Python3,1689852144592,4564633,l0p3c,CO,72214945671629,
 100.0,681.0,C++,1758820366072,6850817,Aman_Kumar_Singh,IN,150534525382870,
 100.0,688.0,Javascript,1680174210011,5332090,xamtheone,US,98317544462026,
-100.0,688.0,Python3,1680174220006,4607898,nteechar,TH,73972700620172,

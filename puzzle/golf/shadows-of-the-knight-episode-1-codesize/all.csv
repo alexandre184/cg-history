@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4375|time=2025-11-23T04:23:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4376|time=2025-11-24T04:24:24
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -698,6 +698,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,221.0,Javascript,1731539747401,1172385,LuckyMe,NL,5881502329792,
 100.0,221.0,Ruby,1736171941662,5450541,Simonsays,FR,128248461791748,
 100.0,221.0,Bash,1762799075752,6591157,Emmy_Pablo,BJ,144653549580268,
+100.0,221.0,C++,1763914509555,6867973,miaouuu,FR,,
 100.0,222.0,Python3,1680816411668,1077559,PhOeNyX,FR,2248934338554,
 100.0,222.0,Python3,1685690006185,4592615,nico87py,FR,73336726142751,
 100.0,222.0,Javascript,1720535773100,4095448,itsRed_v2,FR,101252284126510,
@@ -751,6 +752,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,228.0,Python3,1718519236760,4662433,beiqi,SG,125281981233666,
 100.0,228.0,Python3,1728559826136,6272490,alex1n0,SK,,
 100.0,228.0,Bash,1746205279840,6567084,Lagonscint,FR,,
+100.0,228.0,Python3,1763891170652,4015187,Phk13,ES,52052408346970,
 100.0,229.0,Python3,1688027850544,4829777,Zamothi,FR,,
 100.0,229.0,Python3,1699702362814,3490027,Viprive,FR,,
 100.0,229.0,Python3,1716401035079,5375564,PaulNord,FR,124075167474388,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,268.0,Lua,1742880982243,6385964,Sroka,GB,136673208581148,
 100.0,269.0,Python3,1705072538226,567267,Cariope,FR,66944262077106,
 100.0,269.0,C++,1710005485112,3523247,alexcercos,ES,36269364412881,
-100.0,269.0,Javascript,1734215238964,3919237,Quick_Kick,UA,47895168215128,
-100.0,269.0,Python3,1742907186658,6188999,willgosling,GB,126775801221541,

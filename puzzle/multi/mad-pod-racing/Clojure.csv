@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=104|time=2025-11-23T04:23:57
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=104|time=2025-11-24T04:24:24
 6,33.87,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,30.64,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,30.58,Clojure,1480636657283,850106,1674411,Boze,CA,,
@@ -22,7 +22,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,14.72,Clojure,1669223278136,4539145,4688766,evaTomLyne,GB,,
 4,14.56,Clojure,1588678168610,2848055,839422,clpe04,DK,90460707487143,
 4,14.55,Clojure,1641925152863,3967610,3795787,Riddlerrr,ES,58653264774396,
-4,14.49,Clojure,1750684187835,5898944,6687056,WinstonSchmitt,DE,,
+4,14.41,Clojure,1750684187835,5898944,6687056,WinstonSchmitt,DE,,
 4,14.38,Clojure,1475488923867,746355,1584674,Harleqin,DE,,
 4,14.32,Clojure,1507283524047,1474504,1542372,Fellshard,US,6009530790582,
 4,14.2,Clojure,1567894563142,2484030,2662239,MarvinTheMartian,DE,19282729082244,
@@ -61,8 +61,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,15.06,Clojure,1500079023088,1397518,2010816,Shoyu,JP,,
 3,14.99,Clojure,1569012441848,2494786,2163395,umiki,HU,,
 3,14.75,Clojure,1600730547148,3104773,3096912,Picani,FR,,
+3,14.43,Clojure,1473440440851,657837,1520914,pickten,US,,
 3,14.28,Clojure,1623079181815,3704699,2663223,NikiTonsky,DE,19207506482624,
-3,14.26,Clojure,1473440440851,657837,1520914,pickten,US,,
 3,13.99,Clojure,1733346177419,5640782,6387475,speedyspeedboi69,US,,
 3,13.84,Clojure,1619412884020,3517896,2026441,artur.zabeyvorota,NO,,
 3,13.77,Clojure,1579948059466,2661320,3585327,FelixStridsberg,SE,,
@@ -85,7 +85,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,8.7,Clojure,1476479313338,761362,1573123,LBJ,DK,,
 3,3.47,Clojure,1466035041315,499399,1428969,Cpt.Kolute,DE,4673151121497,
 3,-2.37,Clojure,1494189572401,1225943,1007647,NagMacFeegle,DE,,
-2,17.02,Clojure,1466243856474,502190,1470126,Menschenkindlein,UA,,
+2,17.14,Clojure,1466243856474,502190,1470126,Menschenkindlein,UA,,
 2,16.5,Clojure,1466657314565,508524,1473738,JonathanBristow,US,,
 2,16.17,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
 2,15.05,Clojure,1475256776076,733540,1069512,ClashTheBunny,US,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2889|time=2025-11-24T04:24:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2891|time=2025-11-25T04:16:14
 100.0,31.0,Perl,1681462065231,5436334,saito_ta,JP,102476026435385,
 100.0,31.0,Perl,1692993388511,2928146,LolCat,MU,22538133010433,
 100.0,32.0,Perl,1680847097265,2315623,Lydxn,CA,,
@@ -276,7 +276,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,80.0,Python3,1717773915389,1114496,BlasphemousCrossbreed,UA,2486265138222,
 100.0,80.0,Python3,1735479944364,3599907,aski,FR,,
 100.0,80.0,Python3,1747671817376,1178276,Jerome_95,FR,19999067509724,
-100.0,80.0,Ruby,1754415099531,1620599,PROG_r_A_m_MER,NL,143827907446897,
+100.0,80.0,Ruby,1754415099531,1620599,PRO_G_r_A_m_MER,NL,143827907446897,
 100.0,80.0,Python3,1759161818403,3514975,PhuRiNaT,TH,150755821957631,
 100.0,80.0,Python3,1762794437862,5231361,yhuberla,BE,95120829746216,
 100.0,80.0,Javascript,1763138312748,615345,neochrome,SE,13328009058424,
@@ -671,6 +671,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,117.0,Python3,1731355687706,4846483,SergePuissant,FR,,
 100.0,117.0,Python3,1744543507777,5025493,Yatsu,FR,142604743513305,
 100.0,117.0,Javascript,1748816652243,5428098,Elikyyu,FR,103793622779702,
+100.0,117.0,Python3,1763994066275,4640490,RobbertvZ,NL,153098108092385,
 100.0,118.0,Haskell,1680175720008,4717726,Alexis [Nexure],FR,81506465307341,
 100.0,118.0,Python3,1699215160576,5736284,Dexokami,CR,113733503190355,
 100.0,118.0,Python3,1710744003185,4870649,VictoriousTriceraton,UA,82820829158124,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,181.0,Java,1725276542925,3235897,Zylo,PL,25779784253696,
 100.0,181.0,Python3,1725663595180,1227148,Schneewittchen,DE,136178047797645,
 100.0,181.0,C++,1730108259643,5271147,yoch,IL,96235642204607,
-100.0,181.0,Python3,1751618265914,1436049,Anoyakh,FR,147628228280240,

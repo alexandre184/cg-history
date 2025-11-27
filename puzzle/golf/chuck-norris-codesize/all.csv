@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10554|time=2025-11-26T04:15:54
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10558|time=2025-11-27T04:13:26
 100.0,64.0,Bash,1709412717232,3380184,chouch,FR,,
 100.0,65.0,Perl,1700968265634,1537792,AsaiYusuke,US,41785380851985,
 100.0,65.0,Bash,1700968343813,1537792,AsaiYusuke,US,41785380851985,
@@ -377,6 +377,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,100.0,C,1725554405707,154806,piwai,FR,1956863959967,
 100.0,100.0,Python3,1744319121770,1742321,random.pilot,DK,,
 100.0,100.0,Javascript,1756733537270,2452543,Maznek,FR,19088417820828,
+100.0,100.0,Javascript,1764152156051,3235897,Zylo,PL,25779784253696,
 100.0,101.0,Ruby,1553200623924,1853956,yoannk,FR,108956788280248,
 100.0,101.0,Python3,1554977119739,2744095,ArSeNiK,TH,,
 100.0,101.0,Perl,1555659092535,1414038,sobrom,JP,,
@@ -576,6 +577,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Python3,1708002946510,181432,pjwerneck,BR,133926881809401,
 100.0,105.0,Ruby,1743271288165,156188,DorianWilde,FR,1753926884442,
 100.0,105.0,Python3,1754760895527,6144352,Pyth1,HU,,
+100.0,105.0,Python3,1764163788995,3235897,Zylo,PL,25779784253696,
 100.0,106.0,Javascript,1553166258167,3230794,tutubalin,RU,25714480415254,
 100.0,106.0,Python3,1575896500363,3393198,Turpa,RU,30488682090804,
 100.0,106.0,Ruby,1576496658177,962569,[K]Gabor,HU,1919640900304,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,116.0,Python3,1728640543234,5192217,Harry.B.,GB,130769403588418,
 100.0,116.0,Python3,1734455696652,336746,luxcem,FR,3498521001447,
 100.0,116.0,Python3,1749630149437,6455934,Tum-tum,RU,,
-100.0,116.0,Python3,1751370634741,177235,Justalk,FR,83912529145807,
-100.0,116.0,Python3,1755144480094,6745899,TANKMAN025,TH,149007926108197,

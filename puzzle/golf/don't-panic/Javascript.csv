@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2038|time=2025-11-28T04:13:39
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2039|time=2025-11-29T04:12:26
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,MartinQc,CA,1761380964089,
 100.0,70.0,Javascript,1627600247434,155774,dwarfie,FR,17785582865119,
@@ -87,6 +87,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,111.0,Javascript,1445983031148,952284,Copro,FR,2300779354891,
 100.0,111.0,Javascript,1615303181170,4180659,abrman,SK,74762185405103,
 100.0,111.0,Javascript,1639943741315,893541,wala,FR,97577641170180,
+100.0,111.0,Javascript,1764324313245,3235897,Zylo,PL,25779784253696,
 100.0,112.0,Javascript,1446149450982,735910,Agade,CH,1997542876524,
 100.0,112.0,Javascript,1545986603420,1109881,Salsiccia_affumicata,IT,11631190889877,
 100.0,112.0,Javascript,1597573321450,3770485,zakki,JP,47838307587408,
@@ -112,7 +113,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,121.0,Javascript,1499884474699,1383636,atsikov,LV,8154551476699,
 100.0,121.0,Javascript,1590749627098,1701936,Chatterton,FR,9000293426040,
 100.0,121.0,Javascript,1613961688212,762642,Wonyoung,KR,4963742317694,
-100.0,121.0,Javascript,1758615456079,3235897,Zylo,PL,25779784253696,
 100.0,122.0,Javascript,1474059353555,1530199,DarkDefender,LV,5782383455241,
 100.0,122.0,Javascript,1580319278896,3162821,Discourage,RU,38928080534385,
 100.0,122.0,Javascript,1616889281300,1019883,Pedromdrp,PT,2315578082196,
@@ -827,7 +827,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,197.0,Javascript,1696498275347,4773380,DanForge,GB,80573182595664,
 100.0,197.0,Javascript,1698257144661,5724049,Yises,ES,113131221178591,
 100.0,197.0,Javascript,1711621147949,5997164,JohannLesacher,FR,,
-100.0,197.0,Javascript,1736570734101,4782227,ArgoZ,FR,149860422641201,
+100.0,197.0,Javascript,1736570734101,4782227,ArgoZ,FR,153456508461697,
 100.0,197.0,Javascript,1742085776044,4363476,GregMc,US,65316303166761,
 100.0,197.0,Javascript,1758055225049,1859646,AlWerewolf,RU,,
 100.0,198.0,Javascript,1440578517088,984863,Apple.John,IL,1901356017479,

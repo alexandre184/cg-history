@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-02T04:20:26
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-03T04:18:43
 100.0,2499.0,Rust,1737810789381,4440113,Blazde,GB,69548844472630,
 100.0,2739.0,C++,1760988925791,2077805,bamilan,HU,,
 100.0,2756.0,Rust,1660215008494,2288263,dbdr,UA,43448306132121,
@@ -513,6 +513,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,4476.0,C++,1635045040504,2976356,magmasa,PL,42306142674682,
 100.0,4482.0,Perl,1473712673595,1487535,SvartRiddare,FR,5010759664991,
 100.0,4483.0,Python3,1513730867747,2250452,Isac,PT,15287816336604,
+100.0,4483.0,Python3,1764705798970,5995732,Daniel_Nantenaina,MG,121725582933042,
 100.0,4485.0,Rust,1638508619598,1838549,orangesnowfox,US,17617755701518,
 100.0,4490.0,Javascript,1437424276050,599674,NinetyOne,US,1890119238339,
 100.0,4491.0,Python3,1703526666867,181432,pjwerneck,BR,133926881809401,
@@ -665,6 +666,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,4934.0,C++,1713440757632,5803107,Growhobby,RU,119559623261921,
 100.0,4940.0,C,1435575622144,806823,Zer0,RO,1811060895440,
 100.0,4945.0,C#,1660815203419,4841063,Naxus,FR,104762183855753,
+100.0,4946.0,Python3,1764691321130,6009514,Kimbohy,MG,121782949381386,
 100.0,4949.0,Python3,1604351561426,3958580,HITO,FR,49472321333611,
 100.0,4951.0,Python3,1435690252792,876110,bougadabou,FR,,
 100.0,4952.0,C#,1635621271961,4003601,Mathieu1988,FR,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,5724.0,Kotlin,1617381295729,4256559,pkostua,RU,,
 100.0,5726.0,Python3,1640215524933,4136008,jerry_laevis,FR,,
 100.0,5728.0,OCaml,1457798460686,952626,Tesseract,FR,,
-100.0,5728.0,Scala,1471223588187,331880,Monstruo,MX,16575963540770,
-100.0,5728.0,Python3,1648807988011,4771383,Mythael,FR,135036082588081,

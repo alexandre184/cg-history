@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-03T04:18:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-04T04:20:21
 100.0,14337.0,C++,1542072096337,329200,BlitzProg,FR,7407206403800,
 100.0,13992.0,C++,1751614500587,3513265,DaNinja,IE,35022107863170,
 100.0,13905.0,C++,1607006548436,3533119,wlesavo,RU,44695284080274,
@@ -802,7 +802,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,446.0,C++,1736897707901,6451477,nxtRaph_,ID,,
 100.0,446.0,C++,1747750192890,6614169,Basenik,RU,143035642398794,
 100.0,446.0,C++,1761403064259,6895332,chunchunchun,FR,,
-100.0,446.0,C++,1764614314584,6960070,ERLX,MG,,
+100.0,446.0,C++,1764614314584,6960070,ERLX,MG,153850863763361,
 100.0,444.0,C++,1498942373410,1270423,Memomagik,TN,13248198399357,
 100.0,444.0,C++,1728603264029,1448835,SausageHead,RU,,
 100.0,442.0,C++,1523367786061,2556329,GlobUle,FR,,
@@ -972,6 +972,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,252.0,C++,1674901471997,5311645,STQL_Hash,CZ,,
 100.0,252.0,C++,1712663001408,969213,zhekazheka,UA,11176726398425,
 100.0,252.0,C++,1745597018203,5258054,BAANI,MA,95878068079641,
+100.0,252.0,C++,1764790609745,6963069,ZH03012,BF,,
 100.0,248.0,C++,1463520457132,1440669,DavideSegullo,IT,,
 100.0,248.0,C++,1484181321053,1777764,scirciu,FR,,
 100.0,248.0,C++,1522883697115,1583206,simspok,GB,6459131547182,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,202.0,C++,1587382558602,2583650,SemikolonBindestreckSlutparentes,SE,18326557896156,
 100.0,200.0,C++,1479255491651,1607283,uoo38,JP,7762389007630,
 100.0,200.0,C++,1551454666280,3220515,TheJKer,US,,
-100.0,200.0,C++,1588750936777,3745560,Dana3l,FR,50256307463562,

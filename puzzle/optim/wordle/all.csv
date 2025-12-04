@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-03T04:18:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-04T04:20:21
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -102,6 +102,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,175.0,Python3,1726932578456,1227148,Schneewittchen,DE,136178047797645,
 100.0,175.0,Rust,1743999295645,6550449,Anonymous__7,US,143411544450367,
 100.0,175.0,Python3,1745076460620,1784266,Harma,FR,10328445690157,
+100.0,175.0,Python3,1764747959418,6772530,Helyio_,FR,150281309367900,
 100.0,176.0,Python3,1682210466637,1841051,0xbeefed,GB,17119043174583,
 100.0,176.0,TypeScript,1687986033715,5500874,Maan511,DK,,
 100.0,176.0,Python3,1692302816470,1869363,Ruukas,DK,111916164193936,
@@ -975,7 +976,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1300.0,C++,1696084591635,5735106,DL_NDNK,VN,,
 100.0,1300.0,Rust,1711276725443,6022822,armin_4,DE,,
 100.0,1300.0,C++,1750461090969,6694957,Eysius,CA,,
-100.0,1300.0,Python3,1764354760692,6950849,the_seal,JO,,
+100.0,1300.0,Python3,1764354760692,6950849,the_seal,JO,153918021946524,
 98.0,219.0,C++,1720607471906,4538928,YouTellMeWhatNicknameIsAvailable,GB,,
 98.0,262.0,C#,1731981862032,6114580,thelovisotti,IT,,
 98.0,272.0,TypeScript,1722800290232,5295240,dlcdlc5055,RO,,
@@ -995,7 +996,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 96.0,593.0,C,1735748048520,3722603,Pulsarh,FR,41718547852915,
 96.0,658.0,PHP,1735591229171,5794685,Bizzhii,NL,,
 96.0,753.0,Python3,1701181956078,5826178,PikachuGV,SG,,
+94.0,186.0,Python3,1764756323004,5614747,faek,RU,108486801508838,
 94.0,349.0,Python3,1681218823674,1452463,Tristannah,FR,16790154164262,
 94.0,493.0,Python3,1751558860348,6640606,tomykis,PL,,
-94.0,552.0,C++,1696617611010,5708087,TheMrH,DE,,
-94.0,686.0,Python3,1686336502769,1799001,eddernstein,FR,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10064|time=2025-12-09T04:19:05
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=10064|time=2025-12-10T04:23:25
 100.0,53.0,Python3,1623977219280,3845610,pardouin,FR,60364063762936,
 100.0,56.0,Python3,1586307509253,334009,abouvier,FR,4681436111242,
 100.0,58.0,Python3,1583418070706,1537792,AsaiYusuke,US,41785380851985,
@@ -199,7 +199,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,67.0,Python3,1630329887283,2796157,nikhil.kokkula,IN,64021163998790,
 100.0,67.0,Python3,1631605493070,1421071,Saturne,CH,,
 100.0,67.0,Python3,1636637636670,4344872,caaaaaa,AT,67090642354097,
-100.0,67.0,Python3,1636638365686,4344859,Raphael_Harm,AT,66580309426699,
+100.0,67.0,Python3,1636638365686,4344859,Raphael_Harm,AT,154249221775715,
 100.0,67.0,Python3,1638534759278,1324066,Winuxil,FR,71378129122607,
 100.0,67.0,Python3,1644159605907,3420816,Floth,AU,31647122910092,
 100.0,67.0,Python3,1647029090497,4183089,PringleOrange,GB,,
@@ -701,6 +701,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,71.0,Python3,1750205271117,6292103,WendidIask,AU,,
 100.0,71.0,Python3,1752780205280,1243354,tabasavr,SG,59202364608114,
 100.0,71.0,Python3,1762618636047,6889457,Zixyj,FR,,
+100.0,71.0,Python3,1765309842527,4826182,Cadmiom,FR,81334987519631,
 100.0,72.0,Python3,1454014447873,218189,[CG]Maxime,FR,2925297592678,
 100.0,72.0,Python3,1454628502513,648983,Elliot,GB,1875283981324,
 100.0,72.0,Python3,1454815962140,221648,stephenvk,US,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,74.0,Python3,1594922842849,2674712,CuriousRacoon,GB,46722841783698,
 100.0,74.0,Python3,1595442666145,3896189,macobo,EE,,
 100.0,74.0,Python3,1596402562415,1627246,jkumara,FI,7347457369867,
-100.0,74.0,Python3,1598136491659,1407720,bananaMixer,FR,4478289426855,

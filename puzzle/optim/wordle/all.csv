@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-11T04:25:32
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-12T04:24:22
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -103,6 +103,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,175.0,Rust,1743999295645,6550449,Anonymous__7,US,143411544450367,
 100.0,175.0,Python3,1745076460620,1784266,Harma,FR,10328445690157,
 100.0,175.0,Python3,1764747959418,6772530,Helyio_,FR,150281309367900,
+100.0,175.0,C,1765492848665,3314335,Snailbot,SE,,
 100.0,176.0,Python3,1682210466637,1841051,0xbeefed,GB,17119043174583,
 100.0,176.0,TypeScript,1687986033715,5500874,Maan511,DK,,
 100.0,176.0,Python3,1692302816470,1869363,Ruukas,DK,111916164193936,
@@ -182,7 +183,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,181.0,Python3,1749323627157,6455934,Tum-tum,RU,,
 100.0,181.0,C++,1751660608561,3621348,Wazy42,FR,,
 100.0,181.0,Python3,1755538043791,5593180,melchaubaroux,FR,,
-100.0,181.0,C,1765370451021,3314335,Snailbot,SE,,
 100.0,182.0,Python3,1681929421095,1896128,AIexML,FR,11579664978229,
 100.0,182.0,Java,1692313741386,5646890,aflorido,ES,110020188475902,
 100.0,182.0,Rust,1700562070648,3893564,Andriamanitra,FI,46641547586781,
@@ -988,6 +988,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1300.0,C++,1750461090969,6694957,Eysius,CA,,
 100.0,1300.0,Python3,1764354760692,6950849,the_seal,JO,153918021946524,
 98.0,219.0,C++,1720607471906,4538928,YouTellMeWhatNicknameIsAvailable,GB,,
+98.0,257.0,TypeScript,1765470502852,6923436,beowulf359,US,,
 98.0,262.0,C#,1731981862032,6114580,thelovisotti,IT,,
 98.0,272.0,TypeScript,1722800290232,5295240,dlcdlc5055,RO,,
 98.0,273.0,Python3,1763910298741,4923292,T.Florian,FR,138563688969061,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 98.0,778.0,TypeScript,1704005323734,1519311,Doran,SK,82529023491718,
 98.0,797.0,PHP,1738939212739,5751596,130bby,FR,112960325536634,
 98.0,975.0,Rust,1745549347414,488971,qwertyu123,RU,,
-96.0,232.0,Python3,1742987990036,6031783,SodiumBismuth,FR,121515964233973,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-15T04:31:00
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2025-12-16T04:26:08
 100.0,174876.0,C++,1721616860761,3354337,Westicles,CX,79146641399080,
 100.0,170312.0,C++,1744825053861,2077805,bamilan,HU,,
 100.0,169004.0,C++,1640706926644,154984,_Royale,FR,17869369984436,
@@ -78,8 +78,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,80769.0,Javascript,1632470926830,924425,poney,FR,4382318176417,
 100.0,80424.0,C++,1620287310284,4208158,Tiouz,FR,72554823729381,
 100.0,80414.0,C#,1651559219992,4746858,NrpYt7xe,RU,78837367714909,
+100.0,79705.0,C++,1765807007379,5563211,ra5anchor,JP,132616129775351,
 100.0,78426.0,C,1753079668622,6746955,badassssbee,TW,,
-100.0,77966.0,C++,1765623016988,5563211,ra5anchor,JP,132616129775351,
 100.0,77128.0,C++,1601242480404,1752303,murrayr,GB,38481626354767,
 100.0,75886.0,Python3,1618536730370,1050420,EVGENIVS,US,20435686404425,
 100.0,75469.0,Python3,1641884740923,2473192,game-ai-course,RU,77712029573404,
@@ -924,6 +924,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,470.0,PHP,1751884412330,6729805,BeOne69,MG,,
 0.0,470.0,Python3,1757421768354,6699295,herobrine12,GB,146310566339400,
 0.0,470.0,Python3,1761128340686,6894690,Camille.rppn,FR,,
+0.0,470.0,Python3,1765833741947,6985575,,US,,
 0.0,437.0,Java,1601041263869,3475739,Ysp,FR,,
 0.0,436.0,Python3,1643440762132,4718111,,RU,,
 0.0,400.0,Python3,1601111034674,3741002,ichbinsmith,FR,42117668118696,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,0.0,C++,1721590928064,6131026,kaumGott,DE,125248203189154,
 0.0,0.0,Python3,1734038894742,6404100,,CM,,
 0.0,0.0,PHP,1737040825850,6453486,Wuruuda,SO,,
-0.0,0.0,Python3,1738939467850,6482817,bobby-509,GF,,

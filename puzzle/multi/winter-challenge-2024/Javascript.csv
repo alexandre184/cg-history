@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=212|time=2025-12-18T04:23:51
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=212|time=2025-12-19T04:25:03
 7,18.63,Javascript,1736158057307,5738703,3629685,Apofils,FR,,
 7,17.04,Javascript,1736327770734,5742526,739261,AstroCookie,FR,117396028132083,
 7,15.33,Javascript,1738518864504,5769185,1179950,Cg_TheLegend,JP,150853049862463,
@@ -115,6 +115,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,15.42,Javascript,1736159090862,5739524,3943759,Greeny,AU,49434009893124,
 2,15.02,Javascript,1756045810923,6020875,170308,zian974,FR,,
 2,14.35,Javascript,1736159271860,5740046,5040760,Mouad7,MA,,
+2,14.2,Javascript,1766096078117,6163569,6349004,Atig-Hamza,MA,132787486528591,
 2,13.92,Javascript,1736159100081,5739550,4856086,MrDroweed,FR,82308060686185,
 2,13.58,Javascript,1736159427082,5740548,4392190,SangHeonLee,KR,152194567177544,
 2,1.45,Javascript,1736159398976,5740455,4062816,daskleinesys,AT,63672625180080,
@@ -179,7 +180,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,2.75,Javascript,1736157762671,5737923,1442750,GwadaKing,GP,13927484941660,
 1,2.74,Javascript,1736158053561,5738687,4870172,ramiel798,IT,,
 1,2.73,Javascript,1736157444797,5736917,4249746,bengohyp,SG,,
-1,2.72,Javascript,1736159045518,5739365,6349004,Atig-Hamza,MA,132787486528591,
 1,2.71,Javascript,1736159277829,5740075,6056688,nobiroku,VN,140208885476184,
 1,2.68,Javascript,1736158061420,5738711,3589763,rndll32,MA,72201885031318,
 1,2.66,Javascript,1736159366648,5740354,3807033,RichAndCheesy,US,53988240716805,

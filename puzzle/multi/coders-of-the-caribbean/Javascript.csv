@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=401|time=2026-01-05T04:47:42
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=401|time=2026-01-06T04:30:13
 6,24.26,Javascript,1762480832666,6086723,1707060,FreemanLambda,AT,116895866036631,
 6,23.14,Javascript,1680053610095,4782028,1343111,Thal,FR,4602256436099,
 5,16.96,Javascript,1659186958120,4410265,233627,SlipOne,HU,4994821803578,
@@ -373,7 +373,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,8.88,Javascript,1675721436311,4731864,5320381,Umbelino,FR,97821327221088,
 1,8.83,Javascript,1685230560482,4865130,5311938,Agent_XI,US,,
 1,8.59,Javascript,1515615849035,1622547,2404630,CodingComet,US,16587528590226,
-1,7.49,Javascript,1526629997626,1855652,2611135,Purple_Arrow,GB,,
+1,7.45,Javascript,1526629997626,1855652,2611135,Purple_Arrow,GB,,
 1,3.55,Javascript,1627215402215,3765464,1543513,PedroPepito,PL,11406437989088,
 1,3.15,Javascript,1524096375402,1778363,2565497,vladislao,RU,18197468031147,
 1,1.93,Javascript,1522153070797,1749380,2006348,Koji02,JP,,
@@ -390,10 +390,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,9.94,Javascript,1617106455680,3481313,4255431,Connection_fail,US,,
 0,9.93,Javascript,1617024589743,3480371,4254045,2kpro,US,61505524726045,
 0,9.9,Javascript,1713270336504,5364146,6045244,heydonkey,DE,,
-0,9.73,Javascript,1561026559233,2426589,1442879,InsaneWookie,NZ,,
+0,9.7,Javascript,1561026559233,2426589,1442879,InsaneWookie,NZ,,
 0,0.69,Javascript,1495967898117,1304410,2019311,Bnd,HU,13030790002673,
 0,-0.92,Javascript,1692786569340,5035957,3936638,facat,US,,
-0,-0.94,Javascript,1536269473130,2059633,2835182,SNIPERGOTYOU,AL,,
+0,-0.96,Javascript,1536269473130,2059633,2835182,SNIPERGOTYOU,AL,,
 0,-1.01,Javascript,1712793100029,5360460,6046045,Ticker,US,,
 0,-1.02,Javascript,1595998153730,3045990,3914517,SquishyPuppy,AU,47505964037502,
 0,-1.03,Javascript,1684168338164,4825569,5499744,notgoodatcoding123,US,,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4332|time=2026-01-10T04:24:17
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4334|time=2026-01-11T04:38:24
 100.0,89.0,Python3,1700968902034,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -583,7 +583,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,125.0,Python3,1753355026267,6750755,kuertoes,DE,148591464048183,
 100.0,125.0,Python3,1754914923452,6602351,__Matter__,IN,142705385023430,
 100.0,125.0,Python3,1765310457135,4826182,Cadmiom,FR,81334987519631,
-100.0,125.0,Python3,1766244844669,6967231,tojo_rms,MG,155724508435226,
+100.0,125.0,Python3,1766244844669,6967231,tojo_rms,MG,155786923731913,
 100.0,126.0,Python3,1553258840313,3044280,AminGholizad,BE,121108445695421,
 100.0,126.0,Python3,1585181474116,2719887,mrawson,GB,21268121517389,
 100.0,126.0,Python3,1586624870601,3757994,Pitmairen,NO,,
@@ -748,6 +748,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,130.0,Python3,1758268910489,6755436,AlesekP,NL,147944746819260,
 100.0,130.0,Python3,1765494051241,6331743,PereNono,FR,,
 100.0,130.0,Python3,1767205922241,1898584,Natorade,US,11638627198824,
+100.0,130.0,Python3,1768052057047,6979434,Agent-AI,FR,,
 100.0,131.0,Python3,1563633063232,2514555,RoyReznik,IL,,
 100.0,131.0,Python3,1567461006628,1657457,GrantPerkins,US,33650747755894,
 100.0,131.0,Python3,1576677327939,958490,lj,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,139.0,Python3,1608642857270,599497,codybumba,IN,20517704819076,
 100.0,139.0,Python3,1614432828433,1511645,OleksandrVoytsekhovskyy,UA,5607086540666,
 100.0,139.0,Python3,1616143201351,1407104,Maun,FR,5342968576656,
-100.0,139.0,Python3,1619963687053,1154129,Mahouss,FR,95257360941708,

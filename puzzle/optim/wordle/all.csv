@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-12T04:40:04
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-13T04:30:26
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -561,6 +561,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,211.0,Python3,1750054470496,6632153,pipopi,LU,,
 100.0,211.0,C#,1755084108553,5014381,MathieuSwartvagher,FR,,
 100.0,211.0,Java,1763484348412,6917231,EzQuoding,FR,152289342076226,
+100.0,211.0,VB.NET,1768274337288,3028864,lorcQc,CA,,
 100.0,212.0,TypeScript,1683908047179,3317583,Mjo,FR,,
 100.0,212.0,Javascript,1708812083167,5959572,mcky_msh,US,,
 100.0,212.0,Python3,1718403563662,5192427,David3Emmanuel,NG,108742627927567,
@@ -619,7 +620,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,219.0,C++,1710375936040,5934528,Scphott,US,118578601647278,
 100.0,219.0,Python3,1741005860694,3999693,ln-dev05,FR,66651286231911,
 100.0,219.0,Python3,1765307882547,6907839,Chaotik,CA,,
-100.0,219.0,VB.NET,1768189774741,3028864,lorcQc,CA,,
 100.0,220.0,Python3,1708767873647,1477791,seitec01,HU,,
 100.0,221.0,Python3,1680457406664,4537924,ArtesScytale,BE,121331549433012,
 100.0,221.0,C++,1686899376361,820000,ValGrowth,JP,95440985747208,
@@ -823,6 +823,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,294.0,C++,1684431972804,3788849,adri1mart1,FR,90794609769211,
 100.0,294.0,C,1718289626337,200624,Alnef,FR,,
 100.0,295.0,C++,1700822013324,5548882,Jahidem,BD,106350143174721,
+100.0,295.0,Python3,1768210445140,1294876,Driikolu,FR,3794653646628,
 100.0,296.0,Rust,1683297943556,3964413,NuggetNugget,NL,73480044808956,
 100.0,297.0,Python3,1738281506970,782461,Demi-Sel,FR,,
 100.0,301.0,Java,1701440570140,1502297,Damien_Andreau,FR,114859422708099,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1300.0,C++,1696084591635,5735106,DL_NDNK,VN,,
 100.0,1300.0,Rust,1711276725443,6022822,armin_4,DE,,
 100.0,1300.0,C++,1750461090969,6694957,Eysius,CA,,
-100.0,1300.0,Python3,1764354760692,6950849,the_seal,JO,153918021946524,

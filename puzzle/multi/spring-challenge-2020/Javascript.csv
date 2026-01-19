@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=575|time=2026-01-18T04:33:19
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=575|time=2026-01-19T04:41:58
 5,25.77,Javascript,1591401180311,3004877,3188551,ashelkov,UA,43167721570733,
 5,21.35,Javascript,1589818644600,2976688,3700629,serialgg,FR,41086567019728,
 5,19.88,Javascript,1767216786717,6181983,1904082,WIlChrist,FR,113083226652352,
@@ -426,10 +426,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,18.65,Javascript,1589818644600,2979267,3807295,aborboll,ES,,
 1,18.63,Javascript,1589818644600,2977258,3763368,SQUARE,MA,63200404326156,
 1,18.59,Javascript,1589818644600,2978072,1469828,ThomasQ,BE,44084166489629,
+1,18.45,Javascript,1667493366572,4515515,5099840,tan.vd,VN,91298907856894,
 1,18.41,Javascript,1589818644600,2978998,2660172,juacompe,TH,19185500350969,
 1,18.35,Javascript,1589818644600,2977556,3821784,LunaBread,US,44608387976760,
 1,18.22,Javascript,1589818644600,2977541,2918503,CodeMeNatalie,GB,22320408771496,
-1,18.14,Javascript,1667493366572,4515515,5099840,tan.vd,VN,91298907856894,
 1,18.08,Javascript,1619536740630,3520220,4130841,Digginwings,US,62085125607117,
 1,18.04,Javascript,1603486677861,3146478,4003122,Arnavin,FR,52204662014455,
 1,18.01,Javascript,1763700330657,6115001,5949567,technologue1,GN,152882188091206,
@@ -512,7 +512,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,3.72,Javascript,1589818644600,2975691,3818255,SyrusSilverkin,GB,,
 1,3.71,Javascript,1668518768865,4526349,4374863,FreeDev,FR,93286687054709,
 1,3.63,Javascript,1603824467382,3151250,4030766,mandar1jn,NL,,
-0,16.13,Javascript,1636367025118,3889499,4083360,TacticsCH,CH,72664485320925,
+0,16.12,Javascript,1636367025118,3889499,4083360,TacticsCH,CH,72664485320925,
 0,15.81,Javascript,1589818644600,2975648,3804296,EmanuelFeijo,PT,,
 0,15.81,Javascript,1628232291388,3781396,4459618,spicykevin55,HK,,
 0,15.77,Javascript,1636368251558,3889515,4585624,emixy,CH,,

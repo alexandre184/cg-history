@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-01-20T04:36:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-01-21T04:35:50
 5,27.68,Python3,1587640685260,2830713,2970414,Fangel,FR,23748356777542,
 5,26.95,Python3,1588678048738,2848051,3533119,wlesavo,RU,44695284080274,
 5,26.23,Python3,1587393091475,2824004,1635357,GiB,FR,7734029926719,
@@ -708,7 +708,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,17.01,Python3,1587394182758,2824815,153119,[CG]loick,FR,1719001703601,
 1,16.95,Python3,1701030936386,5117233,1787915,mathekuchen,DE,,
 1,16.85,Python3,1587394434417,2825029,1488850,illogiku,FR,34909562084374,
-1,16.78,Python3,1587394372381,2824992,1619337,mno,FR,,
 1,16.73,Python3,1653834848849,4304813,4922219,ADOps,IL,,
 1,16.67,Python3,1587392200525,2823115,3059011,TigerDThib,FR,23910308750736,
 1,16.66,Python3,1587393814815,2824533,3755735,canardboiteux,FR,,
@@ -784,6 +783,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,12.94,Python3,1664849120837,4478795,5089878,sentinel-1,GE,90922461130404,
 1,12.9,Python3,1587586315681,2829950,3680135,EMesa,US,,
 1,12.83,Python3,1701052404992,5117422,4334657,DokX,DE,,
+1,12.46,Python3,1768914284018,6214483,1619337,mno,FR,,
 1,12.31,Python3,1700141908192,5107872,5509489,Codelearner2,US,105055440101235,
 1,12.29,Python3,1587392608095,2823502,3565553,Szlynn,HU,36611485866627,
 1,12.27,Python3,1587392754979,2823649,1990460,Molitoris,CH,12598885791012,

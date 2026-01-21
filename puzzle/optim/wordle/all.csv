@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-20T04:36:09
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-21T04:35:50
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -538,6 +538,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,209.0,Java,1722699902912,3948656,Sly-Lam,FR,,
 100.0,209.0,C#,1725438692806,6245690,Andreas2024,BE,129279543882227,
 100.0,209.0,Python3,1751916282619,6445647,Mangrovia,FR,137666405754086,
+100.0,209.0,Perl,1768897802103,6496112,Mohammed_Mehdi,FR,156289961254046,
 100.0,210.0,Python3,1695103749978,2424099,democat,US,111626184197315,
 100.0,210.0,Python3,1698062820019,894599,DidierC,FR,1756298465824,
 100.0,210.0,Python3,1726166787121,2429951,Amanyth,CA,107953701064494,
@@ -602,6 +603,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,216.0,C++,1759471206064,6856612,SunnFloww,RU,,
 100.0,216.0,Rust,1760117383828,6731464,MethaneOceans,NL,148729909426720,
 100.0,216.0,Python3,1767246973282,3276896,kozuechan,JP,26189736775264,
+100.0,216.0,Python3,1768900520289,4892552,nukaze_,TH,156274106995909,
 100.0,217.0,Python3,1683299377564,5451895,TomasT,NL,103995642669379,
 100.0,217.0,Python3,1683619947361,5153421,pere-mission,FR,,
 100.0,217.0,Javascript,1687017538135,4801202,Eoweirin,FR,80484068505136,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1043.0,Rust,1733675190943,6385710,s-de-beer,FR,,
 100.0,1043.0,C#,1761042506203,6888933,Deckie_,PL,,
 100.0,1045.0,C,1729240076865,2169719,KaluTheFrog,FR,14282084879263,
-100.0,1051.0,C,1687959263158,5571826,__[pepa]__,AR,,
-100.0,1064.0,Javascript,1746263976196,6626410,IamDuco,NL,,

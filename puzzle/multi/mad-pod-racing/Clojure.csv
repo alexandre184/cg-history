@@ -1,7 +1,7 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=106|time=2026-01-23T04:33:31
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=106|time=2026-01-24T04:25:45
 6,34.09,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
-5,30.65,Clojure,1480636657283,850106,1674411,Boze,CA,,
 5,30.55,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
+5,30.54,Clojure,1480636657283,850106,1674411,Boze,CA,,
 5,29.76,Clojure,1472915116380,650397,951363,agent[j],US,5505013487233,
 5,27.54,Clojure,1651499729398,4248413,4867897,pm4r,PL,,
 5,27.45,Clojure,1492911406483,1199530,1390607,Ivan_Derzhylo,UA,67601821029462,
@@ -87,8 +87,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,3.43,Clojure,1466035041315,499399,1428969,Cpt.Kolute,DE,4673151121497,
 3,-2.42,Clojure,1494189572401,1225943,1007647,NagMacFeegle,DE,,
 2,17.09,Clojure,1466243856474,502190,1470126,Menschenkindlein,UA,,
-2,16.41,Clojure,1466657314565,508524,1473738,JonathanBristow,US,,
-2,16.14,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
+2,16.48,Clojure,1466657314565,508524,1473738,JonathanBristow,US,,
+2,16.05,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
 2,15.46,Clojure,1475256776076,733540,1069512,ClashTheBunny,US,,
 2,14.06,Clojure,1692809998292,5036214,4685354,murry2018,KR,,
 2,13.8,Clojure,1636975738099,3896843,4375759,phedny,NL,65590442117916,

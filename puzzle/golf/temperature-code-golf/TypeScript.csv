@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=498|time=2026-01-25T04:42:50
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=499|time=2026-01-26T04:46:13
 100.0,67.0,TypeScript,1682954310501,3380184,chouch,FR,,
 100.0,68.0,TypeScript,1615021369646,3918583,mikmak,FR,48134583112917,
 100.0,68.0,TypeScript,1622833936804,2315158,luigi_gelato,DE,,
@@ -41,7 +41,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,79.0,TypeScript,1649401193683,4420742,Mortis_666,MY,99045346596822,
 100.0,80.0,TypeScript,1576574098840,1845617,Shingy,AU,26010702723839,
 100.0,80.0,TypeScript,1583432093450,1353795,TheCrucial,PL,18581166493021,
-100.0,80.0,TypeScript,1621544047321,1179950,KAKAROT_MPL,JP,156724769921685,
+100.0,80.0,TypeScript,1621544047321,1179950,KAKAROT_MPL,JP,156770927564685,
 100.0,80.0,TypeScript,1641327408599,893541,wala,FR,97577641170180,
 100.0,80.0,TypeScript,1648646913655,981878,nicolasD,FR,22576267267565,
 100.0,80.0,TypeScript,1725396514621,558770,lD,FR,7979637651523,
@@ -350,7 +350,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,516.0,TypeScript,1725114919443,6260387,Shadowfacts,US,,
 100.0,528.0,TypeScript,1625001596619,3291434,Qtipy,FR,66724008796058,
 100.0,533.0,TypeScript,1684859603234,1035473,waelhanfi,TN,,
-100.0,536.0,TypeScript,1636515944978,4593542,Abzy,DE,110674782431297,
+100.0,536.0,TypeScript,1636515944978,4593542,Abzy,DE,156769624351471,
 100.0,538.0,TypeScript,1582624079721,788361,Bob,FR,29407964997640,
 100.0,540.0,TypeScript,1677247020347,5357981,hugo_mailfait,FR,,
 100.0,553.0,TypeScript,1742580203284,6559878,codefather06,FR,141509083234330,
@@ -362,6 +362,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,584.0,TypeScript,1727534269805,6221076,Crantor,CH,,
 100.0,598.0,TypeScript,1595777362408,3437924,mfrederic,ES,,
 100.0,609.0,TypeScript,1723425774474,6219976,Meh974,CA,,
+100.0,611.0,TypeScript,1769390201786,4845360,aTom.inc,FR,133835521841725,
 100.0,612.0,TypeScript,1705313662651,5918145,what's goin' on here,LV,,
 100.0,615.0,TypeScript,1684941100457,1723483,Santrhyl,CA,9421355763195,
 100.0,632.0,TypeScript,1635874965050,3903030,Eckkter,FR,,

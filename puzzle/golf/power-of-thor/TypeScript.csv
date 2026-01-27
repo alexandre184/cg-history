@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=757|time=2026-01-26T04:46:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=757|time=2026-01-27T04:37:39
 100.0,65.0,TypeScript,1696274994162,4966586,Rohydre,FR,,
 100.0,68.0,TypeScript,1680247326490,4341304,Remi.,FR,97662026388574,
 100.0,74.0,TypeScript,1680709028120,4438505,Eric_[EGU],FR,114044329618574,
@@ -145,7 +145,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,155.0,TypeScript,1652456784750,200826,coolDev,FR,21463925957457,
 100.0,155.0,TypeScript,1681493701377,948764,Katie,GB,2150180090592,
 100.0,155.0,TypeScript,1712029746025,4186553,Blasiblas,FR,121912827642485,
-100.0,156.0,TypeScript,1618819233243,1179950,KAKAROT_MPL,JP,156770927564685,
+100.0,156.0,TypeScript,1618819233243,1179950,KAKAROT_MPL,JP,156817602534350,
 100.0,156.0,TypeScript,1644189356302,4334077,vondermanzen,GB,118094862007905,
 100.0,156.0,TypeScript,1649443258208,3305510,TBali,HU,26750785092441,
 100.0,156.0,TypeScript,1655050455488,1420817,TheMagicShop,FR,4468522326390,
@@ -637,6 +637,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1344.0,TypeScript,1624371117828,3363186,Molokoy,,,
 100.0,1347.0,TypeScript,1696930738791,5750493,,FR,,
 100.0,1352.0,TypeScript,1632491020021,4527616,ADBRedwood,GB,,
+100.0,1353.0,TypeScript,1769427609768,5650720,BiloLwabona,ZA,109757987493405,
 100.0,1359.0,TypeScript,1726509632554,6282655,Nat261,MG,,
 100.0,1371.0,TypeScript,1692104253566,992185,sHOw,JP,,
 100.0,1375.0,TypeScript,1684158493951,5477632,invedium,FR,104664645433539,
@@ -718,7 +719,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 75.0,666.0,TypeScript,1684333973061,5501109,Kentoche,FR,,
 75.0,887.0,TypeScript,1733693689156,836372,Yorgi,GB,3674671175654,
 75.0,1333.0,TypeScript,1678780942272,5014466,Edlitham,FR,,
-75.0,1353.0,TypeScript,1692229368317,5650720,BiloLwabona,ZA,109757987493405,
 75.0,1389.0,TypeScript,1679667132003,4785503,BenioB,FR,,
 50.0,79.0,TypeScript,1582383693353,371603,MartinQc,CA,1761380964089,
 50.0,97.0,TypeScript,1579712523113,1931039,MooMooN,FR,11972180817471,

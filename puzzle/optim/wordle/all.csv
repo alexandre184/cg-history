@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-29T04:59:49
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-30T05:02:23
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -549,6 +549,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,210.0,Java,1757104404456,3070281,Alathreon,FR,,
 100.0,210.0,C++,1761235684497,6756109,Alvin_Chipmunk7,RU,147846822679393,
 100.0,210.0,Python3,1763985905409,4640490,RobbertvZ,NL,154079483648682,
+100.0,210.0,Javascript,1769693777558,6729611,,LU,,
 100.0,211.0,C#,1687358269232,1030709,Cmdr.Shepard,FR,4712656486276,
 100.0,211.0,Python3,1693832780007,5685230,vfd,FR,,
 100.0,211.0,Javascript,1702519071670,5806017,PiTiLeZarD,AU,114824305617387,
@@ -737,6 +738,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,248.0,Javascript,1693145368990,3992550,foreign,FR,50980824286436,
 100.0,248.0,Python3,1731851862179,6356974,VadimOswald,GR,133182004739997,
 100.0,248.0,Python3,1757339796932,2488317,Morcifer,NL,17597466270749,
+100.0,248.0,Javascript,1769682876239,6319311,Yipikay,BE,131806624431312,
 100.0,249.0,Python3,1689589284846,5602306,VojtechBrezina,CZ,,
 100.0,249.0,Ruby,1728838197165,5072331,TiPoix,FR,104976741276250,
 100.0,249.0,Python3,1734474874685,6414163,Poutfou,FR,135773326574315,
@@ -838,7 +840,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,297.0,Python3,1738281506970,782461,Demi-Sel,FR,,
 100.0,299.0,Python3,1768324866022,6754381,jb32,FR,,
 100.0,301.0,Java,1701440570140,1502297,Damien_Andreau,FR,114859422708099,
-100.0,301.0,Javascript,1751880541470,6729611,,LU,,
 100.0,303.0,Python3,1680811297810,4557068,BenoitLamare,FR,101256221147741,
 100.0,303.0,Python3,1728439996677,4323815,VulkreoN,FR,64990605478519,
 100.0,303.0,C#,1736434626016,6402148,drawcoco,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1035.0,C,1710324244842,3342092,aarnaud1,FR,,
 100.0,1036.0,Java,1737635329532,3006161,CodingViolinist,IE,,
 100.0,1041.0,Python3,1724053310780,4489223,Ptikha,FR,128031525491186,
-100.0,1043.0,Rust,1733675190943,6385710,s-de-beer,FR,,

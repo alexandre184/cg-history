@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-30T05:02:23
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-01-31T04:54:43
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -66,7 +66,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,171.0,Python3,1703316960727,3927891,whywhy_,CN,,
 100.0,171.0,Rust,1715199930506,3358879,PierreLaur,FR,152796248512039,
 100.0,171.0,Kotlin,1721944100470,1515891,ndc,RU,57247748477088,
-100.0,171.0,Python3,1737966601977,1179950,KAKAROT_MPL,JP,156817602534350,
+100.0,171.0,Python3,1737966601977,1179950,KAKAROT_MPL,JP,157026924965413,
 100.0,171.0,Rust,1757017400802,6755436,AlesekP,NL,147944746819260,
 100.0,172.0,Python3,1680521554148,2290633,field3,JP,75961127697737,
 100.0,172.0,C#,1686511189441,5286350,gapcs,HU,96859905117685,
@@ -174,6 +174,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,180.0,Python3,1749483338177,4785778,Pharallaxe,FR,80756163394679,
 100.0,180.0,Python3,1756508235792,3623423,drew-m,RU,53703381042394,
 100.0,180.0,Python3,1764874459688,992329,BeeGee,NL,5817423526804,
+100.0,180.0,Python3,1769771003264,6941171,TheGamerDeyi,CN,154632946717819,
 100.0,181.0,Python3,1685104700547,3809274,PB1,RU,,
 100.0,181.0,TypeScript,1692380373315,3559724,dan_the_bloke,GB,,
 100.0,181.0,C#,1700938158033,5751040,palio,SK,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1030.0,Javascript,1762877461917,6922371,teo_dimi,DK,,
 100.0,1035.0,C,1710324244842,3342092,aarnaud1,FR,,
 100.0,1036.0,Java,1737635329532,3006161,CodingViolinist,IE,,
-100.0,1041.0,Python3,1724053310780,4489223,Ptikha,FR,128031525491186,

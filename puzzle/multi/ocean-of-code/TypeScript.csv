@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=56|time=2026-02-14T05:02:49
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=56|time=2026-02-15T05:14:27
 4,23.52,TypeScript,1587393124313,2824027,416762,Khao,CA,2035557596161,
 4,17.83,TypeScript,1587393185519,2824099,2990918,Dingodino,FR,23216166624189,
 4,17.66,TypeScript,1587393189165,2824104,195088,Jopie64,NL,3166839360134,
@@ -26,7 +26,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,13.05,TypeScript,1705186594427,5282430,2315158,luigi_gelato,DE,,
 2,13.02,TypeScript,1587394309422,2824934,2024033,Suenodk,NL,12923228484745,
 2,12.85,TypeScript,1587393967548,2824676,3727228,agoldstein03,US,,
-2,11.79,TypeScript,1681681858695,4799321,2500505,Dodu,FR,17548930057670,
+2,11.73,TypeScript,1681681858695,4799321,2500505,Dodu,FR,17548930057670,
 2,11.4,TypeScript,1732616358717,5635254,6340743,Toto404,FR,132276722325577,
 2,3.3,TypeScript,1587400049905,2825482,155929,[CG]jupoulton,DE,9399538004630,
 2,1.36,TypeScript,1675527896280,4729809,5196326,sumpfbacke96,DE,,
@@ -37,7 +37,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,18.52,TypeScript,1603455508216,3145662,3635888,Izuco,DE,39146186316446,
 1,18.33,TypeScript,1646063859389,4017330,4766017,Team_RTT,FR,,
 1,18.09,TypeScript,1646063946807,4017333,4766078,iPARC1test,FR,,
-1,18.08,TypeScript,1646144534299,4018268,4766704,Gaetitan,FR,79452547609417,
+1,18.02,TypeScript,1646144534299,4018268,4766704,Gaetitan,FR,79452547609417,
 1,17.92,TypeScript,1587392253318,2823207,3531488,Dryadim,FR,35488801936304,
 1,17.56,TypeScript,1587392701992,2823584,3739358,scoobysnacks,SE,42211640000248,
 1,17.48,TypeScript,1728244790502,5592457,1332744,RIB,FR,,
@@ -51,7 +51,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,22.55,TypeScript,1646061717538,4017286,4765990,AureleBM,FR,,
 0,20.03,TypeScript,1587392070631,2822988,903341,Morthyr,HU,52768162388380,
 0,15.83,TypeScript,1646059960557,4017212,4766507,testeurdurturfu,AF,,
-0,15.02,TypeScript,1603040823789,3138403,2960894,emma-p,FR,,
+0,15.0,TypeScript,1603040823789,3138403,2960894,emma-p,FR,,
 0,12.55,TypeScript,1690139076311,5011217,5287657,gustawdaniel,GE,97148541179495,
 0,12.14,TypeScript,1641464679050,3961836,4496646,MaximeDev,FR,,
 0,11.85,TypeScript,1684234066257,4826270,5499604,TototataTototata,FR,,

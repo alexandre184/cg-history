@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4547|time=2026-02-17T05:15:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4549|time=2026-02-18T05:17:51
 100.0,90.0,Perl,1681696796583,5436334,saito_ta,JP,102476026435385,
 100.0,91.0,Bash,1681696572956,5436334,saito_ta,JP,102476026435385,
 100.0,96.0,Perl,1681323049273,4166555,Natanalel,SE,65894864102793,
@@ -342,6 +342,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,184.0,Python3,1738696783180,3871965,Fuyuru,JP,136310389901427,
 100.0,184.0,Python3,1739385105101,5231361,yhuberla,BE,95120829746216,
 100.0,184.0,Python3,1756821539848,5926323,Deliner_cctweaked,CA,134321507413129,
+100.0,184.0,Python3,1771166144908,6338737,Justanpcdude,ID,132165169363107,
 100.0,185.0,Python3,1681301595968,3708557,Sensayyy,FR,58361723852496,
 100.0,185.0,Python3,1683096398302,4806550,Rafarafa,ES,80946308795008,
 100.0,185.0,Python3,1686306700353,3884273,RedSkull-666,FR,,
@@ -573,7 +574,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,206.0,Go,1687406841673,3373291,BHW,NZ,30114207714096,
 100.0,206.0,Javascript,1705934393767,2110342,lchenay,FR,68642008923579,
 100.0,206.0,Python3,1710203232271,2566619,tif,FR,,
-100.0,206.0,C++,1763978129145,6867973,miaouuu,FR,,
+100.0,206.0,C++,1763978129145,6867973,ali_l,FR,,
 100.0,206.0,Python3,1766487846875,1124311,Cataboum,FR,12665428019544,
 100.0,206.0,Python3,1770212154615,5761392,kirigouter,FR,,
 100.0,207.0,Python3,1680793171868,153965,[CG]Keelhaul,FR,4367050238110,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,260.0,Kotlin,1708777913209,3335921,vcoubray,FR,28402108918604,
 100.0,260.0,Python3,1718205586479,4451855,Chansi,BE,,
 100.0,260.0,Python3,1737755490232,6321267,Quantine,FR,131579166173101,
-100.0,260.0,Javascript,1746846419284,6635112,J_Ro,US,,

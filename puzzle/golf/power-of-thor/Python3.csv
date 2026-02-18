@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14506|time=2026-02-17T05:15:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=14514|time=2026-02-18T05:17:51
 100.0,52.0,Python3,1691951493222,2928146,LolCat,MU,22538133010433,
 100.0,62.0,Python3,1691074822468,4966586,Rohydre,FR,,
 100.0,71.0,Python3,1665429820381,3845610,pardouin,FR,60364063762936,
@@ -603,6 +603,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,113.0,Python3,1756860925593,6814042,Fingon,US,,
 100.0,113.0,Python3,1762445361855,4351197,Nostale,ES,65039565368445,
 100.0,113.0,Python3,1763291367947,6754434,alexey.noskov,RU,,
+100.0,113.0,Python3,1771252114352,2252914,Malleek,FR,156025968676031,
+100.0,113.0,Python3,1771348754399,7107542,,DE,,
 100.0,114.0,Python3,1463069142990,1374100,IcEEyE,IS,,
 100.0,114.0,Python3,1463753903314,1097422,David_5.1,FR,,
 100.0,114.0,Python3,1479419406721,1584704,Posydon,NL,10076756835700,
@@ -860,7 +862,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,117.0,Python3,1522631640432,1557355,dygray,US,,
 100.0,117.0,Python3,1522692278903,2451647,EISTIMaxou,FR,17006069700224,
 100.0,117.0,Python3,1524734650605,2584101,Tartopoir,FR,,
-100.0,117.0,Python3,1528871159565,2252914,Malleek,FR,156025968676031,
 100.0,117.0,Python3,1530572663649,1717451,Shiranuit,FR,9277930574886,
 100.0,117.0,Python3,1535006576849,2242201,Maryan,UA,33999460575859,
 100.0,117.0,Python3,1538895669638,2786666,TetraktysPhi,FR,20818693590142,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,118.0,Python3,1726033041957,6233913,dennisli,RU,128194247598219,
 100.0,118.0,Python3,1727774066987,6268910,Jouj_,FR,130020940156553,
 100.0,118.0,Python3,1745437701849,3766435,sch87,FR,,
-100.0,118.0,Python3,1749466134149,6366705,CHOPK,RU,138180349805992,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2953|time=2026-02-17T05:15:29
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2954|time=2026-02-18T05:17:51
 100.0,31.0,Perl,1681462065231,5436334,saito_ta,JP,102476026435385,
 100.0,31.0,Perl,1692993388511,2928146,LolCat,MU,22538133010433,
 100.0,32.0,Perl,1680847097265,2315623,Lydxn,CA,,
@@ -388,6 +388,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,87.0,Python3,1763652568319,5365556,kanelugodeu,FR,,
 100.0,87.0,Python3,1767911409320,5573671,LeMasSon,FR,107252527944826,
 100.0,87.0,Python3,1770674589344,6026494,Ariko,FR,121426845269537,
+100.0,87.0,Python3,1771166250687,6338737,Justanpcdude,ID,132165169363107,
 100.0,88.0,Python3,1680786628836,4966586,Rohydre,FR,,
 100.0,88.0,Javascript,1681239803083,3647844,rc95401,US,39486169555819,
 100.0,88.0,TypeScript,1685309761829,2315158,luigi_gelato,DE,,
@@ -542,7 +543,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,99.0,Python3,1719847248351,631323,herve056,FR,11494731136934,
 100.0,99.0,Python3,1723036760618,6189409,ChinKid,PH,127230162388628,
 100.0,99.0,Python3,1725562404929,1811761,Spacequokka,FR,78004684137514,
-100.0,99.0,Javascript,1736643227901,4782227,ArgoZ,FR,153456508461697,
+100.0,99.0,Javascript,1736643227901,4782227,ArgoZ,FR,158085761141704,
 100.0,99.0,Python3,1737603722771,5212758,ruier,CN,94598409917739,
 100.0,99.0,Python3,1757988439334,2278872,FireGeoff,RE,149573102278775,
 100.0,100.0,Perl,1680787946099,4966586,Rohydre,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,176.0,C++,1721922768157,6132028,NicknamedTwice,GB,136778820182751,
 100.0,176.0,Python3,1736492236365,4332961,BarryX,AU,63999226789641,
 100.0,176.0,Groovy,1742812561274,1179950,KAKAROT_MPL,JP,157814368867610,
-100.0,176.0,C,1749728389900,1766582,smugiss,LT,,

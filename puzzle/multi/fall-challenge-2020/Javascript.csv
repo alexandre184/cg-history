@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=707|time=2026-02-22T05:10:24
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=707|time=2026-02-23T05:20:03
 5,20.26,Javascript,1649237250751,4064304,3795745,Soboku,JP,71616261493295,
 5,16.78,Javascript,1628587192967,3786145,1360360,zombitrafik,PL,39230624991993,
 5,15.17,Javascript,1674904928553,4723294,3413813,Hvosten,PL,63052087147847,
@@ -570,6 +570,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.44,Javascript,1606139008477,3311727,3710728,N3G_Code,FR,41437423733782,
 1,21.43,Javascript,1606139008477,3313952,4069689,seangwright,US,54115362992549,
 1,21.43,Javascript,1606139008477,3310097,4048405,subhadeep,IN,53242866471144,
+1,21.43,Javascript,1606139008477,3313387,4066337,urita,JP,63110765470367,
 1,21.43,Javascript,1606139008477,3309244,4043487,AlexLat,FR,52872329655967,
 1,21.43,Javascript,1606139008477,3313689,4068202,UchiHahaha,VN,54080781433258,
 1,21.43,Javascript,1606139008477,3308860,4037494,Tom.Bab,FR,,
@@ -593,7 +594,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.42,Javascript,1606139008477,3309116,2038332,Trohm,FR,125048909634254,
 1,21.42,Javascript,1606139008477,3310665,1078490,SetiZ,FR,44302763299647,
 1,21.42,Javascript,1606139008477,3313909,4063522,Burdas,ES,,
-1,21.42,Javascript,1606139008477,3313387,4066337,urita,JP,63110765470367,
 1,21.42,Javascript,1606139008477,3314176,3378317,dcure73,US,,
 1,21.41,Javascript,1606139008477,3313448,4066895,alexcmn,ME,54033803399984,
 1,21.41,Javascript,1726129006807,5573376,4378175,Woolfy,BE,66125166700468,
@@ -688,7 +688,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,9.23,Javascript,1606139008477,3311554,3790322,korti11,AT,46814721559486,
 1,9.22,Javascript,1606139008477,3307386,4071504,Fortunate87,DE,,
 0,10.22,Javascript,1606139008477,3307388,4063548,TestingSmthn,AR,,
-0,9.74,Javascript,1606139008477,3314107,2921913,Joel2608,FR,,
+0,9.72,Javascript,1606139008477,3314107,2921913,Joel2608,FR,,
 0,7.24,Javascript,1613496078331,3431611,1323703,KornelToth,HU,,
 0,7.17,Javascript,1606139008477,3308005,3547240,clarablack,QA,54455242368712,
 0,7.11,Javascript,1606139008477,3309988,3545956,therealyubraj,NP,113966529519045,

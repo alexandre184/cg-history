@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-02-27T05:08:27
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-02-28T04:45:33
 7,22.48,Python3,1736159438339,5740575,939375,Indrill,FR,44356465145349,
 7,21.27,Python3,1736159329229,5740238,3801587,FlyingChoucroute,FR,43903983855307,
 7,20.79,Python3,1736157498238,5737082,3871965,Fuyuru,JP,136310389901427,
@@ -94,7 +94,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 6,15.63,Python3,1736157598437,5737409,3514452,Sotrosca,AR,35189800536106,
 6,15.63,Python3,1736157905155,5738321,4056629,metopa,CZ,82585144939147,
 6,15.6,Python3,1736159429647,5740559,3489135,Mirlamber,FR,34260448576937,
-6,15.58,Python3,1737938171263,5762668,4016195,Manolo3,FR,82306607327262,
+6,15.58,Python3,1737938171263,5762668,4016195,Emmanuel__,FR,158579683316823,
 6,15.57,Python3,1736159080463,5739485,2869956,Oho,CA,82714762063220,
 6,15.53,Python3,1736158128429,5738896,4691719,Anton42,DE,,
 6,15.5,Python3,1736159344192,5740283,6433304,aoi3187,JP,158448808791007,
@@ -533,6 +533,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,3.4,Python3,1736157741337,5737892,5362461,Caribosaurus,CA,115383144744907,
 3,3.38,Python3,1736158021089,5738591,4840707,atilol,JP,,
 3,3.37,Python3,1763388722718,6096300,6348743,-_-Hakuna_Matata-_-,NL,,
+3,3.36,Python3,1772210166083,6275262,5499890,nacmad,PL,,
 3,3.36,Python3,1736159098458,5739545,3518006,mvpnek,FR,,
 3,3.36,Python3,1736157453712,5736941,463873,tanakat01,JP,,
 3,3.36,Python3,1736157511924,5737123,4074336,Sijema,BE,,
@@ -998,4 +999,3 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,3.2,Python3,1736158972395,5739113,6420788,aziz_smai,TN,,
 1,3.2,Python3,1736157795080,5738030,6137064,mel-hach,MA,,
 1,3.2,Python3,1760314160081,6064825,4275070,Timdot77,FR,121668086981464,
-1,3.2,Python3,1736157364971,5736725,2849131,MarKamui,FR,21866367007321,

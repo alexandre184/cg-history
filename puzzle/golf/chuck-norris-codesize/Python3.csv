@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4374|time=2026-03-03T05:08:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4376|time=2026-03-04T05:02:37
 100.0,89.0,Python3,1700968902034,1537792,AsaiYusuke,US,41785380851985,
 100.0,92.0,Python3,1680306132978,2315623,Lydxn,CA,,
 100.0,94.0,Python3,1667481014921,3845610,pardouin,FR,60364063762936,
@@ -93,7 +93,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,104.0,Python3,1667173182295,4787127,,FR,,
 100.0,104.0,Python3,1676399868820,3085420,MJZ,CZ,24789393424290,
 100.0,104.0,Python3,1680095913328,4341304,Remi.,FR,97662026388574,
-100.0,104.0,Python3,1680778340051,5191042,Saphir123,FR,102291860878516,
+100.0,104.0,Python3,1680778340051,5191042,Saphir123,FR,158740527495586,
 100.0,104.0,Python3,1689939749020,5598331,FrankEnthusiasticInvestigator,FR,,
 100.0,104.0,Python3,1702761737824,1917961,Seoman,FR,,
 100.0,104.0,Python3,1725554526734,154806,piwai,FR,1956863959967,
@@ -968,6 +968,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,137.0,Python3,1745012224742,3090124,Dn_Dave,NL,132520521909052,
 100.0,137.0,Python3,1751616344537,1436049,Anoyakh,FR,147628228280240,
 100.0,137.0,Python3,1755725124952,1151727,orosen,FR,148973760845689,
+100.0,137.0,Python3,1772548806792,5392419,Hwimthergilde,NO,,
 100.0,138.0,Python3,1555007079795,1418035,matttias,AT,43440268346489,
 100.0,138.0,Python3,1563028865060,2615614,gerg101,BR,121839683937899,
 100.0,138.0,Python3,1600199301750,2923315,Derp7777,US,22409269360576,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,138.0,Python3,1719495551860,3710233,SadTrumpet,CZ,,
 100.0,138.0,Python3,1734553565622,5150000,meeter,FR,137315342692600,
 100.0,138.0,Python3,1752160829543,6732084,PJSans,US,147042223344487,
-100.0,138.0,Python3,1757355317060,6777875,gohoro,FR,148815684721105,

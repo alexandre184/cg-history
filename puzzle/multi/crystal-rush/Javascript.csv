@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=324|time=2026-03-14T05:05:02
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=323|time=2026-03-15T05:23:16
 4,31.11,Javascript,1619769174202,3525831,3188551,ashelkov,UA,43167721570733,
 4,25.78,Javascript,1584699967288,2708611,1743344,ush189,DE,9680328817159,
 4,22.37,Javascript,1584699999472,2708671,1649376,Kujar,FR,7980653749506,
@@ -172,7 +172,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,11.54,Javascript,1584699356403,2707322,1993663,StAlex,RU,,
 2,10.08,Javascript,1584699939041,2708555,1706784,Garryton,FR,,
 2,7.3,Javascript,1664211011746,4469958,1604295,SergeiShirokov,ES,12159441339558,
-1,29.33,Javascript,1584699594464,2707805,266799,IMarty,FR,35319343823987,
+1,29.2,Javascript,1584699594464,2707805,266799,IMarty,FR,35319343823987,
 1,28.45,Javascript,1584699791071,2708224,3457723,mss1569_2,BR,,
 1,28.45,Javascript,1584699379325,2707356,230884,ChickenCombo,US,15175044941697,
 1,28.42,Javascript,1584699922803,2708517,3483193,Trukken,HU,35350382947393,
@@ -287,7 +287,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,11.19,Javascript,1584699479221,2707548,2169659,Bicienzu,IT,,
 1,10.88,Javascript,1584699767207,2708168,2001152,Randyop,FR,14940281365937,
 1,10.82,Javascript,1584699381070,2707359,1546592,epicdev,PL,7578506978507,
-1,10.28,Javascript,1618963232317,3511097,816075,VerTox,RU,,
 1,10.21,Javascript,1666966459249,4510616,5148199,Supermamasse,FR,,
 1,9.42,Javascript,1648618273350,4055886,4622506,Hypnosphere,FR,74068766457727,
 1,8.6,Javascript,1584699810838,2708259,1181685,dzik,PL,59278888722781,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-03-26T05:26:43
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-03-27T05:29:48
 6,34.77,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,30.63,Clojure,1480636657283,850106,1674411,Boze,CA,,
 5,30.37,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
@@ -74,8 +74,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,12.96,Clojure,1475045375594,719759,1592894,maxagaze,NO,,
 3,12.89,Clojure,1518389739615,1656209,2433183,Jake562,US,16806668646275,
 3,12.08,Clojure,1474296922014,669459,1539559,shadowdancer,AR,,
-3,11.92,Clojure,1643761921004,3991308,4688096,StrykeTruanard,GB,76558046976779,
 3,11.87,Clojure,1590765217615,2996570,1574921,Variance,US,,
+3,11.85,Clojure,1643761921004,3991308,4688096,StrykeTruanard,GB,76558046976779,
 3,11.57,Clojure,1661268578954,4431059,2491829,anil9,SE,89130325695961,
 3,11.4,Clojure,1560370495741,2420206,3009873,Kineolyan,FR,32394008868052,
 3,11.24,Clojure,1771620386598,6264414,6776127,hak1m,ID,,
@@ -89,7 +89,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,-2.97,Clojure,1494189572401,1225943,1007647,NagMacFeegle,DE,,
 2,17.12,Clojure,1466243856474,502190,1470126,Menschenkindlein,UA,,
 2,16.72,Clojure,1466657314565,508524,1473738,JonathanBristow,US,,
-2,16.13,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
+2,16.04,Clojure,1594743366293,3034669,578289,Kludjer,US,5656729521608,
 2,15.5,Clojure,1475256776076,733540,1069512,ClashTheBunny,US,,
 2,13.81,Clojure,1636975738099,3896843,4375759,phedny,NL,65590442117916,
 2,13.69,Clojure,1692809998292,5036214,4685354,murry2018,KR,,
@@ -104,5 +104,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,15.53,Clojure,1467713116131,572597,1423658,LeartS,IT,4387037627346,
 1,9.88,Clojure,1652718639867,4288004,4903573,trananhgyh,VN,,
 1,9.74,Clojure,1665127809739,4483345,5079756,turtleshark,SE,,
-1,0.87,Clojure,1636141561432,3886837,4588069,reblo83pro,US,,
+1,0.98,Clojure,1636141561432,3886837,4588069,reblo83pro,US,,
 1,0.84,Clojure,1765984559750,6162282,6987812,test12396,FR,,

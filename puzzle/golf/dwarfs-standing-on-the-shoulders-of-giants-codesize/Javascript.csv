@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=214|time=2026-03-27T05:29:48
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=214|time=2026-03-28T12:08:20
 100.0,57.0,Javascript,1763122399975,4618693,cedricdd,FR,85418008807758,
 100.0,66.0,Javascript,1763232635144,154806,piwai,FR,1956863959967,
 100.0,66.0,Javascript,1772040209624,3235897,Zylo,PL,25779784253696,
@@ -10,6 +10,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,123.0,Javascript,1749070087370,1178276,Jerome_95,FR,19999067509724,
 100.0,123.0,Javascript,1774427194428,2874091,5DN1L,GB,134264063920528,
 100.0,127.0,Javascript,1745784388224,992329,BeeGee,NL,5817423526804,
+100.0,128.0,Javascript,1774597054035,6172043,PetyFloyd,SK,126527665690517,
 100.0,129.0,Javascript,1695893197589,199646,netoctone,IE,,
 100.0,131.0,Javascript,1689605781270,1962352,DPAmar,FR,56994389567033,
 100.0,133.0,Javascript,1681765203703,4832181,tmenant,FR,94025066322906,
@@ -39,7 +40,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,170.0,Javascript,1686676641996,2206075,Jon...,CA,75211762898926,
 100.0,173.0,Javascript,1726233283714,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,173.0,Javascript,1759169855831,3514975,PhuRiNaT,TH,150755821957631,
-100.0,173.0,Javascript,1774430067198,6172043,PetyFloyd,SK,126527665690517,
 100.0,174.0,Javascript,1682033694723,1802967,Meruem,FR,31992166318610,
 100.0,176.0,Javascript,1756453184322,1637190,Pims2027,FR,101105520279075,
 100.0,177.0,Javascript,1700414402482,4031451,pbou,FR,55429746348651,
@@ -49,7 +49,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,191.0,Javascript,1741508218951,1473079,Zylar,US,4875610554885,
 100.0,192.0,Javascript,1680788577208,1228581,Ghouls_only_drink_coffee,SK,13838897360267,
 100.0,192.0,Javascript,1696000638151,1475413,AlucardDH,FR,4898493641535,
-100.0,198.0,Javascript,1769694532078,6790713,[Khoi],VN,159500067704383,
+100.0,198.0,Javascript,1769694532078,6790713,LouisKhoiDino,VN,159500067704383,
 100.0,200.0,Javascript,1684620634880,4438505,Eric_[EGU],FR,158681623409347,
 100.0,200.0,Javascript,1693482934048,1688826,statox,FR,8974250883551,
 100.0,200.0,Javascript,1740613378736,2923506,darkhorse64,FR,23496414257567,

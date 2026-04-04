@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=323|time=2026-04-03T07:01:41
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=323|time=2026-04-04T21:18:39
 4,31.11,Javascript,1619769174202,3525831,3188551,ashelkov,UA,43167721570733,
 4,25.78,Javascript,1584699967288,2708611,1743344,ush189,DE,9680328817159,
 4,22.37,Javascript,1584699999472,2708671,1649376,Kujar,FR,7980653749506,
@@ -189,9 +189,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,26.47,Javascript,1584699323016,2707260,1466846,HugoAzevedo,BR,35132942682612,
 1,26.27,Javascript,1584699411372,2707402,3475390,frenchKiss,DE,,
 1,26.27,Javascript,1584700187574,2709059,3483126,Disparity,RU,34026321771139,
-1,26.12,Javascript,1651348186788,4224073,4373790,Eltrion,CA,65522580652081,
+1,26.14,Javascript,1584699381516,2707360,1193408,DoubleZeroSteph,FR,3015400557516,
 1,26.06,Javascript,1584699895552,2708450,2162373,Zaral,FR,34964329035874,
-1,26.01,Javascript,1584699381516,2707360,1193408,DoubleZeroSteph,FR,3015400557516,
+1,26.04,Javascript,1651348186788,4224073,4373790,Eltrion,CA,65522580652081,
 1,24.73,Javascript,1584699957145,2708581,1527062,dst,AU,34803303136299,
 1,24.24,Javascript,1601304741232,3112426,3342823,Jacki,FR,,
 1,24.21,Javascript,1584699625759,2707858,3462271,Cinzy23,IT,,
@@ -316,7 +316,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,7.47,Javascript,1620825333932,3618824,4315965,Beygs,FR,96385526785656,
 1,3.73,Javascript,1753488917528,5975586,1630012,vinogradnick,RU,25334474434074,
 0,15.96,Javascript,1727861140415,5589230,2336897,Hiskalier,FR,118232649906069,
-0,15.92,Javascript,1683840192760,4822058,5493466,GeovanniRocha,BR,,
+0,15.89,Javascript,1683840192760,4822058,5493466,GeovanniRocha,BR,,
 0,15.87,Javascript,1759494502349,6056693,6867340,UNSEENEcho,IN,,
 0,15.84,Javascript,1726665704059,5578395,5285994,POYSYS_MH,FR,129860906282904,
 0,10.7,Javascript,1676617111384,4742478,4904327,shwe6,IN,,

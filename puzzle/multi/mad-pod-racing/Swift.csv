@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=647|time=2026-04-04T21:18:39
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=647|time=2026-04-05T06:45:36
 6,33.69,Swift,1589567726247,2942741,3815413,Michael_Howard,GB,44719647705818,
 6,33.6,Swift,1706056345669,5295836,1735876,JohannesB,DE,,
 6,26.94,Swift,1658942520283,4407615,3854069,Quid34,FR,,
@@ -8,7 +8,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,31.09,Swift,1655283869283,4323609,4935185,WolferWolfy,CH,85433782930815,
 5,31.07,Swift,1663344960358,4452354,1799761,CapLord,CA,10523305808855,
 5,24.18,Swift,1611879729919,3408642,4057692,Vojta_Molda,US,53698346542210,
-5,21.79,Swift,1599080265270,3082804,3942955,dudio_nl,NL,48907049568996,
+5,21.95,Swift,1599080265270,3082804,3942955,dudio_nl,NL,48907049568996,
 5,9.56,Swift,1548089140873,2226469,2489160,Ayrinn,DE,63549664219075,
 5,9.45,Swift,1528396268884,1877915,2556892,groomy,DE,,
 5,8.87,Swift,1483557456955,911054,1676761,jnoyola,US,,
@@ -169,8 +169,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,-1.01,Swift,1527287443970,1864948,2108420,dia73687,JP,,
 4,-1.02,Swift,1570529267306,2531647,2379637,Hedman,SE,,
 4,-1.06,Swift,1538467570429,2084829,2858014,Mongster,AU,,
-4,-1.07,Swift,1548163786582,2227173,3079422,Ajiejoy,ID,,
 4,-1.12,Swift,1569866558138,2505565,2860242,Max.S,US,21654627762506,
+4,-1.13,Swift,1548163786582,2227173,3079422,Ajiejoy,ID,,
 4,-1.14,Swift,1570529325983,2531666,3119392,thefirestorm,FR,,
 4,-1.16,Swift,1469343663275,599363,1006538,Boldo,US,2062724711203,
 4,-1.18,Swift,1533560073108,2002101,2744897,Gab_Nihill,FR,,
@@ -615,7 +615,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,9.56,Swift,1634748716879,3868601,4514212,AryelSander,BR,,
 1,5.21,Swift,1670699378481,4558993,5078538,Agnies,PL,,
 1,3.54,Swift,1580199040957,2664224,3659722,kaareyes,PH,,
-1,2.71,Swift,1643501374431,3988663,3631226,istcom-cheima,TN,,
+1,2.7,Swift,1643501374431,3988663,3631226,istcom-cheima,TN,,
 1,2.5,Swift,1679361116618,4772722,5403100,D_M0ney,US,,
 1,1.29,Swift,1481749312766,887152,1735004,krusher99,US,,
 1,1.05,Swift,1485443785205,939402,1799719,Azrn,PL,,

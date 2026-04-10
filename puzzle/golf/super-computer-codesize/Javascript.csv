@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=163|time=2026-04-09T05:43:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=163|time=2026-04-10T05:51:20
 100.0,58.0,Javascript,1763142300322,4618693,cedricdd,FR,85418008807758,
 100.0,61.0,Javascript,1764358920739,3235897,Zylo,PL,25779784253696,
 100.0,61.0,Javascript,1767445177836,1399382,Regulus136,FR,4335723819637,
@@ -34,6 +34,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,161.0,Javascript,1690361931690,154806,piwai,FR,1956863959967,
 100.0,165.0,Javascript,1689325809747,5589874,OjPoj,DE,,
 100.0,167.0,Javascript,1698192362719,557990,Wazemo,PL,1724224108740,
+100.0,167.0,Javascript,1775738015892,2998967,Gilde,FR,62190109872577,
 100.0,168.0,Javascript,1731356792264,935744,Alcalyn,FR,12077756999042,
 100.0,172.0,Javascript,1683527568802,5163410,LOKI_78,LU,93367947956362,
 100.0,172.0,Javascript,1699458261746,2990918,Dingodino,FR,23216166624189,
@@ -142,8 +143,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,1188.0,Javascript,1680175240004,4192659,NextThread,IN,142382564516927,
 100.0,1188.0,Javascript,1680175350007,4384104,ivie,PK,65869686572679,
 100.0,1188.0,Javascript,1680175350007,4375111,dodoman,TR,65596803978496,
-100.0,1188.0,Javascript,1680175370006,3399400,MisterFlos,BE,50053224704946,
 100.0,1188.0,Javascript,1680175370006,4251195,Smelty,US,62842162200886,
+100.0,1188.0,Javascript,1680175370006,3399400,MisterFlos,BE,50053224704946,
 100.0,1210.0,Javascript,1680175230004,4770156,maaav,FR,,
 100.0,1230.0,Javascript,1680175230004,3740949,TheCrowOfficial,TN,,
 100.0,1232.0,Javascript,1680175370006,4235670,Tyng22,US,,
@@ -158,7 +159,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,6586.0,Javascript,1680175190006,1171919,BsT,FR,53418822153436,
 87.5,247.0,Javascript,1680175250003,1205108,jval,KZ,73581028678836,
 75.0,281.0,Javascript,1724069684551,5298641,RTJ,FR,97115384435155,
-62.5,1569.0,Javascript,1775681682908,2998967,Gilde,FR,62190109872577,
 37.5,141.0,Javascript,1703139653986,5857777,😳,PH,116774046551570,
 25.0,929.0,Javascript,1739202199966,5186677,mez.ve,FR,,
 12.5,1247.0,Javascript,1730439991961,6304203,jeypi1,PH,130596229755677,

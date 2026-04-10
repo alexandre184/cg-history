@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=172|time=2026-04-09T05:43:11
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=172|time=2026-04-10T05:51:20
 100.0,116.0,Javascript,1762469581371,4618693,cedricdd,FR,85418008807758,
 100.0,116.0,Javascript,1762602666301,1399382,Regulus136,FR,4335723819637,
 100.0,116.0,Javascript,1772623919757,3235897,Zylo,PL,25779784253696,
@@ -21,6 +21,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,197.0,Javascript,1742145175298,1474519,Sny_de_Treves,FR,59444303531011,
 100.0,199.0,Javascript,1744679362752,2536538,Pduhard-,FR,141372882868918,
 100.0,209.0,Javascript,1751444001445,1802967,Meruem,FR,31992166318610,
+100.0,210.0,Javascript,1775791367131,6172043,PetyFloyd,SK,126527665690517,
 100.0,211.0,Javascript,1681991119160,952784,[CG]Simon,FR,15794417868476,
 100.0,212.0,Javascript,1732660725950,558770,lD,FR,7979637651523,
 100.0,216.0,Javascript,1681863208361,948764,Katie,GB,2150180090592,
@@ -30,7 +31,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,230.0,Javascript,1706126347818,1485690,Kikoo,FR,4993649967380,
 100.0,237.0,Javascript,1704620428577,4749616,El0i,FR,85828085921056,
 100.0,238.0,Javascript,1737051002620,6307808,tripleXXX,UA,,
-100.0,238.0,Javascript,1772966594107,6172043,PetyFloyd,SK,126527665690517,
 100.0,240.0,Javascript,1698095344843,953094,Witman,PL,1798239809031,
 100.0,240.0,Javascript,1717553928469,1058911,Sarsaine,FR,3771321470767,
 100.0,240.0,Javascript,1725732956661,6165945,Jihkro,US,126381624283432,
@@ -54,8 +54,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,566.0,Javascript,1680171110006,4177989,hhuuddoo,AU,79664148360862,
 100.0,576.0,Javascript,1680171050007,2778999,glemaire,FR,,
 100.0,601.0,Javascript,1680171170006,4430070,Sylph,FR,67614689368569,
-100.0,607.0,Javascript,1680171150002,3456435,camel-Kebab,DE,33030188260786,
 100.0,607.0,Javascript,1680171150002,4907484,LFabre,PT,104664620606325,
+100.0,607.0,Javascript,1680171150002,3456435,camel-Kebab,DE,33030188260786,
 100.0,627.0,Javascript,1680171050007,4119534,owloff,IE,,
 100.0,649.0,Javascript,1680171220002,4594914,NeoJex,US,73130362774183,
 100.0,658.0,Javascript,1680171110006,4953074,jwpapi,DE,85905306926845,

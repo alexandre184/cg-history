@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2774|time=2026-04-14T05:53:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2776|time=2026-04-15T05:53:32
 100.0,73.0,Ruby,1745017899320,2536538,Pduhard-,FR,141372882868918,
 100.0,73.0,Perl,1764102808469,4438505,Eric_[EGU],FR,158681623409347,
 100.0,74.0,Perl,1694366607941,2928146,LolCat,MU,22538133010433,
@@ -744,6 +744,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,184.0,C++,1738062191430,4897576,GSpryszynski,PL,105788129732450,
 100.0,184.0,Python3,1743041681404,4575817,mrmnrd,FR,72462144460567,
 100.0,184.0,C,1763496605973,973040,papyjo,FR,15696776172839,
+100.0,184.0,Python3,1776185561832,7221704,hieuvn204,VN,,
 100.0,185.0,Javascript,1681399828894,948764,Katie,GB,2150180090592,
 100.0,185.0,Javascript,1686497846385,4819330,rocambille,FR,143878445142147,
 100.0,185.0,Python3,1701552244541,4145671,frereit,DE,,
@@ -937,7 +938,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,216.0,Javascript,1683791630327,4785778,Pharallaxe,FR,80756163394679,
 100.0,216.0,Python3,1690415622400,5594552,arlequ1,FR,,
 100.0,216.0,C++,1712327073797,1545901,bartlo,FR,,
-100.0,216.0,Python3,1721520579094,4390912,Benoit_Belasco,FR,66164966281827,
+100.0,216.0,Python3,1721520579094,4390912,Benoit_Belasco,FR,160609725483372,
 100.0,216.0,C,1770663648999,6350218,celeria,FR,133470886510046,
 100.0,217.0,Python3,1682088031439,4083906,tonigineer,DE,116683604285288,
 100.0,217.0,C,1687787898933,4537924,ArtesScytale,BE,121331549433012,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,232.0,Python3,1689075337101,4564633,l0p3c,CO,72214945671629,
 100.0,232.0,Lua,1751617294149,1436049,Anoyakh,FR,147628228280240,
 100.0,233.0,Python3,1680796377129,2166104,LokiaAconit,FR,100515707097461,
-100.0,233.0,PHP,1680804308581,334009,abouvier,FR,4681436111242,

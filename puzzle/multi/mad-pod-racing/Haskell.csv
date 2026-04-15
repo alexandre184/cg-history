@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=243|time=2026-04-14T05:53:31
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=243|time=2026-04-15T05:53:32
 6,38.68,Haskell,1665368051473,4486437,5114798,np.binh,VN,,
 6,38.29,Haskell,1665143752282,4483767,5107677,lingcoding,VN,,
 6,37.53,Haskell,1591261783563,3002994,2491651,Nedog,TW,17474883264870,
@@ -78,9 +78,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,14.2,Haskell,1542753026332,2135530,556509,Rhitakorrr,US,23319900978401,
 4,14.13,Haskell,1471676465028,633206,1456272,MoRFey,UA,,
 4,14.11,Haskell,1525353910245,1840718,2186675,SaxJ,AU,19154796586811,
+4,14.1,Haskell,1570529105876,2531591,2350313,thrucker,DE,,
 4,14.08,Haskell,1627329667668,3767284,4436495,Morendil_fr,FR,67820421029576,
 4,14.07,Haskell,1545068179042,2188326,1790088,bobbee,CA,,
-4,13.94,Haskell,1570529105876,2531591,2350313,thrucker,DE,,
 4,13.91,Haskell,1627225231652,3765616,4269378,Budget-Panda,FR,61684841409344,
 4,13.83,Haskell,1663627521720,4456169,1246990,PouletArdent,FR,,
 4,13.79,Haskell,1596756799236,3056116,1972793,Mdx,FR,,
@@ -208,7 +208,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,-14.72,Haskell,1474531586461,686108,1550838,Lysergia,US,,
 2,20.29,Haskell,1503936643280,1436578,2150572,Anka213,SE,,
 2,19.12,Haskell,1575125421217,2614774,3585554,bara,DE,37601947371895,
-2,18.42,Haskell,1471509065971,630747,1517833,gjgfuj,AU,,
+2,18.38,Haskell,1471509065971,630747,1517833,gjgfuj,AU,,
 2,16.24,Haskell,1746284122507,5852726,6626711,PseudoSeudo,FR,,
 2,16.24,Haskell,1494261810074,1227478,1984597,Pouletot,FR,,
 2,15.61,Haskell,1641418280592,3961339,4680081,Renegatto,BY,,

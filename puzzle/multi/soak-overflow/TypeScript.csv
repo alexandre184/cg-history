@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=146|time=2026-04-16T05:54:08
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=146|time=2026-04-17T05:56:42
 7,18.41,TypeScript,1756260497203,6022999,1064903,Ghirtor,FR,147647800771616,
 7,18.4,TypeScript,1774371998539,6353770,2373953,Dridriun,FR,64609504937617,
 7,18.06,TypeScript,1756762180232,6028224,5424338,SheepyBullet,FR,105688123260482,
@@ -93,6 +93,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,3.31,TypeScript,1753890850816,5997401,5301256,DaveL95,IT,,
 2,3.31,TypeScript,1753968001170,5998415,962021,DJMcTom,GB,,
 2,3.31,TypeScript,1753714956877,5992234,5385372,Gen_42,MG,142367007934339,
+2,3.3,TypeScript,1776320979132,6394710,7220966,padawanSparky,BE,,
 2,3.28,TypeScript,1753715608938,5994209,4061394,Sheytoon,PL,125885083688443,
 2,3.26,TypeScript,1753715163328,5992832,688739,TiboW,FR,7450361053973,
 2,3.25,TypeScript,1753714752003,5991661,6413551,PAxwelista,FR,136015222379451,
@@ -135,7 +136,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,2.14,TypeScript,1753715216718,5992992,6744460,migugar2,ES,147513021099855,
 1,2.09,TypeScript,1753715687294,5994448,2457100,Sjlawton,US,,
 1,2.08,TypeScript,1753714972892,5992290,5934578,littleBot,US,147880405135793,
-1,2.04,TypeScript,1776098037067,6390355,7220966,padawanSparky,BE,,
 1,2.0,TypeScript,1753715849913,5994922,1326773,Koegas,FR,9923151531324,
 1,1.94,TypeScript,1753714673466,5991431,4926227,j12345678910,AU,84932588358918,
 1,1.91,TypeScript,1753715751798,5994649,3806860,ppegoretti,BR,,

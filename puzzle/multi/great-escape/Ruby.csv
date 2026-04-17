@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=64|time=2026-04-16T05:54:08
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=64|time=2026-04-17T05:56:42
 5,22.62,Ruby,1486586593947,960078,154408,Pollo_loco,FR,61963962536348,
 4,25.23,Ruby,1485977490325,946320,544285,Vhaeraun,FR,,
 4,23.57,Ruby,1496866503279,1317305,811323,pacso,GB,,
@@ -37,7 +37,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,19.05,Ruby,1484822474209,927810,389277,gustavovnicius,SE,4471357061985,
 2,18.69,Ruby,1424366617732,294525,838778,shingara,FR,82706905059285,
 2,18.55,Ruby,1499836641009,1392867,1988531,MarcL,TH,13369149973558,
-2,17.9,Ruby,1495329593601,1286735,2007196,kukicola,PL,,
+2,17.99,Ruby,1495329593601,1286735,2007196,kukicola,PL,,
 2,17.71,Ruby,1498153222569,1331763,2058925,kkodev,GB,13204297596414,
 2,15.77,Ruby,1486655558181,961768,818470,shu_,JP,,
 2,15.76,Ruby,1485869067156,944731,478664,kmar,RU,,
@@ -62,4 +62,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,5.12,Ruby,1493870161617,1222174,1781128,tomsoft1,FR,10668232865918,
 1,4.44,Ruby,1768558945825,6208315,1840946,zazaboon,JP,13380112545351,
 0,22.16,Ruby,1733837887123,5645325,2090090,agios,GR,20220043281032,
-0,21.41,Ruby,1444144840474,338656,1014658,ZZzzZZ,SE,,
+0,21.35,Ruby,1444144840474,338656,1014658,ZZzzZZ,SE,,

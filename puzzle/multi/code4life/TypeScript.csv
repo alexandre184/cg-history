@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=112|time=2026-04-21T05:55:57
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=112|time=2026-04-22T05:53:47
 5,23.23,TypeScript,1600618014220,3103233,3918583,mikmak,FR,48134583112917,
 4,22.22,TypeScript,1652550851301,4285438,2215572,Patoumpalou,FR,82933740247767,
 4,21.97,TypeScript,1698256361650,5087243,5763839,Minorusama,FR,,
@@ -76,7 +76,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,11.19,TypeScript,1650544908163,4083300,1045753,Zimmy,FR,116745044183683,
 2,11.08,TypeScript,1621774748191,3682897,3820320,TranHanMinh,VN,83146163227680,
 2,11.07,TypeScript,1746812244249,5858784,6629253,Kawun,AT,,
-2,10.86,TypeScript,1683634076312,4819121,1960130,Romain Saclier,FR,114807020982995,
+2,10.96,TypeScript,1683634076312,4819121,1960130,Romain Saclier,FR,114807020982995,
 2,9.04,TypeScript,1761690348191,6078256,4572280,Joyos,SE,72298704509932,
 2,8.62,TypeScript,1593109450182,3023053,3849836,eastolfi,ES,,
 2,7.19,TypeScript,1642098388298,3969771,4327603,soheil555,US,95786581349435,
@@ -89,6 +89,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,14.32,TypeScript,1621792586183,3683318,4215641,Andraaal,AT,,
 1,14.32,TypeScript,1758033918186,6042164,6840052,TypescriptMFT,SE,,
 1,14.32,TypeScript,1637525766208,3903712,2544223,thollander,FR,73411929281248,
+1,14.3,TypeScript,1730910064227,5615696,1079305,farhan.yh,ID,,
 1,14.3,TypeScript,1709734766180,5334017,5021346,funtuan,TW,88552567941031,
 1,14.29,TypeScript,1750855122170,5900958,5673859,MehdiMascret,FR,151141502324339,
 1,14.29,TypeScript,1748169553540,5871282,6410927,marjo90rie,FR,136113767022056,
@@ -97,7 +98,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,14.29,TypeScript,1709419748172,5331227,1055089,markoni,RS,20207748180913,
 1,14.29,TypeScript,1751037196197,5902806,2217117,AjeetGoyal,IN,143359781197591,
 1,14.29,TypeScript,1613649002247,3433474,4186431,K1000x2,BE,59260584264595,
-1,14.29,TypeScript,1730910064227,5615696,1079305,farhan.yh,ID,,
 1,14.28,TypeScript,1728541670497,5594731,6285988,Lila24,FR,,
 1,14.28,TypeScript,1642460280197,3974551,4121594,enapah,SE,,
 1,14.28,TypeScript,1686139586814,4961511,5539908,steamed_eggeggegg,TW,106185581204485,

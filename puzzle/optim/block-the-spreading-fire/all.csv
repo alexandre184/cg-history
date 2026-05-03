@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=777|time=2026-05-02T05:59:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=779|time=2026-05-03T06:19:20
 100.0,62940.0,C++,1670574889279,2077805,bamilan,HU,,
 100.0,62940.0,Rust,1682778088427,2288263,dbdr,UA,43448306132121,
 100.0,62940.0,C++,1737489069193,4063805,viewlagoon,JP,106899386459507,
@@ -398,6 +398,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,6640.0,Python3,1741794727543,6532677,Thibault_Belgique,BE,,
 100.0,6600.0,Python3,1656607611875,4704154,unsinn,DE,,
 100.0,6580.0,Python3,1720787029213,3978506,Bibliophage,GB,,
+100.0,6503.0,Ruby,1777748591603,4709468,TheMity,MG,116121669763536,
 100.0,6400.0,Java,1656844181024,4427323,DrSzuriad,PL,86819623905732,
 100.0,6400.0,Python3,1657289784981,3555728,KVNMDS,FR,147525929764044,
 100.0,6400.0,Python3,1777563588723,1270864,Yli_ia,FR,161185146871120,
@@ -488,7 +489,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,0.0,Javascript,1656496441153,231975,Remoh69,FR,26225610924969,
 100.0,0.0,TypeScript,1656497338946,4971342,Nick909,US,,
 100.0,0.0,Javascript,1656501875762,4301500,WajahatAhmad,FR,,
-100.0,0.0,Python3,1656502755086,4665541,mbel-bas,MA,84455244565025,
+100.0,0.0,Python3,1656502755086,4665541,dauntless001,MA,84455244565025,
 100.0,0.0,Javascript,1656503443299,4535520,BuckMcCoy,FR,86815041202946,
 100.0,0.0,Python3,1656504908349,4924073,AstaWisdom,DK,84824567246016,
 100.0,0.0,Python3,1656505420653,4961256,ILIKENUGGETPORN,GB,,
@@ -776,3 +777,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,0.0,Go,1775928842934,7217611,whoppertripplebigmac,US,160503644138097,
 100.0,0.0,Go,1776217093026,7223510,Yuzo344,CA,,
 100.0,0.0,Groovy,1776384111623,7219763,HRJAVA,IN,160684920783824,
+100.0,0.0,C,1777706352080,7269282,a-b-c-d-,IN,,

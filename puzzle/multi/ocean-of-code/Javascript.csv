@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=204|time=2026-05-04T06:31:48
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=204|time=2026-05-05T06:08:08
 4,25.47,Javascript,1587752191304,2832785,1414873,Volcomix,FR,9274241205710,
 4,23.77,Javascript,1757725434339,6038970,4782227,ArgoZ,FR,159082020755608,
 4,23.37,Javascript,1587394333565,2824950,1201796,P.Greze,FR,3522907180370,
@@ -89,8 +89,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,10.48,Javascript,1632151434429,3835884,4514322,Paisti,FI,,
 2,10.36,Javascript,1587394371106,2824989,3761635,Serzhs,LV,42673984214222,
 2,6.23,Javascript,1587392291564,2823235,1703069,Lordkodo,FR,,
-1,23.49,Javascript,1590930424524,2998977,3784062,ScorpioneOrzion,NL,,
 1,23.46,Javascript,1587392729129,2823615,746567,Sngv,EG,3735372031350,
+1,23.45,Javascript,1590930424524,2998977,3784062,ScorpioneOrzion,NL,,
 1,23.42,Javascript,1587392507965,2823416,276480,Karang,FR,10618014804519,
 1,22.83,Javascript,1587841410340,2834287,1452027,Therru,FR,43324124920968,
 1,22.58,Javascript,1665616090962,4490234,4547541,Gheeks,FR,122528067715693,
@@ -128,9 +128,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,17.5,Javascript,1587393594417,2824383,2769287,arckeos,FR,,
 1,17.45,Javascript,1646217838263,4019607,1913474,Hajalae,FR,79567944632595,
 1,17.44,Javascript,1619735132777,3525349,3390714,Voynich,CH,,
-1,17.35,Javascript,1587394531593,2825092,3751400,SlavicWaffles,GB,,
 1,17.35,Javascript,1635774196815,3881875,2422378,C2H5OH,UA,19226708700974,
 1,17.35,Javascript,1655375153086,4324777,4929896,bidulpik,FR,84969982091485,
+1,17.33,Javascript,1587394531593,2825092,3751400,SlavicWaffles,GB,,
 1,17.25,Javascript,1587393229241,2824151,994034,Jazzcript,TR,2157829775470,
 1,17.04,Javascript,1587392199446,2823111,3467042,NiceGraphic,DE,,
 1,16.85,Javascript,1762879832843,6090870,6917229,XxGhxstiexX,US,161300485497287,

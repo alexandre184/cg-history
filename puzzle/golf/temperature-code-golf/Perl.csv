@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=450|time=2026-05-05T06:08:08
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=450|time=2026-05-06T06:22:47
 100.0,29.0,Perl,1583420340367,1537792,AsaiYusuke,US,41785380851985,
 100.0,29.0,Perl,1586307156373,334009,abouvier,FR,4681436111242,
 100.0,29.0,Perl,1688507097675,2315623,Lydxn,CA,,
@@ -200,7 +200,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,57.0,Perl,1748783322727,939866,TelePario,AT,1759963440277,
 100.0,57.0,Perl,1752353440798,2540969,_romanchick_,BY,,
 100.0,57.0,Perl,1755767109408,6041535,alien_3,IN,128355168912965,
-100.0,57.0,Perl,1769422010121,7062511,unok,ES,160176683714416,
+100.0,57.0,Perl,1769422010121,7062511,unok,TH,160176683714416,
 100.0,58.0,Perl,1455620563848,1237521,grumpy_nerd,DE,,
 100.0,58.0,Perl,1474583980743,1548666,goblin,PL,6759806456781,
 100.0,58.0,Perl,1475148948295,1596751,RatTub,CA,6722861257385,
@@ -317,6 +317,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,87.0,Perl,1484575739371,1707979,Epiliptik,FR,,
 100.0,87.0,Perl,1627492699921,4120837,hannahlenk,DE,153490048434760,
 100.0,87.0,Perl,1680231561704,5231793,Erokh,FR,,
+100.0,87.0,Perl,1778015778256,3184049,ghhttt,FR,,
 100.0,88.0,Perl,1484666309529,1771912,Drolow,FR,,
 100.0,88.0,Perl,1767041184167,4725005,HookWood_,FR,155198309327239,
 100.0,89.0,Perl,1708597076712,4389921,endsdoor,FR,119631003818033,
@@ -390,7 +391,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,204.0,Perl,1513889320582,891648,boechiel,FR,2321504736034,
 100.0,207.0,Perl,1589706136300,1383054,Oxame,FR,42663626283860,
 100.0,207.0,Perl,1749930285327,4785778,Pharallaxe,FR,80756163394679,
-100.0,214.0,Perl,1648298454333,3184049,ghhttt,FR,,
 100.0,215.0,Perl,1526584834399,1029602,Potemkine,FR,3592202416352,
 100.0,220.0,Perl,1536242731453,2181022,Ln_3,FR,14371745118973,
 100.0,221.0,Perl,1614697011018,2078184,jz4o,JP,,

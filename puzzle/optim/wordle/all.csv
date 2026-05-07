@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-05-06T06:22:47
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-05-07T06:27:51
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -197,6 +197,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,180.0,Python3,1764874459688,992329,BeeGee,NL,5817423526804,
 100.0,180.0,Python3,1769771003264,6941171,TheCoderDeyi,CN,154632946717819,
 100.0,180.0,C++,1774470789195,2581440,Shadow25,CA,,
+100.0,180.0,C#,1778095262038,1544445,Jinxey,PL,106514347577813,
 100.0,181.0,Python3,1685104700547,3809274,PB1,RU,,
 100.0,181.0,TypeScript,1692380373315,3559724,dan_the_bloke,GB,,
 100.0,181.0,C#,1700938158033,5751040,palio,SK,,
@@ -420,6 +421,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,194.0,PHP,1734470105870,5896696,Badurit Sko,FR,117606284311229,
 100.0,194.0,Java,1746528775532,2797964,BorisH,DE,37240041929598,
 100.0,194.0,Kotlin,1749141380946,6316590,UOBW,US,138281089874129,
+100.0,194.0,C++,1778095373954,3904540,Queuebee,NL,46905060497858,
 100.0,195.0,Python3,1681725520257,5365556,kanelugodeu,FR,,
 100.0,195.0,Java,1681904502715,4323412,LeProblemeEDMN,FR,63917906889872,
 100.0,195.0,Java,1684509107246,3214641,Neicul,FR,25566448504624,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,509.0,Python3,1705145291028,5801810,SilverKellvin,VN,,
 100.0,510.0,Python3,1697326020580,5161370,YanisD,FR,112161300763924,
 100.0,516.0,Python3,1681743592683,3971835,InternalErrror,DE,50034967625688,
-100.0,518.0,C++,1709852799930,5989258,AbdulMajith,FR,121490268349125,
-100.0,518.0,Java,1714241591391,5573599,Allanlegrand,FR,,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=132|time=2026-05-10T06:26:46
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=132|time=2026-05-11T06:56:43
 5,34.51,Pascal,1578637596894,2645738,3629215,Kayode,US,,
 5,28.07,Pascal,1645898962513,4015388,4718620,Hieronymus,DE,77855568768142,
 5,1.74,Pascal,1678650277366,4764310,1650736,platzwart,DE,,
@@ -67,7 +67,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,11.56,Pascal,1765895988539,6161266,3995451,peter_sinclair,PL,,
 4,11.53,Pascal,1765870677332,6161050,3296556,Endlinee,UA,26427848827142,
 4,11.49,Pascal,1524325839724,1788231,1510272,letangphuquy,VN,10003687153059,
-4,11.08,Pascal,1771527499092,6262564,2227641,Viyand,DE,,
+4,11.03,Pascal,1771527499092,6262564,2227641,Viyand,DE,,
 4,10.43,Pascal,1777391307320,6414070,4705031,6lv1,FR,77426463192465,
 4,4.13,Pascal,1567494486221,2480844,3454349,nnkut,RU,33499902017658,
 3,15.78,Pascal,1485437331887,939270,1783449,cptdeka,ID,19350846217210,
@@ -122,10 +122,10 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,0.75,Pascal,1526666593813,1856252,2622344,BlackIce,DE,,
 1,15.46,Pascal,1467750832256,573479,1486709,HOffen,DE,,
 1,15.25,Pascal,1543870982225,2148366,3020605,AstroFest-2018-Mariana-Zhuk,UA,23633797203163,
-1,9.87,Pascal,1463754962270,466130,1444913,Vladimir_storm,RU,,
+1,9.86,Pascal,1463754962270,466130,1444913,Vladimir_storm,RU,,
 1,9.86,Pascal,1676220172161,4737818,5332467,GsmesGame,RU,98467622034574,
+1,9.74,Pascal,1722594223813,5546590,6018822,Babaikafriend1983,RU,,
 1,9.68,Pascal,1722596492748,5546603,5959599,Babaika1983,RU,,
-1,9.63,Pascal,1722594223813,5546590,6018822,Babaikafriend1983,RU,,
 1,9.61,Pascal,1512382542494,1581222,2352967,TEO999,CN,,
 1,1.16,Pascal,1519321811721,1667672,2475993,Smille.Cool,RU,17282235681993,
 1,0.9,Pascal,1512382327992,1581217,2352952,petpolmolodez,UA,,

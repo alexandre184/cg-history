@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-05-11T06:56:43
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-05-12T06:29:40
 100.0,178000.0,C++,1777881614472,3523247,alexcercos,ES,36269364412881,
 100.0,174876.0,C++,1721616860761,3354337,Westicles,CX,79146641399080,
 100.0,170312.0,C++,1744825053861,2077805,bamilan,HU,,
@@ -210,6 +210,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,44662.0,C,1775234081146,2478979,VladRaven,UA,17314803689291,
 100.0,43800.0,C#,1628234921400,4053362,Johan_Braanen,NO,55004560718803,
 100.0,43415.0,Go,1706267567320,4159245,Karhuttaja,FI,58154388049573,
+100.0,43132.0,C#,1778521397839,1860018,franklbt,FR,120386124278498,
 100.0,42986.0,Go,1617463326985,1952778,blast_beat,US,75539748345771,
 100.0,42984.0,Python3,1647086389657,4755109,casadd,RU,,
 100.0,42122.0,Python3,1727605919800,6300334,,RU,,
@@ -579,6 +580,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,9902.0,C#,1761155980410,6765503,borb3,ES,,
 100.0,9902.0,F#,1770287314597,6675266,hichemjadlaoui,TN,145361603180131,
 100.0,9902.0,Python3,1772396920517,3160673,blaztoma,LT,158619982938064,
+100.0,9902.0,Go,1778495198435,6688306,anon24601,DE,,
 100.0,9878.0,Java,1658846793555,4336521,fheerde,DE,,
 100.0,9878.0,Python3,1689263727708,4922556,dzshanno,GB,84713825828523,
 100.0,9859.0,Python3,1689353440464,849746,lmj,MA,,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,20.0,Python3,1600700606823,3961629,Doniface,TW,49680265361988,
 0.0,20.0,C#,1600747658237,834950,XilasZ,FR,14988040942139,
 0.0,20.0,Python3,1600785029482,3939430,AdLib,DE,48857601311359,
-0.0,20.0,Python3,1600889129592,3884117,Valutcizen,PL,46520381637104,
-0.0,20.0,PHP,1600969063009,3975030,tiboitel,FR,50642505712362,

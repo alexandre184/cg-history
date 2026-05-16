@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=587|time=2026-05-15T06:48:28
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=587|time=2026-05-16T06:14:05
 5,33.96,Javascript,1651729487703,4265920,4863188,kouin,CA,82597487919104,
 5,30.02,Javascript,1651740737170,4266490,4779944,GlaceCoding,FR,155126907950388,
 5,27.0,Javascript,1651753161960,4268396,4315982,ttranche,FR,125104608018671,
@@ -379,7 +379,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,18.72,Javascript,1651673468459,4261729,3310420,SebastianK,PL,52920769396334,
 2,18.7,Javascript,1669666216363,4544412,3645680,LaReponseDev,FR,39475206901998,
 2,18.63,Javascript,1651673704197,4262218,1211739,Shaynn-,FR,82305389873876,
-2,18.6,Javascript,1651673538453,4261878,4781442,FoggyGlasses,SE,79962623010976,
+2,18.53,Javascript,1651673538453,4261878,4781442,FoggyGlasses,SE,79962623010976,
 2,18.49,Javascript,1651673779063,4262395,4854409,Eisehorn,IT,,
 2,18.28,Javascript,1751990654635,5912888,6099036,X_Koin,NL,,
 2,17.99,Javascript,1651672246254,4259639,1238923,Key,FR,8651781165575,
@@ -402,8 +402,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,16.54,Javascript,1651674030214,4262972,3420231,WillFlame,CA,31622965346718,
 2,16.33,Javascript,1651674612877,4264171,3208937,trainzug,DE,113417220688849,
 2,16.31,Javascript,1651671675270,4258370,4868388,SirTwoface,DE,,
-2,16.2,Javascript,1651672518625,4260132,2430741,Faust1,FR,,
 2,16.18,Javascript,1651673670326,4262154,4853742,KManiKumarReddy,IN,82745503468111,
+2,16.13,Javascript,1651672518625,4260132,2430741,Faust1,FR,,
 2,16.05,Javascript,1689881472423,5008632,4646117,fwax,FR,74792366421850,
 2,16.0,Javascript,1651673471377,4261742,1932031,Briossant,FR,120635622388910,
 2,15.84,Javascript,1651672763425,4260589,2065134,Dirkpitt,PL,108012447406826,
@@ -545,7 +545,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,7.84,Javascript,1651717088939,4265775,976999,Munzuk,FR,2066674126132,
 1,7.81,Javascript,1666738456285,4507798,2907497,Rawnii,CA,22153585423738,
 1,7.8,Javascript,1704150342444,5218631,5860864,throws exception,DK,,
-1,7.79,Javascript,1651674266925,4263437,4855092,breezeless,MA,,
+1,7.77,Javascript,1651674266925,4263437,4855092,breezeless,MA,,
 1,7.73,Javascript,1651672301621,4259747,4862268,Tuan12134,VN,,
 1,7.58,Javascript,1651672196266,4259518,4175442,Thomas.c.h,FR,82559520392395,
 1,7.51,Javascript,1651741082509,4267253,4853814,NoAskNobody,FR,,

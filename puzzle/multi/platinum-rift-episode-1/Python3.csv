@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=396|time=2026-05-17T06:37:40
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=396|time=2026-05-18T07:52:18
 5,26.7,Python3,1517426704371,1643856,224676,Jin66,FR,10914664960606,
 5,26.63,Python3,1517419505853,1643696,610994,Stan...,FR,1778430645286,
 5,26.51,Python3,1519952368068,1676486,2457325,Darian4,FR,,
@@ -302,7 +302,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,21.86,Python3,1523660623148,1772592,500534,d.n.s,RU,6964048625321,
 2,21.74,Python3,1743178872902,5823267,6557778,[CG]Gemini-Python,FR,140576741211063,
 2,21.53,Python3,1743018276013,5820743,6557771,[CG]Llama3.8b-Python,FR,140576741211063,
-2,21.49,Python3,1758551948388,6047242,3737269,htprogras,MA,51086601409565,
+2,21.49,Python3,1758551948388,6047242,3737269,taissir,MA,51086601409565,
 2,21.32,Python3,1742567344771,5814408,6557757,[CG]OpenAIGPT4o-Python,FR,140576741211063,
 2,20.29,Python3,1742895213326,5818623,6557765,[CG]Claude3.7Sonnet-Python,FR,140576741211063,
 2,19.38,Python3,1743019005503,5820823,6568592,[CG]MistralCodestral-Python,FR,141768480670065,

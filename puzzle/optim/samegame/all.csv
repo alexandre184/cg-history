@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-05-20T07:33:07
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-05-21T07:38:52
 100.0,178000.0,C++,1777881614472,3523247,alexcercos,ES,36269364412881,
 100.0,174876.0,C++,1721616860761,3354337,Westicles,CX,79146641399080,
 100.0,170312.0,C++,1744825053861,2077805,bamilan,HU,,
@@ -161,6 +161,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,52927.0,C++,1608670966425,1489865,EricSMSO,FR,10005277870281,
 100.0,52659.0,Python3,1727605059826,6295680,VitalyKazantsev,RU,,
 100.0,52582.0,Python3,1727606685602,6297186,,RU,,
+100.0,52222.0,Python3,1779341541582,7176104,yanruo,CN,,
 100.0,52108.0,Java,1598367504578,414278,oobException,FR,4595241889335,
 100.0,52099.0,Python3,1649945037219,4807984,fatizh,RU,,
 100.0,51884.0,Python3,1727606625671,6297089,,RU,,
@@ -970,6 +971,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,470.0,PHP,1751884412330,6729805,BeOne69,MG,,
 0.0,470.0,Python3,1757421768354,6699295,herobrine12,GB,146310566339400,
 0.0,470.0,Python3,1765833741947,6985575,monkeygm,US,,
+0.0,470.0,C++,1779298727259,7297458,,US,,
+0.0,470.0,Clojure,1779298751352,7297461,,US,,
 0.0,437.0,Java,1601041263869,3475739,Ysp,FR,,
 0.0,436.0,Python3,1643440762132,4718111,,RU,,
 0.0,400.0,Python3,1601111034674,3741002,ichbinsmith,FR,42117668118696,
@@ -996,6 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,20.0,C,1597248131954,3787419,Thyl,FR,44847420172903,
 0.0,20.0,Java,1597442243315,1372349,NinjaDoggy,US,5338452207730,
 0.0,20.0,Lua,1600693957823,3490977,LuaCoder,US,50370087591351,
-0.0,20.0,Python3,1600700606823,3961629,Doniface,TW,49680265361988,
-0.0,20.0,C#,1600747658237,834950,XilasZ,FR,14988040942139,
-0.0,20.0,Python3,1600785029482,3939430,AdLib,DE,48857601311359,

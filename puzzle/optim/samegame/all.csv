@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-06-05T07:57:13
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-06-06T06:44:39
 100.0,178000.0,C++,1777881614472,3523247,alexcercos,ES,36269364412881,
 100.0,174876.0,C++,1721616860761,3354337,Westicles,CX,79146641399080,
 100.0,170312.0,C++,1744825053861,2077805,bamilan,HU,,
@@ -433,6 +433,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,21162.0,Python3,1727523481628,6297181,Alinathebestprogrammerintheworld,RU,,
 100.0,21102.0,Python3,1666200695468,4946800,Vincent-T,FR,91044263967013,
 100.0,21068.0,Python3,1617882194846,1480426,Hikari42,FR,26186426461576,
+100.0,21054.0,C,1780666339813,3767065,lxnn,GB,63488305618763,
 100.0,21006.0,Haskell,1630855428225,512097,Stilgart,FR,69893904259383,
 100.0,20937.0,Javascript,1630757440193,1525816,Flodnes,NO,5656265985683,
 100.0,20843.0,Python3,1770483235694,3803540,TheCodeWitcher,FR,43970608022255,
@@ -811,6 +812,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,7456.0,C++,1691547512051,5555669,Elmdra,US,106929723204508,
 100.0,7456.0,Java,1704752190783,1244959,Cahetel,FR,,
 100.0,7456.0,Python3,1721914210010,5223106,takkatao,JP,105483622777321,
+100.0,7456.0,Java,1780701271838,2455616,JeanClaude44,FR,17042314996810,
 100.0,7434.0,Swift,1600977080149,1566990,Elsu,IE,7714002003151,
 100.0,7430.0,Python3,1625839590975,4134943,vinc-r,FR,57340707535268,
 100.0,7428.0,PHP,1647531030635,1896959,helmegior,FR,,
@@ -978,7 +980,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,470.0,Python3,1765833741947,6985575,monkeygm,US,,
 0.0,470.0,C++,1779298727259,7297458,,US,,
 0.0,470.0,Clojure,1779298751352,7297461,,US,,
-0.0,470.0,Java,1779927317175,2455616,JeanClaude44,FR,17042314996810,
 0.0,437.0,Java,1601041263869,3475739,Ysp,FR,,
 0.0,436.0,Python3,1643440762132,4718111,,RU,,
 0.0,400.0,Python3,1601111034674,3741002,ichbinsmith,FR,42117668118696,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,176.0,Python3,1601052185778,3440767,oscar0urselli,IT,38722041632495,
 0.0,140.0,Python3,1643437600259,4714551,Makaay,RU,77754129759994,
 0.0,104.0,C++,1600871301393,3957369,G_ot_82,FR,107330085798553,
-0.0,99.0,TypeScript,1602532446206,4008312,,NL,,

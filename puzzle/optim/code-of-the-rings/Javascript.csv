@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=754|time=2026-06-08T08:42:02
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=755|time=2026-06-09T07:35:02
 100.0,3189.0,Javascript,1466443018153,805067,Magus,FR,24623991925371,
 100.0,3504.0,Javascript,1435823829118,172938,kuzmaka,UA,1842478040420,
 100.0,3575.0,Javascript,1617562921903,3700629,serialgg,FR,41086567019728,
@@ -8,6 +8,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,3682.0,Javascript,1703606002828,1839941,Just4FunCoder,MY,80969549924201,
 100.0,3746.0,Javascript,1621405775355,1782005,AlexW,FR,47883185026219,
 100.0,3760.0,Javascript,1726073892247,740424,vmeurisse,FR,2106597540539,
+100.0,3802.0,Javascript,1780990496092,5298641,RTJ,FR,97115384435155,
 100.0,3807.0,Javascript,1630531088309,1441239,PiDayDev,IT,71707560017158,
 100.0,3809.0,Javascript,1527160920403,1675034,francois,FR,15464459859531,
 100.0,3875.0,Javascript,1436011816231,937362,josh_,FR,1755973612089,
@@ -19,7 +20,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,4125.0,Javascript,1485615712779,1793238,Thats_nick,RU,,
 100.0,4200.0,Javascript,1654063584876,1420817,TheMagicShop,FR,4468522326390,
 100.0,4308.0,Javascript,1459270259056,1365819,FLBoy,RU,12760644561987,
-100.0,4345.0,Javascript,1780738823432,5298641,RTJ,FR,97115384435155,
 100.0,4347.0,Javascript,1491126006244,1096201,Maksimov,BG,4002802060588,
 100.0,4389.0,Javascript,1454103135347,552776,player_one,US,52487021619351,
 100.0,4407.0,Javascript,1481988888238,1179357,avdg,BE,28437229401065,
@@ -753,3 +753,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,0.0,Javascript,1758795705193,6855030,gojo248,QA,,
 0.0,0.0,Javascript,1759312374268,6864120,snogbag,JP,,
 0.0,0.0,Javascript,1780795337707,7324593,,BR,,
+0.0,0.0,Javascript,1780966157402,7187186,legendhand,CA,,

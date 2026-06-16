@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2097|time=2026-06-15T09:49:36
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=2096|time=2026-06-16T09:13:14
 ,46.18,C++,1539035001758,2090524,1400179,reCurse,CA,58850847098890,
 ,45.14,C++,1556085762517,2339355,1629259,Marchete,ES,61997162908277,
 ,44.85,Rust,1560201040475,2418174,2288263,dbdr,UA,43448306132121,
@@ -244,7 +244,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,28.63,Haskell,1422232608153,249468,597121,scarecrow,US,,
 ,28.62,C++,1635615247798,3880025,793412,startux,IN,,
 ,28.62,Perl,1421167259696,257786,598106,Dosfinmar,FR,34963443121935,
-,28.6,Python3,1698764181529,5092582,5706817,BenBreaksThings,US,111672965282698,
 ,28.6,C++,1422275933520,249590,596778,Schrome,FR,,
 ,28.6,C++,1591698363538,3008321,3816933,untan,JP,,
 ,28.58,Python3,1640722904648,3953524,1904803,Martijnjvdd,NL,,
@@ -999,3 +998,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,18.98,Kotlin,1685019381143,4834810,3304487,Rowden,FR,,
 ,18.97,Java,1582718939169,2688271,1914730,LumpyTheGreat,HU,11884148281471,
 ,18.94,Java,1505312146192,1450902,2173088,uzytkownik,PL,,
+,18.94,Java,1459689968286,414515,1371345,Lamardechois,FR,5526536223967,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=133|time=2026-06-23T07:36:19
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=133|time=2026-06-24T07:29:48
 5,34.33,Pascal,1578637596894,2645738,3629215,Kayode,US,,
 5,27.87,Pascal,1645898962513,4015388,4718620,Hieronymus,DE,77855568768142,
 5,1.72,Pascal,1678650277366,4764310,1650736,platzwart,DE,,
@@ -15,8 +15,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,16.74,Pascal,1515096704684,1617308,2349585,Maaxxaam,RU,,
 4,16.73,Pascal,1475445778334,745968,1521994,Belgian,BE,,
 4,16.72,Pascal,1513217252051,1596806,2350401,engocraft,RU,15915871695217,
-4,16.69,Pascal,1473544825333,659143,1517557,MonoNitride,BY,,
 4,16.64,Pascal,1497886159202,1328543,2050825,Stylefighter,DE,,
+4,16.61,Pascal,1473544825333,659143,1517557,MonoNitride,BY,,
 4,16.44,Pascal,1545704613659,2198955,2385099,Junkyard,FR,,
 4,16.08,Pascal,1497018427097,1319192,1782705,HiepInnocom,VN,10334554849104,
 4,15.97,Pascal,1482368163022,897866,1676558,d1pg1,UA,75150987840381,
@@ -71,7 +71,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,10.94,Pascal,1777391307320,6414070,4705031,6lv1,FR,77426463192465,
 4,9.8,Pascal,1781779616036,6517737,1783449,cptdeka,ID,19350846217210,
 4,3.7,Pascal,1567494486221,2480844,3454349,nnkut,RU,33499902017658,
-3,15.75,Pascal,1567966545378,2484590,3475690,Delphim,DE,,
+3,15.67,Pascal,1567966545378,2484590,3475690,Delphim,DE,,
 3,15.58,Pascal,1727937432150,5589940,6288443,CapiMorte,BR,,
 3,15.58,Pascal,1687248851987,4978137,1792169,SaFiKiK,RU,10426320441085,
 3,15.56,Pascal,1613157142253,3428014,4085032,Bibours_Mogz,FR,55805645404297,
@@ -121,7 +121,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,7.38,Pascal,1466472922017,505760,1203689,SampledMan,US,,
 2,0.86,Pascal,1526666593813,1856252,2622344,BlackIce,DE,,
 1,15.57,Pascal,1467750832256,573479,1486709,HOffen,DE,,
-1,15.21,Pascal,1543870982225,2148366,3020605,AstroFest-2018-Mariana-Zhuk,UA,23633797203163,
+1,15.19,Pascal,1543870982225,2148366,3020605,AstroFest-2018-Mariana-Zhuk,UA,23633797203163,
 1,9.86,Pascal,1676220172161,4737818,5332467,GsmesGame,RU,98467622034574,
 1,9.83,Pascal,1463754962270,466130,1444913,Vladimir_storm,RU,,
 1,9.72,Pascal,1722594223813,5546590,6018822,Babaikafriend1983,RU,,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=87|time=2026-07-09T07:26:14
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=87|time=2026-07-10T07:24:15
 5,22.35,Scala,1638708990723,3921921,1676711,Eeeval,FR,12979369709156,
 5,22.03,Scala,1578430853857,2643842,331880,Monstruo,MX,16575963540770,
 4,22.33,Scala,1584222555478,2703438,1944726,bourgeof,FR,12115914449796,
@@ -6,7 +6,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,21.86,Scala,1579685675723,2657794,1733593,Wei-1,TW,12250588953001,
 4,19.06,Scala,1581714202474,2679415,1740037,ereiam,FR,12669494111004,
 4,3.4,Scala,1519207454985,1666068,2155687,NilsTheWizzard,DE,15809623609677,
-4,3.37,Scala,1538101834505,2081651,1822184,Volchik,PL,10762147934695,
+4,3.31,Scala,1538101834505,2081651,1822184,Volchik,PL,10762147934695,
 3,21.66,Scala,1778791564286,6444440,1121543,Aube,CH,2558615171105,
 3,21.26,Scala,1641213885879,3958606,3839774,gurvan_lullien,FR,50166403046090,
 3,21.26,Scala,1589818338911,2975558,3748996,ahmetcanozcan,TR,,
@@ -71,7 +71,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,2.49,Scala,1732895855720,5637230,5926323,Deliner_cctweaked,CA,134321507413129,
 1,2.48,Scala,1673090230436,4695193,5277095,Alaeddine_Brahem,FR,,
 1,2.48,Scala,1728529368170,5594660,6312582,IamToshiro,PH,131521340017017,
-1,2.48,Scala,1591567212170,3006827,3852410,hahahahahahahahhahahahahahahahah,GB,,
 1,2.48,Scala,1670498082245,4555575,4971776,Alben,FR,88964984879797,
 1,2.48,Scala,1552339481325,2278833,2153226,frehage,SE,68467069780164,
 1,2.48,Scala,1697167652175,5075684,4797591,GoodGame001,KR,80377988068617,
@@ -79,6 +78,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,2.48,Scala,1622498910228,3695902,3903319,aymane212,FR,69321727667200,
 1,2.47,Scala,1590910830175,2998648,3735415,yaprakbulut,TR,41975101744281,
 1,2.47,Scala,1590935894196,2999049,3844006,RashadAliyev98,TR,,
+1,2.47,Scala,1591567212170,3006827,3852410,hahahahahahahahhahahahahahahahah,GB,,
 1,2.47,Scala,1593615818683,3026981,3778958,tgbglr,TR,,
 0,12.96,Scala,1591568250915,3006840,3528852,Esmeraude,ES,,
 0,1.94,Scala,1590958416416,2999444,3832915,FatimeNur_Celik,TR,,

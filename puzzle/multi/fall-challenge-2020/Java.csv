@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-07-14T06:01:45
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-07-15T06:04:46
 5,26.3,Java,1606778557334,3331265,893541,wala,FR,97577641170180,
 5,25.49,Java,1606340174143,3320596,826372,skyyker,FR,54542165670172,
 5,23.93,Java,1606313720234,3319723,2254195,BrunoFelthes,BR,92712103847740,
@@ -793,7 +793,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,8.66,Java,1606139008477,3307736,3976181,Irteza-S,PK,53724749788875,
 1,26.5,Java,1697030772772,5074513,5751078,PureBoilerPlate,GB,,
 1,26.43,Java,1608303145507,3360083,4111963,ADalencourt,FR,,
-1,26.3,Java,1606139008477,3314236,4073590,narushimas,JP,,
+1,26.34,Java,1606139008477,3314236,4073590,narushimas,JP,,
 1,26.07,Java,1606139008477,3310568,4059243,Soulee,GR,53752065473325,
 1,26.06,Java,1606139008477,3311297,3545906,miles7,CH,35920282265684,
 1,25.29,Java,1608307062355,3360211,4112090,SebastienSlackWeek,FR,,
@@ -901,7 +901,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,21.59,Java,1606139008477,3313536,1339930,194pp,LT,43207484810043,
 1,21.59,Java,1606139008477,3313362,4066038,Phi_Le_Duc,VN,,
 1,21.59,Java,1627624532270,3772279,4243038,BeBlack,KR,66602942313435,
-1,21.59,Java,1606139008477,3308803,4055467,PavelPolivka,CZ,,
+1,21.58,Java,1606139008477,3308803,4055467,PavelPolivka,CZ,,
 1,21.58,Java,1606139008477,3309811,3267429,EduardK,DE,,
 1,21.58,Java,1606139008477,3310660,4045763,adedousis,GR,53537124155577,
 1,21.57,Java,1636904048335,3896001,4603957,Dragstone79,FR,,

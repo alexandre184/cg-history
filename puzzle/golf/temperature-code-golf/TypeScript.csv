@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=510|time=2026-07-14T06:01:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=511|time=2026-07-15T06:04:46
 100.0,67.0,TypeScript,1682954310501,3380184,chouch,FR,,
 100.0,68.0,TypeScript,1615021369646,3918583,mikmak,FR,48134583112917,
 100.0,68.0,TypeScript,1622833936804,2315158,luigi_gelato,DE,,
@@ -18,6 +18,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,73.0,TypeScript,1715815794045,334009,abouvier,FR,4681436111242,
 100.0,73.0,TypeScript,1716111466629,2641712,Scarlatine,SE,19128425061644,
 100.0,73.0,TypeScript,1751962952070,177235,Justalk,FR,83912529145807,
+100.0,73.0,TypeScript,1784043429852,4307286,gpoussel_,FR,64849682456274,
 100.0,74.0,TypeScript,1598886497859,155774,dwarfie,FR,17785582865119,
 100.0,74.0,TypeScript,1623388376595,2320995,Photon_,LT,,
 100.0,74.0,TypeScript,1680868207304,3354337,Westicles,CX,79146641399080,
@@ -49,7 +50,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,81.0,TypeScript,1662418882425,1419589,forty,FR,4385126293853,
 100.0,81.0,TypeScript,1679063034493,4839008,GerkinDev,FR,84108241561917,
 100.0,81.0,TypeScript,1767948264599,7026678,SbillySballo,IT,,
-100.0,81.0,TypeScript,1781288795443,4307286,gpoussel_,FR,64849682456274,
 100.0,82.0,TypeScript,1618088939014,1050421,geppoz,IT,4030238757816,
 100.0,82.0,TypeScript,1620061116149,3565821,Mihidari,FR,55506328326733,
 100.0,82.0,TypeScript,1670486660547,4496623,npkt,JP,,
@@ -247,6 +247,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,175.0,TypeScript,1610234129928,4124401,emrah_akc,TR,57057103925818,
 100.0,176.0,TypeScript,1646935259718,4749564,BenoitSerrano,FR,79321889404504,
 100.0,177.0,TypeScript,1657562261262,4818086,Grompok,SZ,81059944499255,
+100.0,177.0,TypeScript,1784032556678,7395878,,US,,
 100.0,182.0,TypeScript,1581581534149,2419811,Valbou,FR,37231983233550,
 100.0,182.0,TypeScript,1654082292593,4718620,Hieronymus,DE,77855568768142,
 100.0,182.0,TypeScript,1714332839650,6030629,Atiloa,FR,,

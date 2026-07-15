@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=795|time=2026-07-14T06:01:45
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=796|time=2026-07-15T06:04:46
 100.0,65.0,TypeScript,1696274994162,4966586,Rohydre,FR,,
 100.0,68.0,TypeScript,1680247326490,4341304,Remi.,FR,97662026388574,
 100.0,74.0,TypeScript,1680709028120,4438505,Eric_[EGU],FR,158681623409347,
@@ -54,6 +54,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,125.0,TypeScript,1669049689628,2698637,CorentinFoucault,FR,26497120301720,
 100.0,126.0,TypeScript,1602905268715,420043,maxim_mazurok,AU,110161421460174,
 100.0,126.0,TypeScript,1758676408278,1839941,Just4FunCoder,MY,80969549924201,
+100.0,126.0,TypeScript,1784043905005,4307286,gpoussel_,FR,64849682456274,
 100.0,127.0,TypeScript,1604608225970,1726600,Patate,FR,17056095228211,
 100.0,127.0,TypeScript,1608643822690,1114834,k4ng0u,FR,26037223936643,
 100.0,127.0,TypeScript,1657904764763,2765000,Nowan,BE,88026624631087,
@@ -63,7 +64,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,129.0,TypeScript,1716144390451,5573671,LeMasSon,FR,107252527944826,
 100.0,129.0,TypeScript,1767875910323,7026678,SbillySballo,IT,,
 100.0,129.0,TypeScript,1773053541940,2998967,Gilde,FR,62190109872577,
-100.0,129.0,TypeScript,1781288733955,4307286,gpoussel_,FR,64849682456274,
 100.0,130.0,TypeScript,1677494805423,5358413,Corentin2000,FR,99371165250814,
 100.0,130.0,TypeScript,1692105760885,270881,Maurice_Moss,FR,30069480173944,
 100.0,130.0,TypeScript,1717357168804,6113956,raphaelcolau,FR,124626041731290,
@@ -338,6 +338,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,238.0,TypeScript,1687140600357,5564843,0xJordan,FR,,
 100.0,239.0,TypeScript,1661356130487,4679322,DavidSourivore,FR,,
 100.0,239.0,TypeScript,1698070990512,5762212,Adrian_sch,DE,,
+100.0,239.0,TypeScript,1784031940897,7395824,NollyB,FR,164629609968399,
 100.0,240.0,TypeScript,1621998700030,4300969,thomasgonda3,US,63048681225268,
 100.0,241.0,TypeScript,1684354945170,4704811,jpingr222,TW,,
 100.0,242.0,TypeScript,1682450857905,2605923,limekiln,DE,,

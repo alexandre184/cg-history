@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-07-16T06:08:08
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-07-17T06:07:12
 6,33.45,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,30.91,Clojure,1480636657283,850106,1674411,Boze,CA,,
 5,30.58,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
@@ -11,7 +11,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,1.3,Clojure,1638492224722,3918566,4633388,Spokes,DE,,
 5,0.28,Clojure,1659220005056,4410744,4934476,Lorenzo_Il_Magnifico,FR,86541061904353,
 4,16.75,Clojure,1474506069634,685101,1577801,draklor,IN,6398173874905,
-4,16.29,Clojure,1542533395141,2132005,2290788,codingforbeer,US,,
+4,16.4,Clojure,1542533395141,2132005,2290788,codingforbeer,US,,
 4,16.03,Clojure,1487903417728,983838,1808529,clj-dave,CA,10670977918203,
 4,15.72,Clojure,1780941581358,6501702,6277461,MeatAndBreath,US,129338603996789,
 4,15.58,Clojure,1569866602660,2505581,1868401,Korvex,US,,
@@ -45,7 +45,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,12.01,Clojure,1606155053163,3315228,3095444,4mitch,RU,39936200034786,
 4,11.99,Clojure,1470639678237,620065,1422875,tmskst,JP,,
 4,11.94,Clojure,1764975932785,6151229,5055949,oneiromanticore,DE,,
-4,11.47,Clojure,1709213930125,5329399,1530801,nha,GB,5790746749053,
+4,11.36,Clojure,1709213930125,5329399,1530801,nha,GB,5790746749053,
 4,11.09,Clojure,1782044423353,6520769,1038079,donbonifacio,PT,13149716020058,
 4,11.06,Clojure,1768799125632,6212163,1527165,saeidscorp,US,,
 4,11.01,Clojure,1783941585381,6549155,6981428,ninjakuza,DE,154388024726102,
@@ -56,8 +56,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,10.51,Clojure,1779694470478,6478466,1574977,Nevyn,US,6367538812033,
 4,9.48,Clojure,1783583853249,6545161,1521604,logc,ES,,
 4,1.15,Clojure,1635210169210,3874847,4456990,Tafi,DK,,
-3,15.63,Clojure,1667397772154,4514667,5141639,Pere-collateur,FR,92739626474816,
 3,15.55,Clojure,1543008882987,2138287,3007544,hessu,FI,,
+3,15.54,Clojure,1667397772154,4514667,5141639,Pere-collateur,FR,92739626474816,
 3,15.19,Clojure,1600730547148,3104773,3096912,Picani,FR,,
 3,15.19,Clojure,1612461321222,3418013,3540066,geek13,FR,,
 3,15.0,Clojure,1500079023088,1397518,2010816,Shoyu,JP,,

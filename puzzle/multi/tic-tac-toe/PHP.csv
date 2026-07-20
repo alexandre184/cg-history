@@ -1,8 +1,8 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=150|time=2026-07-19T06:20:28
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=150|time=2026-07-20T06:36:25
 3,27.86,PHP,1524072546077,1778023,1853956,yoannk,FR,108956788280248,
 3,26.52,PHP,1625083346768,3735766,3983017,TLbuis,NL,50598324428631,
 3,26.21,PHP,1680445385950,4786424,4095128,Voltmachine,BG,56919066754571,
-3,24.43,PHP,1588865984100,2852697,155896,gamoul,FR,2010495372657,
+3,24.36,PHP,1588865984100,2852697,155896,gamoul,FR,2010495372657,
 3,22.3,PHP,1704294396769,5228355,2665870,HappyPaul55,GB,19341063662232,
 3,21.47,PHP,1652691314741,4287332,172938,kuzmaka,UA,1842478040420,
 3,20.42,PHP,1571623961566,2577476,1571621,rjmcdona,US,,
@@ -148,4 +148,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,6.93,PHP,1521173024872,1732115,1667380,hosein.zarchi,IR,,
 0,6.49,PHP,1626278466156,3752944,4406924,broken_arm,FR,66827606192297,
 0,5.98,PHP,1621844720969,3684172,4356688,taymazmostafaei,IR,,
-0,0.06,PHP,1547666068306,2222120,1428410,Alerich,DE,,
+0,-0.05,PHP,1547666068306,2222120,1428410,Alerich,DE,,

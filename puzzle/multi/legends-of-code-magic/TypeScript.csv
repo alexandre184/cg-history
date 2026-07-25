@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=79|time=2026-07-24T06:16:16
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=79|time=2026-07-25T06:07:45
 6,21.35,TypeScript,1618757782411,3507694,2998967,Gilde,FR,62190109872577,
 6,20.62,TypeScript,1603272046141,3142347,3918583,mikmak,FR,48134583112917,
 5,17.76,TypeScript,1678928022975,4767448,3881333,TintinMilou,FR,125323906912495,
@@ -8,8 +8,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,18.18,TypeScript,1700308890136,5109531,1282856,ErikBrendel,DE,41207148765120,
 4,18.05,TypeScript,1604768044155,3166334,4030696,msfe,SE,52988600819316,
 4,18.03,TypeScript,1602166506011,3124769,2653332,SunjiWa,FR,19203448474362,
-4,17.69,TypeScript,1722644204216,5547022,6207698,Test111111111,LT,,
 4,17.68,TypeScript,1595922194135,3044989,2933871,jeanLaBatte,FR,24599803263697,
+4,17.66,TypeScript,1722644204216,5547022,6207698,Test111111111,LT,,
 4,17.35,TypeScript,1660395429625,4422804,847866,a10n,AM,87517425710833,
 4,16.71,TypeScript,1646419041974,4023677,1348430,SimonasBerankis,LT,,
 4,16.62,TypeScript,1722351618831,5544582,6205143,Melyna_komanda,LT,,
@@ -41,7 +41,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,16.4,TypeScript,1603698881072,3149422,4016153,alexdrottsgard,SE,,
 3,16.31,TypeScript,1707848141362,5313722,3702352,termofabrikator,RU,,
 3,16.23,TypeScript,1725807493872,5570460,6260387,Shadowfacts,US,,
-3,15.74,TypeScript,1722351086721,5544571,6205138,Raudona_komanda,LT,,
+3,15.72,TypeScript,1722351086721,5544571,6205138,Raudona_komanda,LT,,
 3,15.61,TypeScript,1610473603095,3387542,4125573,megavous,CZ,56822926274597,
 3,15.61,TypeScript,1699654961352,5103020,2111834,Mezkar,FR,,
 3,15.36,TypeScript,1597864559525,3068526,3937932,OnTheBrink,US,48767985547757,
@@ -68,7 +68,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,6.62,TypeScript,1645793742046,4014314,4737141,Zalioji-komanda,LT,,
 2,5.68,TypeScript,1655193686050,4322547,1460818,NaremmeRob,FR,82168721870413,
 2,5.44,TypeScript,1730521212319,5612096,4544705,El_Bojack,FR,104827623200915,
-1,20.22,TypeScript,1779319236622,6462973,7296396,Proxyctf,FR,161976540416882,
+1,20.06,TypeScript,1779319236622,6462973,7296396,Proxyctf,FR,161976540416882,
 1,14.6,TypeScript,1694810002288,5052826,4069236,Haxinno,FR,111750825910093,
 1,13.48,TypeScript,1645788525479,4014182,4761808,theGrandAndMagicalMostPowerfulAn,LT,,
 1,13.17,TypeScript,1698195181697,5086540,5773656,M0gria,CH,,

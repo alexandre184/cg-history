@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-08-01T06:18:34
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-08-02T06:24:14
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -711,6 +711,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,218.0,TypeScript,1727604092662,197335,Lioda,FR,130240284428632,
 100.0,218.0,C#,1754035475653,5737987,yetanotheranonymous,NE,,
 100.0,218.0,Javascript,1773949475458,5693657,WannaCryDude,FR,,
+100.0,218.0,TypeScript,1785646038271,7430892,redguyonetwo,AU,,
 100.0,219.0,Python3,1693405317568,4820599,SamSam001,FR,,
 100.0,219.0,C++,1710375936040,5934528,Scphott,US,118578601647278,
 100.0,219.0,Python3,1741005860694,3999693,ln-dev05,FR,66651286231911,
@@ -859,7 +860,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,253.0,Python3,1709799962419,231653,kappy,FR,,
 100.0,253.0,Python3,1747599400471,6644771,TimesCantCode,GB,143950342847168,
 100.0,254.0,C++,1703158319574,5690407,PuffyPigeon,MA,113077981230890,
-100.0,254.0,Python3,1727197539906,5190042,Patate42,BE,129975628195420,
+100.0,254.0,Python3,1727197539906,5190042,Pommee,BE,165524266206272,
 100.0,254.0,Python3,1784040581535,3820735,Gungyphant,GB,104190587274785,
 100.0,255.0,C#,1681149917735,4778561,Msurim,FR,89655720804715,
 100.0,255.0,Python3,1698326921328,153086,bagage,FR,52650125647959,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,388.0,Java,1730368755031,4481025,,DE,,
 100.0,388.0,Python3,1753035959744,6751113,Quarlie,DE,,
 100.0,390.0,C#,1713440747241,3899168,BlackWraith,AU,,
-100.0,396.0,Go,1726864417522,3817827,optplx,FR,63033484457851,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=837|time=2026-08-11T04:56:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=838|time=2026-08-12T05:21:33
 100.0,182.0,Java,1681283545838,3380184,chouch,FR,,
 100.0,182.0,Java,1785843886860,4618693,cedricdd,FR,85418008807758,
 100.0,183.0,Java,1680975383009,3354337,Westicles,CX,79146641399080,
@@ -39,6 +39,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,216.0,Java,1643228115712,4057477,Polilla,CL,56537787740263,
 100.0,219.0,Java,1651882707384,1939310,MasterOfUnderscore,PT,81080588549660,
 100.0,219.0,Java,1668262231612,3371531,Zasalamel,FR,90817683050156,
+100.0,219.0,Java,1786447940124,1527403,Di_Masta,BG,5689020242575,
 100.0,220.0,Java,1686645314307,3677709,idzol,RU,,
 100.0,221.0,Java,1579117698789,2923506,darkhorse64,FR,23496414257567,
 100.0,221.0,Java,1599215078587,1045485,Jessie,FR,9025608819920,
@@ -80,7 +81,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,270.0,Java,1568498791088,335954,nmahoude,FR,19628800665378,
 100.0,270.0,Java,1619520512382,3423700,Old-and-Grumpy,NL,64343869858960,
 100.0,270.0,Java,1733066349226,5267787,TuringIncomplete,BG,96155403248818,
-100.0,276.0,Java,1624218585729,1527403,Di_Masta,BG,5689020242575,
 100.0,277.0,Java,1604776026701,3989873,JirkaS,CZ,73318283280417,
 100.0,277.0,Java,1629881847043,4366813,frogmeat,KR,65236906328991,
 100.0,277.0,Java,1692868723004,5646890,[aflr],ES,110020188475902,
@@ -809,6 +809,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,492.0,Java,1756213967011,6805612,kxk,PL,,
 0.0,492.0,Java,1756933139466,6819300,,PK,,
 0.0,492.0,Java,1764074535295,6434325,Queroes,DE,,
+0.0,492.0,Java,1786499314779,7461728,cookiexx,IN,,
 0.0,494.0,Java,1630629448073,4497769,F5R,SA,,
 0.0,499.0,Java,1554392057532,3305599,dangerdane,US,26752325102137,
 0.0,501.0,Java,1699880328162,5803478,Beni1109,AT,,

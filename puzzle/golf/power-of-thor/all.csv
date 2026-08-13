@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=54494|time=2026-08-12T05:21:33
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=54524|time=2026-08-13T05:25:15
 100.0,42.0,Perl,1647005624020,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1647074538973,2928146,LolCat,MU,22538133010433,
 100.0,42.0,Ruby,1665413702370,4620553,TKirishima,FR,107809725450081,
@@ -198,7 +198,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,80.0,Javascript,1681114128665,5358413,Corentin2000,FR,99371165250814,
 100.0,80.0,Python3,1694190875710,4569055,denilb,FR,91218949664019,
 100.0,80.0,Python3,1702066160568,1917961,Seoman,FR,,
-100.0,80.0,Javascript,1703693940315,5807573,Stephen Kondaveti,US,120619186703150,
+100.0,80.0,Javascript,1703693940315,5807573,Stephen-Kondaveti,US,120619186703150,
 100.0,80.0,Python3,1709431751135,4257588,WhoTho,US,73384865831537,
 100.0,80.0,Python3,1727102245819,5440994,Ronak Surana,IN,128038262215359,
 100.0,80.0,Javascript,1730527225619,6018458,AlexPapagre,GR,121064961147796,
@@ -869,6 +869,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,101.0,Ruby,1770560277542,6026494,Ariko,FR,121426845269537,
 100.0,101.0,Python3,1770930333746,956638,Pi-Geometry,FR,50157040295797,
 100.0,101.0,Javascript,1777998141245,3184049,ghhttt,FR,,
+100.0,101.0,Javascript,1786524459958,1527403,Di_Masta,BG,5689020242575,
 100.0,102.0,Javascript,1443829171524,1047991,MandM,PT,,
 100.0,102.0,Ruby,1454937847999,1221491,Augustus,PL,3471558491467,
 100.0,102.0,Python3,1459270346218,1364335,ArgShX,FR,,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,104.0,Javascript,1468256520652,1048348,Disciple.of.Ada,US,4750606204700,
 100.0,104.0,Javascript,1487089561809,1706476,Maboul95,FR,9338051370545,
 100.0,104.0,Python3,1503909864776,2096064,xiao.sha,CN,13778309629915,
-100.0,104.0,Python3,1504511040923,2158904,ChouBaGuai,CN,,

@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=129|time=2026-08-25T04:26:41
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=129|time=2026-08-26T04:27:41
 ,43.05,Javascript,1422265871596,253398,789003,Sharcoux,FR,,
 ,40.32,Javascript,1519836192706,1675147,730425,JeffDownie,GB,,
 ,39.89,Javascript,1440159634281,313946,933976,gx,LT,,
@@ -19,9 +19,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,26.95,Javascript,1574505686089,2608881,1308198,twiho,CZ,82375286303545,
 ,26.87,Javascript,1591507519995,3005996,3449368,widemouthfrog1,NZ,53574989280856,
 ,26.44,Javascript,1424189757830,276074,610890,andrewgreenh,DE,48539561558148,
-,26.07,Javascript,1422199099120,251471,284436,efertone,HU,42960502497346,
+,25.98,Javascript,1422199099120,251471,284436,efertone,HU,42960502497346,
 ,25.76,Javascript,1453542075426,370438,226925,AlexBegoon,AT,132334548976454,
-,24.88,Javascript,1592181652244,3013697,3773358,LouysPatriceBessette,CA,43041562095486,
+,24.95,Javascript,1592181652244,3013697,3773358,LouysPatriceBessette,CA,43041562095486,
 ,24.84,Javascript,1422267667909,259386,622674,Strat0,FR,1732644841703,
 ,24.65,Javascript,1583082600287,2691930,3270198,simbst,FR,90556189912787,
 ,24.61,Javascript,1587153439344,2806476,1282856,ErikBrendel,DE,41207148765120,
@@ -111,6 +111,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.99,Javascript,1421948220779,254257,810186,MrPosia,BY,,
 ,0.98,Javascript,1430501926386,303684,864141,Kostja,UA,,
 ,0.98,Javascript,1765326974928,6155049,6978589,azerty111,FR,,
+,0.97,Javascript,1436098066443,310609,966550,dur,GB,1851006443560,
 ,0.97,Javascript,1748004168685,5869873,6381883,Kamsikan,FR,,
 ,0.95,Javascript,1532463301325,1964674,2716268,Kentgeek,FR,19983060737978,
 ,0.95,Javascript,1457540546723,410954,1347608,Darkoneko,FR,3859007351449,
@@ -124,7 +125,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 ,0.92,Javascript,1453282411341,370258,1052507,mariealice,FR,23693992170609,
 ,0.92,Javascript,1457959430617,411662,1294575,SackPhantom,FR,147474886920374,
 ,0.91,Javascript,1443375845712,322052,835032,JoepSuijkerbuijk,NL,,
-,0.91,Javascript,1436098066443,310609,966550,dur,GB,1851006443560,
 ,0.9,Javascript,1444157125382,338701,853798,JustLurking,US,73366540019786,
 ,0.9,Javascript,1446647020552,363039,1105375,Arumbaya,FR,2486323712748,
 ,0.89,Javascript,1741632745151,5802944,6529506,Phantom_Inari,US,140821861444557,

@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-08-31T10:34:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-09-01T08:57:48
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -186,7 +186,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,179.0,Python3,1691433331424,5629891,DarkReaper01,RU,109045868909462,
 100.0,179.0,Scala,1700675271660,937073,Krlos,ES,18241478681928,
 100.0,179.0,Python3,1704922822290,3497405,Maijj,FR,,
-100.0,179.0,TypeScript,1705011575432,2373953,Dridriun,FR,64609504937617,
+100.0,179.0,TypeScript,1705011575432,2373953,Dridriun,FR,167446025230825,
 100.0,179.0,Python3,1717411593549,4457522,NGMoga,FR,,
 100.0,179.0,Python3,1724811759816,3767065,lxnn,GB,63488305618763,
 100.0,179.0,Python3,1731511025292,6268910,Jouj_,FR,130020940156553,
@@ -630,6 +630,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,209.0,Perl,1768897802103,6496112,Mohammed_Mehdi,FR,156289961254046,
 100.0,209.0,Python3,1771710356332,1790704,Xeno_PXD,FR,133471404913583,
 100.0,209.0,Javascript,1780512778680,7296087,,BR,,
+100.0,209.0,TypeScript,1788200942418,7543932,pipizinho,BR,,
 100.0,210.0,Python3,1695103749978,2424099,democat,US,111626184197315,
 100.0,210.0,Python3,1698062820019,894599,DidierC,FR,1756298465824,
 100.0,210.0,Python3,1726166787121,2429951,Amanyth,CA,107953701064494,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,371.0,Python3,1749714259600,1492221,Spalmon,AU,5123489088454,
 100.0,373.0,Java,1697463250134,2983004,tazorax,FR,44193486227636,
 100.0,375.0,C++,1719678213262,6021471,totolasticot,FR,,
-100.0,377.0,Python3,1704154554909,5889565,Gladwell,GB,138621329790424,

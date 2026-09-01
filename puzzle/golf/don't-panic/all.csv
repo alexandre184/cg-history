@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15770|time=2026-08-31T10:34:57
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=15774|time=2026-09-01T08:57:48
 100.0,56.0,Bash,1696189932639,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,56.0,Bash,1787710526818,6341807,sffsefsdfaf,JP,132500742075587,
 100.0,57.0,Ruby,1450099402243,154372,Plopx,FR,7959085736890,
@@ -42,6 +42,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,73.0,Python3,1665432106363,3845610,pardouin,FR,60364063762936,
 100.0,73.0,Ruby,1758146541983,1179950,KAKAROT_MPL,US,159019526484654,
 100.0,74.0,Ruby,1749910225531,6132028,NicknamedTwice,GB,136778820182751,
+100.0,74.0,Ruby,1788215446333,4618693,cedricdd,FR,85418008807758,
 100.0,75.0,Ruby,1657403957992,4791882,FlorentC,FR,80217385484852,
 100.0,75.0,Perl,1731758656611,6115420,scresto,FR,137702907699482,
 100.0,75.0,Python3,1784898096044,4966586,Rohydre,FR,,
@@ -453,6 +454,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,119.0,PHP,1690452481585,154806,piwai,FR,1956863959967,
 100.0,119.0,Javascript,1699915883370,5803441,Buckling,BE,,
 100.0,119.0,Ruby,1706856697554,4806550,Rafarafa,ES,80946308795008,
+100.0,119.0,Scala,1788213528525,4618693,cedricdd,FR,85418008807758,
 100.0,120.0,Javascript,1445698915926,935802,Jerhyn,FR,109463964266798,
 100.0,120.0,Javascript,1610875912466,3546420,ZackGabri,EG,35924043313662,
 100.0,120.0,PHP,1676537447577,2874091,5DN1L,GB,134264063920528,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,150.0,Javascript,1439576875449,999484,Paturages,FR,1991319539637,
 100.0,150.0,Bash,1444895920146,155928,pk_fr,FR,1720918958539,
 100.0,150.0,Go,1453110783916,961765,Lorth,FR,1862487678465,
-100.0,150.0,Bash,1458671473934,153396,Loubna,MA,3938828502144,
-100.0,150.0,Javascript,1480278108492,1652988,wardialer,IT,7801345180157,

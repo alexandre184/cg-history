@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-09-05T07:53:53
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=1000|time=2026-09-06T08:10:14
 6,33.31,Python3,1606341530696,3320649,1593992,nierin,FR,6909840889019,
 6,32.92,Python3,1594210307982,3031040,1675487,PED,FR,53635449336139,
 6,28.28,Python3,1785518647024,6586316,6767164,1A26_PRTYPHOON,IN,,
@@ -871,6 +871,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,17.5,Python3,1727352403675,5584822,6233913,dennisli,RU,128194247598219,
 3,17.49,Python3,1788080666098,6677389,7497597,Naglfae,JP,167833168239624,
 3,17.48,Python3,1674028360944,4711224,2674460,Malte42,DE,19389646868040,
+3,17.48,Python3,1741986304161,5806782,5789489,RenegadeEngineer,US,,
 3,17.47,Python3,1650903996389,4155678,3905120,Echsecutor,DE,82642265744347,
 3,17.46,Python3,1588845726721,2852089,3718597,BrunoDeMontpellier,FR,41598568393205,
 3,17.46,Python3,1632401538180,3838837,2058823,sazxdsf,PL,,
@@ -879,7 +880,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,17.44,Python3,1717447020166,5396694,2073774,Helle,LU,111065149293863,
 3,17.44,Python3,1619654586175,3523597,4138399,bprunier,FR,62835861575166,
 3,17.44,Python3,1638987584171,3926171,4600536,UselessKafe,FR,73492109376889,
-3,17.43,Python3,1741986304161,5806782,5789489,RenegadeEngineer,US,,
 3,17.43,Python3,1769100866243,6217479,7054138,qooooraf,CH,,
 3,17.41,Python3,1510851577067,1514125,2307648,debfx,DE,,
 3,17.4,Python3,1633549318278,3853756,3814821,DominikaNagy,HU,,

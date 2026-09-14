@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=65|time=2026-09-13T08:35:09
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=65|time=2026-09-14T09:19:01
 1,32.06,Java,1788853322801,6717706,3235897,Zylo,PL,25779784253696,
 1,27.52,Java,1725568503801,5568468,893541,wala,FR,97577641170180,
 1,27.11,Java,1621877261440,3684953,2500089,Fantomat75,FR,54280860198856,
@@ -61,6 +61,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,5.09,Java,1676053562942,4736065,5163410,LOKI_78,LU,93367947956362,
 0,4.91,Java,1658133353287,4397289,4282042,AI4Games,PL,62256727195192,
 0,4.8,Java,1753703508334,5990968,2455616,JeanClaude44,FR,17042314996810,
-0,3.43,Java,1641572192773,3963378,1541804,michaldo,PL,8604693543514,
-0,-0.07,Java,1669561361472,4543015,874510,orlyy,UA,,
-0,-2.11,Java,1666828138425,4508910,5146797,foo_undoer,PL,,
+0,3.6,Java,1641572192773,3963378,1541804,michaldo,PL,8604693543514,
+0,-0.01,Java,1669561361472,4543015,874510,orlyy,UA,,
+0,-2.21,Java,1666828138425,4508910,5146797,foo_undoer,PL,,

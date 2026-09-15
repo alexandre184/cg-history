@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=173|time=2026-09-14T09:19:01
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=173|time=2026-09-15T09:00:52
 6,26.93,Perl,1610308275961,3385685,4117944,BenjaminBrumaire,FR,57138088503605,
 6,12.77,Perl,1523465041155,1769612,1991984,MicheL,FR,18593518277662,
 5,36.02,Perl,1676447549806,4740260,4687360,thomas.schuerger,DE,77623682146098,
@@ -74,7 +74,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,14.06,Perl,1474484500690,684007,981346,oltish,RU,,
 4,14.03,Perl,1570493254294,2530094,2407965,gentiano,FR,,
 4,13.93,Perl,1475532141555,747146,1484435,Anzufvytar,FR,,
-4,13.81,Perl,1527269819527,1864327,1767868,Blazze,DE,,
+4,13.74,Perl,1527269819527,1864327,1767868,Blazze,DE,,
 4,13.69,Perl,1764107288953,6124902,5436334,saito_ta,JP,102476026435385,
 4,13.69,Perl,1576309106180,2625789,1001851,Kill-O-Zap,DE,,
 4,13.63,Perl,1550032497383,2246436,2065693,RemyO,TH,46987348784745,
@@ -135,7 +135,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,12.8,Perl,1588704152757,2848836,3482421,shirolapov,RU,,
 3,12.62,Perl,1621298872617,3672376,4333571,sparc2000,FR,,
 3,12.56,Perl,1467887562234,575461,1484357,XavierGrignon,FR,,
-3,12.39,Perl,1515173816497,1618301,2357193,Kord72,IL,16298533637533,
+3,12.54,Perl,1515173816497,1618301,2357193,Kord72,IL,16298533637533,
 3,12.27,Perl,1562913899320,2440757,3410316,p456,US,,
 3,12.01,Perl,1735753994258,5712609,5324187,silasfox1,DE,,
 3,11.91,Perl,1484645518149,924305,1633764,mat44,FR,,
@@ -169,6 +169,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,15.55,Perl,1513605621103,1601093,2383550,LilFaith,US,,
 1,15.51,Perl,1616997235464,3480102,4064988,nikolaeva,RU,,
 1,15.21,Perl,1703630773978,5190965,2820543,RyanT,CA,,
-1,14.86,Perl,1474694846146,691985,1605936,gudule_3,FR,,
+1,14.94,Perl,1474694846146,691985,1605936,gudule_3,FR,,
 1,1.27,Perl,1703811240715,5201428,5889169,Castious,CA,,
 1,1.05,Perl,1538247190380,2083123,2878001,kostaval,UA,,

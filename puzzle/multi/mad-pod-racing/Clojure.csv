@@ -1,5 +1,5 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-09-14T09:19:01
-6,33.46,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-09-15T09:00:52
+6,33.54,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,30.68,Clojure,1480636657283,850106,1674411,Boze,CA,,
 5,30.58,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,29.45,Clojure,1472915116380,650397,951363,agent[j],US,5505013487233,
@@ -11,7 +11,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 5,17.14,Clojure,1774468872715,6357505,1468277,MrCauliflower,US,,
 5,1.3,Clojure,1638492224722,3918566,4633388,Spokes,DE,,
 5,0.28,Clojure,1659220005056,4410744,4934476,Lorenzo_Il_Magnifico,FR,86541061904353,
-4,16.75,Clojure,1474506069634,685101,1577801,draklor,IN,6398173874905,
+4,16.72,Clojure,1474506069634,685101,1577801,draklor,IN,6398173874905,
 4,16.4,Clojure,1542533395141,2132005,2290788,codingforbeer,US,,
 4,16.03,Clojure,1487903417728,983838,1808529,clj-dave,CA,10670977918203,
 4,15.72,Clojure,1780941581358,6501702,6277461,MeatAndBreath,US,129338603996789,
@@ -75,8 +75,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 3,12.74,Clojure,1518389739615,1656209,2433183,Jake562,US,16806668646275,
 3,12.1,Clojure,1643761921004,3991308,4688096,StrykeTruanard,GB,76558046976779,
 3,12.08,Clojure,1474296922014,669459,1539559,shadowdancer,AR,,
+3,11.9,Clojure,1661268578954,4431059,2491829,anil9,SE,89130325695961,
 3,11.82,Clojure,1590765217615,2996570,1574921,Variance,US,,
-3,11.81,Clojure,1661268578954,4431059,2491829,anil9,SE,89130325695961,
 3,11.52,Clojure,1771620386598,6264414,6776127,hak1m,ID,,
 3,11.37,Clojure,1467661143543,571847,1460590,motor4ik,RU,4937058396762,
 3,11.33,Clojure,1560370495741,2420206,3009873,Kineolyan,FR,32394008868052,

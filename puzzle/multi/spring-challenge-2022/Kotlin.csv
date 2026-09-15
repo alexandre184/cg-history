@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=128|time=2026-09-14T09:19:01
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=128|time=2026-09-15T09:00:52
 5,25.39,Kotlin,1651673710671,4262241,4480802,Nagatsuka_Akiya,JP,69435046793344,
 5,23.02,Kotlin,1651672497356,4260092,1067069,Reiska,FI,15476331321584,
 5,22.52,Kotlin,1651672710177,4260502,3820844,yukidaruma6,JP,85809062599974,
@@ -101,7 +101,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,16.72,Kotlin,1760859906643,6070171,3784249,matsumo,JP,95910743575478,
 2,15.61,Kotlin,1651672314989,4259779,3372285,osipxd,RU,,
 2,15.5,Kotlin,1651740669923,4266348,812708,Schnapster,DE,80387648931955,
-2,15.5,Kotlin,1658082716344,4396627,1855913,JadeDragonhawk,JP,25825214143887,
+2,15.46,Kotlin,1658082716344,4396627,1855913,JadeDragonhawk,JP,25825214143887,
 2,15.15,Kotlin,1651671621980,4258286,4817024,manud99,CH,,
 2,14.44,Kotlin,1651673637372,4262088,4414024,Gooz,NL,80960001160747,
 2,14.29,Kotlin,1651672513715,4260122,3802430,Andronnix,DE,,
@@ -126,4 +126,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,13.58,Kotlin,1651673988678,4262850,2551887,PennArBed,FR,35018945870616,
 1,8.84,Kotlin,1651671925833,4258888,4648984,PowerEngineTM,CO,82190824812270,
 1,7.87,Kotlin,1651741143690,4267388,191939,yoannCaplain,FR,61750063166510,
-1,-1.08,Kotlin,1651741121350,4267330,4325119,Klimpergeist,DE,63682169998518,
+1,-1.0,Kotlin,1651741121350,4267330,4325119,Klimpergeist,DE,63682169998518,

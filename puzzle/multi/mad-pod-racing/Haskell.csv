@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=242|time=2026-09-16T08:53:26
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=242|time=2026-09-17T08:58:06
 6,38.25,Haskell,1665368051473,4486437,5114798,np.binh,VN,,
 6,37.68,Haskell,1665130211176,4483387,5116649,nd.anh3,VN,91472185496209,
 6,37.62,Haskell,1591261783563,3002994,2491651,Nedog,TW,17474883264870,
@@ -102,8 +102,8 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,13.01,Haskell,1524183651957,1779542,2450533,soxfox,AU,83429065828173,
 4,12.99,Haskell,1571694276627,2578401,3521113,sib,US,,
 4,12.98,Haskell,1545823652359,2200237,2326193,diqye2014,CN,,
+4,12.95,Haskell,1527291252629,1865262,1252238,Rossy,DE,,
 4,12.9,Haskell,1681572873648,4798421,4255901,ARRG,GB,61603305307078,
-4,12.82,Haskell,1527291252629,1865262,1252238,Rossy,DE,,
 4,12.78,Haskell,1669201562026,4538688,4167013,Testest_,DE,,
 4,12.77,Haskell,1758576645570,6047530,4327972,DanielSchuette,DE,63764448811142,
 4,12.72,Haskell,1663367300721,4452629,1723803,Arclight,SE,,
@@ -223,7 +223,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,14.15,Haskell,1685369181428,4879827,5429271,djv1982,ES,,
 2,14.01,Haskell,1617242074223,3482994,2111350,Mr.Rara,US,20573579094146,
 2,13.81,Haskell,1465394119018,492236,330488,Shakadak,FR,,
-2,13.02,Haskell,1534010820209,2015491,2790178,nhaskins,CA,,
+2,13.04,Haskell,1534010820209,2015491,2790178,nhaskins,CA,,
 2,12.47,Haskell,1722945884522,5549304,6216726,miezekatze,AT,,
 2,12.36,Haskell,1614920878332,3450243,3438426,mingmingrr,US,,
 2,12.34,Haskell,1464610601015,478978,1453204,NickSeagull,ES,,
@@ -233,7 +233,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,10.81,Haskell,1482535412121,900303,1757415,cemonds,DE,,
 2,9.65,Haskell,1507423391103,1475680,1687018,abra,CA,,
 2,9.27,Haskell,1494798644419,1248872,1972963,frosch03,DE,12658930138961,
-2,8.95,Haskell,1506967154380,1471409,2205548,dbeecham,SE,,
+2,9.12,Haskell,1506967154380,1471409,2205548,dbeecham,SE,,
 2,7.39,Haskell,1469923716821,609772,1504880,AntonFarmar,GB,,
 1,15.35,Haskell,1746283184300,5852712,6626642,PseudoPseudoPseudoPseudo,FR,,
 1,15.19,Haskell,1548712985632,2234213,3092466,Whyjack,BE,,

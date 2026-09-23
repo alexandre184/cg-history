@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=33|time=2026-09-22T08:51:21
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=34|time=2026-09-23T08:53:01
 1,25.05,Javascript,1638357770424,3915851,3885102,SnowballSH,CN,46461481812372,
 1,24.18,Javascript,1673455266313,4701727,4334237,BJD,US,64170920248296,
 1,21.54,Javascript,1774953454833,6366892,6613269,kosynus,FR,143644783736899,
@@ -32,3 +32,4 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,16.35,Javascript,1619087891408,3512909,3646435,Spectre-JS,MG,102070668573840,
 0,15.86,Javascript,1624124697899,3719011,4379435,Naourass,MA,,
 0,14.22,Javascript,1755028320260,6010045,6740380,EchoNym,BY,147350721466693,
+0,6.4,Javascript,1790082511270,6757595,7603862,Minimaxpro,NO,168730227073549,

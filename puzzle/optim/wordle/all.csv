@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-10-02T10:06:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-10-03T09:28:55
 100.0,154.0,Python3,1716100563077,3523247,alexcercos,ES,36269364412881,
 100.0,154.0,Java,1761166198531,1630890,Wld,DE,54135389391511,
 100.0,155.0,Rust,1686860071329,2288263,dbdr,UA,43448306132121,
@@ -922,6 +922,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,267.0,TypeScript,1695059712226,1604295,SergeiShirokov,ES,12159441339558,
 100.0,267.0,C#,1702905787762,835281,dvince,FR,15650041337441,
 100.0,267.0,Python3,1755414442246,6308116,CaesarV5,FR,,
+100.0,267.0,C,1790992952180,4976402,Suicouille,BE,,
 100.0,268.0,C#,1688021164645,1505726,Chokearth,FR,107228523279599,
 100.0,268.0,Go,1709920766765,4290399,iggy12345,US,99767229200407,
 100.0,268.0,C#,1754399970809,4053873,Panda23,HU,54133842233665,
@@ -958,6 +959,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,290.0,Python3,1744936594672,5318868,Mandelbrot-Menge,DE,99885640096144,
 100.0,291.0,C++,1688700959211,4732975,Askari,CA,78918047387673,
 100.0,291.0,PHP,1718203930883,6129431,gdebrion,FR,125236323841681,
+100.0,291.0,Python3,1790960154443,3536382,FranckR34,FR,119163184608281,
 100.0,292.0,Python3,1763050689044,6915979,CyrilTostivint,FR,,
 100.0,293.0,Python3,1732964937100,4187801,thevoyager,HU,,
 100.0,293.0,Python3,1747635123244,1468627,Macgyverx,FR,32975605730147,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,341.0,Python3,1698678132674,5740826,PrincessFluffy,FR,112668548465958,
 100.0,341.0,Python3,1765644141664,5794685,Bizzhii,NL,,
 100.0,347.0,Go,1701876660277,5839112,Ir0nM4n,US,,
-100.0,348.0,C,1723536038100,5375564,PaulNord,FR,124075167474388,
-100.0,349.0,Python3,1709536044083,1426548,MasterJos,CA,4404380115040,

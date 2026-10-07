@@ -1,5 +1,5 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-10-06T10:51:18
-6,33.41,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=107|time=2026-10-07T10:38:10
+6,33.32,Clojure,1465623777435,495263,1395632,kurie,US,5512578329888,
 5,30.48,Clojure,1526777918934,1857285,2434893,cdurbin,US,,
 5,30.45,Clojure,1480636657283,850106,1674411,Boze,CA,,
 5,29.45,Clojure,1472915116380,650397,951363,agent[j],US,5505013487233,
@@ -40,9 +40,9 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,13.18,Clojure,1785333390201,6581938,3007544,hessu,FI,,
 4,13.03,Clojure,1506026950675,1459949,1682373,xero7776,US,,
 4,12.86,Clojure,1623439206305,3709839,2447388,poda201,PL,,
+4,12.76,Clojure,1566405335424,2472218,3450145,Ecsodikas,DE,52357067505735,
 4,12.75,Clojure,1493127593824,1212008,1488327,nailuj24,DE,5434724949041,
 4,12.65,Clojure,1669703738248,4544816,2047408,hapcy,HU,,
-4,12.61,Clojure,1566405335424,2472218,3450145,Ecsodikas,DE,52357067505735,
 4,12.6,Clojure,1475694209445,749796,1516473,tmmjnssn,NO,,
 4,12.01,Clojure,1606155053163,3315228,3095444,4mitch,RU,39936200034786,
 4,11.98,Clojure,1782044423353,6520769,1038079,donbonifacio,PT,13149716020058,
@@ -102,7 +102,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 2,9.45,Clojure,1676153766268,4737180,5337913,Sulu99,GB,,
 2,8.68,Clojure,1560936074234,2425360,3384764,popret,CH,30186526152904,
 1,15.6,Clojure,1467713116131,572597,1423658,LeartS,IT,4387037627346,
-1,9.92,Clojure,1652718639867,4288004,4903573,trananhgyh,VN,,
+1,9.91,Clojure,1652718639867,4288004,4903573,trananhgyh,VN,,
 1,9.74,Clojure,1665127809739,4483345,5079756,turtleshark,SE,,
 1,0.95,Clojure,1636141561432,3886837,4588069,reblo83pro,US,,
 1,0.88,Clojure,1765984559750,6162282,6987812,test12396,FR,,

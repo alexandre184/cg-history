@@ -1,4 +1,4 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=264|time=2026-10-12T11:24:10
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=264|time=2026-10-13T11:14:17
 5,26.38,Javascript,1579639138030,2657222,1360360,zombitrafik,PL,39230624991993,
 4,21.95,Javascript,1507760480351,1478885,2158982,Barbossa,FR,14839412862089,
 4,20.18,Javascript,1508186449007,1483222,372468,MadBot4577,RU,5203205035445,
@@ -154,6 +154,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,22.35,Javascript,1717846805120,5400996,6109765,Shave7777,OM,124507201437285,
 0,22.35,Javascript,1623682922726,3712568,4342166,zynia,FR,88400383343501,
 0,22.35,Javascript,1562139525726,2434805,3167968,Master_Zain,GB,25059813489079,
+0,22.34,Javascript,1467956443627,576614,1463598,SoilO,FI,4746598120507,
 0,22.34,Javascript,1704808948353,5275516,5875970,Devonor,FR,,
 0,22.33,Javascript,1589994096479,2984655,3774856,_O-MEGA,RO,52678207939005,
 0,22.32,Javascript,1701457256947,5125970,5136596,Charouel,FR,114820405399554,
@@ -162,7 +163,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,22.31,Javascript,1511376059493,1547545,2245129,grt817,US,,
 0,22.31,Javascript,1533167164560,1989778,2081550,muy31,US,13417374065655,
 0,22.3,Javascript,1571946138404,2581114,1744697,SaniX,CM,65887128368131,
-0,22.29,Javascript,1467956443627,576614,1463598,SoilO,FI,4746598120507,
 0,22.29,Javascript,1603419748625,3145191,4025187,SomoKRoceS,IL,,
 0,22.29,Javascript,1752093497268,5914415,6731508,Denys-SHYNKARUK,UA,,
 0,22.28,Javascript,1527176657480,1862274,1829569,[0___0],UA,18841087167676,
@@ -260,6 +260,6 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 0,8.98,Javascript,1568323679155,2487909,3278261,alexeysinko,RU,26208568157922,
 0,8.96,Javascript,1414330617238,179233,421993,Filosoff,RU,,
 0,8.94,Javascript,1677740029674,4754977,5366512,Benjamin-Wen,CZ,,
-0,7.1,Javascript,1509614288964,1499298,2268184,spkwon,KR,,
+0,7.02,Javascript,1509614288964,1499298,2268184,spkwon,KR,,
 0,-5.79,Javascript,1519973619003,1676585,1922394,Radonirina,MG,11855974086615,
 0,-7.11,Javascript,1506666331120,1468577,1842184,imdevesh,IN,14558464345409,

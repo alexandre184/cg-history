@@ -1,6 +1,6 @@
-league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=40|time=2026-10-18T08:22:33
-5,18.5,TypeScript,1790496777652,6764846,4307286,gpoussel_,FR,64849682456274,
-5,18.18,TypeScript,1695408691508,5058554,5707591,MMPeterson,EE,,
+league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#multi|count=40|time=2026-10-19T09:22:01
+5,18.37,TypeScript,1790496777652,6764846,4307286,gpoussel_,FR,64849682456274,
+5,18.1,TypeScript,1695408691508,5058554,5707591,MMPeterson,EE,,
 5,17.35,TypeScript,1710865254819,5344117,4517336,CamilleCamparmoQuatreVingt,FR,,
 5,17.29,TypeScript,1695404578623,5058520,1040219,Imre,EE,111678140811232,
 5,16.04,TypeScript,1720301190058,5524721,6174211,Borealyss,FR,159743645143794,
@@ -11,7 +11,7 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 4,14.82,TypeScript,1731819830647,5629341,1273087,Niklex,US,5329784597912,
 4,14.67,TypeScript,1664888502428,4479543,4627061,remarqu3,PL,74577607715867,
 4,14.45,TypeScript,1732118364350,5631612,2073880,Myve,DE,131792843863643,
-3,20.77,TypeScript,1757235923289,6034245,6354558,1A25_KP,IN,,
+3,20.47,TypeScript,1757235923289,6034245,6354558,1A25_KP,IN,,
 3,20.0,TypeScript,1757236460457,6034251,6818342,nullORundefined,IN,,
 3,19.81,TypeScript,1772667856770,6284590,1607106,ygricks,MD,7019881913110,
 3,15.82,TypeScript,1756969778976,6030576,3477100,1A26_PromptVerse,IN,33843640775978,
@@ -37,5 +37,5 @@ league.divisionIndex,score,programmingLanguage,creationTime,agentId,codingamer.u
 1,15.02,TypeScript,1630355759975,3806540,3932889,Portokali,NL,,
 1,13.96,TypeScript,1756941774022,6030136,6819383,LitBomber,IN,,
 1,0.75,TypeScript,1666181006708,4499234,5139482,smarton5,HU,,
-0,13.19,TypeScript,1729088557164,5599053,6325240,Jasp3r,NL,,
+0,13.26,TypeScript,1729088557164,5599053,6325240,Jasp3r,NL,,
 0,11.5,TypeScript,1737546637811,5758532,6457923,sbd_makl,HR,137502267724292,

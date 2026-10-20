@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=636|time=2026-10-19T09:22:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=637|time=2026-10-20T08:57:21
 100.0,201382.0,Python3,1676893989401,2522090,MSmits,NL,17784428403916,
 100.0,201382.0,Python3,1698239164669,1630890,Wld,DE,54135389391511,
 100.0,201382.0,Python3,1719340308252,3523247,alexcercos,ES,36269364412881,
@@ -47,6 +47,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,210862.0,Python3,1645406757637,4083537,DavidAvsajanishvili,GE,55847109957826,
 100.0,210936.0,Python3,1780167231417,7053638,yusei234,FR,,
 100.0,211166.0,Python3,1781430591344,2017805,Winter_not_comming,PL,66744141457956,
+100.0,211355.0,Python3,1792405556857,6287856,[CG]KevinGuiraud,FR,133314902077792,
 100.0,211361.0,Python3,1767706622422,7022508,,SE,,
 100.0,211455.0,Python3,1727349316912,6207801,][L][,FR,128554188373182,
 100.0,211465.0,Python3,1758631375784,6241812,cgHaxor,US,128951249901157,
@@ -72,6 +73,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,213713.0,Python3,1768829649452,6496112,Mohammed_Mehdi,FR,156289961254046,
 100.0,214097.0,Python3,1785012074500,5429417,Raphaelma,FR,,
 100.0,214276.0,Python3,1649943444390,153965,[CG]Keelhaul,FR,4367050238110,
+100.0,214450.0,Python3,1792484817410,3712725,WeepingAngel89,VN,168544025576404,
 100.0,214729.0,Python3,1660486999562,278212,vmp,FR,,
 100.0,215000.0,Python3,1754330530557,6144352,Pyth1,HU,,
 100.0,215001.0,Python3,1725862693044,6233913,dennisli,RU,128194247598219,
@@ -624,7 +626,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,-15.0,Python3,1762226103241,6912214,,HK,,
 0.0,-15.0,Python3,1767630527410,7020899,,RU,,
 0.0,-15.0,Python3,1776310796564,5181311,dicebias,ID,132115967982733,
-0.0,-15.0,Python3,1792395903137,6287856,[CG]KevinGuiraud,FR,133314902077792,
 0.0,0.0,Python3,1664339183615,5103578,,RU,,
 0.0,0.0,Python3,1688033232405,5582306,anymous2.0,NL,,
 0.0,0.0,Python3,1695108073593,5715455,TidianeS,FR,123988642164662,

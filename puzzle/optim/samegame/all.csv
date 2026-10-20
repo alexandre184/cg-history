@@ -1,5 +1,5 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-10-19T09:22:01
-100.0,178248.0,C++,1792395251858,2625928,Leonard.,NL,72585303017432,
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-10-20T08:57:21
+100.0,179056.0,C++,1792473794272,2625928,Leonard.,NL,72585303017432,
 100.0,178136.0,Python3,1790631737075,3276896,kozuechan,JP,26189736775264,
 100.0,178044.0,C++,1790588287814,3523247,alexcercos,ES,36269364412881,
 100.0,174876.0,C++,1721616860761,3354337,Westicles,CX,79146641399080,
@@ -486,6 +486,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,18670.0,C++,1620233829259,1688466,geoffroy,FR,8641960561768,
 100.0,18600.0,PHP,1626028412522,1719856,YOANN,FR,11777604207042,
 100.0,18565.0,C++,1610948377569,4072753,mdstoy,JP,54294744903755,
+100.0,18556.0,C++,1792405989030,6287856,[CG]KevinGuiraud,FR,133314902077792,
 100.0,18506.0,Python3,1772140747238,6914786,Mostafa_Afify,EG,152965865585779,
 100.0,18252.0,Python3,1744842048575,1309948,Runner87,IT,6963904733897,
 100.0,17842.0,Python3,1671214565305,3441957,Bastian971,GP,107747101588065,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,470.0,Python3,1718119730738,6127905,,SA,,
 0.0,470.0,Kotlin,1722464792733,6065101,S.R.,FR,148405962572666,
 0.0,470.0,C,1722525663879,6175945,akrit-yadav,IN,,
-0.0,470.0,Python3,1723272628669,6219402,CodeNinja-64,MV,,

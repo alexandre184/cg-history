@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1000|time=2026-10-19T09:22:01
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1000|time=2026-10-20T08:57:21
 100.0,73.0,Ruby,1745017899320,2536538,Pduhard-,FR,168957208160557,
 100.0,73.0,Perl,1764102808469,4438505,Eric_[EGU],FR,158681623409347,
 100.0,73.0,Ruby,1789053368798,4618693,cedricdd,FR,85418008807758,
@@ -275,6 +275,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,123.0,Python3,1785869790688,3998980,bamax,FR,55292626245560,
 100.0,123.0,Python3,1786113505571,7269610,Jaaming,RU,161332287332912,
 100.0,123.0,Python3,1786294307686,3932502,N3l,BE,168701244510341,
+100.0,123.0,Python3,1792482913254,765200,FrancoisB,US,168501343683625,
 100.0,124.0,Python3,1680679598541,295729,webalorn,FR,94438164599211,
 100.0,124.0,Python3,1680813758713,3739866,Shanethegamer,US,,
 100.0,124.0,Python3,1687788988439,4537924,ArtesScytale,BE,121331549433012,
@@ -493,6 +494,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,145.0,Python3,1775813025884,1501227,Zweer,IT,135278608023536,
 100.0,145.0,Javascript,1786610881120,3564009,Waffle3z,US,44751789808331,
 100.0,145.0,Python3,1789623668368,3768412,calebharrison,US,77138061844747,
+100.0,145.0,Python3,1792403506864,6287856,[CG]KevinGuiraud,FR,133314902077792,
 100.0,146.0,PHP,1680805816523,4966586,Rohydre,FR,,
 100.0,146.0,Ruby,1680806709714,4197527,zzzz...,FR,,
 100.0,146.0,Groovy,1681024095182,3354337,Westicles,CX,79146641399080,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,210.0,TypeScript,1681399904806,948764,Katie,GB,2150180090592,
 100.0,210.0,Javascript,1684004043730,155881,Xeger,CH,104405127658237,
 100.0,210.0,Python3,1688668338287,5537145,nbaker,US,107775628045209,
-100.0,210.0,Javascript,1737492933540,792813,VilBoub,FR,72010225615995,
-100.0,210.0,Python3,1737563438690,2962819,GouVsky,FR,,

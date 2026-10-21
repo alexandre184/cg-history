@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2099|time=2026-10-20T08:57:21
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2101|time=2026-10-21T08:56:08
 100.0,64.0,Javascript,1790978436805,1193679,Icebox,DE,169325724689360,
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,MartinQc,CA,1761380964089,
@@ -87,6 +87,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,108.0,Javascript,1473237628350,513549,y0p,FR,,
 100.0,108.0,Javascript,1666940908584,1052387,RomaricM,FR,92642125599822,
 100.0,108.0,Javascript,1792330029113,6172043,PetyFloyd,SK,126527665690517,
+100.0,108.0,Javascript,1792523591164,3473364,Alexdelia,FR,33712622134048,
 100.0,109.0,Javascript,1486743216087,1130993,Azaria,FR,5570211139396,
 100.0,109.0,Javascript,1634679182705,4487490,cnk_gr,GR,69672501862552,
 100.0,109.0,Javascript,1700670455535,1340666,Pred4c3,HU,,
@@ -242,6 +243,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,139.0,Javascript,1674028920335,5280865,TheVeiler,FR,118162881583099,
 100.0,139.0,Javascript,1684158471238,5428439,Armon,US,102977282106504,
 100.0,139.0,Javascript,1725876435053,1939310,MasterOfUnderscore,PT,81080588549660,
+100.0,139.0,Javascript,1792536208452,1302363,Thufir_Hawat,NL,3821893670531,
 100.0,140.0,Javascript,1471361528420,1512912,RichardZ,DE,9435459461890,
 100.0,140.0,Javascript,1473007860124,1062962,ArmandO.S.,ES,2258982798247,
 100.0,140.0,Javascript,1479835926292,1532586,Kruemel,DE,9300803752471,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,207.0,Javascript,1524771446315,2547109,JefferyNelson,US,18000689372125,
 100.0,208.0,Javascript,1470281109611,1351077,RStudios,GB,,
 100.0,208.0,Javascript,1523471890424,1562224,KasparsAleksejevs,LV,17991596463826,
-100.0,208.0,Javascript,1620166638849,4162456,CarlosUh,MX,63408241975521,
-100.0,208.0,Javascript,1678573618008,3863256,Deuzwood,FR,100467869589956,

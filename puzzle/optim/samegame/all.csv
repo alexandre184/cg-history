@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-10-27T09:23:58
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#optim|count=1000|time=2026-10-28T10:05:12
 100.0,179276.0,C++,1792758310712,2625928,Leonard.,NL,72585303017432,
 100.0,178136.0,Python3,1790631737075,3276896,kozuechan,JP,26189736775264,
 100.0,178044.0,C++,1790588287814,3523247,alexcercos,ES,36269364412881,
@@ -87,6 +87,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,92604.0,PHP,1675297608388,1412263,PatrickMcGinnisII,US,75707267075165,
 100.0,92378.0,C++,1597780773267,1854246,Counterbalance,NL,26367790351026,
 100.0,91910.0,Rust,1773392577124,5949436,bogues,FR,158990583453765,
+100.0,91039.0,Javascript,1793142888139,7666416,Yapix839,FR,170330826045583,
 100.0,90768.0,Python3,1643381218296,4713515,aalakhtin,RU,,
 100.0,90538.0,C#,1712255239917,5868912,[alx],FR,116460107289435,
 100.0,90422.0,Python3,1643441659486,3617730,Karta,RU,38555089607157,
@@ -200,6 +201,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,52222.0,Python3,1779341541582,7176104,yanruo,CN,,
 100.0,52108.0,Java,1598367504578,414278,oobException,FR,4595241889335,
 100.0,52099.0,Python3,1649945037219,4807984,fatizh,RU,,
+100.0,51929.0,C++,1793144513623,1069589,Mighty-Professional,CA,124875026117121,
 100.0,51884.0,Python3,1727606625671,6297089,,RU,,
 100.0,51862.0,C#,1750653319545,6488959,vVladEr,RU,,
 100.0,51426.0,Rust,1644993752653,1003777,DanXX09,DE,4753222863905,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 0.0,470.0,C#,1701944498785,5849380,,IR,,
 0.0,470.0,Python3,1704824089088,5857937,daskiba,ES,,
 0.0,470.0,Python3,1706745848364,4472808,ttsss,US,,
-0.0,470.0,Java,1707972254602,5140087,Paul_2,CA,,
-0.0,470.0,Python3,1710391946803,5801810,SilverKellvin,VN,161965704532671,

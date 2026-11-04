@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4275|time=2026-11-03T11:26:09
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=4275|time=2026-11-04T11:40:30
 100.0,58.0,Javascript,1791217178773,1193679,Icebox,DE,169325724689360,
 100.0,58.0,Javascript,1791395193413,334009,abouvier,FR,4681436111242,
 100.0,58.0,Javascript,1793554383374,4618693,cedricdd,FR,85418008807758,
@@ -311,6 +311,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,63.0,Javascript,1761133915447,5994771,LeCarbonator,CH,120522344480137,
 100.0,63.0,Javascript,1785323693009,557990,Wazemo,PL,1724224108740,
 100.0,63.0,Javascript,1792497460923,6172043,PetyFloyd,SK,126527665690517,
+100.0,63.0,Javascript,1793727332519,484004,aCat,PL,4210501575817,
 100.0,64.0,Javascript,1459435202534,879321,S7ven,FR,3901150663189,
 100.0,64.0,Javascript,1462015993664,1199533,russellJones,GB,3623323422913,
 100.0,64.0,Javascript,1465717816525,805067,Magus,FR,24623991925371,
@@ -493,7 +494,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,66.0,Javascript,1719502474635,2147014,ArthurPilate,FR,,
 100.0,66.0,Javascript,1720645379944,1028993,Xanadrel,FR,2092929424433,
 100.0,66.0,Javascript,1753363642035,3970082,AkumaNemui,FR,50732246432133,
-100.0,66.0,Javascript,1793702339308,484004,aCat,PL,4210501575817,
 100.0,67.0,Javascript,1454105895630,199243,[CG]Nonofr,FR,1715936252943,
 100.0,67.0,Javascript,1454445591973,1195992,NickJammer,FR,,
 100.0,67.0,Javascript,1454629210603,1237668,lezeroq,DE,3317932257080,
@@ -851,7 +851,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,81.0,Javascript,1651162012875,266990,theoryst,FR,,
 100.0,81.0,Javascript,1658587284010,4756200,tueda,JP,,
 100.0,81.0,Javascript,1676035671414,5329938,jxtn,DE,,
-100.0,81.0,Javascript,1702416281718,5840880,Mglhs 🍓,FR,115503162417468,
+100.0,81.0,Javascript,1702416281718,5840880,Mglhs,FR,115503162417468,
 100.0,81.0,Javascript,1729388229416,5377138,mayan164,BE,99986908407422,
 100.0,81.0,Javascript,1754047091176,1511810,B1ts,LT,,
 100.0,82.0,Javascript,1472317143041,1122567,diziaq,RU,5650174828606,

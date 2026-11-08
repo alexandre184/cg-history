@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1000|time=2026-11-07T10:44:59
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1000|time=2026-11-08T10:49:29
 100.0,58.0,Python3,1790857540507,4475835,Validator_sucks.More.Edge.Random,FR,,
 100.0,61.0,Perl,1789264262102,5377868,YALOKGAR,UA,168519602319720,
 100.0,61.0,Perl,1793993564766,5267475,NukePwr,US,169398765982039,
@@ -256,6 +256,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,104.0,C++,1793128717537,7412284,LDdevv,BR,166930526577625,
 100.0,104.0,C++,1793306858756,4618693,cedricdd,FR,85418008807758,
 100.0,104.0,Haskell,1793807549807,3138357,QzL,FR,136030629285379,
+100.0,104.0,TypeScript,1794101059771,3470270,Tabaxi3K,US,,
 100.0,105.0,Ruby,1688631750667,1566335,BeardedWhale,SE,36571449875674,
 100.0,105.0,Python3,1725098171231,155774,dwarfie,FR,17785582865119,
 100.0,105.0,Bash,1726155196622,973040,papyjo,FR,15696776172839,
@@ -828,7 +829,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,139.0,Python3,1776074238862,7069310,rc_D_Idaho,BE,162643488835799,
 100.0,139.0,PHP,1779117780745,2874091,5DN1L,GB,170152964117686,
 100.0,139.0,Python3,1789549842635,1482988,Shinedday,FR,126154026052641,
-100.0,139.0,Python3,1794045589106,3526150,Miek93,NO,170428022328753,
+100.0,139.0,Python3,1794045589106,3526150,Miek93,SE,170428022328753,
 100.0,140.0,Python3,1682328690703,2490008,ebicochineal,JP,43936521576530,
 100.0,140.0,Python3,1694516142862,172938,kuzmaka,UA,1842478040420,
 100.0,140.0,Javascript,1694722792250,2971594,BaptisteGasser,CA,69895205419431,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,149.0,Javascript,1718036194870,6096083,Spoob,RS,,
 100.0,149.0,Python3,1720189597507,6168615,Barthelus,FR,,
 100.0,149.0,Python3,1730414490712,4667415,MacGyver1618,FI,75539225666461,
-100.0,149.0,Python3,1738856700542,4581215,exokortex,AT,,

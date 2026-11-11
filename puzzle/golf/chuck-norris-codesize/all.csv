@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1000|time=2026-11-10T11:54:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=1000|time=2026-11-11T11:30:35
 100.0,64.0,Bash,1709412717232,3380184,chouch,FR,,
 100.0,64.0,Bash,1785380476861,6341807,sffsefsdfaf,JP,132500742075587,
 100.0,65.0,Perl,1700968265634,1537792,AsaiYusuke,US,41785380851985,
@@ -545,6 +545,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,101.0,Javascript,1793729827974,484004,aCat,PL,4210501575817,
 100.0,101.0,C++,1793783787331,3235897,Zylo,PL,25779784253696,
 100.0,101.0,C++,1794176210290,3305510,TBali,HU,163060222470260,
+100.0,101.0,Javascript,1794317495412,5150000,meeter,FR,137315342692600,
 100.0,102.0,Javascript,1553297899496,403748,[CG]SaiksyApo,FR,73884622868350,
 100.0,102.0,Python3,1560800228115,1702117,nullie,RU,,
 100.0,102.0,Ruby,1565115541806,1569823,Niako,FR,11911528647474,
@@ -730,6 +731,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,105.0,Javascript,1792149823491,557990,Wazemo,PL,1724224108740,
 100.0,105.0,TypeScript,1792211081600,6172043,PetyFloyd,SK,126527665690517,
 100.0,105.0,D,1792783554257,3473364,Alexdelia,FR,33712622134048,
+100.0,105.0,Python3,1794317534558,5150000,meeter,FR,137315342692600,
 100.0,106.0,Javascript,1553166258167,3230794,tutubalin,RU,25714480415254,
 100.0,106.0,Python3,1575896500363,3393198,Turpa,RU,30488682090804,
 100.0,106.0,Ruby,1576496658177,962569,[K]Gabor,HU,1919640900304,
@@ -997,5 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,112.0,Ruby,1574116872606,3197648,Uiniel,DE,78608620596184,
 100.0,112.0,Python3,1576254090807,1753072,MrOne,DE,9881162469490,
 100.0,112.0,Ruby,1584324969543,3714012,Cyphomax,GP,,
-100.0,112.0,Python3,1586526054284,1810014,Pentaguy,FR,10685225431015,
-100.0,112.0,Python3,1588081363353,2719604,vpoulailleau,FR,43338781560535,

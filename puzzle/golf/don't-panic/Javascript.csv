@@ -1,5 +1,6 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2120|time=2026-11-10T11:54:24
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2120|time=2026-11-11T11:30:35
 100.0,64.0,Javascript,1790978436805,1193679,Icebox,DE,169325724689360,
+100.0,64.0,Javascript,1794335156179,4618693,cedricdd,FR,85418008807758,
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,MartinQc,CA,1761380964089,
 100.0,70.0,Javascript,1627600247434,155774,dwarfie,FR,17785582865119,
@@ -19,7 +20,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,86.0,Javascript,1643913577128,3845610,pardouin,FR,60364063762936,
 100.0,87.0,Javascript,1433315481000,557990,Wazemo,PL,1724224108740,
 100.0,87.0,Javascript,1794295916707,4438505,Eric_[EGU],FR,158681623409347,
-100.0,90.0,Javascript,1785343469064,4618693,cedricdd,FR,85418008807758,
 100.0,92.0,Javascript,1793381042301,6900188,Punio,PL,170310621547435,
 100.0,93.0,Javascript,1447362092238,1039809,Azziliz,FR,2174385385699,
 100.0,95.0,Javascript,1554016837378,1845617,Shingy,AU,26010702723839,
@@ -288,6 +288,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,145.0,Javascript,1644369595627,1132126,BobySait,FR,70936663668585,
 100.0,145.0,Javascript,1662743692556,5024020,natthaphon,TH,88701760307123,
 100.0,145.0,Javascript,1686616175853,3502478,tachan,JP,,
+100.0,145.0,Javascript,1794396747761,1545337,Tempestas_Ludi,NL,6079432482335,
 100.0,146.0,Javascript,1435012107769,944576,Desmononox,NL,,
 100.0,146.0,Javascript,1458860083417,1158948,Prowler,DE,41721263222935,
 100.0,146.0,Javascript,1471172042349,476478,Silver,US,,
@@ -764,7 +765,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,190.0,Javascript,1746793655417,6613269,kosynus,FR,143644783736899,
 100.0,190.0,Javascript,1754814328287,2063592,Gbaud,FR,44607323321167,
 100.0,190.0,Javascript,1777050915978,199887,Sanpas,FR,130219488482419,
-100.0,190.0,Javascript,1793872768618,1545337,Tempestas_Ludi,NL,6079432482335,
 100.0,191.0,Javascript,1444527477584,348552,Paradox,CA,16629535987834,
 100.0,191.0,Javascript,1447442517750,1021391,MkWTF,UG,2707897891356,
 100.0,191.0,Javascript,1470609336268,1495879,idspispopd,CH,124879223074423,

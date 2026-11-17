@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=60|time=2026-11-16T12:09:49
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=63|time=2026-11-17T12:34:12
 100.0,70.0,Scala,1703452500696,2445835,..--..,RU,,
 100.0,70.0,Scala,1785579668304,6172043,PetyFloyd,SK,126527665690517,
 100.0,71.0,Scala,1686318056858,2454307,Nugsie,GB,36460369808118,
@@ -26,6 +26,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,112.0,Scala,1719242024700,6132028,NicknamedTwice,GB,136778820182751,
 100.0,112.0,Scala,1727349978956,6221080,AdamTrevis,FR,129067106760337,
 100.0,114.0,Scala,1745292715449,3680454,Walidg,FR,,
+100.0,114.0,Scala,1794910186557,1725933,Ongoras,PL,10997814269466,
 100.0,116.0,Scala,1786212929975,1527403,Di_Masta,BG,5689020242575,
 100.0,122.0,Scala,1755618186785,5911640,Luxtos,CH,146535329988051,
 100.0,126.0,Scala,1726946793813,5785444,Anastaszor,FR,114174227258262,
@@ -41,6 +42,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,139.0,Scala,1688066996850,5429773,Diabetos,FR,102118582822399,
 100.0,143.0,Scala,1685099147017,1588583,dANNs,GB,9401676737311,
 100.0,147.0,Scala,1684775614592,1664043,GloboGamer,ES,85826389244637,
+100.0,147.0,Scala,1794873319744,5166681,YoussefIT,MA,111545822850267,
 100.0,149.0,Scala,1695314984787,4471038,nguyen.lam,FR,115730569738380,
 100.0,150.0,Scala,1684066546904,5428098,Elikyyu,FR,103793622779702,
 100.0,150.0,Scala,1793202679784,5066309,fabianoliver.at,AT,158442828138046,
@@ -59,3 +61,4 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,900.0,Scala,1745195059720,5541075,abdelmathin,FR,118130566868021,
 100.0,917.0,Scala,1746970108124,6635347,,FR,,
 100.0,922.0,Scala,1737762675367,5889565,Gladwell,IE,138621329790424,
+0.0,300.0,Scala,1794842132380,6346056,AbdelhakimBaalla,MA,170728923098109,

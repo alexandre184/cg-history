@@ -1,4 +1,4 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=754|time=2026-11-20T12:17:15
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=754|time=2026-11-21T11:52:31
 100.0,51.0,Javascript,1790826170219,1193679,Icebox,DE,169325724689360,
 100.0,52.0,Javascript,1792410068415,154806,piwai,FR,1956863959967,
 100.0,52.0,Javascript,1793448817024,6900188,Punio,PL,170310621547435,
@@ -27,6 +27,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,58.0,Javascript,1755896859047,1677918,CA,FR,8341569165435,
 100.0,58.0,Javascript,1792587412152,3473364,Alexdelia,FR,33712622134048,
 100.0,58.0,Javascript,1795004956060,1404934,tarriel,AU,168862123280873,
+100.0,58.0,Javascript,1795253955571,6172043,PetyFloyd,SK,126527665690517,
 100.0,59.0,Javascript,1680892589262,2288263,dbdr,UA,43448306132121,
 100.0,59.0,Javascript,1699386855516,2874091,5DN1L,GB,170152964117686,
 100.0,59.0,Javascript,1718161744766,6096083,Spoob,RS,,
@@ -34,7 +35,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,59.0,Javascript,1753446649680,6097941,42alex42,LU,124826909634015,
 100.0,59.0,Javascript,1753729482796,2924895,trictrac,FR,23056996012330,
 100.0,59.0,Javascript,1764195907473,5365556,kanelugodeu,FR,,
-100.0,59.0,Javascript,1782452295334,6172043,PetyFloyd,SK,126527665690517,
 100.0,59.0,Javascript,1785521981153,2050195,eklore,FR,16153418043649,
 100.0,59.0,Javascript,1791736416614,1071140,BeberLeNewbie,FR,9528729029244,
 100.0,59.0,Javascript,1793727711441,484004,aCat,PL,4210501575817,
@@ -629,8 +629,8 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,781.0,Javascript,1680168570013,5320098,XSpectrum,BJ,138411004387094,
 100.0,781.0,Javascript,1705152337120,5910732,falloutgreck,UA,,
 100.0,782.0,Javascript,1724138299226,3278261,alexeysinko,RU,26208568157922,
-100.0,783.0,Javascript,1680168760020,5301328,,FR,,
 100.0,783.0,Javascript,1680168760020,5411706,,HU,,
+100.0,783.0,Javascript,1680168760020,5301328,,FR,,
 100.0,783.0,Javascript,1752767521014,6743987,sarahhhhhhh,US,,
 100.0,784.0,Javascript,1680168710003,5400664,Liannah,FR,103830584112864,
 100.0,785.0,Javascript,1680168590005,5378589,BerLin_Mq,MA,,

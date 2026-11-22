@@ -1,6 +1,7 @@
-score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2123|time=2026-11-21T11:52:31
+score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,codingamer.countryId,codingamer.avatar,#golf|count=2125|time=2026-11-22T12:04:48
 100.0,64.0,Javascript,1790978436805,1193679,Icebox,DE,169325724689360,
 100.0,64.0,Javascript,1794335156179,4618693,cedricdd,FR,85418008807758,
+100.0,69.0,Javascript,1795291412388,3235897,Zylo,PL,25779784253696,
 100.0,70.0,Javascript,1435745875072,154372,Plopx,FR,7959085736890,
 100.0,70.0,Javascript,1435764606787,371603,MartinQc,CA,1761380964089,
 100.0,70.0,Javascript,1627600247434,155774,dwarfie,FR,17785582865119,
@@ -25,7 +26,6 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,95.0,Javascript,1554016837378,1845617,Shingy,AU,26010702723839,
 100.0,95.0,Javascript,1635420667531,1020626,PiterYeh,IT,4411407433686,
 100.0,96.0,Javascript,1692011430356,2928146,LolCat,MU,22538133010433,
-100.0,96.0,Javascript,1786623206775,3235897,Zylo,PL,25779784253696,
 100.0,97.0,Javascript,1438581815173,574656,dmpage,US,1759291406309,
 100.0,98.0,Javascript,1724249828930,2874091,5DN1L,GB,170152964117686,
 100.0,98.0,Javascript,1746625903194,3918583,mikmak,FR,48134583112917,
@@ -791,6 +791,7 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,192.0,Javascript,1715020494408,4818365,abouramd,MA,135136164061267,
 100.0,192.0,Javascript,1733475338042,1212414,guardiopix,FR,129409487483899,
 100.0,192.0,Javascript,1771977660358,2515515,Bobliu,CA,158454962842341,
+100.0,192.0,Javascript,1795267870660,5602306,VojtechBrezina,CZ,,
 100.0,193.0,Javascript,1490306745373,1061482,Ph470u,FR,64062648057012,
 100.0,193.0,Javascript,1510797957029,1675720,AxFab,FR,168194041087329,
 100.0,193.0,Javascript,1513136628481,1854246,Counterbalance,NL,26367790351026,
@@ -998,4 +999,3 @@ score,criteriaScore,programmingLanguage,creationTime,codingamer.userId,pseudo,co
 100.0,204.0,Javascript,1664545904482,5096273,_someone,DE,,
 100.0,205.0,Javascript,1430835454000,898773,dngo,FR,,
 100.0,205.0,Javascript,1450347512371,999990,gus222,FR,,
-100.0,205.0,Javascript,1467709661334,1235239,Dhorv,FR,3286352793301,
